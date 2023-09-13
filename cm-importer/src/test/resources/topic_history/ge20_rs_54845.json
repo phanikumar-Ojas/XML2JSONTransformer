@@ -1,0 +1,67 @@
+{
+	"entry": {
+		"title": "Mock Title Topic History",
+		"tags": [
+			"History/Event",
+			"World History",
+			"Royalty, Rulers, Nobility",
+			"Government, Politics",
+			"Social Issues, Reform",
+			"Asia",
+			"mock brstCategory",
+			"China",
+			"Taiping Rebellion",
+			"Japan",
+			"Taiwan",
+			"Germany",
+			"France",
+			"Russia",
+			"Yan Fu",
+			"Adam Smith",
+			"John Stuart Mill",
+			"Kang Youwei",
+			"Sun Yat-sen",
+			"Sino-Japanese War",
+			"Boxer Rebellion",
+			"Qing Dynasty",
+			"Zhang Zhidong",
+			"constitutional monarchy",
+			"the fall",
+			"monarchy",
+			"intermarriage",
+			"chosen",
+			"republic"
+		],
+		"category": [
+			"Royalty, Rulers, Nobility",
+			"Government, Politics",
+			"Social Issues, Reform"
+		],
+		"date": "1901-1911",
+		"location": "Beijing, China",
+		"quotes": null,
+		"secondary_category": [
+			"Emperors, Caesars, Khans",
+			"Empires, Dynasties",
+			"Politicians, Diplomats",
+			"Democracy",
+			"Civil Rights, Minority Rights, Minorities"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": [
+			"Asian History"
+		],
+		"geographical_category": [
+			"Asia"
+		],
+		"sub_geographical_category": [
+			"China"
+		],
+		"geo_keyword": null,
+		"also_known_as": null,
+		"defining_moment": null
+	}
+}

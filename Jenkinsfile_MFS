@@ -1,0 +1,89 @@
+properties([parameters([[$class: 'ChoiceParameter', choiceType: 'PT_SINGLE_SELECT', filterLength: 1, filterable: false, name: 'branch', randomName: 'choice-parameter-1128815034129174', script: [$class: 'GroovyScript', fallbackScript: [classpath: [], oldScript: '', sandbox: false, script: ''], script: [classpath: [], oldScript: '', sandbox: false, script: '''def gettags = ("git ls-remote -t -h git@github.com:EBSCOIS/platform.shared.cms-import.git").execute()
+       return gettags.text.readLines().collect { 
+       it.split()[1].replaceAll(\'refs/heads/\', \'\').replaceAll(\'refs/tags/\', \'\').replaceAll("\\\\^\\\\{\\\\}", \'\')
+}''']]], [$class: 'ChoiceParameter', choiceType: 'PT_SINGLE_SELECT', filterLength: 1, filterable: true, name: 'projectid', randomName: 'choice-parameter-1128815046732912', script: [$class: 'GroovyScript', fallbackScript: [classpath: [], oldScript: '', sandbox: false, script: ''], script: [classpath: [], oldScript: '', sandbox: false, script: '''import jenkins.model.*
+import groovy.json.JsonSlurper
+
+instance = Jenkins.getInstance()
+globalNodeProperties = instance.getGlobalNodeProperties()
+
+globalNodeProperties.each {
+  envVars = it.getEnvVars()
+    API = envVars.get(\'API_KEY\');
+    TOKEN = envVars.get(\'MANAGEMENT_TOKEN\');
+}
+
+HttpURLConnection urlc = (HttpURLConnection) (new URL("https://api.contentstack.io/v3/content_types/project/entries").openConnection());
+urlc.setRequestProperty("api_key", API.toString());
+urlc.setRequestProperty("authorization", TOKEN.toString());
+urlc.connect();
+def projects = urlc.getInputStream().text
+//println(projects)
+def slurper = new JsonSlurper()
+def result = slurper.parseText(projects)
+return result.entries.collect{[(it.title) , it.uid]}.plus(0, "[ALL]")''']]]])])
+
+if (projectid != '[ALL]') { 
+    id = projectid.replaceAll("\\[|\\]", "").split(',')[1]
+}
+else {
+    id = projectid.replaceAll("\\[|\\]", "")
+}
+
+pipeline {
+   environment {
+    API_KEY = credentials('api_key')
+    MANAGEMENT_TOKEN = credentials('management_token')
+    MFS_URL = credentials('mfs_url')
+   }
+   agent {label 'Slave1_Win'}
+   
+   stages {
+    stage('Git checkout') { // for display purposes
+        steps {
+            git url: 'git@github.com:EBSCOIS/platform.shared.cms-import.git', branch: "$branch"
+        }
+    }
+    
+    
+    stage('Build cm-exporter tool') {
+
+        steps {
+            script {
+            sh 'bash mvnw clean package -pl cm-exporter -am'
+            }
+        } 
+    }
+    
+    stage('Create properties file') {
+
+        steps {
+            script {
+            sh '''
+            cat > C:/app/java/cms.properties << EOF
+MFS_CONNECTION_URL=$MFS_URL
+CONTENTSTACK_API_KEY=$API_KEY
+CONTENTSTACK_MANAGEMENT_TOKEN=$MANAGEMENT_TOKEN
+EOF
+            '''
+            }
+        } 
+    }
+    
+    stage ('Perform MFS sync') {
+
+        steps {
+        script {
+        sh "cat C:/app/java/cms.properties; cd cm-exporter/target; dir; java -jar mfssync.jar -p $id"
+        }   
+      }
+    }
+ }
+ 
+    post {
+        always {
+        cleanWs()
+    } 
+  }
+
+}

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_lit</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">amf_sp_ency_lit</book-id>
+    <book-id pub-id-type="eis-mid">GY4P</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Literature</book-title>
+      <alt-title alt-title-type="mid">GY4P</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>31</day>
+      <month>December</month>
+      <year>2016</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="amf_sp_ency_lit.10.3331.263678"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">amf_sp_ency_lit_263678</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Criticism</subject>
+          </subj-group>
+          <subj-group subj-group-type="genre">
+            <subject>Long fiction</subject>
+            <subj-group>
+              <subject>Long fiction</subject>
+              <subject>Didactic literature</subject>
+              <subject>Novel</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="theme">
+            <subject>Environment or environmental health</subject>
+            <subject>Industrialization</subject>
+            <subject>Nature</subject>
+            <subject>Politics</subject>
+            <subject>Polygamy or bigamy</subject>
+            <subject>Southwest</subject>
+          </subj-group>
+          <subj-group subj-group-type="geo-lit">
+            <subject>North America</subject>
+            <subj-group>
+              <subject>North America</subject>
+              <subject>United States</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geo-keyword">
+            <subject>Southwest (U.S.)</subject>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>The Monkey Wrench Gang by Edward Abbey</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Irene Struthers</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Rush</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN0000500"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>The Monkey Wrench Gang is a rollicking adventure novel with a serious political message. It covers the adventures of four disparate characters who band together to disable power plants and their supporting equipment, which they believe despoil the landscape of the desert. The book is credited with having inspired the formation of the ecological protest group Earth First! A prologue is followed by four chapters introducing the four monkey-wrenchers, then twenty-six chapters detailing their adventures, and finally an epilogue.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>A summary and analysis of <italic>The Monkey Wrench Gang</italic>.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>0000500-Edward Abbey</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Root AN</meta-name>
+            <meta-value>0011000322</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>TopMatter</meta-name>
+            <meta-value>T101005600</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>XRef</meta-name>
+            <meta-value>W101005600</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/amf_13220011000322</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value>119622996</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>1094</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <bold>
+              <sc>First published:</sc>
+            </bold> 1975</p>
+          <p>
+            <bold>
+              <sc>Type of plot:</sc>
+            </bold> Didactic adventure</p>
+          <p>
+            <bold>
+              <sc>Time of work:</sc>
+            </bold> The 1970’s</p>
+          <p>
+            <bold>
+              <sc>Locale:</sc>
+            </bold> The American Southwest</p>
+        </sec>
+        <sec sec-type="keyterm" indexed="true">
+          <title>Principal Characters:</title>
+          <def-list>
+            <def-item>
+              <term>
+                <italic>Doc Sarvis</italic>
+              </term>
+              <x xml:space="preserve">, </x>
+              <def>
+                <p>a well-to-do, middle-aged Albuquerque physician</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <italic>Bonnie Abzug</italic>
+              </term>
+              <x xml:space="preserve">, </x>
+              <def>
+                <p>Sarvis’s twenty-eight-year-old receptionist</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <italic>George Washington Hayduke</italic>
+              </term>
+              <x xml:space="preserve">, </x>
+              <def>
+                <p>a troubled Vietnam veteran</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <italic>Seldom Seen Smith</italic>
+              </term>
+              <x xml:space="preserve">, </x>
+              <def>
+                <p>a polygamous river-running guide</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <italic>J. Dudley Love</italic>
+              </term>
+              <x xml:space="preserve">, </x>
+              <def>
+                <p>a wealthy bishop of the Church of Latter-day Saints</p>
+              </def>
+            </def-item>
+          </def-list>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>The Novel</title>
+          <p>
+            <italic>The Monkey Wrench Gang</italic>
+            <index-term role="workstitle">
+              <primary>Monkey Wrench Gang, The</primary>
+            </index-term> is a rollicking adventure novel with a serious political message. It covers the adventures of four disparate characters who band together to disable power plants and their supporting equipment, which they believe despoil the landscape of the desert. The book is credited with having inspired the formation of the ecological protest group Earth First! A prologue is followed by four chapters introducing the four monkey-wrenchers, then twenty-six chapters detailing their adventures, and finally an epilogue.</p>
+          <p>In “Prolog: The Aftermath,” a little-noticed figure sets a charge that destroys a bridge between Arizona and Utah as it is being dedicated. The next target, a safety officer asserts, is Glen Canyon Dam. Chapter 1 introduces Doc Sarvis and Bonnie Abzug as they travel along the desert highways of New Mexico, destroying billboards that they consider to have socially irresponsible messages. Doc and Bonnie meet up with Seldom Seen Smith and George Washington Hayduke, who is working for Smith, on a river-rafting trip. After Bonnie and Smith’s other two female clients retire to their sleeping bags for the night, the three men stay up drinking heavily and discover a shared antipathy toward the power plants and river-choking dams that are covering the desert.</p>
+          <p>Bonnie and the men soon embark on a daring and well-planned series of raids, destroying bridges and disabling bulldozers and other heavy equipment, backed by Sarvis’s money, Hayduke’s skills in guerrilla tactics from his days in Vietnam, and Smith’s intimate knowledge of the landscape of the desert. Bonnie is an enthusiastic participant in their commando maneuvers. To deflect attention from themselves, they leave graffiti and other litter that will cause authorities to blame the vandalism on Native Americans, and Hayduke often signs the name “Rudolph the Red.”</p>
+          <p>After one of their early raids, the gang runs into the San Juan County Search and Rescue Team. One of the team’s members, Bishop Love, knows Smith, who was born into the Church of Latter-day Saints but now has no connection with the church beyond practicing the banned custom of polygamy. Although Love cannot connect Smith with the crime the squad is investigating, he is suspicious of Smith and his odd band of compatriots.</p>
+          <p>As the gang’s actions become more daring and intense, their chance of discovery increases. Nevertheless, they repeatedly escape capture in dramatic fashion, and each success spurs them to dreams of greater targets, with Glen Canyon Dam as their ultimate target. Eventually, though, the four are cornered in a remote desert area. Pursued by helicopters, unable to find water or get back to the supplies they had cached, they seem to be in a hopeless situation. Doc is becoming delusional, and Bonnie is near collapse, when a voice through a bullhorn implores Doc to come to the aid of Bishop Love, who seems to be having a heart attack or stroke. Doc leaves, followed by Bonnie, and both are arrested. Hayduke, injured and famished, tries to make a raid on their pursuers’ camp during a thunderstorm, but a barking dog alerts the camp, and Hayduke is shot and presumably killed. Smith tries to hike back to one of his three wives’ houses, but is he captured after stealing a package of hamburger from a tourist’s ice chest.</p>
+          <p>Doc hires two well-connected lawyers, and the three surviving conspirators receive suspended sentences and probation after Doc begins studying to convert to Mormonism. Two of Smith’s wives divorce him; he remains contentedly with third wife, Susan, running his river-rafting business. Doc and Bonnie marry, settle near Seldom Seen and Susan, and start a family. In the epilogue, the two couples are playing cards with their probation officer when Hayduke appears on their doorstep. It looks as if the old gang will be back in business soon.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>The Characters</title>
+          <p>The three men in the gang are a diverse lot, apparently incorporating many aspects of the author’s character. Doc Sarvis is an overweight, middle-aged physician whose money finances the group’s activities. Although it is Doc who first proposes the idea of a serious assault on Glen Canyon Dam, he is also adamant that the group not injure or kill people but restrict themselves to the destruction of inanimate objects. He is motivated, in part, by years of watching people sick and dying from diseases related to pollution.</p>
+          <p>George Hayduke is the most broadly drawn character of the novel. The Vietnam veteran is a foul-mouthed alcoholic anarchist, skilled in survival tactics and guerrilla sabotage, the strongest of the group and the least concerned about the possibility of hurting people.</p>
+          <p>Seldom Seen Smith received his nickname from the fact that he has three wives in different Utah towns; and between visiting his three families and his absences related to his business guiding rafting trips, he is seldom seen by any of them. Smith is a good-hearted romantic who mourns the loss of the landscape with which he grew up, focusing his particular anger on Glen Canyon Dam, which buried trees, canyons, and towns when it was built to create Lake Powell. Symbolic of his protest, his business card lists Hite as the town in which he is located, despite the fact that Hite was buried in the creation of Lake Powell.</p>
+          <p>Bonnie Abzug, the lone female character of consequence, is the least well-developed major character. A semi-hippie living in a geodesic dome, Bonnie is Doc’s employee, girlfriend, support system, and co-conspirator in destroying billboards. Her motivations are sketchy, and it is tempting to conclude that her main function in the novel is to provide a counterpoint to the testosterone-fueled action. Although she participates to the limits of her strength, she is mainly a focal point for each of the men’s interest. Somewhat improbably, she enters into a passionate if antagonistic sexual relationship with Hayduke, but she leaves with Doc during the book’s climax, ultimately settling down with him in the small town in which is he required to practice medicine for several years as part of his probation.</p>
+          <p>Bishop Love represents the extreme opposite of the gang’s qualities, mixing strict Mormon tenants with a shrewd, capitalistic business sense and conservative political ambitions. His relentless pursuit of the gang causes its downfall, but his seizure provides the opportunity for their redemption. When his brother Sam calls for Doc to help the bishop, Doc’s and Bonnie’s willingness to come forth, despite the likelihood of their being arrested, weighs heavily in their defense and in the light sentences that they and Smith receive.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Critical Context</title>
+          <p>
+            <italic>The Monkey Wrench Gang</italic> is the most popular and best known of Edward Abbey’s novels and essays. In the two decades after its publication, it sold more than half a million copies. Abbey’s previous book, <italic>Desert Solitaire</italic> (1968), was a collection of essays lamenting the insults to nature he had witnessed while working in the desert, and <italic>The Monkey Wrench Gang</italic> is its fictionalized follow-up, in which he fantasizes revenge on the despoilers of the desert. In truth, the book is not quite fantasy: Abbey has admitted to toppling billboards and disabling heavy machinery, and at least two of his characters—Seldom Seen Smith and George Hayduke—are strongly based on friends of Abbey. Although Abbey is sometimes referred to as a twentieth century Henry David Thoreau for his devotion to the wilderness, neither the author nor his monkeywrenchers are icons of the simple life, with their fast cars and habit of tossing beer cans onto the highway—an act Abbey justifies by observing that highways are already a desecration and do not deserve better treatment.</p>
+          <p>
+            <italic>The Monkey Wrench Gang</italic> has become a virtual totem for the radical ecologist movement. The Earth First! group has credited Abbey as an inspiration, and he has openly advocated subversive methods in defense of the environment. Yet the book does not present its characters as victorious; they are captured and subdued, although waiting to rise again. In fact, his characters’ actions cause the establishment to intensify its efforts to proceed with its subjugation of the wilderness and to direct its power to eviscerating the movement. At the end of the book, the four monkey wrenchers are reunited, presumably to fight again. However, there is little reason to believe that they will be any more successful in the long run than they were before, despite the optimism of the prologue.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Erisman, Fred, and Richard W. Etulain, eds. <italic>Fifty Western Writers: A Bio-Bibliographical Sourcebook</italic>. Westport, Conn.: Greenwood Press, 1982. The chapter on Abbey includes a brief biography, a discussion of his major themes, a brief survey of criticism of his work, a bibliography of his works, and a listing of other sources of information.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Hepworth, James, and Gregory McNamee, eds. <italic>Resist Much, Obey Little: Some Notes on Edward Abbey</italic>. Salt Lake City: Dream Garden Press, 1985. A slim volume that discusses Abbey’s politics and vision, presents previously published interviews with the author, and offers personal reflections on Abbey as a person and a writer.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">McClintock, James L. “Edward Abbey’s  Antidotes to Despair’.” <italic>Critique: Studies in Contemporary Fiction</italic> (Fall, 1989): 41-54. A scholarly discussion of Abbey’s work, particularly in comparison to the works of Jack London, Robinson Jeffers, and B. Traven.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ronald, Ann. <italic>The New West of Edward Abbey</italic>. Albuquerque: University of New Mexico Press, 1982. An analysis of Abbey’s writings up to 1980. Chapter 9 discusses <italic>The Monkey Wrench Gang</italic>.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">The Western Literature Association, sponsors. <italic>A Literary History of the American West</italic>. Fort Worth: Texas Christian University Press, 1987. This comprehensive survey of Western literature from the oral tradition to the 1980’s includes a brief chapter about Abbey as well as references to his work in several other sections.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>The Monkey Wrench Gang</article-title>
+                <italic>Masterplots II: American Fiction Series, Revised Edition</italic>
+                <year>2000</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

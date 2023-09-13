@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">musc_sp_ency_bio</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>31</day>
+         <month>December</month>
+         <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>15</day>
+         <month>October</month>
+         <year>2015</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="musc_sp_ency_bio.10.3331.245124"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">musc_sp_ency_bio_245124</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>20th &amp; 21st Century European History</subject>
+                     <subject>British History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Arts</subject>
+                  <subj-group>
+                     <subject>Artists, Artisans, the Arts</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Popular Culture, Trends, Fads</subject>
+                  <subj-group>
+                     <subject>Popular Culture, Trends, Fads</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Europe</subject>
+                  <subj-group>
+                     <subject>Europe</subject>
+                     <subject>United Kingdom</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geo-keyword">
+                  <subject>England</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Paul McCartney</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Jeffry</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Jensen</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3173240"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>
+                     
+                        English rock singer, songwriter, bassist, and guitarist
+                     
+                  . James Paul McCartney was born on June 18, 1942, in Liverpool, England, to James and Mary McCartney. A second son, Michael, was born in 1944. His father worked as a cotton salesman, and his mother was a nurse. McCartney learned to enjoy music at an early age, and he taught himself to play piano and guitar. An avid musician, his father played piano in a local Liverpool band. Tragically, McCartney’s mother died of breast cancer in 1956. With the help of the extended McCartney family, his father did his best to keep his young sons cared for and loved.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>As a member of the Beatles, McCartney wrote rock songs that were intelligent, provocative, and worthy of critical analysis. With the help of producer George Martin, McCartney and the Beatles expanded the boundaries of rock music, experimenting with studio technology, classical instrumentation, and non-Western musical forms.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3173240-Paul McCartney</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/musc_1340</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>528</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>
+                     
+                        English rock singer, songwriter, bassist, and guitarist
+                     
+                  </p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN3173240" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>June 18, 1942</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Liverpool, England</p>
+                  </list-item>
+               </list>
+               <p>
+                     <italic>As a member of the Beatles, McCartney wrote rock songs that were intelligent, provocative, and worthy of critical analysis. With the help of producer George Martin, McCartney and the Beatles expanded the boundaries of rock music, experimenting with studio technology, classical instrumentation, and non-Western musical forms.</italic>
+                  </p>
+               <p>
+                     <bold>
+                        <sc>Member of</sc>
+                     </bold> The Beatles; Wings</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Life</title>
+               <p>James Paul McCartney was born on June 18, 1942, in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323434"
+                                   xlink:type="simple">Liverpool, England</related-article>, to James and Mary McCartney. A second son, Michael, was born in 1944. His father worked as a cotton salesman, and his mother was a nurse. McCartney learned to enjoy music at an early age, and he taught himself to play piano and guitar. An avid musician, his father played piano in a local Liverpool band. Tragically, McCartney’s mother died of breast cancer in 1956. With the help of the extended McCartney family, his father did his best to keep his young sons cared for and loved. </p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Beatles Paul McCartney</title>
+                     <p>Paul McCartney and George Harrison, 1964.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89407167-113571.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By VARA (Beeld en Geluidwiki - Gallery: The Beatles) [CC BY-SA 3.0 nl (http://creativecommons.org/licenses/by-sa/3.0/nl/deed.en)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Paul McCartney live in Dublin</title>
+                     <p>Paul McCartney, 2010</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89407167-113572.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Fiona [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>On July 6, 1957, McCartney met John Lennon at St. Peter’s Parish Church, in the Woolton section of Liverpool, when Lennon’s band the Quarry Men were performing there. After discovering that they liked the same music, McCartney and Lennon quickly established a friendship. Lennon was impressed with McCartney’s ability to tune a guitar and to memorize the lyrics of several songs. Forming a group as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="90669724"
+                                   xlink:type="simple">the Beatles</related-article>, they played in Hamburg, Germany, in 1960, and at the Cavern Club in Liverpool in 1961. By 1963 the Beatles (comprising McCartney, Lennon, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89872105"
+                                   xlink:type="simple">George Harrison</related-article>, and Ringo Starr) were on their way to unprecedented success. By the end of the 1960s, the Beatles had changed the face of rock and popular music, although they were falling apart.</p>
+               <p>McCartney married Linda Eastman on March 12, 1969. With the breakup of the Beatles in 1970, McCartney continued as a solo artist. In 1971, Paul and Linda McCartney, Denny Seiwell, and Denny Laine formed the rock band Wings. As vegetarians, McCartney and his wife were strong supporters of animal rights. In 1996 they were honored with a special award by the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474357"
+                                   xlink:type="simple">People for the Ethical Treatment of Animals (PETA)</related-article> for their tireless work against cruelty to animals. Over the years, both of them were involved with charities and social causes. McCartney founded the Liverpool Institute for Performing Arts in the mid-1990s. In addition to music, he gained critical acclaim for his painting.</p>
+               <p>Shortly after McCartney married Linda, he legally adopted her daughter, Heather. The couple went on to have three children together—Mary, Stella, and James. Tragically, Linda McCartney died of breast cancer in 1998 at the age of fifty-six. He married Heather Mills in 2002. They had a child, Beatrice Miller, in 2003. After a highly contentious separation, the couple divorced in 2008. McCartney married Nancy Shevell in 2011.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Music</title>
+               <p>McCartney and John Lennon rightfully are considered one of greatest songwriting partnerships in the history of popular music. As a team, they constantly challenged each other. While they did not always write songs together, they would consult each other. Each became a sounding board for the other for many of their songs. In this creative environment, the pair wrote some of the most respected popular music of the twentieth century.</p>
+               <p>McCartney continued to be a popular recording artist after the breakup of the Beatles. According to the <italic>Guinness Book of World Records</italic>, McCartney is the most successful popular songwriter in the history of music. He has cowritten or written more than fifty Top 10 singles. Along with producing solo albums, McCartney has challenged himself by writing classical music.</p>
+               <p>
+                  <bold>Beatlemania and Beyond.</bold> By 1963 the Beatles had become the number-one group in England. With Brian Epstein as their manager, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="114325022"
+                                   xlink:type="simple">the Beatles launched their first US tour in 1964</related-article>. With such songs as “Love Me Do,” “Please Please Me” and “I Want to Hold Your Hand,” the Beatles placed repeatedly on the record charts. The group became even more popular with the release of Richard Lester’s film <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89402927"
+                                   xlink:type="simple">
+                     <italic>A Hard Day’s Night</italic>
+                  </related-article> in 1964. Over the next few years the Beatles would release such remarkable recordings as <italic>Rubber Soul</italic>, <italic>Revolver</italic>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89313869"
+                                   xlink:type="simple">
+                     <italic>Sgt. Pepper’s Lonely Hearts Club Band</italic>
+                  </related-article>, <italic>The Beatles</italic> (better known as <italic>The White Album</italic>), <italic>Abbey Road</italic>, and <italic>Let It Be</italic>. By the time the group disbanded, they had changed not only popular music but also popular culture.</p>
+               <p>
+                  <bold>A Hard Day’s Night.</bold> With this album, the Beatles reached the zenith of their early years. The songs written for this album by Lennon and McCartney showed significant growth. The album became the sound track for the film of the same name. Primarily written by McCartney, “Can’t Buy Me Love” went to number one in March 1964. Remarkably, on April 4, 1964, the Beatles had the top five singles on the Billboard charts, with “Can’t Buy Me Love” at number one, “Twist and Shout” at number two, “She Loves You” at number three, “I Want to Hold Your Hand” at number four, and “Please Please Me” at number five. In the film <italic>A Hard Day’s Night</italic>, the four lads from Liverpool came across as intelligent, charming, witty, and lovable, and their image struck a positive chord with millions of devoted fans.</p>
+               <p>
+                  <bold>“Yesterday.”</bold> McCartney stated that this tune came to him after waking up from a dream. The touching ballad was recorded with McCartney playing acoustic guitar and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="115298599"
+                                   xlink:type="simple">George Martin</related-article> employing a string quartet for background music. “Yesterday” has become one of the most recorded songs in the history of music, having been covered more than two thousand times. The song was included on the Beatles album <italic>Help!</italic>
+               </p>
+               <p>
+                  <bold>Revolver.</bold> For this 1966 album, the Beatles crafted more sophisticated songs and made innovative use of studio technology. Many critics consider this is their favorite Beatles album. Three memorable songs—“Eleanor Rigby,” “Here, There, and Everywhere,” and “Got to Get You into My Life”—were largely written by McCartney.</p>
+               <p>
+                  <bold>Sgt. Pepper’s Lonely Hearts Club Band.</bold> If the <italic>Revolver</italic> album showed how much the Beatles had matured as musicians since their days as the lovable “moptops,” this album shattered all expectations. Thanks to the efforts of Martin, the Beatles translated their ideas into a musical language that had not been heard before on a rock album. While the songwriting team still remained intact, it was McCartney who was becoming the stronger musical force. Of the thirteen tracks on the album, McCartney was the primary songwriter on eight of them, including the title song, “With a Little Help from My Friends,” “Getting Better,” “When I’m Sixty-Four,” and “Lovely Rita.” The album ends with the powerful song “A Day in the Life.” For this song, Lennon wrote the verse and the chorus, while McCartney was responsible for the bridge. <italic>Sgt. Pepper’s Lonely Hearts Club Band</italic> remains one of the most influential rock albums ever made.</p>
+               <p>
+                  <bold>Going Solo.</bold> After the breakup of the Beatles, McCartney sought security in family life. In 1970 he released the solo album  <italic>McCartney</italic>, which he recorded in his home studio. While the album was hugely popular—and especially the song “Maybe I’m Amazed”—critics were taken aback by its casual approach. McCartney produced the album and played all the instruments. The criticism stung, and he became defensive about his musical choices. The far more ambitious solo album <italic>Ram</italic> included his wife and three other musicians. Popular with the public, <italic>Ram</italic> included the Beatlesque “Uncle Albert/Admiral Halsey,” which became a number-one hit in America. Even with such potent songs as “Too Many People” and “Dear Boy,” <italic>Ram</italic> exhibited a relaxed style.</p>
+               <p>
+                  <bold>Wings.</bold> For his next creative venture, McCartney formed a new band, Wings. They released their first album, <italic>Wild Life</italic>, in late 1971. While this album was considered a failure, it included the touching ballad “Dear Friend,” which addresses the lost friendship between McCartney and Lennon. During the 1970s, Wings produced several popular albums. The 1973 album <italic>Band on the Run</italic> was a critical and commercial high point.</p>
+               <p>Although McCartney’s musical output since the breakup of the Beatles has been uneven, he never lost his ability to write striking songs. Some of the memorable songs of his solo years can be found on such albums as <italic>Tug of War</italic> (1982), <italic>Flowers in the Dirt</italic> (1989), <italic>Flaming Pie</italic> (1997), <italic>Chaos and Creation in the Backyard</italic> (2005), and <italic>Memory Almost Full</italic> (2007). During the 1990s, McCartney challenged himself by writing classical pieces. In 2007 his classical album <italic>Ecce Cor Meum</italic> won best album at the Classical Brit Awards.</p>
+               <p>
+                  <bold>Band on the Run.</bold> For this album, McCartney, his wife, and Denny Laine traveled to Lagos, Nigeria, to record. (The other members of Wings decided against continuing with the band.) While recording in Lagos was a harrowing experience, the resulting album became a commercial and a critical success. The album was well received, even by critics who previously had criticized McCartney for wasting his musical talents. Several songs on the album are outstanding examples of McCartney’s mastery of songcraft, including “Band on the Run,” “Jet,” “Helen Wheels,” “Let Me Roll It,” and “Nineteen Hundred and Eighty-Five.”</p>
+               <p>
+                  <bold>Memory Almost Full.</bold> The mature McCartney was in a profoundly meditative mood for this 2007 album. Ever the distinguished craftsman, he wrote some of his finest solo material for <italic>Memory Almost Full</italic>. Mortality on his mind, McCartney took stock of where he has been and what he values in life. Reminiscent of the song cycle found on <italic>Abbey Road</italic>, the album finishes with such haunting songs as “That Was Me,” “Feet in the Clouds,” “House of Wax,” and “The End of the End.” In 2013, he released his thirteenth solo studio album, <italic>New</italic>, which peaked at number three on the Billboard 200 chart and was well received by critics.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Musical Legacy</title>
+               <p>The Beatles were inducted into the Rock and Roll Hall of Fame in 1988, and McCartney was honored in 1999. He received a Lifetime Achievement Award from the Academy of Recording Arts and Sciences in 1990. In 1992 McCartney was awarded by Sweden the first Polar Music Prize, which has been called the Nobel Prize for music. For his “services to music,” he was knighted by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="90669614"
+                                   xlink:type="simple">Queen Elizabeth II</related-article> in 1996. On May 26, 2008, McCartney was awarded an honorary doctorate in music from Yale University, as the citation noted, for his “musical genius.” McCartney has played an integral part in shaping not only popular music but also popular culture. As a member of the Beatles and as a solo artist, he altered the musical landscape, proving that rock music is an art form worthy of respect and critical consideration.</p>
+            </sec>
+            <sec sec-type="keyterm" indexed="true">
+               <title>Principal Recordings</title>
+               <p>
+                  <sc>albums</sc> (solo): <italic>The Family Way</italic>, 1967 (with the George Martin Orchestra); <italic>McCartney</italic>, 1970; <italic>Ram</italic>, 1971 (with Linda McCartney); <italic>Thrillington</italic>, 1977 (instrumental version of his album <italic>Ram</italic>; released under the pseudonym Percy Thrillington); <italic>McCartney II</italic>, 1980; <italic>Tug of War</italic>, 1982; <italic>Pipes of Peace</italic>, 1983; <italic>Give My Regards to Broad Street</italic>, 1984; <italic>Press to Play</italic>, 1986; <italic>Flowers in the Dirt</italic>, 1989 (with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89404522"
+                                   xlink:type="simple">Elvis Costello</related-article>); <italic>CHOBA B CCCP</italic>, 1991; <italic>Liverpool Oratorio</italic>, 1991 (with Carol Davis); <italic>Off the Ground</italic>, 1993; <italic>Strawberries Oceans Ships Forest</italic>, 1994 (released under the pseudonym the Fireman); <italic>Flaming Pie</italic>, 1997; <italic>Standing Stone</italic>, 1997; <italic>Rushes</italic>, 1998 (released under the pseudonym the Fireman); <italic>Run Devil Run</italic>, 1999; <italic>Working Classical: Orchestral and Chamber Music by Paul McCartney</italic>, 1999 (with the London Symphony Orchestra and Loma Mar Quartet); <italic>Liverpool Sound Collage</italic>, 2000; <italic>Driving Rain</italic>, 2001; <italic>Chaos and Creation in the Backyard</italic>, 2005; <italic>Ecce Cor Meum</italic>, 2006 (<italic>Behold My Heart</italic>); <italic>Memory Almost Full</italic>, 2007; <italic>Electric Arguments</italic>, 2008 (released under the pseudonym the Fireman); <italic>Ocean's Kingdom</italic>, 2011; <italic>New</italic>, 2013.</p>
+               <p>
+                     <sc>albums</sc> (with the Beatles): <italic>Please Please Me</italic>, 1963; <italic>With the Beatles</italic>, 1963; <italic>Beatles for Sale</italic>, 1964; <italic>The Beatles’ Second Album</italic>, 1964; <italic>Beatles ’65</italic>, 1964; <italic>The Beatles’ Story</italic>, 1964; <italic>A Hard Day’s Night</italic>, 1964; <italic>Introducing the Beatles</italic>, 1964; <italic>Meet the Beatles</italic>, 1964; <italic>Something New</italic>, 1964; <italic>Beatles VI</italic>, 1965; <italic>Help!</italic>, 1965; <italic>Rubber Soul</italic>, 1965; <italic>Revolver</italic>, 1966; <italic>Yesterday…and Today</italic>, 1966; <italic>Magical Mystery Tour</italic>, 1967; <italic>Sgt. Pepper’s Lonely Hearts Club Band</italic>, 1967; <italic>The Beatles</italic>, 1968 (<italic>The White Album</italic>); <italic>Abbey Road</italic>, 1969; <italic>Yellow Submarine</italic>, 1969; <italic>Let It Be</italic>, 1970.</p>
+               <p>
+                     <sc>albums</sc> (with Wings): <italic>Wild Life</italic>, 1971; <italic>Band on the Run</italic>, 1973; <italic>Red Rose Speedway</italic>, 1973; <italic>Venus and Mars</italic>, 1975; <italic>Wings at the Speed of Sound</italic>, 1976; <italic>London Town</italic>, 1978; <italic>Back to the Egg</italic>, 1979. </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Dowlding, William J. <italic>Beatlesongs</italic>. New York: Simon, 1989. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Doyle, Tom. <italic>Man on the Run: Paul McCartney in the 1970s</italic>. New York: Ballantine, 2014. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Gould, Jonathan. <italic>Can’t Buy Me Love: The Beatles, Britain, and America</italic>. New York: Harmony, 2007. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Norman, Philip. <italic>Paul McCartney: The Life</italic>. New York: Little, Brown, 2016. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Sandford, Christopher. <italic>McCartney</italic>. New York: Carroll and Graf, 2006. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Spitz, Bob. <italic>The Beatles: The Biography</italic>. New York: Little, Brown, 2005. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Sir Paul McCartney</article-title>
+                           <italic>Musicians and Composers of the Twentieth Century</italic>
+                           <year>2009</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

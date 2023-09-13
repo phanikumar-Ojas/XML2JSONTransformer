@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">glow_rs</book-id>
+      <book-id pub-id-type="eis-mid">GBIQ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Science</book-title>
+         <alt-title alt-title-type="mid">GBIQ</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>1</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>2</day>
+         <month>April</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GloW_RS.10.3331.46451"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">glow_rs_46451</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Science</subject>
+               </subj-group>
+               <subj-group subj-group-type="subjectscience">
+                  <subject>Geology, Geosciences</subject>
+                  <subj-group>
+                     <subject>Geology, Geosciences</subject>
+                     <subject>Cryology, Glaciology</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Last Glacial Maximum (LGM)</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>David T.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>King</surname>
+                     <x xml:space="preserve">, </x>
+                     <suffix>Jr.</suffix>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The Last Glacial Maximum, also called the Wisconsin Glacial Stage, commenced about 35,000 years ago and ended about 12,900 years ago. At that time, the earth entered the current interglacial stage of warming. The Last Glacial Maximum reached its peak of cold about 20,000 years ago, when the continental glaciers reached their maximum extent of southern advance. In the Northern Hemisphere during the Last Glacial Maximum, continental glaciers flowed out over the land surface from three main centers, northern North America, Greenland, and Scandinavia. Much of the Northern Hemisphere was covered with ice, including the North Atlantic Ocean. Similar effects occurred in the Southern Hemisphere.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The Last Glacial Maximum, also called the Wisconsin Glacial Stage, commenced about 35,000 years ago and ended about 12,900 years ago.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GloW_1316</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Definition</title>
+               <p>The Last Glacial Maximum, also called the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89145943"
+                                   xlink:type="simple">Wisconsin Glacial Stage</related-article>, commenced about 35,000 years ago and ended about 12,900 years ago. At that time, the earth entered the current interglacial stage of warming. The Last Glacial Maximum reached its peak of cold about 20,000 years ago, when the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88802518"
+                                   xlink:type="simple">continental glaciers</related-article> reached their maximum extent of southern advance. In the Northern Hemisphere during the Last Glacial Maximum, continental glaciers flowed out over the land surface from three main centers, northern North America, Greenland, and Scandinavia. Much of the Northern Hemisphere was covered with ice, including the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94981532"
+                                   xlink:type="simple">North Atlantic Ocean</related-article>. Similar effects occurred in the Southern Hemisphere. </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>IceAgeEarth</title>
+                     <p>Earth at the last glacial maximum of the last ice age.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="89475731-61862.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Ittiz (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>During the maximum, global sea levels dropped by as much as 120 meters below present levels. This drop had profound effects on the locations of shorelines, the gradients of rivers, and the <xref ref-type="glossary" id="warming.gloss.1276">hydrologic cycle</xref> on Earth. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88953059"
+                                   xlink:type="simple">Sea level</related-article> was much lower than present as a result of the amount of water that was locked up in the world’s ice sheets covering the land.</p>
+               <p>Continental ice sheets of the Last Glacial Maximum consisted of individual large lobes, which expanded and contracted at different rates. Action of the individual lobes resulted in deposition of vast layers and mounds of rock, sand, and fine sediment, as well as erosive scour of the land. The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88953013"
+                                   xlink:type="simple">Great Lakes</related-article> of the United States and Canada formed as a result of such scour during the Last Glacial Maximum. <xref ref-type="glossary" id="warming.gloss.1233">Glacial ice</xref> covering the northern latitudes reconfigured the land’s surface and largely removed preexisting drainage patterns, which were reestablished after the ice melted away. </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance for Climate Change</title>
+               <p>The presence of so much ice on the land had a huge effect on global climate and local weather. As a result of the uptake of water by glaciers, many arid areas of the earth became much more arid. An example of this occurred in the Sahara region of Africa, where <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475587"
+                                   xlink:type="simple">deserts</related-article> greatly expanded during the era. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833335"
+                                   xlink:type="simple">Rain forests</related-article>, which were plentiful before the Wisconsin Stage, shrank considerably and were fragmented into small areas. One effect of this fragmentation of the rain forests was isolation of animal groups such as gorillas into separate geographic areas, where the various isolated populations diverged.</p>
+               <p>Reduced evaporation from cooler seas generally made the Last Glacial Maximum much dryer, but there were areas where this was not the case. For example, in parts of North America, heavy rains from moist winds flowing over continental glaciers caused much heavier precipitation to occur in areas not covered by ice. For this reason, vast continental lakes formed in areas where lakes are not found today, such as the Great Basin of the United States. The largest such lake, Lake Bonneville, was the forebear of the Great Salt Lake.</p>
+               <p>The onset of the Last Glacial Maximum may have been triggered by the development of the Isthmus of Panama. Prior to the uplift of rocks and volcanic activity that formed the isthmus, waters of the Atlantic and Pacific Oceans freely mixed, and the <xref ref-type="glossary" id="warming.gloss.1446">salinity</xref> of these waters was therefore kept nearly equal. After the isthmus formed, dry winds from Africa evaporated Atlantic Ocean water and raised the Atlantic’s salinity slightly. Mixing could no longer mitigate this effect, so Atlantic Ocean water that moved toward Earth’s northern pole, which had helped warm that area in past, no longer reached the pole. Instead, the higher density resulting from the water’s greater salinity caused that water to sink north of Iceland. The resulting cooling of the northern pole area is thought to have been enough to trigger the initial ice buildup that started the glacial development of the Last Glacial Maximum. Once the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475698"
+                                   xlink:type="simple">process</related-article> of ice buildup began, increased reflectivity of the ice (known as albedo) sent increasing amounts of solar energy back into space, and the cycle of <xref ref-type="glossary" id="warming.gloss.1238">global cooling</xref> began to accelerate.</p>
+               <p>The history of the Last Glacial Maximum shows what happens when the earth descends into a glacial episode of ice accumulation and cooling. All global systems, both living and nonliving, are affected by this climate change. In many ways, the contemporary earth is the result of many vast changes that occurred during the Last Glacial Maximum, as well as the effects of the current interglacial episode of warming.</p>
+               <p>Sea-level rise since the end of the Last Glacial Maximum has caused nearly all of the world’s coastlines to move and reestablish themselves. Most of the high-latitude rivers and streams have established new channels and drainage patterns since the continental ice sheets melted away. Temperature and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475821"
+                                   xlink:type="simple">rainfall patterns</related-article> are now mostly different from those during the last glacial episode. Therefore, modern ecosystems have entirely shifted in most instances since then. In many instances, populations of plants and animals have been dramatically affected by this climatic shift. As a result, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88802577"
+                                   xlink:type="simple">mass extinctions</related-article> have occurred in some groups of organisms, and changes have occurred in others. For example, the <xref ref-type="glossary" id="warming.gloss.1278">ice age</xref> fauna of North America, including the saber-toothed cats, mammoths and mastodon, giant ground sloths, and small native horses—all of which were once plentiful—are now entirely gone. The physical and biotic changes related to the onset, duration, and end of the Last Glacial Maximum serve as reminders that the world and its living systems can be profoundly changed by global climatic shifts such as the ones that occurred as recently as 12,900 years ago.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="journal"
+                               xlink:type="simple">Clark, Peter U., and Lev Tarasov. "Closing the sea level budget at the Last Glacial Maximum." <italic>PNAS</italic> 111.45 (2014): 15861–62. PDF file.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Gillespie, A. R., S. C. Porter, and B. F. Atwater. <italic>The Quaternary Period in the United States</italic>. Developments in Quaternary Science 1. Amsterdam: Elsevier, 2004.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Madsen, D. B., ed. <italic>Entering America: Northeast Asia and Beringia Before the Last Glacial Maximum</italic>. Salt Lake City: University of Utah Press, 2004.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Rutter, Nat, et al. <italic>Glaciations in North and South America from the Miocene to the Last Glacial Maximum: Comparisons, Linkages and Uncertainties</italic>. Dordrecht: Springer, 2012. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Stanley, Steven. <italic>Earth Systems History</italic>. 3d ed. New York: W. H. Freeman, 2009.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Last Glacial Maximum</article-title>
+                        <italic>Encyclopedia of Global Warming</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Steven I.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Dutch</surname>
+                           </name>
+                        </person-group>
+                        <year>2009</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+         </body>
+      </book-part>
+   </body>
+</book>

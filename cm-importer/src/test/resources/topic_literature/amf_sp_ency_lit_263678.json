@@ -1,0 +1,54 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Literature",
+		"tags": [
+			"Criticism",
+			"Long fiction",
+			"Environment or environmental health",
+			"Industrialization",
+			"Nature",
+			"Politics",
+			"Polygamy or bigamy",
+			"Southwest",
+			"North America",
+			"Southwest (U.S.)",
+			"mock brstCategory",
+			"Monkey Wrench Gang, The"
+		],
+		"category": [
+			"Criticism"
+		],
+		"theme": [
+			"Environment or environmental health",
+			"Industrialization",
+			"Nature",
+			"Politics",
+			"Polygamy or bigamy",
+			"Southwest"
+		],
+		"movement": null,
+		"primary_genres": [
+			"Long fiction"
+		],
+		"subgenres": [
+			"Long fiction",
+			"Didactic literature",
+			"Novel"
+		],
+		"geo_locale": [
+			"North America",
+			"United States"
+		],
+		"geo_keyword": "Southwest (U.S.)",
+		"literture_curriculum": null,
+		"bio_reference_id": [
+			"0000500-Edward Abbey"
+		],
+		"top_reference_id": [
+			"T101005600"
+		],
+		"xref_id": [
+			"W101005600"
+		]
+	}
+}

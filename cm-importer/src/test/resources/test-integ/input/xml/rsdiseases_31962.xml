@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<!DOCTYPE book
+  PUBLIC "-//Atypon//DTD Atypon Systems NCBI Book DTD Suite v2.3.0 20090807//EN" "atypon-book.dtd">
+<book xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="2.3" xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rsdiseases</book-id>
+    
+    <book-title-group>
+      <book-title>Magill’s Medical Guide (Online Edition)</book-title>
+      <alt-title alt-title-type="mid">FV1S</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>30</day>
+      <month>June</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>30</day>
+      <month>June</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>24</day>
+      <month>June</month>
+      <year>2013</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part id="RSDISEASES.10.3331.31962" indexed="true" book-part-type="chapter" xlink:type="simple" xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rsdiseases_31962</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="subject">
+            <subject>Diseases, Disorders, &amp; Symptoms</subject>
+            <subj-group>
+              <subject>Cancers</subject>
+              <subject>Chronic Illnesses</subject>
+              <subject>HIV/AIDS</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Mental Health</subject>
+            <subj-group>
+              <subject>Counseling &amp; Support</subject>
+              <subject>Stress</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Prevention &amp; Lifestyle</subject>
+            <subj-group>
+              <subject>Pain Management</subject>
+              <subject>Stress</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Social Issues</subject>
+            <subj-group>
+              <subject>Caregiving &amp; Coping</subject>
+              <subject>Death &amp; Dying</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Specialties &amp; Health Care Providers</subject>
+            <subj-group>
+              <subject>Emergency &amp; Critical Care</subject>
+              <subject>Psychiatry &amp; Psychology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Treatment &amp; Therapy</subject>
+            <subj-group>
+              <subject>Emergency &amp; Critical Care</subject>
+              <subject>Life Support</subject>
+              <subject>Palliative &amp; End-of-Life Care</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Hospice</title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western">
+              <given-names>Mara</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Kelly-Zukowski</surname>
+            </name>
+            <x xml:space="preserve">, </x>
+            <degrees>PhD</degrees>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Hospice is a philosophy of care directed toward persons who are dying. Hospice care uses a family-oriented holistic approach to assist these individuals in making the transition from life to death in a manner that preserves their dignity and comfort. Hospice care encourages patients to participate fully in determining the type of care that is most appropriate for their comfort. By creating a secure and caring community sensitive to the needs of the dying and their families and by providing palliative care that relieves patients of the distressing symptoms of their disease, hospice care can aid the dying in preparing mentally as well as spiritually for their impending death.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>A holistic approach to caring for the dying and their families by addressing their physical, emotional, and spiritual needs</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/MMG06_15451351458</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <sc>
+              <bold>Definition:</bold>
+            </sc> A holistic approach to caring for the dying and their families by addressing their physical, emotional, and spiritual needs</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Introduction</title>
+          <p>Hospice is a philosophy of care directed toward persons who are dying. Hospice care uses a family-oriented holistic approach to assist these individuals in making the transition from life to death in a manner that preserves their dignity and comfort. Hospice care encourages patients to participate fully in determining the type of care that is most appropriate for their comfort. By creating a secure and caring community sensitive to the needs of the dying and their families and by providing <related-article
+              related-article-type="rs" xlink:href="87324079" xlink:type="simple"
+              >palliative care</related-article> that relieves patients of the distressing symptoms of their disease, hospice care can aid the dying in preparing mentally as well as spiritually for their impending death.</p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>St. Christopher's Hospice</title>
+              <p>St Christopher's Hospice, Sydenham</p>
+            </caption>
+            <ext-link xlink:href="89093444-60271.jpg" ext-link-type="db-image" xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Stephen Craven [CC-BY-SA-2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Unlike traditional health care, where the patient is viewed as the client, hospice care, with its holistic emphasis, treats the family unit as the client. There are usually specific areas of stress for the families of the dying. In addition to the stress of caring for the physical needs of the dying, family members often feel tremendous pressure in maintaining their own roles and responsibilities within the family itself. The conflict of caring for their own nuclear families while caring for dying relatives places a huge strain on everyone involved and can be a source of anxiety and guilt for the patient as well. Another area of stress experienced by family members involves concern for themselves; that is, having to put their own lives on hold, keeping from getting physically run down, dealing with their newly acquired time constraints, and viewing themselves as isolated from friends and family. Compounding this is the guilt that many caregivers feel over not caring for the dying relative as well or as patiently as they might, or secretly wishing for the caregiving experience to reach an end.</p>
+          <p>Due to the holistic nature of the care provided, the hospice team is actually an interdisciplinary team composed of physicians, nurses, psychological and social workers, <related-article
+              related-article-type="rs" xlink:href="129815272"
+              >pastoral</related-article> counselors, and trained volunteers. This medically supervised team meets weekly to decide on how best to provide physical, emotional, and spiritual support for dying patients and to assist the surviving family members in the subsequent grieving process. This type of care can be administered in three different ways: It can be a home health agency, delivered in the patient’s own home; it can be dispensed in an institution devoted solely to hospice care; or it can even be administered in traditional medical facilities (such as hospitals) that allot a certain amount of space (perhaps a wing or floor, or even a certain number of beds) to this type of care. According to the National Hospice and Palliative Care Organization's <italic>NHPCO Facts and Figures</italic> annual report in 2021, there were 4,840 Medicare-certified hospices in operation in 2019.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Principles</title>
+          <p>Hospice care attempts to enhance the quality of dying patients’ final days by providing them with as much comfort as possible. It is predicated on the belief that death is a natural process with which humans should not interfere. The principles of hospice care, therefore, revolve around alleviating the anxieties and physical suffering that can be associated with the dying process, and not prolonging the dying process by using invasive medical techniques. Hospice care is also based on the assertion that dying patients have certain rights that must be respected. These rights include a right to absent themselves from social responsibilities and commitments, a right to be cared for, and a right to continued respect and status. The following seven principles are basic components of hospice care. </p>
+          <p>The first principle is highly personalized and holistic care of the dying, which includes treating dying patients emotionally and spiritually as well as physically. This interpersonal support, known as bonding, helps patients in their final days to live as fully and as comfortably as possible, while retaining their dignity, autonomy, and individual self-worth in a safe and secure environment. This one-on-one attention involves what can be called <related-article
+              related-article-type="rs" xlink:href="89677652" xlink:type="simple"
+              >therapeutic communication</related-article>. Knowing that someone has heard, that someone understands and is concerned, can be profoundly healing.</p>
+          <p>Another principle is <related-article related-article-type="rs" xlink:href="87690600"
+              xlink:type="simple"
+              >treating pain aggressively</related-article>. To this end, hospice care advocates the use of <related-article
+              related-article-type="rs" xlink:href="87323920" xlink:type="simple"
+              >narcotics</related-article> at dosages that will alleviate suffering while at the same time enabling patients to maintain a desired level of alertness. Efforts are made to employ the least invasive routes to administer these drugs (usually orally, if possible). In addition, pain medication is administered before the pain begins, thus alleviating the <xref
+              ref-type="glossary" id="mmg06.gloss.1142"
+              >anxiety</xref> of patients waiting for pain to return. Since it has been shown that fear of pain often increases the pain itself, this type of aggressive <related-article
+              related-article-type="rs" xlink:href="87690600" xlink:type="simple"
+              >pain management</related-article> gives dying patients more time and energy to respond to family members and friends and to work through the emotional and spiritual stages of dying. This dispensation of pain medication before the pain actually occurs, however, has proven to be perhaps the most controversial element in hospice care, with some critics charging that the dying are being turned into drug addicts.</p>
+          <p>A third principle is the participation of families in caring for the dying. Family members are trained by hospice nurses to care for the dying patients and even to dispense pain medication. The aim is to prevent the patients from suffering isolation or feeling as if they are surrounded by strangers. Participation in care also helps to sustain the patients’ and the families’ sense of autonomy.</p>
+          <p>The fourth principle is familiarity of surroundings. Whenever possible, it is the goal of hospice care to keep dying patients at home. This eliminates the necessity of the dying to spend their final days in an institutionalized setting, isolated from family and friends when they need them the most. NHPCO estimated that in 2012, 96.5 percent of all hospice care days are spent in patients’ own homes. That number dropped by 2014, however, when approximately 60 percent of patients received hospice care in their own homes. When this is not possible and patients must enter institutional settings, rules may be relaxed so that their rooms can be decorated or arranged in such a way as to replicate the patients’ home surroundings. Visiting rules may be suspended when possible, and visits by family members, children, and sometimes even pets encouraged.</p>
+          <p>The fifth principle is emotional and spiritual support for the family caregivers. Hospice volunteers are specially trained to use listening and communicative techniques with family members and to provide them with emotional support both during and after the patient’s death. In addition, because the care is holistic, the caregivers’ physical needs are attended to (for example, respite is provided for exhausted caregivers), as are their emotional and spiritual needs. This spiritual support applies to people of all faith backgrounds, as impending death tends to put faith into a perspective where particular creeds and denominational structures assume less significance. In attending to this spiritual dimension, the hospice team is respectful of all religious traditions while realizing that death and <xref
+              ref-type="glossary" id="mmg06.gloss.1239"
+            >bereavement</xref> have the ability to both strengthen and weaken faith.</p>
+          <p>The sixth principle is having hospice services available twenty-four hours a day, seven days a week. Because of its reliance on the assistance of trained volunteers, round-the-clock support is available to patients and their families.</p>
+          <p>The seventh principle is bereavement counseling for the survivors. At the time of death, the hospice team is available to help families take care of tasks such as planning the funeral and probating the will. In the weeks after the death, hospice volunteers offer their support to surviving family members in dealing with their loss and grief and the various phases of the bereavement process, always aware of the fact that not all bereaved need or want formal interventions.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>History</title>
+          <p>The term “hospice” comes from the Latin <italic>hospitia</italic>, meaning “places of welcome.” The earliest documented example of hospice care dates to the fourth century, when a Roman woman named Fabiola apparently used her own wealth to care for the sick and dying. In medieval times, the Catholic Church established inns for poor wayfarers and pilgrims traveling to religious shrines in search of miraculous cures for their illnesses. Such “rest homes,” usually run by religious orders, provided both lodging and nursing care, since the medieval view was that the sick, dying, and needy were all travelers on a journey. This attitude also reflects the medieval notion that true <related-article
+              related-article-type="rs" xlink:href="89677568" xlink:type="simple"
+              >hospitality</related-article> included care of the mind and spirit as well as of the body. During the <related-article
+              related-article-type="rs" xlink:href="87324615"
+              >Protestant Reformation</related-article>, when monasteries were forcibly closed, the concepts of hospice and hospital became distinct. Care of the sick and dying was now considered a public duty rather than a religious or private one, and many former hospices were turned into state-run hospitals.</p>
+          <p>The first in-patient hospice establishment of modern times (specifically called “hospice”) was founded by Mary Aitkenhead and the Irish Sisters of Charity under her leadership in the 1870s in Dublin, Ireland. Cicely Saunders, a physician at St. Joseph’s Hospice in London, which was founded by the English Sisters of Charity in 1908, began to adapt the ancient concept of hospice to modern palliative techniques. While there, Saunders became extremely close to a Holocaust survivor who was dying of cancer. She found that she shared his dream of establishing a place that would meet the needs of the dying. Using the money he bequeathed her at his death as a starting point, Saunders raised additional funds and opened St. Christopher’s Hospice in Sydenham, outside London, in 1967. Originally it housed only cancer patients, but with the financial support of contracts with the National Health Service in England and private donations, it later expanded to meet the needs of all the dying. In fact, no patient has ever been refused because of inability to pay. St. Christopher’s has served as a model for the hospices to be built later in other parts of the world.</p>
+          <p>Even though hospice care did not originate with Saunders, she is usually credited with founding the first modern hospice, since she introduced the concept of dispensing <xref
+              ref-type="glossary" id="mmg06.gloss.2409"
+            >narcotics</xref> at regular intervals in order to preempt the pain of the dying. She was also the first to identify the need to address other, nonphysical sources of pain for dying patients.</p>
+          <p>Two years after St. Christopher’s Hospice was opened, psychiatrist <related-article
+              related-article-type="rs" xlink:href="88801520" xlink:type="simple"
+              >Elisabeth Kübler-Ross</related-article> wrote <italic>On Death and Dying </italic>, which validated the hospice movement by relating stories of the dying and their wishes as to how they should be treated. In 1974, the United States opened its first hospice, Hospice, Inc. (later called the Connecticut Hospice), in New Haven, Connecticut. Within the next twenty-five years, over three thousand hospice programs were implemented in the United States. In Canada, the first “palliative care” unit (as hospices are referred to in Canada) was opened in 1975 by Balfour M. Mount at the Royal Victoria Hospital in Montreal. This is considered to be the first hospital-based hospice in North America.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Cost</title>
+          <p>Because of hospice care’s reliance on heavily trained volunteers and contributions, and because death is seen as a natural process that should not be prolonged by invasive and expensive medical techniques, hospice care is much less costly than traditional acute care facilities. Because hospice care is a philosophy of care rather than a specific facility, though, legislation to provide monetary support for hospice patients took a great deal of time to be approved. In 1982, the US Congress finally added hospice care as a <related-article
+              related-article-type="rs" xlink:href="89093472"
+              >Medicare</related-article> benefit. In 1986, it was made a permanent benefit. Medicare requires, however, that there be a <xref
+              ref-type="glossary" id="mmg06.gloss.2750"
+            >prognosis</xref> of six months or less for the patient to live. Hospice care is also reimbursable by many private insurance companies.</p>
+          <p>The National Hospice Organization (NHO) originated in 1977 in the United States as a resource for the many groups across the country who needed assistance in establishing hospice programs in their own communities. The purpose of this organization is to provide information about hospice care to the public, to establish conduits so that information may be exchanged between hospice groups, and to maintain agreed-upon standards for developing hospices around the country. The NHO publishes the <italic>Guide to the Nation’s Hospices</italic> on an annual basis.</p>
+        </sec>
+        <sec indexed="true">
+          <title>Advance Care Planning and Hospice</title>
+          <p>During the lead-up to and immediately following the passage of the <related-article
+              related-article-type="rs" xlink:href="95607435"
+              >Affordable Care Act</related-article> in 2010, advance care planning—or end-of-life planning, in which patients decide ahead of time what specific types of care they do and do not wish to receive during a life-threatening event or illness—became a hotly debated topic. Many feared that cost-saving would be used as a pretext to deny life-extending care to ill patients. Because the issue became highly politicized, it was dropped from the bill and also from later regulatory language. However, by 2014, several private insurers were paying doctors to hold conversations with patients for that purpose and there was some congressional support for similar coverage through Medicare. A literature review in the September 2014 issue of <italic>Palliative Care</italic> found that such planning interventions, particularly those that go beyond writing documents such as do-not-resuscitate orders, increased the use of hospice and palliation over and against hospitalization and appeared to better address patient wishes for end of life.</p>
+        </sec>
+        <sec>
+          <title>COVID-19 Impact on Hospice Care</title>
+          <p>The global <related-article related-article-type="rs" xlink:href="142379071"
+              >coronavirus disease 2019 (COVID-19)</related-article> pandemic had a significant impact on the hospice industry in the United States, as hospice providers had to quickly adapt to new ways of operating during the pandemic, including the increased use of <related-article
+              related-article-type="rs" xlink:href="119214282"
+            >telehealth</related-article> and other virtual means of care. Another change that took place during the pandemic was an increase in hospice referrals coming from physician practices instead of hospitals and nursing facilities. Furthermore, those working in hospice saw a dramatic increase in demand for palliative care to combat the psychosocial tolls of the pandemic on patients. Hospice care also experienced several negative impacts as a result of COVID-19, including high employee turnover and burnout and increasing costs of equipment. Experts believed that many of these shifts were likely to continue into the foreseeable future, even after the COVID-19 pandemic had ended.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation citation-type="journal" xlink:type="simple">Aldridge, M. D., et al. "National Hospice Survey Results: For-Profit Status, Community Engagement, and Service." <italic>JAMA Internal Medicine</italic> 174.4 (Apr. 2014): 500–06. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="journal" xlink:type="simple">Brinkman-Stoppelenburg, Arianne, Judith AC Rietjens, and Agnes van der Heide. "The Effects of Advance Care Planning on End-of-Life Care: A Systematic Review." <italic>Palliative Medicine</italic> 28.8 (Sept. 2014): 1000–25 Print..</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Buckingham, Robert W. <italic>The Handbook of Hospice Care</italic>. New York: Prometheus, 1996. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Byock, Ira, ed. <italic>Dying Well: Peace and Possibilities at the End of Life</italic>. New York: Riverhead, 1998. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Connor, Stephen R. <italic>Hospice: Practice, Pitfalls, and Promise</italic>. Washington: Taylor &amp; Francis, 1998. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Corr, Charles A., Donna M. Corr, and Tashel C. Bordere. <italic>Death and Dying, Life and Living</italic>. 7th ed. Belmont: Wadsworth, 2013. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Ferrell, Betty. <italic>Spiritual, Religious, and Cultural Aspects of Care</italic>. New York: Oxford UP, 2016. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="website" xlink:type="simple">"Finding Care at the End of Life." <italic>National Institute on Aging</italic>, 26 June 2013. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Forman, Walter B., et al., eds. <italic>Hospice and Palliative Care: Concepts and Practice</italic>. 2nd ed. Sudbury: Jones and Bartlett, 2003. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="website" xlink:type="simple">"Hospice Care." <italic>Eldercare.gov</italic>, 26 June 2013.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="website" xlink:type="simple">"Hospice Care: Comforting the Terminally Ill." <italic>Mayo Clinic</italic>, 2 Feb. 2013.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Lattanzi-Licht, Marcia, John J. Mahoney, and Galen W. Miller. <italic>The Hospice Choice: In Pursuit of a Peaceful Death</italic>. New York: Simon &amp; Schuster, 1998. Print. </citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Matzo, Marianne, and Deborah Witt Sherman. <italic>Palliative Care Nursing: Quality Care to the End of Life</italic>. 4th ed. New York: Springer, 2015. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Meyer, Maria M., and Paula Derr. <italic>The Comfort of Home: A Complete Guide for Caregivers</italic>. 3rd ed. Portland: CareTrust, 2008.  Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple"><italic>NHPCO Facts and Figures</italic>. National Hospice and Palliative Care Organization, United States, Oct. 2021, www.nhpco.org/nhpcos-new-facts-and-figures-report-shows-changes-in-hospice-patient-diagnoses/. Accessed 9 June 2022.</citation>
+            </ref><ref><citation>Parker, Jim. "COVID-19 Year One: Hospices Look Toward a Post-Pandemic Future." <italic>Hospice News</italic>, 15 Mar. 2021, hospicenews.com/2021/03/15/covid-19-year-one-hospices-look-toward-a-post-pandemic-future/. Accessed 9 June 2022.</citation></ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Sackheim, Kimberly A. <italic>Pain Management and Palliative Care: A Comprehensive Guide</italic>. New York: Springer, 2015. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Sendor, Virginia F., and Patrice M. O’Connor. <italic>Hospice and Palliative Care: Questions and Answers</italic>. Lanham: Scarecrow, 1998. Print.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation citation-type="original" xlink:type="simple">
+                <article-title>Hospice</article-title>
+                <italic>Magill’s Medical Guide, Sixth Edition</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Tracy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Irons-Georges</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Brandon P.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Brown</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>H. Bradford</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Hawley</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Margaret Trexler</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Hessen</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Nancy A.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Piotrowski</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Clair</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Kaplan</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Claire L.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Standon</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Judy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Mouchawar</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Paul</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Moglia</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <year>2010</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

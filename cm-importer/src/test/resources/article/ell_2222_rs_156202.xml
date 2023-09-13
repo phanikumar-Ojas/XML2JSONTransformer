@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ell_2222_rs</book-id>
+      <book-id pub-id-type="eis-mid">HDMJ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Primary Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">HDMJ</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>22</day>
+         <month>September</month>
+         <year>2014</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="ell_2222_RS.10.3331.156202"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ell_2222_rs_156202</book-part-id>
+            <title-group>
+               <title>Writing Reports</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <string-name>Posner, Tina</string-name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Writing reports, or papers, is an important part of doing well in school. When students write good reports, they usually follow five steps. First, they understand the assignment. Then, they do research, organize the report, and write the report. Finally, students revise the report before they give it to the teacher.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>34252926</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/ell_2222_132536</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>99251714</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>497</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front/>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>
+
+    
+                      Writing reports,  or papers, is an important part of doing well in school. When students write good reports, they usually follow five steps. First, they understand the assignment. Then, they do research, organize the report, and write the report. Finally, students revise the report before they give it to the teacher.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Step 1: Understanding the Assignment</title>
+               <p>The first thing to do when writing a report is to understand the assignment. The assignment is the directions that the teacher gives. The assignment tells what the topic of the report is. The topic is what the report should be about. The assignment also tells how long, or how many pages, the report is should be. The assignment also tells when the report is due. The due date is the date the teacher plans to collect the reports from students. The report has to be final and complete by the due date.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Step 2: Researching the Report</title>
+               <p>The next step in writing a report is to get information for the report. This is called doing research. The best place to do research is in the school library or on the Internet. The writer should take notesduring research. That means writing down important facts or quotes (things people said). The writer also needs to write down the source of this information. The source is the name of the book, magazine, or Website where you found the information. Someone who works in the library can help with this.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Step 3: Organizing the Report</title>
+               <p>The third step is organize, or plan, the report. Writers often use an outline to organize what they are going to write. An outline is a kind of list. The outline organizes the parts of a report, and then the writer fills in the information for the report.</p>
+               <p>The first part of a report is called the introduction. The introduction can be one or more sentences. It tells what the report will be about.</p>
+               <p>The body of the report has the information the writer got from research. Writers put this information in their own words. When writers use other people's words, they put quotation marks (" ") around them.</p>
+               <p>The summary, or conclusion, is the final part of the report. The summary is one or more sentences that summarize, or tell again in fewer words, what the report is about.</p>
+               <p>Here is an outline of a report, before the writer has put in the information: I.</p>
+               <preformat position="float" xml:space="preserve">
+
+Introduction
+
+II. Body: First Paragraph
+
+A. Fact #1
+
+B. Fact #2
+
+III. Body: Second Paragraph
+
+A. Fact #1
+
+B. Fact #2
+
+IV. Summary</preformat>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Step 4: Writing the Report</title>
+               <p>After organizing the information, writers are ready to write the report.</p>
+               <p>Students should start by writing a draft…</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Step 5: Revising the Report</title>
+               <p>Next, writers revise their report. They find places where the writing is not correct or clear. Then they fix it. When they revise, writers may add a few sentences or take something out that is not clear. They may put some of the sentences or paragraphs in different order. When the report is done, writers also need to carefully check and correct spelling and grammar.</p>
+               <p>Finally, students need to make a neat, clean copy of the report. They may type the report on a computer or use clear, neat handwriting.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <title>Book</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Writing a Report." <italic>Writing Is the "Right" Thing to Do!</italic>
+            Allosaurus Publishers, 2005. Online. EBSCO. 9 August 2008. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple">
+            http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=n4h&amp;amp;AN=19631145&amp;amp;site=src-live.
+            </ext-link> 
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="au_note" indexed="true">
+               <title/>
+               <p>By Tina Posner</p>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Writing Reports</article-title>
+                           <source>ELL Life Skills Series</source>
+                           <year>2009</year>
+                           <publisher-name>Great Neck Publishing</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

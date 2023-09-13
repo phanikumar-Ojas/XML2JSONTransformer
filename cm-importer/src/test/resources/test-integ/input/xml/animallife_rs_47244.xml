@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">meosanimal_rs</book-id>
+      <book-id pub-id-type="eis-mid">G95R</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Science</book-title>
+         <alt-title alt-title-type="mid">G95R</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>SalemPress</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>2</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="MEOSANIMAL_RS.10.3331.47244"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">animallife_rs_47244</book-part-id>
+            <title-group>
+               <title>Exoskeletons</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Frederick M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Surowiec</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The evolution of invertebrate animals possessing rigid, hard exoskeletons represented a great advance for members of the phylum Arthropoda. The development of such exoskeletons—in comparison with less solid structures, such as the hydrostatic skeleton of coelenterates—gave arthropods several distinct evolutionary advantages over other invertebrate phyla. Hydrostatic skeletons, such as those possessed by sea anemones, operate by the animal’s musculature being arranged in a pattern that surrounds an enclosed volume of fluid. Contraction of any one section of the muscular system creates a fluid pressure in the central cavity that is consequently transmitted in an omnidirectional manner to the rest of the body. Arthropodic exoskeletons, on the other hand, are consistently rigid and much harder because they are composed to some extent of crystalline substances. Flexibility of movement is attained by multiple jointings in the limb system and in other appendages in the body such as feeding and sensory apparatuses.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The exoskeleton is one of the distinctive primary features of members of the phylum Arthropoda. The evolution of the exoskeleton cuticle is thought to have been important in this group’s successful adaptation to many diverse environments. The exoskeleton’s intricate structure has provided advantages enabling the arthropods to thrive for hundreds of millions of years.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/MEOSANIMAL_0146</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front/>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The evolution of invertebrate animals possessing rigid, hard exoskeletons represented a great advance for members of the phylum Arthropoda. The development of such exoskeletons—in comparison with less solid structures, such as the hydrostatic skeleton of coelenterates—gave <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833144"
+                                   xlink:type="simple">arthropods</related-article> several distinct evolutionary advantages over other invertebrate phyla. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833260"
+                                   xlink:type="simple">Hydrostatic skeletons</related-article>, such as those <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="87575407"
+                                   xlink:type="simple">possessed</related-article> by sea anemones, operate by the animal’s musculature being arranged in a pattern that surrounds an enclosed volume of fluid. Contraction of any one section of the muscular system creates a fluid pressure in the central cavity that is consequently transmitted in an omnidirectional manner to the rest of the body. Arthropodic exoskeletons, on the other hand, are consistently rigid and much harder because they are composed to some extent of crystalline substances. Flexibility of movement is attained by multiple jointings in the limb system and in other appendages in the body such as feeding and sensory apparatuses.</p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <p>Arthropods: Arthropods are a large group of animals that have hard exterior skeletons and jointed appendages or limbs. examples are insects, lobsters, and spiders.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="88833211-62663.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>© EBSCO</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Exoskeletons and Arthropod Success</title>
+               <p>As a consequence of two distinctive features—a hard, rigid exoskeleton and jointed appendages and other body parts—arthropods have become one of the most successful of all animal groups; indeed, it is by these two features that they are taxonomically defined. Biologists sometimes term the enhancement of the annelid (worm) body plan of segmentation by arthropod improvement “arthropodization.” Because of it, the ancestors of the present immense spectrum of arthropod species successfully adapted to myriad <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833193"
+                                   xlink:type="simple">ecological niches</related-article> in the sea, on land, and in the air. Arthropod species account for more than three quarters of all known animal species. In fact, the class Insecta, one of a number of classes within the arthropod phylum, numbers at least 700,000 known species, with new species being discovered yearly, mostly in the tropics.</p>
+               <p>The immense success of arthropods is, to a great extent, the result of the advantages provided by the composition and structure of the seemingly simple surface architecture that is the arthropod exoskeleton. This exoskeleton not only provides a substantial chemical and physical barrier between the animal and the external environment, protecting the internal organs and fluids, but also allows a degree of temperature and osmotic regulation. In addition, the exoskeleton helps deter <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833329"
+                                   xlink:type="simple">predation</related-article>, provides a solid base of attachment for an internal muscular system, and offers a good site for the location of various sense organs. One of the most noteworthy evolutionary advantages of the exoskeleton is its service as a solid base of muscle attachment. The arthropod limbs act as a system of mechanical levers that is a much more efficient locomotive system than that of evolutionarily older and less sophisticated invertebrate locomotive systems such as that of the annelids. Because of exoskeletons and the structurally strong, jointed appendages that exoskeletons permit, arthropods possess an internal, muscular body wall broken down into separate muscles having an arrangement allowing contractions that are more localized in time and space than annelid or coelenterate muscle behavior. This more modular approach to the musculature allows arthropods to react to their environments to use energy more efficiently and with greater precision of movement and response. In fact, the inner surface of the exoskeleton acts as a limited type of endoskeleton, or inner skeleton, in that it provides good anchoring sites for muscle attachment, thus further increasing the leverage power of arthropod limbs and appendages.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Parts of the Exoskeleton</title>
+               <p>The exoskeleton itself can be divided into several distinct units based on function and composition. These are composed of consecutive layers that surround the animal in an arrangement similar to a medieval knight’s suit of armor. Like the armor suit, the outermost exoskeleton is, in a typical arthropod, very rigid and hard; movement is possible only because both protective systems are composed of plates or body-contoured segments that incorporate narrow, flexible jointings allowing motion. The motion is usually narrowly defined in extent and direction, and it is this quality that gives both armored humans and many arthropods their often distinctively awkward and ungainly mode of movement. The larger terrestrial <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833149"
+                                   xlink:type="simple">beetles</related-article> and marine forms such as crabs and lobsters are ready examples of this. Some arthropods are nevertheless adroit and delicate in their movements, as shown by various arthropod aerialists such as the dragonflies and butterflies.</p>
+               <p>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833265"
+                                   xlink:type="simple">Insects</related-article> can, in many ways, be considered typical arthropods and are therefore useful as models for a discussion of the exoskeleton as found among all arthropods. All the various layers of the exoskeleton, both living and nonliving, are as a whole variously termed the integument or cuticle. These layers are the skin or surface of the animal. The innermost layer of the exoskeleton is termed the epidermis, or hypodermis, and is made of living cells. The epidermis is immediately external to a basement membrane that separates the epidermis from the inner body, with its organs and fluids. The epidermis is responsible for secreting the layers external to it, which are organic but actually nonliving material. From the epidermis outward, these layers in insects consist of the endocuticle, the exocuticle, and the epicuticle. (Some biologists use the term procuticle to describe the endocuticle and use epicuticle to mean both the epicuticle and the exocuticle.) Whatever precise terms may be employed, the general concept is that layers of material closer to the epidermis are more flexible and less chemically hardened than layers that are found closer to the actual exterior of the animal. The endocuticle is usually the thickest cuticle layer and is constituted of protein mixed with a material called chitin. Chitin is a cellulose-like, crystalline material that makes up anywhere from 25 percent to 60 percent of the dry weight of the cuticle. It has many useful properties, such as resistance to concentrated alkalies and acids. In chemical composition, chitin is a nitrogenous polysaccharide. Chitin itself can be a relatively soft and flexible material that gains hardness in the outermost arthropod exoskeleton in several ways. One way is by using the presence of a material termed sclerotin. The process of hardening through the agency of sclerotin is called sclerotinization and involves a molecular change in the organization of the protein part of the cuticle. The outermost chitin found in the exocuticle of insects, for example, is thoroughly sclerotinized, which characteristically results in a darkening of the chitin. The other method by which chitin hardens is the deposition of calcium carbonate, primarily in the form of calcite. This is the process found among marine arthropods such as the Crustacea: crabs, lobsters, and shrimp, for example. This process, called calcification, occurs among Crustacea, starting in their epicuticle, or outermost exoskeletal layer, and works inward to the exocuticle and finally the endocuticle.</p>
+               <p>Besides the darkening caused by sclerotinization, coloration of the cuticle is effected in two basic ways. One is simple pigmentation caused by the presence of colored compounds found within the cuticle itself. The other is through the presence of extremely fine parallel ridges found on the epicuticle. These ridges break normal white light into its constituent wavelengths by prismatic diffraction in the same way that raindrops create rainbows. It is by this means that the effect of spectacularly iridescent rainbow hues found on many insects’ <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88833390"
+                                   xlink:type="simple">wings</related-article> and bodies is achieved.</p>
+               <p>Adding to the complexity of the cuticle are great numbers of sensory organs that project from or extend through the various exoskeletal layers. Prominent among these sensory structures are tactile hairs, bristles, and spines found all over the general body surface and on limb surfaces. These sensory structures, or setae, are movable and are set into thin, flexible disks on the cuticle surface itself. When one of these projections is moved, its base mechanically stimulates one or more sensory cells, setting off stimuli to which the arthropod can respond.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Drawbacks of Exoskeletons</title>
+               <p>While the exoskeleton has evolved wonderfully to protect the arthropod and to enhance its locomotive and sensory abilities, its overall rigid structure presents some inherent drawbacks. Perhaps chief among these is the fact that its formidable rigidity and solidity are limitations to an individual’s physical growth throughout its lifetime. Growth, in fact, is probably an arthropod’s single most difficult physiological problem. This is true because once formed and hardened, an exoskeleton cannot be enlarged as the animal within enlarges with time. The physiologic solution among arthropods is the process termed ecdysis, or molting.</p>
+               <p>This process is intrinsically dangerous to the arthropod, as it leaves each individual extremely vulnerable to predation during, and immediately following, molting. It has been estimated that as much as 80 to 90 percent of arthropod mortality occurs during ecdysis. The process takes place in stages. Prior to the shedding of the old exoskeleton, a new, soft cuticle is formed beneath the old one. The new cuticle has not started along either the sclerotinization or calcification process and therefore is still soft and pliable. As the new cuticle is forming, the lower section of the old cuticle is partially dissolved by corrosive fluids secreted by cutaneous glands situated below the new cuticle. Immediately prior to the shedding, also termed casting, of the old exoskeletal cuticle, the arthropod stops feeding and absorbs more than the usual amount of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89474949"
+                                   xlink:type="simple">water</related-article> and oxygen. Its body begins to swell, and the animal makes spasmodic movements to shake off the old cuticle, most of the base of which has been removed by the corrosive process. Eventually, the old exoskeleton is effectively disconnected from the arthropod’s body, and the animal extricates itself from the remains. At this point, its new exoskeleton is soft and very pliable, and its movements are limited. Consequently, the individual is extremely vulnerable to both predation and serious damage from tearing through abrasive or sharp-edged materials in its environment. It takes some time before the animal’s cuticle has hardened and thickened enough for it to resume its normal activities. In the meantime, the exoskeleton—which normally provides a great degree of protection and mobility—acts as a hindrance and danger to the arthropod.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Studying Exoskeletons</title>
+               <p>The two main approaches used to study the arthropod exoskeleton are the same types of study used by researchers in nearly all branches of the life sciences: field studies and laboratory studies. In the field approach, living arthropods are observed in nature. The specific techniques employed include both still and motion <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89250551"
+                                   xlink:type="simple">photography</related-article> in various light—normal, infrared, and ultraviolet. It is important to combine the observational database with later structural analyses of specific arthropod body parts, such as exoskeletons, to ascertain how the anatomical components actually function in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="87575394"
+                                   xlink:type="simple">the natural</related-article> setting. Actual physical collections are necessary for study by laboratory workers, who subject the specimens to a range of tests to determine their qualities and features in comparison with similar species and with the normal parameters that are known for previously collected members of the same species.</p>
+               <p>Specimens are often dissected—or in some cases, vivisected (disassembled while alive)—in order to record useful data such as chemical composition of exoskeletons, metabolic rates, and the estimated age of the sample. In the case of specimens raised in captivity, more precise data can be gained, as the precise age, food type, and daily or hourly intake are known with great precision.</p>
+               <p>A wide range of techniques are employed in the laboratory to analyze the structural components of exoskeletons. Among them, optical microscopy has traditionally been the primary approach. Working with dissected parts, frequently cut and chemically stained to facilitate viewing or bring out certain features selectively, researchers have used powerful microscopes capable of magnifying by a factor of many hundreds to see tiny subcomponent structures found within exoskeletal tissue. Optical microscopes have also been used to take a close look at associated cellular and noncellular organic matter, such as chitin and sclerotin. An exponential increase in magnification for study, however, has arrived with the advent of scanning electron microscopes (SEMs). These are instruments that use a beam of focused electrons to scan an object and form a three-dimensional image on a cathode-ray tube. The SEM reads both the pattern of electrons scattered by the object and the secondary electrons produced by it. This greatly enhanced ability to see smaller objects with great clarity allows scientists to see very small target sections of exoskeletal tissue, measured in microns (millionths of a meter) in circumference. Researchers can examine in minute detail the structures and interrelationships of the various layers of the arthropod cuticle.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Exoskeletons in the Fossil Record</title>
+               <p>Because the hard arthropod exoskeleton fossilizes more readily than the remains of many other animals, the evolutionary history of the phylum Arthropoda is abundantly represented in the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88802541"
+                                   xlink:type="simple">fossil record</related-article>. Much more is known about this phylum than other invertebrate phyla because of this phenomenon. Entire classes of arthropods that have left no modern descendants are known today because their substantial body armor appears in various marine strata. Examples of this are well documented in the remains of the extinct marine groups of the trilobites (similar to modern horseshoe crabs) and the eurypterids (<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89183397"
+                                   xlink:type="simple">giant</related-article> “water <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833351"
+                                   xlink:type="simple">scorpions</related-article>”). In the case of the trilobites, many fossils are actually the result of cast-off exoskeletal moltings rather than the carcasses of the dead animals. This illustrates the fact that, for hundreds of millions of years, arthropods have maintained a lifestyle and evolutionary approach to physiological problems that are similar to those of modern forms. X-ray photography has been employed successfully to penetrate the hard, mineralized fossils of extinct and ancestral forms of modern arthropods, showing in good detail the internal structures of exoskeletons and other tissues. Radiographic images produced by this technique demonstrate the continuity of structure and life shared by members of this extremely successful phylum for a period extending beyond the early Cambrian period (500 million years before the present).</p>
+               <p>The exoskeleton is an evolutionary advantage shared by all arthropods. This advantage, along with their body and limb segmentation, has allowed them to move into myriad ecological niches, first in the sea and later on land, in freshwater, and finally in the air. As a phylum, arthropods are arguably the most successful of all metazoan animal phyla; they exceed all others combined in terms of the number of species, diversity, and the number of individual organisms. This ubiquity in all <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474579"
+                                   xlink:type="simple">biomes</related-article> and climates and in virtually every conceivable niche in every ecosystem makes them a force that has a constant influence on human life.</p>
+            </sec>
+            <sec sec-type="terms" indexed="true">
+               <title>Principal Terms</title>
+               <p>chitin: a cellulose-like, crystalline material that makes up 25 percent to 60 percent of the dry weight of the cuticle</p>
+               <p>cuticle: the outer arthropod exoskeleton consisting of several layers of secreted organic matter, primarily nonliving chitin</p>
+               <p>endocuticle: usually the thickest layer of the cuticle, found just outside the living epidermal cell layer and made of untanned proteins and chitin</p>
+               <p>epicuticle: the outermost and thinnest layer of the arthropod cuticle, composed mainly of the hardened protein cuticulin</p>
+               <p>epidermis: a living cellular layer that secretes the greater part of the cuticle and is responsible for dissolving and absorbing the cuticle during molting (also termed the hypodermis)</p>
+               <p>exocuticle: a thick middle layer in the cuticle made up of both chitin and rigid, tanned proteins termed sclerotin</p>
+               <p>integumentary processes: surface outgrowths from the cuticle, primarily rigid nonarticulated processes or movable articulated processes</p>
+               <p>sclerotin: a hard, horny protein constituent of the exocuticle found in arthropods such as insects; it is superficially similar to vertebrate horn or keratin</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Anderson, D. T. <italic>Atlas of Invertebrate Anatomy</italic>. Sydney, Australia: Univerity of New South Wales Press, 1996. Biological drawings illustrate the internal and external anatomy of eighty species frequently studied in zoology and marine biology class labs. Includes notes on classification, life cycle, and habitat. Indexed by taxonomy and anatomical feature.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Boardman, Richard S., Alan H. Cheetham, and Albert J. Rowell, eds. <italic>Fossil Invertebrates</italic>. Palo Alto, Calif.: Blackwell Scientific Publications, 1987. An extremely thorough and exhaustively detailed treatment of all known types of fossil invertebrates, with an emphasis on metazoans. The chapter on the phylum Arthropoda is of prime interest because it includes a comprehensive description of exoskeletons and what is known of their evolution from the fossil record in extinct and extant taxonomic classes. Features numerous expert drawings, diagrams, and black-and-white photographs. It is suitable for readers who have a solid foundation in natural history.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Clarkson, E. N. K. <italic>Invertebrate Palaeontology and Evolution</italic>. 4th ed. Boston: Allen &amp; Unwin, 1998. Intended as a college-level textbook for introductory courses in invertebrate paleontology, this book nevertheless is a very useful source of information on exoskeletons for all readers having a serious interest in the subject. Chapter 11, “Arthropods,” is the main focus of useful information, with subsection 11.2, “Classification and General Morphology,” treating the subject in the greatest detail.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Ruppert, Edward E., and Robert D. Barnes. <italic>Invertebrate Zoology</italic>. 6th ed. Fort Worth, Tex.: Saunders College Publications, 1994. A college-level textbook, emphasizing the correlations of structure and function in living invertebrates. Illustrations, glossary.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Savazzi, Enrico, ed. <italic>Functional Morphology of the Invertebrate Skeleton</italic>. New York: John Wiley &amp; Sons, 1999. A wide-ranging collection of essays by an international roster of experts, covering the current understanding of the functional morphology of the invertebrate skeleton.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Stachowitsch, Michael. <italic>The Invertebrates: An Illustrated Glossary</italic>. Illustrated by Sylvie Proidl. New York: Wiley-Liss, 1992. Covers seventy-seven living invertebrate taxa, with full descriptions of major anatomical features. Intended as a guide to identification and description. Illustrated.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Exoskeletons</article-title>
+                        <source>Magill’s Encyclopedia of Science: Animal Life</source>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Carl W.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Hoagstrom</surname>
+                           </name>
+                        </person-group>
+                        <person-group person-group-type="project-editor">
+                           <name name-style="western">
+                              <given-names>Tracy</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Irons-Georges</surname>
+                           </name>
+                        </person-group>
+                        <year/>
+                        <publisher-name>SalemPress</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

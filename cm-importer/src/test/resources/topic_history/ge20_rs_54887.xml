@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ge20_rs</book-id>
+      <book-id pub-id-type="eis-mid">G97F</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">G97F</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>2</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GE20_RS.10.3331.54887"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ge20_rs_54887</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>World History</subject>
+                  <subj-group>
+                     <subject>Australian/New Zealand History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Medicine, Health</subject>
+                  <subj-group>
+                     <subject>Medicine, Health</subject>
+                     <subject>Doctors, Nurses, Medical Professionals</subject>
+                     <subject>Children</subject>
+                     <subject>Organizations, Agencies, Institutions</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Social Issues, Reform</subject>
+                  <subj-group>
+                     <subject>Social Issues, Reform</subject>
+                     <subject>Organizations, Agencies, Institutions</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Women’s Issues</subject>
+                  <subj-group>
+                     <subject>Women’s Issues</subject>
+                     <subject>Children</subject>
+                     <subject>Family, Marriage</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Australia and Oceania</subject>
+                  <subj-group>
+                     <subject>Australia and Oceania</subject>
+                     <subject>New Zealand</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Formation of the Plunket Society</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Kathleen M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bartlett</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>In the early twentieth century, new mothers in New Zealand had few places to turn for useful advice. As a result, infant mortality was high. Because hygiene was poor and few mothers breast-fed, seventy-three babies in every thousand died from infant diarrhea. Mothers gave newborns diluted cream, buttermilk, barley water, and bread and milk. At that time, cow’s milk was not pasteurized or tested for tuberculosis, and the means of delivery encouraged contamination, since milk was dipped from cans into any available container. Babies were also denied fresh air, which was believed to be harmful.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>As part of a push throughout much of the Western world to improve infant mortality rates, Dr. Frederick Truby King formed the Plunket Society, which was based on his doctrines on nutrition and child care. Primarily organized and maintained by women volunteers, the society provided support and education for mothers in New Zealand.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GE20a_1190</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <bold>
+                     <sc>Date</sc>
+                  </bold> May 14, 1907</p>
+               <p>
+                  <italic>As part of a push throughout much of the Western world to improve infant mortality rates, Dr. Frederick Truby King formed the Plunket Society, which was based on his doctrines on nutrition and child care. Primarily organized and maintained by women volunteers, the society provided support and education for mothers in New Zealand.</italic>
+               </p>
+               <p>
+                  <bold>
+                     <sc>Also known as</sc>
+                  </bold> Royal New Zealand Society for the Health of Women and Children</p>
+               <p>
+                  <bold>
+                     <sc>Locale</sc>
+                  </bold> Dunedin, New Zealand</p>
+            </sec>
+            <sec sec-type="keyterm" indexed="true">
+               <title>Key Figures</title>
+               <def-list>
+                  <def-item>
+                     <term>
+                        <italic>Frederick Truby King</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1858-1938), supervisor at a mental hospital who organized the Plunket Society</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Lady Victoria Plunket</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (fl. early twentieth century), wife of the governor-general, mother of eight children, and patron of the society</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Isabella King</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (d. 1927), cofounder of the Plunket Society and wife of Frederick Truby King</p>
+                     </def>
+                  </def-item>
+               </def-list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Summary of Event</title>
+               <p>In the early twentieth century, new mothers in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391144"
+                                   xlink:type="simple">New Zealand</related-article> had few places to turn for useful advice. As a result, infant mortality was high. Because hygiene was poor and few mothers breast-fed, seventy-three babies in every thousand died from infant diarrhea. Mothers gave newborns diluted cream, buttermilk, barley <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89474949"
+                                   xlink:type="simple">water</related-article>, and bread and milk. At that time, cow’s milk was not pasteurized or tested for tuberculosis, and the means of delivery encouraged contamination, since milk was dipped from cans into any available container. Babies were also denied fresh air, which was believed to be harmful.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Hilda Ross and Mrs Gilmer at the opening of the Karitane Fair</title>
+                     <p>Mrs Hilda Ross (left), Member of Parliament for Hamilton, and Mrs Gilmer, president of the Plunket Society, at the opening of the Karitane Fair at the Wellington Town Hall (1950).</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="89314699-63550.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Evening Post staff photographer [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>In response to these wretched conditions, the Plunket Society began in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87995292"
+                                   xlink:type="simple">Dunedin, New Zealand</related-article>, on May 14, 1907. Dr. Frederick Truby King, the organization’s founder, believed that his newly developed doctrines on nutrition and infant care would reduce the escalating death rate among babies and children, and he felt that addressing this challenge was essential to the nation’s health. King called a public meeting during which he gained the backing of influential local women who pledged to form a society to sponsor a health program based on the support and education of mothers. Shortly afterward, two babies discovered in a stable were whisked off to King’s house in Karitane for care, and a new hospital began there. When a dozen more babies arrived, King’s strict regime of weighing, measuring, and recording became Plunket practice.</p>
+               <p>Early in 1908, the Karitane Home for Babies opened in Dunedin. The home accepted babies and toddlers who were not being treated in the general hospital system, and by the end of its first year, four branches of the Plunket Society had been formed. Lady Victoria Plunket, the wife of the governor-general and a mother of eight children, offered to be the society’s patron, and in 1912 a lecture tour by Dr. King and his wife, Isabella King, led to the formation of sixty additional branches, each of which employed a Plunket nurse. In addition, six Karitane hospitals provided several vital functions: They served as support centers for home and clinic visits, training facilities for Karitane nurses, and care units for babies that needed special attention. Dunedin’s Karitane Harris Hospital also operated as the training center for Plunket nurses. During home and clinic visits, mothers were educated in subjects such as domestic hygiene and parenting skills, which included lessons on infants’ feeding, sleeping, and digestive habits.</p>
+               <p>Dr. King’s successful organization of the Plunket Society in New Zealand and its volunteers rested on his professional and personal ideals and personal experience. As a child, King had nearly died from diarrhea and primitive medical practices and was often sick as a result. At the age of twenty-eight, he graduated from Edinburgh University with a medical degree, and soon afterward he married Isabella King. His relationship with his wife would sustain him as he poured his energies into numerous causes. By the age of thirty, King was superintendent of Wellington Hospital, an underfunded and understaffed mental institution. King designed and oversaw the implementation of better meal service, a new sewage system, and a nurses’ training school. From Wellington, King went to Seacliff Asylum, where as medical superintendent he also instituted changes to alleviate deplorable conditions. At Seacliff, he was in charge of fifty staff members and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89143459"
+                                   xlink:type="simple">five hundred</related-article> patients, and he remained there for the next thirty years.</p>
+               <p>In addition to his hospital work, King established a successful timber mill, ran rail service with steam-powered lines, grew highly productive gardens, and ran technically advanced dairy farms.</p>
+               <p>King and his wife remained childless until, in 1905, they adopted a baby they called Mary. While waiting for the adoption to clear, the Kings traveled to <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391105"
+                                   xlink:type="simple">Japan</related-article>, and it was there that they became interested in baby-feeding practices. King was impressed with the success Japanese mothers seemed to have as a result of breast-feeding their babies much longer than European mothers did, and he became a proponent of breast-feeding. At the same time, Mary King was not thriving, and Isabella King set her husband to the task of finding a more nourishing food for their child. In response to this challenge, King created his own infant formula. Although King believed in the benefits of breast milk, he considered his concoction—a blend of cow’s milk, lactose sugar, water, and fat—equally good.</p>
+               <p>King wrote new rules for raising infants: strict four-hour feeding schedules, no night feedings, potty training at an early age, and fresh air. Mothers were urged to breast-feed, but if they were unable to do so they were to use his formula in proportions based on the infant’s age and weight. His ideas were not welcomed by all mothers: It was common practice to feed babies on demand. Many mothers ignored his advice and went back to feeding their newborns crushed biscuits mashed with water. Against this resistance, King continued his crusade to lower infant death rates and built a factory to make his humanized milk.</p>
+               <p>By forming the Plunket Society, King fulfilled his dream: He created a group of specially trained women to take his parenting advice into every home in New Zealand. Gradually, the Plunket philosophy became parenting practice. King’s first popular book on parenting, <italic>Feeding and Care of Baby</italic> (1913), was translated into Polish, Russian, and Spanish. A syndicated column, “Our Babies,” written by Isabella King under the pseudonym Hygeia, was published in fifty newspapers by 1914. King’s <italic>The Expectant Mother</italic> and <italic>Baby’s First Months</italic>, both published in 1916, were given to every couple who applied for a marriage license. The Kings made many public appearances, during which they emphasized the power of the Plunket Society’s child-rearing methods in reducing infant mortality rates.</p>
+               <p>King was knighted in 1925, and when he died on February 10, 1938, he left behind a society run by and for women that continues to provide services for mothers and children in the twenty-first century.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>Thanks to the work of the Plunket Society, by 1931 the infant death rate in New Zealand had become the lowest in the world. By 1946, an incredible 85 percent of all babies were seen by one of nearly two hundred Plunket nurses who made 220,000 <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89164259"
+                                   xlink:type="simple">home visits</related-article>. A further 500,000 visits by new mothers were made to specially designed Plunket rooms. The Plunket Society’s success in lowering New Zealand’s infant death rates during the first half of the twentieth century was a source of great national pride. The society’s creation of access to advice on breast-feeding and hygiene in the home contributed to New Zealand’s ability to maintain the world’s lowest infant mortality rate at a time when digestive problems were a major cause of infant death.</p>
+               <p>From its inception, the Plunket Society, consistently one of New Zealand’s largest voluntary organizations, was concerned with more than preventing deaths. The organization’s leaders viewed it as a health-maintenance society and aimed to provide support for ordinary mothers and fathers who had no previous child-rearing experience. The society also provided an organizational framework through which women could build alliances and become involved in public issues while simultaneously establishing social networks and creating a sense of empowerment.
+                  
+                  
+                  
+               </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Bryder, Linda. <italic>A Voice for Mothers: The Plunket Society and Infant Welfare, 1907-2000</italic>. Auckland, New Zealand: Auckland University Press, 2003. Examines the public role of women as welfare providers. Also looks at maternal and child health provision and parenting roles and practices.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Chapman, Lloyd. <italic>In a Strange Garden: The Life and Times of Truby King</italic>. Auckland, New Zealand: Penguin Books, 2003. Biography discusses King’s work in mental hospitals (particularly in the Seacliff Lunatic Asylum) and Victorian-era attitudes toward the mentally ill.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Powell, Joyce. <italic>Plunket Pioneers: Recollections of Plunket Nurses, from 1940 to 2000</italic>. Auckland, New Zealand: Heritage Press, 2003. Collection of personal stories of women who served in various positions in the Plunket Society.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Formation of the Plunket Society</article-title>
+                        <italic>Great Events from History: The Twentieth Century, 1901-1940</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Robert F.</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Gorman</surname>
+                           </name>
+                        </person-group>
+                        <year>2007</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

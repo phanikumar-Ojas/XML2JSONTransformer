@@ -1,0 +1,2118 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "60518e09-ace6-48fa-9ddd-e4cb5908f25b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Allen, Donald, editor. "
+						},
+						{
+							"text": "The New American Poetry, 1945–1960",
+							"italic": true
+						},
+						{
+							"text": ". 1960. U of California P, 1999."
+						}
+					],
+					"type": "p",
+					"uid": "09c03704-9cf7-4e08-8016-88d156762ae1",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Charters, Anne. \u0022Beat Poetry and the San Francisco Poetry Renaissance.\u0022 "
+						},
+						{
+							"text": "The Columbia History of American Poetry",
+							"italic": true
+						},
+						{
+							"text": ", edited by Jay Parini and Brett C. Miller, Columbia UP, 1993, pp. 581–604."
+						}
+					],
+					"type": "p",
+					"uid": "0b62d166-93da-4640-b299-35b63958c623",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Davidson, Michael. \u0022San Francisco Renaissance.\u0022 "
+						},
+						{
+							"text": "Beat Culture: Icons, Lifestyles, and Impact",
+							"italic": true
+						},
+						{
+							"text": ", edited by William T. Lawlor, ABC-CLIO, 2005, pp. 312-16."
+						}
+					],
+					"type": "p",
+					"uid": "b8bdaad0-2c36-4ad5-ae12-e5cb7b75bf00",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Davidson, Michael. "
+						},
+						{
+							"text": "The San Francisco Renaissance: Poetics and Community at Mid-century",
+							"italic": true
+						},
+						{
+							"text": ". Cambridge UP, 1989."
+						}
+					],
+					"type": "p",
+					"uid": "cf37a34d-209d-44c3-a491-e78545e475eb",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "French, Warren. "
+						},
+						{
+							"text": "The San Francisco Poetry Renaissance, 1955–1960",
+							"italic": true
+						},
+						{
+							"text": ". Twayne, 1991."
+						}
+					],
+					"type": "p",
+					"uid": "f17f6852-02bc-4230-a7f5-d04e6402c379",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hamalian, Linda. \u0022Re-discovering Community: Rexroth and the Whitman Tradition.\u0022 "
+						},
+						{
+							"text": "Modern American Poetry",
+							"italic": true
+						},
+						{
+							"text": ", U of Illinois at Urbana-Champaign, 1999, http://www.english.illinois.edu/maps/poets/m_r/rexroth/hamalian.htm. Accessed 27 Mar. 2017."
+						}
+					],
+					"type": "p",
+					"uid": "149fb83d-c237-43be-972c-aba37f0884ad",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hamalian, Linda. \u0022San Francisco Renaissance.\u0022 "
+						},
+						{
+							"text": "Encyclopedia of American Poetry: The Twentieth Century",
+							"italic": true
+						},
+						{
+							"text": ", edited by Eric L. Haralson, Fitzroy Dearborn Publishers, 2001, pp. 644–47."
+						}
+					],
+					"type": "p",
+					"uid": "16802639-ae29-4f6f-ba33-6e5db50e43fc",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "McClure, Michael. \u0022An Anthology of Poems by Michael McClure, Selected by the Author.\u0022 "
+						},
+						{
+							"text": "Michael McClure Home Page",
+							"italic": true
+						},
+						{
+							"text": ", curated by Karl Young and John Jacob, Light and Dust, 1998, www.thing.net/~grist/l&d/mcclure/mcclurea.htm. Accessed 22 Mar. 2017."
+						}
+					],
+					"type": "p",
+					"uid": "c6318b89-37e9-4000-a966-07db6b12c199",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Murphy, A. Mary. \u0022San Francisco Renaissance.\u0022 "
+						},
+						{
+							"text": "The Facts on File Companion to 20th-Century American Poetry",
+							"italic": true
+						},
+						{
+							"text": ", edited by Burt Kimmelman, Facts on File, 2005, pp. 442–45."
+						}
+					],
+					"type": "p",
+					"uid": "5938bfed-b39d-43c6-ba2a-6ef454d30d8d",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Rexroth, Kenneth. "
+						},
+						{
+							"text": "The Complete Poems of Kenneth Rexroth",
+							"italic": true
+						},
+						{
+							"text": ". Edited by Sam Hamill and Bradford Morrow, Copper Canyon Press, 2003."
+						}
+					],
+					"type": "p",
+					"uid": "337b1a4c-9d30-4cb6-bbcd-edf2365e31ce",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Snyder, Gary. "
+						},
+						{
+							"text": "Riprap and Cold Mountain Poems",
+							"italic": true
+						},
+						{
+							"text": ". 50th anniversary ed., Counterpoint, 2009."
+						}
+					],
+					"type": "p",
+					"uid": "9cbb450e-5918-487c-b160-0459ab00b774",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "7c42e681-d1fc-4bff-be3e-b4857ddcf075"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"Lawrence Ferlinghetti",
+			"William Blake",
+			"Kenneth Rexroth",
+			"Beat poets",
+			"Francisco Goya",
+			"New Criticism",
+			"Robert Duncan",
+			"Gary Snyder",
+			"Allen Ginsberg",
+			"T. S. Eliot"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Works Discussed in This Essay"
+						}
+					],
+					"type": "h1",
+					"uid": "8d5947c5-60bf-4f72-8948-9011e809329e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022Codicil\u0022 by Kenneth Rexroth"
+										}
+									],
+									"type": "p",
+									"uid": "dfc81672-cf98-42d4-8118-e080c4155c19",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "70b31a80-8ddc-414e-85b0-5279b3d1c9c8",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022For a Far-Out Friend\u0022 by Gary Snyder"
+										}
+									],
+									"type": "p",
+									"uid": "c360cb52-b251-4293-b819-20c779cd9388",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "e6f7c5ad-3226-4316-ac23-05c39982f47f",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022For the Death of 100 Whales\u0022 by Michael McClure"
+										}
+									],
+									"type": "p",
+									"uid": "5688b17a-c444-4176-a68b-c2e8a6eae998",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "7ae1e74d-1d23-4159-9880-b48e0629d602",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022In Goya's greatest scenes we seem to see\u0022 by Lawrence Ferlinghetti"
+										}
+									],
+									"type": "p",
+									"uid": "b1673f1d-89ea-45a2-a7f6-6ef3dc11dcda",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "57544281-be0f-42ac-82ef-8f681e541662",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022Peyote Poem, Part I\u0022 by Michael McClure"
+										}
+									],
+									"type": "p",
+									"uid": "f1478da2-a468-4b07-922f-795a124b7f4f",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "2f17ef86-86f8-4a62-8477-feee7f165b9e",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022Praise for Sick Women\u0022 by Gary Snyder"
+										}
+									],
+									"type": "p",
+									"uid": "297b5441-75fb-446b-9afa-13b82d649d61",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "1a7f4afe-bb3e-417d-9258-eb31cf778ca5",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022Riprap\u0022 by Gary Snyder"
+										}
+									],
+									"type": "p",
+									"uid": "7be3cc2e-e500-4668-8040-27b73edce002",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "c96a2d93-ca44-4b81-b75a-a2963263796d",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022The Song of the Borderguard\u0022 by Robert Duncan"
+										}
+									],
+									"type": "p",
+									"uid": "c2f7ad36-71b9-4bd3-a1c6-5ec95b457c60",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "5957b37a-06b5-4a38-8d4c-8848d014c756",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022Sunflower Sutra\u0022 by Allen Ginsberg"
+										}
+									],
+									"type": "p",
+									"uid": "3867bb93-810f-48f9-bc20-0f780c321bd6",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "2b84fee5-83ce-4ac0-955b-95acbeeba3a1",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022A Supermarket in California\u0022 by Allen Ginsberg"
+										}
+									],
+									"type": "p",
+									"uid": "6b285d8c-6be9-4fda-a709-09cd6f050e17",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "05f0ad40-f80e-4afe-bd6d-365c8e351968",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "\u0022This Place Rumord to Have Been Sodom\u0022 by Robert Duncan"
+										}
+									],
+									"type": "p",
+									"uid": "3b5417f0-0f94-4a68-887f-751c02cbefa3",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "ca1b42c3-65ca-415d-9a76-b51f01448372",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "ul",
+					"uid": "2751e3e2-da47-422c-9769-6b4c0ba92747",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The San Francisco Renaissance is a term often used to refer to the poetry written by a loose group of diverse writers who lived in San Francisco from the 1940s to the early 1960s. They had much in common with the "
+						},
+						{
+							"children": [
+								{
+									"text": "Beat poets"
+								}
+							],
+							"type": "a",
+							"uid": "f87ed09a-5c55-4db4-a3eb-83cfd10c0332",
+							"attrs": {
+								"url": "125599078"
+							}
+						},
+						{
+							"text": " of the same period, and in fact many of the same people participated in both movements. Recent criticism, however, tends to distinguish the Beat poets from the poets of the San Francisco Renaissance while still acknowledging their many similarities. Commentators often note that these renaissance writers were frequently influenced by San Francisco's specific history of cultural diversity, political activism, and relative acceptance of varied lifestyles and sexual orientations. During World War II, many conscientious objectors had been sent to work at public service camps in lieu of military service. One such camp, Camp Angel near Waldport, Oregon, was dedicated to housing residents with strong artistic interests. After the war, many former inmates chose to move to the San Francisco area, where they contributed to that city's growing reputation as an urban area more culturally diverse, more politically liberal, and more philosophically tolerant than many other American cities of the era."
+						}
+					],
+					"type": "p",
+					"uid": "3a71bf91-bf75-4726-9869-aea2443d7222",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Like the Beats, the poets of the San Francisco Renaissance sought greater personal freedom and greater diversity in the ways poetry could be imagined, written, shared, and received. They rejected many of the tenets of the conspicuously intellectual high modernism and the academic "
+						},
+						{
+							"children": [
+								{
+									"text": "New Criticism"
+								}
+							],
+							"type": "a",
+							"uid": "d6c111c7-f867-4181-ad3c-ec47244d9e5e",
+							"attrs": {
+								"url": "89315571"
+							}
+						},
+						{
+							"text": ", which exercised enormous influence from the 1940s to the early 1960s. They particularly disdained the kind of poetry taught and admired in many colleges and universities at the time: poetry that was impersonal, intellectual, witty, refined, restrained, carefully fashioned, and conservative both formally and, sometimes, politically. This was the kind of poetry associated especially with "
+						},
+						{
+							"children": [
+								{
+									"text": "T. S. Eliot"
+								}
+							],
+							"type": "a",
+							"uid": "27d40718-828d-4d05-ba16-885e6ce8c2df",
+							"attrs": {
+								"url": "88825270"
+							}
+						},
+						{
+							"text": ", who lived in London, dressed in three-piece suits, made his living as a publisher, and looked, spoke, and was treated like a polished English gentleman despite having been born in Saint Louis, Missouri. Socially, politically, religiously, and culturally, Eliot was traditional, conservative, and self-consciously lofty in his thoughts, attitudes, literature, and lifestyle, and so were many of the poets and academics who admired him. By the 1950s, Eliot had come to symbolize, in a sense, everything that the Beats and the San Francisco poets opposed."
+						}
+					],
+					"type": "p",
+					"uid": "4388f7f5-449e-4cf0-859e-4fee1b9db8d4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The San Francisco writers and their Beat associates advocated for poetry that could be introspective, personal, emotional, inventive, anarchic, democratic, colloquial, radical, unconventional, free-wheeling, individual, and nonconformist. They favored writing that was spontaneous, immediate, uninhibited, edgy, sexual, potentially offensive, and often politically, socially, and culturally radical. Where Eliot identified with what he called Anglo-Catholicism, the San Francisco writers and the Beats were often either areligious, irreligious, antireligious, or open to a wide variety of non-Western religious influences, especially Buddhism and Hinduism. Whereas Eliot had by the 1950s become a figure associated with the establishment, the San Francisco poets often wrote in ways that seemed deliberately designed to challenge, shock, and even offend establishment sensibilities, especially in matters of sexual language in general and allusions to homosexuality in particular. And while most of Eliot's champions were by that time university professors, most of the San Francisco and Beat writers were cultural bohemians, living in near-poverty and interested in writing poetry that seemed non- or even antiacademic. Their poetry often resembled jazz, designed to be declaimed publicly rather than confined to the printed page, and was often performed aloud with jazz in the background. The San Francisco poets were frequently influenced by the great Romantics, such as William Blake and Percy Bysshe Shelley, as well as by the humanist work of Walt Whitman. Their writings could sometimes seem surrealistic in form and style, unpredictable in design and phrasing, but remained strongly rooted in the everyday facts of common life. Some of the San Francisco writers were particularly interested in preserving the environment, challenging the power of the government, questioning standard American middle-class values, experimenting with mind-altering drugs, and dissenting from American expansionism. Their typically left-wing views put them at odds with much of the rest of American society during the 1950s, a period of strong, sometimes intolerant anticommunism."
+						}
+					],
+					"type": "p",
+					"uid": "1f3370aa-6286-46c9-8c6c-8dee0a08c554",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Kenneth Rexroth"
+						}
+					],
+					"type": "h1",
+					"uid": "f2751a22-88ab-442b-be0a-25c464bbb6ab",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "One key figure of the San Francisco Renaissance was "
+						},
+						{
+							"children": [
+								{
+									"text": "Kenneth Rexroth"
+								}
+							],
+							"type": "a",
+							"uid": "05a0a62c-7f01-47c6-b95c-c9290c916254",
+							"attrs": {
+								"url": "88826620"
+							}
+						},
+						{
+							"text": ", who, by the early 1950s, had been an anarchist, a political radical, an antiwar protestor, a conscientious objector, a union organizer, and a mentor to other writers who shared his various views. Rexroth's poetry is often viewed as more accessible than that of some of his younger protégés, and one of his poems in particular, \u0022Codicil,\u0022 clearly lays out the sorts of attitudes that helped inspire both the San Francisco Renaissance and the parallel Beat movement. The poem begins as follows:"
+						}
+					],
+					"type": "p",
+					"uid": "28f926b4-e571-4fee-939f-b23bc1607dd7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Most of the world's poetry "
+						}
+					],
+					"type": "blockquote",
+					"uid": "94c7fdf6-38a3-4305-a27e-652121e18094",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Is artifice, construction. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "3b31a145-20eb-4170-9231-e19fef716433",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " No one reads it but scholars. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "de8a3db4-dde7-4b07-b446-569ff3b803b0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " After a generation "
+						}
+					],
+					"type": "blockquote",
+					"uid": "95e30bd2-5b42-4aa2-87b4-58eb13265554",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " It has grown so overcooked, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "9a62361e-d238-4e31-a598-ff26041d24c0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " It cannot be digested. (lines 1–6) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "c1ce1b2e-b6d1-4baf-8a5e-1c5647e5bac8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Later in the poem, Rexroth cites Eliot, along with Paul "
+						},
+						{
+							"text": "Valéry and Alexander Pope, as",
+							"italic": true
+						},
+						{
+							"text": " poets who overcome, through the sheer intensity of their words, the strict conventions espoused by \u0022the ruling / Class of English poetry\u0022 (13–14)—namely, that poetry is \u0022impersonal / Construction, where personal / Pronouns are never permitted\u0022 (16–18). The work of those writers, he argues,"
+						}
+					],
+					"type": "p",
+					"uid": "86084711-bd9c-4142-a14c-b3e45ad21eca",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "                         isn't just "
+						}
+					],
+					"type": "blockquote",
+					"uid": "318abc17-5a2d-456c-ac01-d6f0733c1033",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Personal, it is intense, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "9de2b7b9-d28d-45a1-b658-7ab41913c122",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Subjective revery as "
+						}
+					],
+					"type": "blockquote",
+					"uid": "ef3eba61-a12b-4e48-a0e9-698ff527c1aa",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Intimate and revealing, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "2da03d54-9407-4e33-9189-d258a202ae31",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Embarrassing if you will, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "1db454a4-1945-432e-ba28-febf7bdf9eee",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " As the indiscretions of "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f1b5eefe-d2fa-4fd5-8b33-5803574eb7bc",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " The psychoanalyst's couch. (24–30) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "b953091d-f6b5-4483-8ded-b26eb337ce4a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "It is difficult to determine, from just these lines, whether Rexroth is lauding or criticizing Eliot; and, if lauding, whether the Eliot he admired was the young poetical revolutionary of the 1920s or the Eliot who, by the 1950s, had become the modern poet most widely taught and most intensely admired by literary academics—or if he saw a meaningful distinction between the two. According to Linda Hamalian, Rexroth \u0022thought that William Butler Yeats and T. S. Eliot were socially ineffective even though their poetry was 'truly revolutionary in its final implications.' In Rexroth's estimation, Yeats and Eliot had evolved for themselves, not necessarily anyone else, systems of theosophy and Anglo-Catholicism deeply critical of middle class values also held in contempt by Rexroth\u0022 (\u0022Re-discovering Community\u0022). Either way, \u0022Codicil,\u0022 in its simplicity, clarity, forthrightness, and forceful expression of undisguised personal opinion, represents many of the aesthetic values and literary traits prized by Rexroth and his younger friends."
+						}
+					],
+					"type": "p",
+					"uid": "be2c024f-2655-46f4-8ddf-211462b8ecfd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Lawrence Ferlinghetti"
+						}
+					],
+					"type": "h1",
+					"uid": "72ed2ce1-6c16-400e-a196-ef66965664ed",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"text": "Lawrence Ferlinghetti"
+								}
+							],
+							"type": "a",
+							"uid": "6cab61b8-69e6-47b7-b47f-666d5334c7a8",
+							"attrs": {
+								"url": "89405593"
+							}
+						},
+						{
+							"text": ", like Rexroth, not only wrote poetry himself but encouraged and promoted the writings of others. Ferlinghetti cofounded the now legendary City Lights Bookstore, which, in addition to selling books, has published many works by local writers—including Allen Ginsberg's "
+						},
+						{
+							"text": "Howl and Other Poems",
+							"italic": true
+						},
+						{
+							"text": " (1956), which resulted in Ferlinghetti being arrested and put on trial for obscenity. In his poem beginning \u0022In Goya's greatest scenes we seem to see,\u0022 Ferlinghetti compares the depressing details of paintings by the great eighteenth-century Spanish painter "
+						},
+						{
+							"children": [
+								{
+									"text": "Francisco Goya"
+								}
+							],
+							"type": "a",
+							"uid": "c29856c3-97e8-4b03-b181-2c6412b44686",
+							"attrs": {
+								"url": "88364861"
+							}
+						},
+						{
+							"text": " with details of modern life, particularly life in the increasingly industrialized, urbanized United States. At one point, for instance, the poem mentions"
+						}
+					],
+					"type": "p",
+					"uid": "8a61f80b-0a64-4920-98c1-d672208d1b2f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " freeways fifty lanes wide "
+						}
+					],
+					"type": "blockquote",
+					"uid": "9b330f08-6009-4368-b0c0-94b1201dd215",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             on a concrete continent "
+						}
+					],
+					"type": "blockquote",
+					"uid": "fa05e9ac-1c2f-4de4-80b1-bead62813a5e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "                         spaced with bland billboards "
+						}
+					],
+					"type": "blockquote",
+					"uid": "410620e7-8f11-4354-b349-b9b6fb1ded17",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "       illustrating imbecile illusions of happiness (28–31) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "5c7ce9aa-429c-4fcf-8a89-42b0c8ae5bea",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "These lines suggest the ways many in which poets of Ferlinghetti's time and place rejected and satirized the destruction of landscape, obsession with advertising, and craven commercialism that many Americans of that era associated with economic and social progress. Ferlinghetti's poetry often draws on many of the traditional resources of poetry in English, including patterned rhythms (the poem's first line is a perfect example of iambic pentameter) and notable alliteration. His work is often easy to understand, or at least easier than the poetry of various other poets of the San Francisco Renaissance."
+						}
+					],
+					"type": "p",
+					"uid": "b3dae9fe-dbd9-4340-8b02-c2fc2eb52128",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Robert Duncan"
+						}
+					],
+					"type": "h1",
+					"uid": "1c88ba10-d4f3-4141-98d5-a6a9ab441d8c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"text": "Robert Duncan"
+								}
+							],
+							"type": "a",
+							"uid": "2cbfda61-6de2-48ff-a67f-8a6b9fe19534",
+							"attrs": {
+								"url": "89313379"
+							}
+						},
+						{
+							"text": ", for instance, is generally a more difficult writer than Ferlinghetti. His \u0022Song of the Borderguard\u0022 opens by proclaiming"
+						}
+					],
+					"type": "p",
+					"uid": "a060904f-8628-4ff8-8bf3-c9f8ca4a8541",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " The man with his lion under the shed of wars "
+						}
+					],
+					"type": "blockquote",
+					"uid": "71453a3e-20ab-481f-b76d-0585c48cdbfe",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " sheds his belief as if he shed tears. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "57ec044f-4c01-451e-ba39-fe9d7659fc7c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " The sound of words waits— "
+						}
+					],
+					"type": "blockquote",
+					"uid": "5b95333c-1265-4d70-8cea-2a38bcb28be7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " a barbarian host at the borderline of sense. (1–4) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "251fcb23-3565-4a94-8773-9403a3d1483d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Although it employs many standard poetic devices—the play on \u0022shed\u0022 as a noun and \u0022sheds\u0022 as a verb, the echo of \u0022wars\u0022 in \u0022words,\u0022 and a strong emphasis on alliteration—the poem never becomes much clearer than it is in these initial lines. It thereby illustrates the often surreal, sometimes puzzling phrasing of various poems produced by Duncan and his friends, phrasing that indeed often seems literally \u0022at the borderline of sense.\u0022 Much more immediately comprehensible is another poem by Duncan titled \u0022This Place Rumord to Have Been Sodom,\u0022 which exemplifies Duncan's frequent penchant for idiosyncratic spelling and which, more importantly, alludes to his own identity as a gay man and an advocate for gay rights."
+						}
+					],
+					"type": "p",
+					"uid": "6a88541e-cdbe-4f63-91ef-14d86d033e05",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Allen Ginsberg"
+						}
+					],
+					"type": "h1",
+					"uid": "e0f07c0b-a300-4f09-a6d4-bf57ad4072ff",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Also gay, and quite outspokenly so, was the famous Beat poet "
+						},
+						{
+							"children": [
+								{
+									"text": "Allen Ginsberg"
+								}
+							],
+							"type": "a",
+							"uid": "768cf726-7e1e-4180-8329-e10a4ddbb067",
+							"attrs": {
+								"url": "88825856"
+							}
+						},
+						{
+							"text": ", who is often considered the major figure both of the Beats and of the San Francisco Renaissance. Certainly he became the most famous, partly because he aroused the condemnation of so many conservatives at the time. His poem \u0022A Supermarket in California\u0022 immediately announces itself, even in its very title, as a typical San Francisco Renaissance poem, not only because of its reference to the West Coast but also because of its focus on something as far from lofty or exotic as a common supermarket. Already Ginsberg is signaling his emphasis on everyday experience in the here and now. But the poem's innovative nature becomes especially apparent in its opening:"
+						}
+					],
+					"type": "p",
+					"uid": "1e266aa8-d127-4ded-b24d-8ea78f793ede",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "       What thoughts I have of you tonight, Walt Whitman, for I walked down the sidestreets under the trees with a headache self-conscious looking at the full moon. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "d9f2cef8-a68b-4aeb-aa5e-5dd0739001cb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "       In my hungry fatigue, and shopping for images, I went into the neon fruit supermarket, dreaming of your enumerations! "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f0ad15f1-b0f3-4309-bde5-045cd2e5d4e2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "       What peaches and what penumbras! Whole families shopping at night! Aisles full of husbands! Wives in the avocados, babies in the tomatoes!—and you, Garcia Lorca, what were you doing down by the watermelons? "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f979c8c8-3135-4f21-8189-b6438005f85d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						}
+					],
+					"type": "blockquote",
+					"uid": "9098a769-9e45-445e-827f-3d8b495233be",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "       I saw you, Walt Whitman, childless, lonely old grubber, poking among the meats in the refrigerator and eyeing the grocery boys. (1–4) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "e472ceb9-c484-450f-9201-ac683cfd9e7a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "These lines are almost a textbook example of the kind of writing commonly associated with the San Francisco Renaissance. Walt Whitman, the great American poetic iconoclast of the nineteenth century, not only appears in the first few words but is also echoed in the poem's colloquial phrasing, the sheer length of its lines, the lack of rhyme or predictable meter, the personal, direct address of the speaker (who is clearly Ginsberg himself), the excitement conveyed by the exclamation marks, the lists of varied items, and the allusions not only to Whitman but also to Federico García Lorca, both in their own ways revolutionary poets and both also gay. When Ginsberg jokes about Whitman \u0022eyeing the grocery boys,\u0022 he is openly referring to an aspect of Whitman's identity often only hinted at by academics in the 1950s. It was Ginsberg's willingness to write openly as a gay man, not only about other gay men but also about actual homosexual desire, that caused federal authorities to try (ultimately unsuccessfully) to suppress his pathbreaking modern epic "
+						},
+						{
+							"text": "Howl",
+							"italic": true
+						},
+						{
+							"text": ". The opening lines of \u0022A Supermarket in California\u0022 illustrate Ginsberg's tendencies to think, feel, and write as he wanted, without inhibition, embarrassment, or restriction. In all these ways, he resembles not only Whitman but also the great English Romantic poet "
+						},
+						{
+							"children": [
+								{
+									"text": "William Blake"
+								}
+							],
+							"type": "a",
+							"uid": "952ef932-ee8f-4f9a-8cd8-ec7b8b4dde5b",
+							"attrs": {
+								"url": "88365101"
+							}
+						},
+						{
+							"text": ", especially the Blake who composed long, freewheeling, unpredictable prophetic poems that expressed his own strange, highly personal visions of existence."
+						}
+					],
+					"type": "p",
+					"uid": "15bc5aad-cf71-4d4a-8fe2-c54a9b24ea76",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Another characteristic poem of the San Francisco Renaissance is Ginsberg's \u0022Sunflower Sutra.\u0022 Even its title suggests its concern with natural beauty and its links to Indian religious and literary tradition. Once again resembling Whitman and the prophetic Blake, Ginsberg here contrasts the dirt, filth, decay, and depressing grimness of modern industrial America with the beauty of a sunflower—even a grimy, decaying, or now dead sunflower. The poem ends with lines exemplifying the way Ginsberg links the beauty of nature to the underlying or potential beauty of human beings and human lives:"
+						}
+					],
+					"type": "p",
+					"uid": "4707252b-28e9-4c51-adaa-9b83841a0554",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " —We're not our skin of grime, we're not our dread bleak dusty imageless locomotives, we're all beautiful golden sunflowers inside, we're blessed by our own seed & golden hairy naked accomplishment-bodies growing into mad black formal sunflowers in the sunset, spied on by our eyes under the shadow of the mad locomotive riverbank sunset Frisco hilly tincan evening sitdown vision. (22) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "74a78a20-cae0-4288-8b4d-cf5cc76d7169",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The colloquial contraction of \u0022We're,\u0022 the sense of fellowship implied by that word, the unpunctuated jamming together of all the adjectives that precede the noun \u0022locomotives,\u0022 the bluntness of the reference to \u0022hairy naked[ness],\u0022 the explicit reference to San Francisco, the linguistic inventiveness of the final five (or is it seven?) words, and the long, unwinding, rhythmic lines that conform to no standard meter are all details that illustrate the kind of writing often associated with poets of the San Francisco Renaissance."
+						}
+					],
+					"type": "p",
+					"uid": "919c37e2-e78a-4fc2-a9b2-b1850c42b516",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Michael McClure"
+						}
+					],
+					"type": "h1",
+					"uid": "56ec6901-b88d-4f93-9ae9-cfd85323b276",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Michael McClure, although less well known today than some other poets of the renaissance, was one of the movement's major figures during the 1950s. His poem \u0022For the Death of 100 Whales,\u0022 first read in public in 1955, was inspired by a magazine report in 1954. This report, as McClure wrote for an online anthology curated by Karl Young and John Jacob (with assistance from McClure himself), \u0022described seventy-nine bored American G.I.s stationed at a NATO base in Iceland murdering a pod of one hundred killer whales. In a single morning the soldiers, armed with rifles, machine guns, and boats, rounded up and then shot the whales to death.\u0022 This act of wanton, unnecessary, and senseless slaughter provoked McClure's poem of protest. The poem describes the whales as having \u0022[b]rains the size of a teacup\u0022 (6) and \u0022[m]ouths the size of a door\u0022 (7) and likens them to both \u0022sleek wolves\u0022 (8) and \u0022GIANT TADPOLES\u0022 (10). Attacked by the GIs, the whales"
+						}
+					],
+					"type": "p",
+					"uid": "c99d7711-a921-45b3-bb42-5021f6727757",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Gnashed at their tails and brothers "
+						}
+					],
+					"type": "blockquote",
+					"uid": "9da3c05a-4734-4eac-8534-e89e25020b3f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Cursed Christ of mammals, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "031c0fd2-3a15-4a69-9504-67d29599a2ce",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Snapped at the sun, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "d9203035-32c2-436d-b819-6acd6d165802",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Ran for the Sea's floor. (19–22) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "7455095d-6d8a-462b-8689-945ada35d8b3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The whales' destruction symbolizes man's destruction of nature in general as well as the dangers of glorifying militarism. The poem implies the need to respect both other humans and other living (and even nonliving) things. If a concern with ecology is one trait that helps distinguish some San Francisco writers from their Beat brethren, then McClure's poem exemplifies the tendency of West Coast poets to celebrate nature and want to protect it."
+						}
+					],
+					"type": "p",
+					"uid": "1b834456-b625-44fb-be98-e035ff178afe",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Typical of West Coast writing in other ways is McClure's work \u0022Peyote Poem, Part I,\u0022 which describes, from a first-person point of view, the experience of using one of the many kinds of drugs that were increasingly popular at the time, especially among writers of the San Francisco Renaissance. This poem begins with the following lines:"
+						}
+					],
+					"type": "p",
+					"uid": "2baa99e3-6868-4cf7-a8cf-94ee00208a06",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Clear—the senses bright—sitting in the black chair—Rocker— "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f32c4c2b-83c6-43c5-aaf1-0592651962e0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " the white walls reflecting the color of clouds "
+						}
+					],
+					"type": "blockquote",
+					"uid": "2617509b-d658-461e-99ed-a339b22bd710",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " moving over the sun. Intimacies! The rooms "
+						}
+					],
+					"type": "blockquote",
+					"uid": "5871543e-08f6-4ada-a6ed-52b143bc8078",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						}
+					],
+					"type": "blockquote",
+					"uid": "0d8ff0dd-f4c0-4b5e-baa7-0c287e922e32",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " not important—but like divisions of all space "
+						}
+					],
+					"type": "blockquote",
+					"uid": "18742796-b958-4843-a4ef-f9047c2f2fb4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " of all hideousness and beauty. I hear "
+						}
+					],
+					"type": "blockquote",
+					"uid": "63153836-b668-44a5-96cf-fd649ac5281d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " the music of myself and write it down "
+						}
+					],
+					"type": "blockquote",
+					"uid": "2142b9b4-5848-4247-ae56-d1fa53f01b15",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						}
+					],
+					"type": "blockquote",
+					"uid": "5e467c39-c11b-4724-b4e4-d52cf77e8f84",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " for no one to read. I pass fantasies as they "
+						}
+					],
+					"type": "blockquote",
+					"uid": "84cdf420-a411-430a-87e1-216597d6d0e5",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " sing to me with Circe-Voices. I visit "
+						}
+					],
+					"type": "blockquote",
+					"uid": "2633f7c9-36f0-492d-9a52-c27fc52db40f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " among the peoples of myself and know all "
+						}
+					],
+					"type": "blockquote",
+					"uid": "17531745-306b-4a2a-a0dd-c1662d723eae",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " I need to know. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "330713e7-daf1-4c1a-9708-c6d2763bb5ad",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						}
+					],
+					"type": "blockquote",
+					"uid": "b7574eba-0de8-474c-9f07-5cb4a3407ba0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " I KNOW EVERYTHING! I PASS INTO THE ROOM (1–11) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "6bbb60bc-4407-4d6f-9d72-dc9d34285947",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Here the spirit of the San Francisco Renaissance is evident in many ways, including the first-person speaker and the emphasis on personal experience, the open admission of drug use and its characterization as a way to expand the mind, the ecstatic exclamations, and the implication that rational thought is shallow, shuttered, and limited. The phrase \u0022music of myself\u0022 could easily have come from Whitman, and the emphasis on a deeply personal vision could similarly have come from Blake. And if the reference to \u0022Circe-Voices\u0022 might disturb some academic readers who know their Greek mythology (where Circe is a goddess or witch who lures men to self-destruction), there is no hint of the risks of drug use in these lines by McClure."
+						}
+					],
+					"type": "p",
+					"uid": "52ffca50-bf60-41f4-beb8-3d2a3ba3e74b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Gary Snyder"
+						}
+					],
+					"type": "h1",
+					"uid": "d6cb5f6b-a257-486b-b8de-d8ce966c16b2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"text": "Gary Snyder"
+								}
+							],
+							"type": "a",
+							"uid": "53e868b1-005b-4df2-af83-f147061a31ed",
+							"attrs": {
+								"url": "100551328"
+							}
+						},
+						{
+							"text": " is one of the San Francisco writers who, like McClure, is also often associated with a reverence for nature and natural beauty, as well as with a sense of humans' involvement in the physical universe. His poem titled \u0022Riprap,\u0022 for instance, opens as follows:"
+						}
+					],
+					"type": "p",
+					"uid": "447a4993-f62b-41f8-a3d2-c96b8cd77f2c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Lay down these words "
+						}
+					],
+					"type": "blockquote",
+					"uid": "ad747fde-c317-4832-81a8-ec0b8a127652",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Before your mind like rocks. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "94fcce23-18a6-449f-affd-da26d5b8d331",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             placed solid, by hands "
+						}
+					],
+					"type": "blockquote",
+					"uid": "b8d89eb4-4b77-488e-aedb-23dc33dffdee",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " In choice of place, set "
+						}
+					],
+					"type": "blockquote",
+					"uid": "62d380de-d19f-4dcb-acff-7fd50dcfc877",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Before the body of the mind "
+						}
+					],
+					"type": "blockquote",
+					"uid": "21488aeb-b1a9-4185-b2cc-21e3bf193f5c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             in space and time: "
+						}
+					],
+					"type": "blockquote",
+					"uid": "0946b3c4-9ff6-4e89-a8bd-fe13b81c1981",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Solidity of bark, leaf, or wall "
+						}
+					],
+					"type": "blockquote",
+					"uid": "430fa036-cdaa-4d58-8773-a9335cf87479",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             riprap of things: "
+						}
+					],
+					"type": "blockquote",
+					"uid": "348eec83-bc8d-4cdd-8d87-406b2554c387",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Cobble of milky way, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f9461f80-0aea-4924-86e1-6515758bb611",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             straying planets, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "3073377f-9f44-4ab9-a0fb-f5340de66047",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " These poems, people, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "161e3e50-125b-409d-a735-a75e47d64de8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             lost ponies with "
+						}
+					],
+					"type": "blockquote",
+					"uid": "2ee08a50-38bf-4fbd-8f97-b12b895b8013",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Dragging saddles— "
+						}
+					],
+					"type": "blockquote",
+					"uid": "29148a65-d096-4bac-89e2-9aa188ceab2c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             and rocky sure-foot trails. (1–14) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "3de8c491-bc48-46b8-81d8-e328e0b6258b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Here the phrasing ranges from references to rocks to bark to leaf to \u0022milky way\u0022 to planets to ponies and finally to \u0022rocky sure-foot trails.\u0022 A bit less clear in its syntax and meaning than some poems by other writers of the San Francisco Renaissance, this work (partly for that reason) illustrates the strongly personal and often innovative, if sometimes somewhat mystifying, nature of much writing by many modern authors, including those from the West Coast. More immediately accessible are lines such as the following, from a poem by Snyder titled \u0022Praise for Sick Women\u0022:"
+						}
+					],
+					"type": "p",
+					"uid": "ba358629-7eaa-4097-bc8d-22bace973a06",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Apples will sour at your sight. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "2d1b60f9-f1ac-426d-824f-b0de3818deb3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Blossoms fail the bough, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "61c6d571-78ee-4f72-8df9-fffccf01ebe9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Soil turn bone-white: wet rice, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "70cd4a89-5c79-4a07-9de7-1676ba5de31f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Dry rice, die on the hillslope. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "497302d3-16c5-420d-ab9f-5c2c7336566a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "                         all women are wounded "
+						}
+					],
+					"type": "blockquote",
+					"uid": "ca866763-e7c5-455a-a962-ca6a1928c267",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Who gather berries, dibble in mottled light, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "a9fdfb2b-1b1a-4888-b519-5e43b5bbe480",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Turn white roots from humus, crack nuts on "
+						},
+						{
+							"text": "stone— "
+						}
+					],
+					"type": "blockquote",
+					"uid": "fb5f2852-084c-4df3-b05d-6bb2ff4ffcd5",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " High upland with squinted eye "
+						}
+					],
+					"type": "blockquote",
+					"uid": "ac9ea166-00f1-404d-8c2c-b55f1369c020",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "                         or rest in cedar shade. (2.1–9) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "78cd71ff-d879-409c-a18b-569649ab3993",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "With its frequently short lines, powerful rhythms, heavy emphasis on verbs, and strong stress on natural imagery, this passage illustrates how Snyder's writings can often prove appealing because of their vividness and their accessibility."
+						}
+					],
+					"type": "p",
+					"uid": "d81460b9-a75e-4d82-b652-8013a9bfc2ae",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In another poem, titled \u0022For a Far-Out Friend,\u0022 Snyder begins with a strange, misogynistic reference to physically beating his unnamed female friend. (In the fiftieth-anniversary edition of his 1965 collection "
+						},
+						{
+							"text": "Riprap and Cold Mountain Poems",
+							"italic": true
+						},
+						{
+							"text": ", republished in 2009, Snyder acknowledged and concurred with criticism of this line. He claimed that it was a fictitious embellishment on real-life events, noting, \u0022It says something about the poem and how things have changed that . . . I thought that saying I'd hit her was the more manly, or even gentlemanly, thing to say,\u0022 14). But the poem soon transitions into a vision that combines the beauty of nature with the beauty of the human body:"
+						}
+					],
+					"type": "p",
+					"uid": "a5bd0686-51b4-4bcb-b8c6-6820f310455e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " You once ran naked toward me "
+						}
+					],
+					"type": "blockquote",
+					"uid": "a437b715-abf8-4b9f-a51c-d4281a963076",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Knee deep in cold March surf "
+						}
+					],
+					"type": "blockquote",
+					"uid": "27f3a59f-b6cf-42ca-aa87-ce7603bec51f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " On a tricky beach between two "
+						}
+					],
+					"type": "blockquote",
+					"uid": "13373391-5bf7-4959-8b12-f996256dab1b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             pounding seastacks— "
+						}
+					],
+					"type": "blockquote",
+					"uid": "cce804b6-d541-4120-89d4-326611b977ac",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " I saw you as a Hindu Deva-girl "
+						}
+					],
+					"type": "blockquote",
+					"uid": "85f63709-c683-42dc-b1f5-2a752a865a88",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Light legs dancing in the waves, "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f0a23084-c272-415a-a8eb-aed0be68ab76",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Breasts like dream-breasts "
+						}
+					],
+					"type": "blockquote",
+					"uid": "432d62f7-3b15-45ca-9839-21f0c0dfbfb8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Of sea, and child, and astral "
+						}
+					],
+					"type": "blockquote",
+					"uid": "46ed134f-c2f2-4abd-937a-a3291433f7eb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "             Venus-spurting milk. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "1f70d643-d62d-4746-9b2b-f18637fa249d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " And traded our salt lips. "
+						}
+					],
+					"type": "blockquote",
+					"uid": "5ae8ca46-2224-45e0-bd08-9c12f53b2be5",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						}
+					],
+					"type": "blockquote",
+					"uid": "4f41120c-54e2-464f-b024-9189194280ed",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Visions of your body "
+						}
+					],
+					"type": "blockquote",
+					"uid": "d5b86d29-15d1-4f2d-ac79-9fd7f2356884",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Kept me high for weeks . . . (9–20) "
+						}
+					],
+					"type": "blockquote",
+					"uid": "f72b90d4-6741-4898-a8fb-cf215b26eb48",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "With its references to sexual desire and sexual attractiveness, its celebration of the powerful West Coast surf, its allusions to a benevolent Hindu goddess, its focus on personal (probably autobiographical) experience, and its final use of language associated with drug use, this passage exemplifies many of the thematic traits often associated with writers of the San Francisco Renaissance."
+						}
+					],
+					"type": "p",
+					"uid": "693d836d-889f-4c38-b985-9b237def050b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "All the poems discussed above, except for \u0022Codicil\u0022 and \u0022For the Death of 100 Whales,\u0022 were collected in an important anthology titled "
+						},
+						{
+							"text": "The New American Poetry, 1945–1960",
+							"italic": true
+						},
+						{
+							"text": ", edited by Donald M. Allen and published in 1960. Allen's collection helped introduce many of the most innovative writers of the late 1940s and the 1950s to a much broader audience than they could ever have achieved by relying on publication in the era's ubiquitous \u0022little magazines.\u0022 Because Allen's volume appeared in 1960, it contains writings by poets of the San Francisco Renaissance composed during the heyday of that period, rather than poems written by these authors when they had become older, more famous, and more widely revered."
+						}
+					],
+					"type": "p",
+					"uid": "d55f2259-f746-4cb6-ad99-abc466b56eed",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "ccb8a9f6-a30f-4610-b7de-353f5afe39f1"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "The San Francisco Renaissance is a term often used to refer to the poetry written by a loose group of diverse writers who lived in San Francisco from the 1940s to the early 1960s. They had much in common with the Beat poets of the same period, and in fact many of the same people participated in both movements. Recent criticism, however, tends to distinguish the Beat poets from the poets of the San Francisco Renaissance while still acknowledging their many similarities. Commentators often note that these renaissance writers were frequently influenced by San Francisco's specific history of cultural diversity, political activism, and relative acceptance of varied lifestyles and sexual orientations. During World War II, many conscientious objectors had been sent to work at public service camps in lieu of military service. One such camp, Camp Angel near Waldport, Oregon, was dedicated to housing residents with strong artistic interests. After the war, many former inmates chose to move to the San Francisco area, where they contributed to that city's growing reputation as an urban area more culturally diverse, more politically liberal, and more philosophically tolerant than many other American cities of the era."
+						}
+					],
+					"type": "p",
+					"uid": "f2e3db61-4a2c-40da-bf47-b8fee085e43f",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "c9d16a47-0711-4031-b1e4-8a78bc0c8eef"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": null,
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

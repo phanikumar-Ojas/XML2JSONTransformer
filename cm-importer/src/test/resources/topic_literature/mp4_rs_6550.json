@@ -1,0 +1,99 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Literature",
+		"tags": [
+			"Criticism",
+			"Long fiction",
+			"Abandoned children",
+			"African Americans",
+			"Blacks",
+			"Escapes",
+			"Exorcism",
+			"Family or family life",
+			"Gender roles",
+			"Ghosts or apparitions",
+			"Guilt",
+			"Memory",
+			"Middle Passage",
+			"Midwest",
+			"Mothers",
+			"Murder or homicide",
+			"Nineteenth century",
+			"North America or North Americans",
+			"Ohio",
+			"Parents and children",
+			"Racism",
+			"Slavery or slaves",
+			"South or Southerners",
+			"Supernatural",
+			"Underground railroad",
+			"United States or Americans",
+			"Yards or backyards",
+			"North America",
+			"Kentucky",
+			"Cincinnati, Ohio",
+			"mock brstCategory",
+			"cancer",
+			"breasts",
+			"rape",
+			"feet",
+			"Underground Railroad",
+			"heart"
+		],
+		"category": [
+			"Criticism"
+		],
+		"theme": [
+			"Abandoned children",
+			"African Americans",
+			"Blacks",
+			"Escapes",
+			"Exorcism",
+			"Family or family life",
+			"Gender roles",
+			"Ghosts or apparitions",
+			"Guilt",
+			"Memory",
+			"Middle Passage",
+			"Midwest",
+			"Mothers",
+			"Murder or homicide",
+			"Nineteenth century",
+			"North America or North Americans",
+			"Ohio",
+			"Parents and children",
+			"Racism",
+			"Slavery or slaves",
+			"South or Southerners",
+			"Supernatural",
+			"Underground railroad",
+			"United States or Americans",
+			"Yards or backyards"
+		],
+		"movement": null,
+		"primary_genres": [
+			"Long fiction"
+		],
+		"subgenres": [
+			"Long fiction",
+			"Ghost story",
+			"Novel",
+			"Psychological fiction"
+		],
+		"geo_locale": [
+			"North America",
+			"United States"
+		],
+		"geo_keyword": "Kentucky",
+		"literture_curriculum": null,
+		"bio_reference_id": [
+			"0562200-Toni Morrison"
+		],
+		"top_reference_id": [
+			"T100128400"
+		],
+		"xref_id": [
+			"W100128400"
+		]
+	}
+}

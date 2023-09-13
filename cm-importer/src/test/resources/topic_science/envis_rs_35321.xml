@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">envis_rs</book-id>
+      <book-id pub-id-type="eis-mid">GBIS</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GBIS</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="revised">
+         <day>2</day>
+         <month>January</month>
+         <year>2015</year>
+      </pub-date>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>1</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="EnvIs_RS.10.3331.35321"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">envis_rs_35321</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Social/Economic</subject>
+               </subj-group>
+               <subj-group subj-group-type="subjectscience">
+                  <subject>Ethics, Advocacy, Policy, Protest</subject>
+                  <subj-group>
+                     <subject>Ethics, Advocacy, Policy, Protest</subject>
+                     <subject>Ecology, Environment, Environmentalism</subject>
+                     <subject>Philosophy and History of Science</subject>
+                     <subject>Biology, Life Sciences, Ecosystems</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Environmental determinism</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Gerald K.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Harrison</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The notion of environmental determinism achieved considerable prominence during the late nineteenth and early twentieth centuries, especially through the work of geographer Ellen Churchill Semple. The “environment” in this context is understood to be the natural physical features of a setting—the geographical features, such as climate and landform, as opposed to factors directly or indirectly the result of human activity (such as social and economic factors). According to environmental determinists, these environmental factors determine the course of human character, action, and cultural development. Semple, for example, wrote that the climate of northern Europe causes the development of an “energetic, provident, serious, thoughtful rather than emotional, cautious rather than impulsive” character in the peoples resident there; in contrast, tropical climates lead to the development of laziness because the warm weather and ready availability of food make survival easy and do not encourage the development of a keen work ethic.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Environmental determinists hold that human activity, culture, and character are ultimately determined by environmental factors. From this point of view, the environment, rather than human activity, is the dominant party in the relationship between humans and environment.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/EnvIs_125946701259</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <bold>
+                     <sc>Definition:</sc>
+                  </bold> The theory that features of the environment ultimately determine human culture, character, and societal development</p>
+               <p>
+                  <italic>Environmental determinists hold that human activity, culture, and character are ultimately determined by environmental factors. From this point of view, the environment, rather than human activity, is the dominant party in the relationship between humans and environment.</italic>
+               </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The notion of environmental determinism achieved considerable prominence during the late nineteenth and early twentieth centuries, especially through the work of geographer <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88824968"
+                                   xlink:type="simple">Ellen Churchill Semple</related-article>. The “environment” in this context is understood to be the natural physical features of a setting—the geographical features, such as climate and landform, as opposed to factors directly or indirectly the result of human activity (such as social and economic factors). According to environmental determinists, these environmental factors determine the course of human character, action, and cultural development. Semple, for example, wrote that the climate of northern Europe causes the development of an “energetic, provident, serious, thoughtful rather than emotional, cautious rather than impulsive” character in the peoples resident there; in contrast, tropical climates lead to the development of laziness because the warm weather and ready availability of food make survival easy and do not encourage the development of a keen work ethic. </p>
+               <p>Because of this tendency toward categorization of peoples according to environmental ancestry, environmental determinism became associated with racist and imperialist attitudes. It is important to note, however, that environmental determinism is not a normative moral theory (that is, it is not a theory about how human beings “ought” to behave). It simply attempts to explain differences in human development through differences in environmental ancestry. It passes no judgment on the moral merits or otherwise of any particular character trait or culture and does not in itself justify discrimination or imperialism.</p>
+               <p>Environmental determinism has been criticized for being overly simplistic and for not providing sufficient support for its central claim. It seems implausible that one set of factors should have an ultimate determinative influence on human development, and environmental determinists have been criticized for providing very little supporting evidence for such a strong claim. Such criticism has led some environmental determinists to concede that other factors play some role, but they still believe that environmental factors are dominant.</p>
+               <p>Environmental determinism is often thought to deny human free will. The natural <xref ref-type="glossary" id="environment.gloss.1197">environment</xref> into which a person is born is not a matter of that person’s choosing, and so if environment determines individuals’ outlooks, values, and thereby their decisions, then humans are not free agents and not morally responsible for their behavior—they are just victims of their circumstances.</p>
+               <p>Some of these concerns are misplaced, however. Environmental determinism does not deny that human beings are rational deliberators who weigh and assess options and then make decisions based on those deliberations. Further, environmental determinism need not deny that an individual’s decisions play a crucial role in determining the course of that person’s character development. The most that an environmental determinist is committed to is that the course of an individual’s deliberations and thus the role of those deliberations in the development of the individual’s character will have been ultimately determined by environmental factors. That is quite different from the claim that human beings’ deliberations are pointless and inert. They are one part of the mechanism by which the environment determines the course of human development. Whether this still challenges the status of humans as fully free, morally responsible agents turns on the finer details of what free will is taken to involve.
+               </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Sauer, Carl. <italic>Carl Sauer on Culture and Landscape: Readings and Commentaries</italic>. Edited by William M. Denevan and Kent Mathewson. Baton Rouge: Louisiana State University Press, 2009.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Semple, Ellen Churchill. <italic>Influences of Geographic Environment, on the Basis of Ratzel’s System of Anthropo-Geography</italic>. 1911. Reprint. Ann Arbor, Mich.: University Microfilms International, 1993.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Sutton, Mark Q., and E. N. Anderson. <italic>Introduction to Cultural Ecology</italic>. 2d ed. Lanham, Md.: AltaMira Press, 2010.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Environmental determinism</article-title>
+                        <italic>Encyclopedia of Environmental Issues, Revised Edition</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Craig W.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Allin</surname>
+                           </name>
+                        </person-group>
+                        <year>2011</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

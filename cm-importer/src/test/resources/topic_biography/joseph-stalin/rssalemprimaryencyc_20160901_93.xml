@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rssalemprimaryencyc</book-id>
+      <book-id pub-id-type="eis-mid">HDMJ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Primary Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">HDMJ</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>31</day>
+         <month>December</month>
+         <year>2016</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="rssalemprimaryencyc.10.3331.261022"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rssalemprimaryencyc_20160901_93</book-part-id>
+            <title-group>
+               <title>Joseph Stalin</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Mia</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Minichiello</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Joseph Stalin was dictator of the Soviet Union. He remained in power for more than twenty years. Stalin helped turn Russia into a major world superpower. He also helped defeat the Nazis during World War II. However, Stalin's harsh rule resulted in millions of deaths.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Lexile</meta-name>
+                  <meta-value>720L</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>261022</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>980</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <bold>Birth date:</bold> December 18, 1878</p>
+               <p>
+                     <bold>Death date:</bold> March 5, 1953</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>Joseph Stalin was dictator of the Soviet Union. He remained in power for more than twenty years. Stalin helped turn Russia into a major world superpower. He also helped defeat the Nazis during World War II. However, Stalin's harsh rule resulted in millions of deaths.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Joseph Stalin,  1942.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="rssalemprimaryencyc-20160901-93-148790.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Reproduction Number: LC-USW33-019081-C United States. Office of War Information. Overseas Picture Division. Washington Division. Farm Security Administration - Office of War Information Photograph Collection. (Library of Congress [1]) [Public domain], </copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Sir Winston Churchill;  Franklin Delano Roosevelt; Joseph Stalin;  The leaders of the Big Three,  Stalin,  Roosevelt,  and Churchill</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="rssalemprimaryencyc-20160901-93-148984.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Library of Congress</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Background</title>
+               <p>Iosif Dzhugashvili was born on December 1878 in Gori, Georgia. At this time Georgia was part of the Russian Empire. He would later become known as Joseph Stalin. Stalin was born to poor parents. His father was a shoemaker and his mother did sewing and washing. When Stalin was young, he had several bad illnesses. Smallpox left his faced scarred. One of his arms was also deformed. As a result, many children teased him. This experience caused Stalin to seek out respect.</p>
+               <p>Stalin attended church school from 1888 to 1894. Later, he attended the Tiflis Theological Seminary to become a priest. However during this time Stalin began reading communist literature. He became more interested in communism than his studies. Stalin began to become involved in revolutionary activity. In 1899, he was expelled from seminary school. Stalin began to work full-time for the revolution. He began to write pamphlets and organized factory strikes. Communist Party leaders began to recognize Stalin's organizing abilities. In 1902, Stalin was arrested for the first time. He was exiled to Siberia, but escaped a year later. For the next ten years, Stalin was arrested seven times for revolutionary activities. He began to take on different names to avoid being arrested. It was during this time that he adopted the name Stalin.</p>
+               <p>Soon Stalin's efforts won the attention of the leader of the Bolsheviks, Vladimir Lenin. The pair worked together closely until Stalin was arrested in 1913. He was once again imprisoned in Siberia. He was freed in 1917 when the Russian Revolution released political prisoners. In 1922, Stalin was appointed the Secretary General of the Communist Party. This post gave Stalin the power to appoint all of the party's positions. Eventually, most members of the party owed their jobs to Stalin. When Lenin died in 1924, Stalin fought for power. He exiled, imprisoned, and killed most members of the old leadership. Stalin soon became the leader.</p>
+               <p>Stalin wanted to make the Soviet Union more modern. He ordered the construction of many new factories. In 1928, Stalin began to collectivize farms. This took land away from the peasants to give to the state. Many peasants and other resisted. Stalin had any farmers who resisted killed or sent to punishment camps. This policy caused a hunger crisis in Ukraine. About ten million peasants died of starvation. In 1941, the Soviet Union entered World War II. They fought for the Allied side, including the United States and Great Britain. Stalin's Red Army helped the Allies to win the war. However, when the war ended Stalin turned against the Allies. He used his power to bring communism to Eastern Europe.</p>
+               <p>Stalin remained in power until his sudden death on March 5, 1953. Stalin successfully turned the Soviet Union into a world power. However, his rule resulted in many deaths.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <title>Books</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Haugen, Brenda. <italic>Joseph Stalin: Dictator of the Soviet Union</italic>. Mankato: Compass Point, 2006. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">McCollum, Sean. <italic>Joseph Stalin</italic>. New York: Scholastic, 2010. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Joseph Stalin." <italic>Biography.com</italic>. A&amp;E Television Networks, 29 July 2015. Web. 29 Nov. 2016. &lt;e/joseph-stalin-9491723" \l "related-video-gallery" http://www.biography.com/people/joseph-stalin-9491723 - related-video-gallery&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Joseph Stalin." <italic>History.com</italic>. A&amp;E Television Networks, 2009. Web. 29 Nov. 2016. &lt;"http://www.history.com/topics/joseph-stalin" http://www.history.com/topics/joseph-stalin&gt;.</citation>
+                  </ref>
+               </ref-list>
+               <ref-list>
+                  <title>Websites</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Joseph Stalin." <italic>Biography.com</italic>. A&amp;E Television Networks, 29 July 2015. Web. 29 Nov. 2016. &lt;e/joseph-stalin-9491723" \l "related-video-gallery" http://www.biography.com/people/joseph-stalin-9491723 - related-video-gallery&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Joseph Stalin." <italic>History.com</italic>. A&amp;E Television Networks, 2009. Web. 29 Nov. 2016. &lt;"http://www.history.com/topics/joseph-stalin" http://www.history.com/topics/joseph-stalin&gt;.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

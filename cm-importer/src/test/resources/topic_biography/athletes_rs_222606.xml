@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">athletes_sp_ency_bio</book-id>
+    <book-id pub-id-type="eis-mid">GY4Q</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">GY4Q</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>7</day>
+      <month>December</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="Athletes_sp_ency_bio.10.3331.222606"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">athletes_rs_222606</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Women’s History</subject>
+            <subj-group>
+              <subject>Australian/New Zealand History</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>World History</subject>
+            <subj-group>
+              <subject>Australian/New Zealand History</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Sports, Athletics, Athletes</subject>
+            <subj-group>
+              <subject>Recreation, Games</subject>
+              <subject>Sports, Athletics, Athletes</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>Australia and Oceania</subject>
+            <subj-group>
+              <subject>Australia and Oceania</subject>
+              <subject>Australia</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Cathy Freeman</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Barbara C.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Beattie</surname>
+            </name>
+            <x xml:space="preserve">, updated by </x>
+          </contrib>
+        </contrib-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Caryn E.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Neumann</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN3149450"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Athlete. Catherine Astrid Salome Freeman was born to Cecilia and Norman Freeman in Mackay, Queensland, Australia, on February 16, 1973. Her mother and grandmother had been separated under the former policy of forced Aboriginal assimilation. Cathy was one of five children. Her parents separated when she was a child. Cathy’s mother subsequently converted to the Baha’i religion, and Cathy later credited the faith for her strength. She was nine when her mother married Bruce Barber and the family moved from place to place, struggling to make ends meet.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Cathy Freeman’s indomitable spirit, unaffected charm, enthusiasm for her sport, and quiet dignity made her an endearing Australian icon and an international hero despite her natural reluctance to be in the spotlight. Her perseverance as an athlete made her a role model for women and aspiring athletes everywhere, perhaps especially for the indigenous people of her native Australia.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>3149450-Cathy Freeman</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/Athletes_1981</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>793</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>Athlete</p>
+        </sec>
+        <sec sec-type="cover-image" indexed="true">
+          <title/>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="AN3149450" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>February 16, 1973</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Mackay, Queensland, Australia</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>
+              <sc>Sport:</sc>
+            </bold> Track and field (sprints)</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>Catherine Astrid Salome Freeman was born to Cecilia and Norman Freeman in Mackay, Queensland, Australia, on February 16, 1973. Her mother and grandmother had been separated under the former policy of forced Aboriginal assimilation. Cathy was one of five children. Her parents separated when she was a child. Cathy’s mother subsequently converted to the Baha’i religion, and Cathy later credited the faith for her strength. She was nine when her mother married Bruce Barber and the family moved from place to place, struggling to make ends meet.<index-term>
+              <primary>[n]Freeman, Cathy</primary>
+            </index-term>
+            <index-term>
+              <primary>[c]AUSTRALIA;Cathy Freeman[Freeman, Cathy]</primary>
+            </index-term>
+            <index-term>
+              <primary>[s]TRACK AND FIELD;Cathy Freeman[Freeman, Cathy]</primary>
+            </index-term>
+            <index-term>
+              <primary>[s]SPRINTS;Cathy Freeman[Freeman, Cathy]</primary>
+            </index-term>
+          </p>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <title>Don't look down on anybody. . . (10693160874)</title>
+              <p>Cathy Freeman </p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="89405276-113783.jpg"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Jason Pini/AusAID [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <title>Cathy Freeman 2000 olympics</title>
+              <p>Cathy Freeman olympic final 400m Sydney 2000</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="89405276-113784.jpg"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By Ian @ ThePaperboy.com [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Cathy enjoyed sports in grammar school, and when her athletic ability became apparent, her stepfather encouraged her and played a key role in her development as a runner. He noticed that she had powerful legs and a natural flowing gait when running. Cathy practiced in bare feet because the family could not afford track shoes.</p>
+          <p>Barber predicted to a shy ten-year-old Cathy that she would one day compete in the Olympics. Her mother also had high expectations for Cathy and had her write an affirmation of her ability, which she hung on the wall as constant reinforcement. However, Cathy’s older sister Anne-Marie, born with cerebral palsy, was Cathy’s greatest inspiration. She came to realize, through Anne-Marie, that when one is able to do something well, one should not waste the opportunity. Cathy was motivated to chart the limits of her abilities; however, she did not consciously set out to be the first person of Aboriginal descent to perform a certain task.</p>
+          <p>At the age of twelve, Cathy attended the Australian Institute of Sport at Canberra to get an assessment of her athletic ability. By the time Cathy had won an athletic scholarship to attend boarding school at Fairholme Girls College in Toowoomba at the age of thirteen, she had already made it onto the state teams for touch football, basketball, and baseball.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>The Road to Excellence</title>
+          <p>In 1988, Cathy experienced her first track success at the age of fifteen at the National School Championships in Melbourne. She performed well in the hurdles, jumps, and sprints, winning the 400 meters. Since Australia was in need of sprinting talent, Cathy decided to focus on running. At another boarding school, Kooralbyn International, Cathy received her first professional coaching. She sought selection to the Australian 4 x 100-meter relay team at the 1990 Commonwealth Games in New Zealand. She succeeded in her quest, winning a surprise gold medal in the event, beating the favored English team. She was sixteen years old.</p>
+          <p>In the 1990 National Championships, Cathy won the 200-meter title to become the youngest-ever winner. Also that year, she represented Australia at the World Junior Games in Bulgaria and ran in the 200-meter- and 4 x 100-meter relay finals. She was named the 1990 young Australian of the year and the 1991 Aboriginal athlete of the year. Cathy had become a symbol of hope and success in a country whose indigenous people had a legacy of repression. She began to focus on the 200-meter and 400-meter sprint events. She earned a place in the 400 meters at the 1992 Olympic Games but did not progress past the second heat. She ran in the 4 x 100-meter-relay final, although she did not place.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>The Emerging Champion</title>
+          <p>Cathy persevered, assisted by boyfriend Nick Bideau, a Melbourne journalist who, after their breakup in 1996, continued to serve as Cathy’s manager until 1998. Cathy won the silver medal in the 200 meters at the 1992 World Junior Championships. In 1993, she reached the semifinals in the 200 meters at the World Track and Field Championships.</p>
+          <p>In 1994, Cathy won both the 200-meter and 400-meter events at the Victoria Commonwealth Games. This led to a high world ranking and marked her as a world track star. Though initially reluctant to speak out about racial injustice, at this event she made a statement of pride in her cultural heritage by taking a victory lap draped in both the Aborigine and Australian flags, which sparked controversy. It soon became clear, however, that most Australians, especially schoolchildren, admired and supported Cathy.</p>
+          <p>In 1995, Cathy finished a disappointing fourth in the 400 meters at the World Track and Field Championships. She was determined, however, and, in 1996, cracked the 50-second barrier for the first time and set four national records for the 400 meters. Her efforts culminated in her silver-medal win behind her fiercest competitor, Marie-Jose Perec, at the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87994236"
+                             xlink:type="simple">1996 Atlanta Olympic Games</related-article>. In the event, Cathy finished in a personal best 48.63 seconds, making her the sixth fastest woman ever in the 400 meters.</p>
+          <p>Cathy had more success at the 1997 World Track and Field Championships in Athens, Greece, where she earned the gold medal in the 400 meters, becoming the first Aboriginal woman to win a world title. This win also earned her a number-one world ranking in the 400 meters. Cathy was named 1998 Australian of the year, one of the country’s highest civilian honors. Her winning streak of twenty-two consecutive 400-meter finals continued until a foot injury led to a fourth-place finish at the 1998 Bislett Games in Oslo, Norway, and kept her from competing in the 1998 Commonwealth Games. Cathy bounced back in 1999, winning the 400 meters at the World Track and Field Championships in Seville.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Continuing the Story</title>
+          <p>Cathy married Nike executive Alexander “Sandy” Bodecker in September 1999. He took a two-year leave of absence to support her in her quest for the 400-meter gold medal in the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87994257"
+                             xlink:type="simple">2000 Sydney Olympic Games</related-article>. On September 25, 2000, Cathy appeared on the track in a full bodysuit in the Australian colors of green and gold. Her shoes were yellow, red, and black, the colors of the Aboriginal flag. She won the event by a wide margin, making Olympic history by becoming the first indigenous Australian to win an individual gold medal. She once again ran her victory lap carrying both the Australian and the Aboriginal flags, while the crowd roared its approval. Her win, and her selection to light the Olympic cauldron at the Opening Ceremony, served as significant symbols of Australian social healing as well as Aboriginal pride. A song inspired by Cathy’s “Cos I’m free” tattoo even became a hit for an Aborigine artist.</p>
+          <p>Following the Olympics, Cathy took a break from running to nurse her husband through throat cancer. The couple lived in relative anonymity in Portland, Oregon. They later divorced. At the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87994301"
+                             xlink:type="simple">2002 Winter Olympics</related-article> at Salt Lake City, as a noncompetitor, Cathy carried the Olympic flag in the Opening Ceremony. Returning to competition at the 2002 Commonwealth Games, she helped her team win the 4 400. Cathy subsequently lost interest in racing and retired on July 15, 2003. She worked as a writer for the magazine <italic>Deadly Vibe</italic> and the English newspaper <italic>The Daily Telegraph</italic>. Cathy remarried in 2006 and had her first child in 2011.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Summary</title>
+          <p>Cathy Freeman’s indomitable spirit, unaffected charm, enthusiasm for her sport, and quiet dignity made her an endearing Australian icon and an international hero despite her natural reluctance to be in the spotlight. Her perseverance as an athlete made her a role model for women and aspiring athletes everywhere, perhaps especially for the indigenous people of her native Australia.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Abrahamson, Alan. “Runner Is a Symbol of Aboriginal Freedom.” <italic>Los Angeles Times</italic> 25 Sept. 2000: A1. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Basquali. <italic>Catherine: Intimate Portrait of a Champion.</italic> London: Birdy Num-Num, 2000. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Freeman, Cathy, and Scott Gullan. <italic>Cathy: Her Own Story</italic>. New York: Viking, 2003. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Gordon, Henry. <italic>The Time of Our Lives: Inside the Sydney Olympics, Australia and the Olympic Games, 1994-2002</italic>. London: Centre for Olympic Studies, 2004. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">McGregor, Adrian. <italic>Cathy Freeman: A Journey Just Begun.</italic> New York: Random, 2000. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Phillips, Andrew. “A Race for All Australia.” <italic>Maclean’s</italic>, October 9, 2000, 51.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Sieg, Lindstrom. “Freeman Captivates a Nation: One for the Home Team.” <italic>Track and Field News</italic>, December, 2000, 44-45.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Cathy Freeman</article-title>
+                <source>Great Athletes</source>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names/>
+                    <x xml:space="preserve">
+</x>
+                    <surname/>
+                  </name>
+                </person-group>
+                <year>2009</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

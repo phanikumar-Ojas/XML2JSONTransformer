@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">gl19_rs</book-id>
+      <book-id pub-id-type="eis-mid">FYOF</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>31</day>
+         <month>July</month>
+         <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>23</day>
+         <month>September</month>
+         <year>2014</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GL19_RS.10.3331.138754"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">gl19_rs_138754</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>US Civil War &amp; Reconstruction Era (1856-1877)</subject>
+                     <subject>US History 1878-1900</subject>
+                     <subject>US History 1901-1950</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Women’s History</subject>
+                  <subj-group>
+                     <subject>US Civil War &amp; Reconstruction Era (1856-1877)</subject>
+                     <subject>US History 1878-1900</subject>
+                     <subject>US History 1901-1950</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="subject">
+                  <subject>Arts</subject>
+                  <subj-group>
+                     <subject>Artists, Artisans, the Arts</subject>
+                     <subject>Painting, Painters, Drawing</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Mary Cassatt</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Michael</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Witkoski</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3134740"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>Fine Artist. Mary Stevenson Cassatt was the second daughter and fourth child of Robert and Katherine Johnson Cassatt. Robert Cassatt earned a comfortable income from stock trading and real estate. In 1849, the family moved to Philadelphia, but in 1851, they left for an extended stay in Europe. The Cassatts first lived in Paris, but in 1853 they moved to Germany, where the eldest son, Alexander, could study engineering, and another son, Robert, could receive medical attention. In 1855, Robert died and was buried in Darmstadt; many years later, Mary Cassatt would have his body moved to be interred with others of the family at her French château. Cassatt, Mary [g]United States;Mary Cassatt[Cassatt, Mary] [c]Art;Mary Cassatt[Cassatt, Mary] Cassatt, Mary</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Using Impressionist techniques to create vivid, unsentimental portraits, Cassatt became one of the foremost American painters at a time when the art world was regarded as an exclusively male domain.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3134740-Mary Cassatt</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GL19_3651011011</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>Fine Artist</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>May 22, 1844</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Allegheny City (now Pittsburgh), Pennsylvania</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>June 14, 1926</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Château de Beaufresne, France</p>
+                  </list-item>
+               </list>
+               <p>
+                     <bold>
+                        <sc>American painter</sc>
+                     </bold>
+                  </p>
+               <p>
+                     <italic>Using Impressionist techniques to create vivid, unsentimental portraits, Cassatt became one of the foremost American painters at a time when the art world was regarded as an exclusively male domain</italic>.</p>
+               <p>
+                     <bold>
+                        <sc>Area of achievement</sc>
+                     </bold> Art</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Early Life</title>
+               <p>Mary Stevenson Cassatt was the second daughter and fourth child of Robert and Katherine Johnson Cassatt. Robert Cassatt earned a comfortable income from stock trading and real estate. In 1849, the family moved to Philadelphia, but in 1851, they left for an extended stay in Europe. The Cassatts first lived in Paris, but in 1853 they moved to Germany, where the eldest son, Alexander, could study engineering, and another son, Robert, could receive medical attention. In 1855, Robert died and was buried in Darmstadt; many years later, Mary Cassatt would have his body moved to be interred with others of the family at her French château.<index-term role="personages">
+                     <primary>Cassatt, Mary</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[g]United States;Mary Cassatt[Cassatt, Mary]</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[c]Art;Mary Cassatt[Cassatt, Mary]</primary>
+                  </index-term>
+                     <index-term role="personages">
+                     <primary sortas="Cassatt, Mary">Cassatt, Mary</primary>
+                  </index-term>
+                  </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Edgar Degas - Mary Cassatt - Google Art Project</title>
+                     <p>Mary Cassatt</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="88826672-92712.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Edgar Degas [Public domain or Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Mary Cassatt-Selfportrait</title>
+                     <p>Mary Cassatt</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="88826672-92713.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Mary Cassatt [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>The family returned to the United States in 1855, settling first in the
+                  Pennsylvania countryside and then back in Philadelphia, where Mary enrolled, in
+                  1861, at the Pennsylvania Academy of Fine Arts. During her four years at the
+                  academy she received a solid, if uninspiring, education in artistic fundamentals.
+                  Students began with drawings from casts of statues, progressed to live models, and
+                  completed their training by making oil copies of paintings. The faults of this
+                  process were that the instructors were competent but undistinguished, and the
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="100259141"
+                                   xlink:type="simple">paintings</related-article> available for students were mediocre. At this time
+                  there were no major collections of art in the United States. Cassatt realized that
+                  to become an artist she needed exposure to the best in art, so she decided she
+                  must go to Europe.<index-term>
+                     <primary>Painting;United States</primary>
+                  </index-term>
+               </p>
+               <p>In 1865, it was unheard of for a young woman to become a professional artist, and shocking for her to leave family and embark alone on a tour of Europe. However, these were precisely the goals that Cassatt determined to achieve. There was considerable opposition from her family, to both her desire for an artistic career and the European visit, but she persuaded them to accept her plans. This determination was characteristic of Cassatt, and its lifelong nature could be seen in her appearance. She was tall, thin, with fine but strong features and blue-gray eyes. Direct and forceful, she expressed her beliefs and opinions without reserve or regard for the sensibilities of others. Extremely energetic, she could work from dawn until the light faded but was able to put her paintings aside to care for her family; she herself never married. Such was the young woman who sailed for Europe in 1866, anticipating the first steps in her real artistic apprenticeship.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Life’s Work</title>
+               <p>In Paris, Cassatt enrolled in the École des Beaux Arts and studied briefly with a
+                  fashionable society painter. Soon she left to study independently, mainly visiting
+                  museums and galleries and copying their paintings. In 1867, the Paris World’s Fair
+                  was held. Outside the official exhibitions, the painters <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807107"
+                                   xlink:type="simple">Gustave
+                     Courbet</related-article>
+                  <index-term role="personages">
+                     <primary>Courbet, Gustave</primary>
+                  </index-term> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88806991"
+                                   xlink:type="simple">Édouard Manet</related-article>
+                  <index-term role="personages">
+                     <primary>Manet, Édouard</primary>
+                  </index-term> held a private show. Unlike conventional painters, Courbet and Manet
+                  chose subjects that were contemporary rather than classical and portrayed them
+                  with vivid, unsparing realism, precise in observation and presentation. Cassatt
+                  was deeply influenced; Manet had the most important impact on her work prior to
+                  her association with Edgar Degas<index-term role="personages">
+                     <primary>Degas, Edgar</primary>
+                  </index-term>.</p>
+               <p>During the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160603"
+                                   xlink:type="simple">Franco-Prussian War</related-article> of 1870, Cassatt returned to
+                  Philadelphia, but in 1871 she was back in Europe, spending eight months in Parma,
+                  Italy, where she made an extensive study of the painter <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88367394"
+                                   xlink:type="simple">Antonio Allegri da
+                     Correggio</related-article>
+                  <index-term role="personages">
+                     <primary>Correggio, Antonio Allegri da</primary>
+                  </index-term>. The result can be seen in her work, chiefly in her depictions of
+                  children, which owed much to Correggio’s paintings of Madonna and Child. She
+                  visited Spain, where she was particularly impressed by Diego Rodriguez de Silva
+                  Velázquez and El Greco. She also visited the Netherlands, where the paintings of
+                  Peter Paul Rubens, with his outstanding flesh tints and mastery of the human form,
+                  made a profound contribution to her style.</p>
+               <p>In 1873, Cassatt decided to settle permanently in Paris. Given the artistic ferment of the French capital and its central role in art, at the time it was the only natural place for a serious artist. In 1872, a painting of hers, signed “Mary Stevenson,” had been accepted by the Paris Salon. She continued to submit work to the Salon for several years but grew increasingly disenchanted with the Salon’s arbitrary and restrictive standards. One of her paintings was rejected because the background was too light; with a darkened background the painting was resubmitted and accepted.</p>
+               <p>Decisions such as this were one reason Cassatt ceased exhibiting in the Salon
+                  after 1877. The most important reason, however, was her discovery of the
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89402953"
+                                   xlink:type="simple">Impressionist
+                     movement</related-article>
+                  <index-term>
+                     <primary>Impressionism</primary>
+                  </index-term> and her association with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88806988"
+                                   xlink:type="simple">Edgar Degas</related-article>. The first Impressionist
+                  show was held in 1874, with works by such artists as Degas and Manet. The
+                  exhibition was fiercely attacked by traditional critics, but Cassatt perceived
+                  immediately the breakthrough that had been made. The Impressionist group contained
+                  widely diverse artists, who shared a common preoccupation with light—how to
+                  capture it, how to set it down on canvas. Their use of light and color was the key
+                  element in the movement, and after Cassatt viewed their work, light and color
+                  became essential in her work as well.</p>
+               <p>Degas had seen her work and admired it, and in 1877, they met. At forty-three, he was ten years older, an established artist known for his paintings and his sharp, often cutting remarks. The two had a stormy but productive relationship that lasted forty years. Although some have speculated on a romantic liaison between the two, it appears likely that their friendship, while close, was mainly professional. They had bitter arguments, over painting, politics, or personalities, but they always reconciled, usually at Cassatt’s initiative. Degas was certainly the most important influence on Cassatt’s artistic career.</p>
+               <p>Degas asked her to join the 1877 exhibition of the Impressionists. “I accepted with joy,” she later said. “Now I could work with absolute independence without considering the opinion of a jury. I had already recognized who were my true masters. I admired Manet, Courbet, and Degas. I took leave of conventional art. I began to live.”</p>
+               <p>Cassatt’s relationship with Degas reinforced her natural strengths. They both chose contemporary subjects, preferring the human figure rather than landscapes, and both insisted on the importance of drawing and line. It was through Degas that Cassatt came to know the Japanese prints that had been introduced to France during the 1850’s. From these she developed a simple, strong style that emphasized unusual angles of vision (from above, from the side, with the main figure only partially in view), a flattening of perspective, and the use of contrasting areas of pattern. Some of her best pieces were aquatints inspired by the Japanese prints.</p>
+               <p>By 1880, Cassatt was an acknowledged member of the Impressionist movement and exhibited regularly in its shows; she was the only American painter ever to do so. Urged on by Degas, she branched into pastels and prints, showing great promise in both.</p>
+               <p>Cassatt’s father, mother, and sister Lydia joined her in Paris in 1877; nursing them through a series of illnesses often deprived her of painting time. In 1880, her brother Alexander and his family came to live with the Cassatts. Inspired by her nieces and nephews, Mary began her paintings of mother and child, the theme with which she is most popularly associated.</p>
+               <p>The 1890’s were Mary Cassatt’s most creative and productive period. In addition to her paintings and pastels, it was then that she produced the series of aquatints inspired by Japanese woodblock prints that she exhibited in her first one-woman show of 1891.</p>
+               <p>Back in the United States, Cassatt’s fame grew slowly. An exhibit of the Impressionists in 1886 included three of her works, and her paintings were shown in Philadelphia, Boston, New York, and other cities. By 1891, she was well known enough to receive a commission for a mural on the theme of “modern woman” at the Chicago World’s Fair. She painted the canvas, her largest work, at the Château de Beaufresne, which she had recently purchased.</p>
+               <p>Meanwhile, full recognition in Cassatt’s homeland lagged. Her first one-woman show in New York (1895) had a lackluster reception, and she was not fully appreciated until after her death in 1926. In France, however, Cassatt was well known. Her second one-woman show, held in Paris in 1893, was a large one: ninety-eight works, consisting of oils, pastels, and graphics. Her exhibition was well received by the public and the critics. Other shows were equally acclaimed, and she was quickly recognized as a major artist. In 1904, she was awarded the Legion of Honor.</p>
+               <p>In addition to being a creative artist, Cassatt was extremely important in
+                  bringing artwork to the United States. In 1873, she met Louisine Elder,<index-term role="personages">
+                     <primary>Elder, Louisine</primary>
+                  </index-term> who shared her interest in art. In 1901, Cassatt went on an extended
+                  European purchasing tour with Elder and Elder’s husband, the wealthy banker H. O.
+                     Havemeyer<index-term role="personages">
+                     <primary>Havemeyer, H. O.</primary>
+                  </index-term>. Over the next decade Cassatt advised them on a large number of
+                  purchases. Thanks to her perceptive eye and knowledgeable advice, the Havemeyers
+                  bought many Impressionist works and many important earlier paintings, such as
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88367410"
+                                   xlink:type="simple">El
+                     Greco</related-article>’s <italic>View of Toledo</italic> and his
+                     <italic>Assumption of the Virgin</italic>—the two most notable works of that
+                  artist to be found outside Spain. In 1929, the Havemeyer Collection went to the
+                  New York Metropolitan Museum of Art, forming the foundation of a national
+                  treasure.</p>
+               <p>After 1900, Cassatt’s work declined in quantity and, to some extent, in quality. Partly this was a result of her extensive work in collecting, but primarily her artistic decline was caused by family problems and failing eyesight. Her sister Lydia had died at an early age; in 1895, her mother died after a long illness, during which Cassatt was occupied as her nurse. The death of her favorite brother, Alexander, in 1906 was another severe blow, and five years later, after a tour of Egypt, her brother Gardner fell seriously ill and died in Paris. For a time, Mary Cassatt suffered from what she, and others, termed a “breakdown.” It was not until 1912 that she began to work again.</p>
+               <p>When she did, it was in pastels, mainly because her failing eyesight did not allow the precision of prints or oils. Bothered by cataracts, she submitted to treatments and operations, none of which restored her sight; by 1913 her work was ended. She spent World War I removed from her beloved Château de Beaufresne because it was close to the battle lines.</p>
+               <p>In 1917, her friend and fellow professional, Degas, died. He had been the last link with the work and success of earlier years. She returned to her château in 1920 and remained there for the rest of her life. Nearly blind, she could not work but entertained young artists, mostly Americans, with her fiercely held, forcefully delivered views on art. She died at the Château de Beaufresne on June 14, 1926.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>“I am not willing to admit that a woman can draw that well,” Degas said upon viewing a work by Cassatt. This remark of an exceptional artist, who was Cassatt’s closest friend and influence, reveals the obstacles facing a woman artist in the latter half of the nineteenth century. It is proof of Cassatt’s determination and talent that she was accepted during her lifetime as one of the premier artists of the day; significantly, Degas purchased the very picture that inspired his comment.</p>
+               <p>Cassatt’s contributions to art came in two phases: her own creations and her work in collecting. As an adviser to wealthy Americans such as H. O. Havemeyer and the banker James Stillman, Cassatt helped build some of the truly outstanding art collections of the twentieth century and brought priceless treasures to American museums. Cassatt made certain that no American art student would again face her early dilemma of living in a country that possessed no great artistic works. Such collections were important to Cassatt, because she firmly believed that the only way of learning to paint was to see, and copy, great paintings.</p>
+               <p>The energy that went into building collections was energy lost to her own work. She was also burdened with caring for her family, and she was increasingly troubled with eye problems. Cassatt, therefore, had a relatively limited production as an artist: about 225 prints and 617 oils and pastels, many of them studies rather than finished works.</p>
+               <p>It is the excellence of her work, rather than its quantity, which signals Cassatt’s undeniable achievement. In her chosen subjects, mothers and children, and the female form, she achieved a powerful, accurate, and original vision that rejected traditional sentiment and convention. She brought together the emphasis on light stressed by the Impressionists, the new angles of vision revealed by photography and Japanese prints, and the clarity and directness demanded by all great painters. Mary Cassatt blended these qualities together through her own honesty, efforts, and genius, producing a body of work that is among the most important in modern art.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Further Reading</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Breeskin, Adelyn. <italic>Mary Cassatt: A Catalogue Raissoné of the Oils, Pastels, Watercolors, and Drawings</italic>. Washington, D.C.: Smithsonian Institution Press, 1970. Contains a short but highly informative biography of Cassatt’s life and career. The notes that accompany the illustrations are excellent and provide the reader with a solid guide to Cassatt’s development as an artist.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Bullard, E. John. <italic>Mary Cassatt: Oils and Pastels</italic>. New York: Watson-Guptill, 1976. The introductory sketch of Cassatt’s life is excellent, and the commentary on the pictures is first-rate. Cassatt believed that the only way to learn painting was to copy great works; the best way to study her is to look at her works.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Carson, Julia. <italic>Mary Cassatt</italic>. New York: David McKay, 1966. A fine introductory biography, geared toward the younger reader.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Cassatt, Mary. <italic>Cassatt and Her Circle: Selected Letters</italic>. Edited by Nancy Mowll Mathews. New York: Abbeville Press, 1984. A generous collection of letters by Cassatt and her associates. More of interest to the specialist than to the general student.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Hale, Nancy. <italic>Mary Cassatt</italic>. Garden City, N.Y.: Doubleday, 1975. This biography is generally good on facts and relationships, but occasionally strays into confusing speculation about Cassatt’s thoughts and motives.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">McKown, Robin. <italic>The World of Mary Cassatt</italic>. New York: Thomas Y. Crowell, 1972. A wide-ranging view of Cassatt’s development as an artist; the work assumes that the reader already has a fair understanding of the period under discussion. Contains an excellent bibliography.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Mancoff, Debra N. <italic>Mary Cassatt: Reflections of Women’s Lives</italic>. New York: Stewart, Tabori &amp; Chang, 1998. A good introduction to Cassatt’s life and work. Excellent reproductions of her paintings, with detailed captions providing critical information that make the work more meaningful.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Mathews, Nancy Mowll. <italic>Mary Cassatt: A Life</italic>. New York: Villard Books, 1994. Reprint. New Haven, Conn.: Yale University Press, 1998. Mathews, an art historian who edited a collection of Cassatt’s letters (see above), provides a multifaceted portrait of the artist, depicting her as sometimes difficult and always outspoken, single-minded, and independent.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Pollock, Griselda. <italic>Mary Cassatt: Painter of Modern Women</italic>. London: Thames and Hudson, 1998. Pollock, a feminist art critic, contradicts the image of Cassatt as a wimpy painter of babies. She maintains that Cassatt was a “painter of modern women,” influenced by Degas, Manet, and other Impressionists, who brought a feminist perspective to the art world.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Sweet, Frederick. <italic>Miss Mary Cassatt: Impressionist from Pennsylvania</italic>. Norman: University of Oklahoma Press, 1966. This biography has good sources—Sweet was one of the first authors with wide access to letters of Cassatt and her associates—and excellent documentation. The approach, however, is neither critical nor analytical.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Mary Cassatt</article-title>
+                           <italic>Great Lives from History: The Nineteenth Century</italic>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>John</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Powell</surname>
+                           </name>
+                        </person-group>
+                           <year>2007</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

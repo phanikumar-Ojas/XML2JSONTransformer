@@ -1,0 +1,1632 @@
+{
+  "_version": 14,
+  "locale": "en-us",
+  "uid": "bltee464b8bc545f82b",
+  "_in_progress": false,
+  "abstract": {
+    "uid": "1a121c92c2c0400eaf966f75478c193f",
+    "attrs": {},
+    "children": [
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "3e1677d4fc174df6a4d00a61f00548b5",
+        "children": [
+          {"text": ""}
+        ]
+      }
+    ],
+    "type": "doc",
+    "_version": 14
+  },
+  "art_spec_summary": "",
+  "art_topic": "Debate/POV/US",
+  "article_an": "103331povus2015247730",
+  "article_definitions": [
+    {
+      "uid": "blt6ee1a9995777a333",
+      "_content_type_uid": "article_product_definition"
+    }
+  ],
+  "article_id": "pov_us_2015_247730",
+  "article_work_type": "update",
+  "assigned_to": "unassigned",
+  "associated_images": null,
+  "audience": null,
+  "author_note": {
+    "uid": "db886207ecfc48e390d1299e492616ee",
+    "attrs": {},
+    "children": [
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "0c6e0cdfaaf049c79d2af8062cb9042b",
+        "children": [
+          {"text": ""}
+        ]
+      }
+    ],
+    "type": "doc",
+    "_version": 14
+  },
+  "automatic_image_placement": null,
+  "bulk_project_image_placement": "",
+  "citations": {
+    "uid": "60e0fdca9de24a1a8ddc67dbeab0f4ae",
+    "attrs": {},
+    "children": [
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "b29ce185e2c64e9ba873ccf0ffd80c97",
+        "children": [
+          {"text": ""}
+        ]
+      }
+    ],
+    "type": "doc",
+    "_version": 14
+  },
+  "collection_debate_category": "Sex Education",
+  "collection_topic": "Debate",
+  "collections": [
+    {
+      "uid": "blte57b64fa4cd77317",
+      "_content_type_uid": "collection"
+    }
+  ],
+  "contributors": [],
+  "copied_to_build": null,
+  "created_at": "2022-11-07T16:37:53.427Z",
+  "created_by": "blt814e7c162ef42f1c",
+  "current_project": [
+    {
+      "uid": "bltd8769d753ff10879",
+      "_content_type_uid": "project"
+    }
+  ],
+  "current_update_type": null,
+  "custom_pdf_only_no_full_text_": false,
+  "data_pulls": [],
+  "data_type": "xml salem",
+  "date_added": "2016-05-05",
+  "date_created": "2016-03-01",
+  "date_in_repository": "2016-05-05",
+  "date_in_repository_updated": "2017-12-15",
+  "do_not_use": false,
+  "editor_due_date": null,
+  "editor_notes": "",
+  "image_status": null,
+  "indexed_by_a_i": null,
+  "last_update_type": ["99: Use as is"],
+  "last_updated_date": "2016-03-01",
+  "lexile": 1090,
+  "main_body": {
+    "uid": "c1928cc1292e442a87f1273618aeeb9d",
+    "attrs": {},
+    "children": [
+      {
+        "type": "fragment",
+        "attrs": {},
+        "uid": "e25da7c70eb247f2bbe3f77d50d1ca8e",
+        "children": [
+          {"text": ""}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "d6b331288f544671ab39ab294a92f62e",
+        "children": [
+          {"text": ""},
+          {
+            "uid": "541e8a7cba804be2a263089a1fab4bdd",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "This guide is intended to help you evaluate the topics presented in EBSCO Information Services\u2019 "},
+              {
+                "text": "Points of View Reference Center™",
+                "italic": true
+              },
+              {"text": ". Using this analysis will enhance your ability to read critically, develop your own perspective on the issue of abstinence education, and make an effective argument on the topic, in writing or in a debate"}
+            ]
+          },
+          {"text": "."}
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "9906206fea644433a1664f55ccd880ef",
+        "children": [
+          {"text": "Before You Read"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "6b0c55ecf6954b22acb4d4e187bfc6bf",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "a09ea2fe1b824a6aba2f8644539ad930",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "6e8ee9a443584e6da96804dcb16e6580",
+                "children": [
+                  {"text": "In "},
+                  {
+                    "uid": "b8add61b1105455991fb3ed53f1b4b09",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "a single sentence, state what you currently think is/are the argument(s) in the abstinence education debate"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "f8e4cb3abeee4ae396241a07e80f5de8",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "e62a9a9f0e4a471e97068ac4ff4a082d",
+                "children": [
+                  {"text": "On "},
+                  {
+                    "uid": "ff42d76488454be39a51a8b4e58acf75",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "the Points of View home page, under Browse by Category, go to \u201cSex Education"}
+                    ]
+                  },
+                  {"text": ",\u201d and then click on \u201cAbstinence Education.\u201d"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "f9bc157b65a340c4aca51fed8ce2d4ba",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "80d4be348716467096e5d98f60202b1a",
+                "children": [
+                  {"text": "Each "},
+                  {
+                    "uid": "735052a6aa8a4dd7b688b8bce0f24db4",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "topic in "},
+                      {
+                        "text": "Points of View Reference Center™",
+                        "italic": true
+                      },
+                      {"text": " has three main Points of View sections. While there may be many opinions on the issue, these sections are designed to provide a base from which you may engage in further analysis. The Overview provides general background information on the issue. The Point and Counterpoint present opposing perspectives on the issue, with talking points that support those positions"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "1c2f407da7b14aee87fa547e0efc1bec",
+        "children": [
+          {"text": "As You Read"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "f4817bffedd4400291a0982ea978b993",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "23ca539aab0c4e659bbb8472945ae6c9",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "8ebe474cc89c41b4bb5ef2b4e2166012",
+                "children": [
+                  {
+                    "text": "Read",
+                    "attrs": {
+                      "style": {}
+                    },
+                    "bold": true
+                  },
+                  {"text": " "},
+                  {
+                    "uid": "db75159d966e4b3e92ae984422de56d3",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {
+                        "text": "the Overview, Point, and Counterpoint sections",
+                        "bold": true
+                      },
+                      {"text": ". "}
+                    ]
+                  },
+                  {"text": ""},
+                  {
+                    "uid": "cf83689c72f14781a53882c76dde11f1",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "Reading all three will enable you to better understand the controversy, providing a foundation from which you can broaden your knowledge of the topic"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "a0fe1dd5b4344ef2a389b1106d01b8c2",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "61675819e9084cac88ce3f66afa5e4ad",
+                "children": [
+                  {
+                    "text": "Take notes",
+                    "attrs": {
+                      "style": {}
+                    },
+                    "bold": true
+                  },
+                  {"text": " "},
+                  {
+                    "uid": "b10ecdb12a5a49d19cfb65852cf05186",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "on the main ideas. Use the online Notes tool to make notes about the article and save them for later. To find it, see the Tools column to the right of the article on your screen. Look for the Create Note icon on the list"}
+                    ]
+                  },
+                  {"text": ". O"},
+                  {
+                    "uid": "c2bda5fbdc6b46deba741efdb4feae4e",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "r, print out the essay and highlight the main ideas. Circle key words."}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "cdf2be667c7e483e8a4749c1f9141222",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "51e935e25f2a4636ab7464da174072f6",
+                "children": [
+                  {
+                    "text": "Review the terms",
+                    "attrs": {
+                      "style": {}
+                    },
+                    "bold": true
+                  },
+                  {"text": " "},
+                  {
+                    "uid": "e8f131a6a0fd49049f746ba54103d3a1",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "in the Understanding the Discussion section of the Overview"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "2d75ad1202c2433fabe7fb5d76fe6728",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "c482cba2960e43d99da78a77149c52e2",
+                "children": [
+                  {
+                    "text": "Organize your ideas.",
+                    "attrs": {
+                      "style": {}
+                    },
+                    "bold": true
+                  },
+                  {"text": " "},
+                  {
+                    "uid": "860717e080ca42129c22d186613d3a68",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "Go to the Research Guide \u201cVisual Ways to Organize Your Ideas.\u201d You can access it from the Research Guides link in the Reference Shelf section on the home page. Use one of the graphic organizer templates provided to break the essay down into its main points. Bottom line: use the approach that suits you best."}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "c728c1c3231743d0a2bd6474cc2853c7",
+        "children": [
+          {"text": "Judge Fact and Opinion"}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "8768ff9afe784b3196ed60587f97e8aa",
+        "children": [
+          {"text": "Review "},
+          {
+            "uid": "5da20b7603b040109b283ceb1f9574d8",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "the Research Guide article titled \u201cJudging Fact vs. Opinion"}
+            ]
+          },
+          {"text": ".\""}
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "06eea461f7cf45cdb1cd5e1cf1ecb4c6",
+        "children": [
+          {"text": "FACTS"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "b9056f0c00e34857a37b8b7709a79e04",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "aef76710b485471ba4a6cc522d25a9b4",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "972fbf550aaf40df9ccc0047bb7b0e41",
+                "children": [
+                  {"text": "Facts "},
+                  {
+                    "uid": "526a586e14e847d396df3bff78c92a23",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "are statements that can be proved true or false"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "65e056716ae24fec83557976862e7103",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "15631ef293d7414a85263547fc78fd8c",
+                "children": [
+                  {"text": "Facts "},
+                  {
+                    "uid": "f8b1e483f0f84acbac4ad883f412865b",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "tell what actually happened"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "7943256dbc0346dd9dbb8b7f7a56f678",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "d56e996a0c1b478499b38c3fea773845",
+                "children": [
+                  {"text": "Facts "},
+                  {
+                    "uid": "ad48dbc6c5604893ae702f44f037a76d",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "tell what is happening now"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "001a099819454945a51aad2bd0065707",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "b13a67475e57454e90c4f1243f613365",
+                "children": [
+                  {"text": "Facts "},
+                  {
+                    "uid": "df7bae59ccb9427bb4fd3673e8b5d1e0",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "state something that can be observed or verified"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "f585e815aaab4bbc9a00c75f335c3cfc",
+        "children": [
+          {"text": "OPINIONS"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "7f619d2753c749c792e20b228a2b0e6d",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "fc93d74314f546eaaca8fdfb543fc6d5",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "1649b22a791541169a81b5a5f619ff72",
+                "children": [
+                  {"text": "Opinions "},
+                  {
+                    "uid": "4ac056248c5c41d88ff90591247a0348",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "are statements that cannot be proved true or false because they express a person\u2019s thoughts, beliefs, feelings, or estimates"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "f87f3d54c7114769aa9b044cf1e930df",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "6a8cb81ba22a4a0d9bb8f1ba9c1c3180",
+                "children": [
+                  {"text": "Opinions "},
+                  {
+                    "uid": "16fea67a675746618db8fb7bcef90597",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "express worth or value"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "fbc7029c98834c14a266773bed0ffdf7",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "c12524a151d840689a6a29bac83fd7b7",
+                "children": [
+                  {"text": "Opinions "},
+                  {
+                    "uid": "0e8b9493f14247798207af351e6dc529",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "express what the author or speaker thinks should or should not be thought or done"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "15184991d85f4c348f60f00ddb1c25d2",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "69ba8768b7c944f6932bde864fe1825a",
+                "children": [
+                  {"text": "Opinions "},
+                  {
+                    "uid": "c03ca3d80fb544788c75b54ff658ca9a",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "are based on what seems true or probable"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "dff967bd0c014d78976d914b1860d3ed",
+        "children": [
+          {"text": "Example 1:"}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "51074513ad1a4533a26f844f46c1bc19",
+        "children": [
+          {
+            "text": "Fact:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " The Federal Food and Drug Administration approved Enovid, a birth control medication, in 1960."}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "b1779d4cc5ff4b93a813081d19c87333",
+        "children": [
+          {
+            "text": "Opinion:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " Enovid and similar birth-control medications were largely responsible for the increase in numbers of teenagers having premarital sex during the \u201csexual revolution\u201d of the 1960s."}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "831132fa87cd4f6cb52e426351917fd5",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "8c673bb6436449c6a1f3bd38e6693f7e",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "305c9c0d41244daea0f9155d87a761ba",
+                "children": [
+                  {"text": "In this example, the opinion links the availability of birth control medications to an increase in premarital sexual activity and claims the medications are \u201clargely responsible,\u201d a claim that, though possible, cannot be definitively proved."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "216dbee3a0a94ac5b6f4f2bfa1144141",
+        "children": [
+          {"text": "Example 2:"}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "ef196aa7b8814da8822c62173c6a6b1d",
+        "children": [
+          {
+            "text": "Fact:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " Abstinence is the only method of birth control that is 100 percent effective against pregnancy and sexually transmitted infections."}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "802d4ac3dfce4b7f8c1c6c453bc75501",
+        "children": [
+          {
+            "text": "Opinion:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " Teenagers would be more willing to recognize the benefits of abstinence if the media didn\u2019t constantly glamorize sex."}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "bc90b7c1e92a40b3b62d77b4aacdec83",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "41c22c35323b4865b1d897874fcb32ad",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "10aecfa9414144b599921f15dc2afbb2",
+                "children": [
+                  {"text": "In this example, the opinion blames the media for teenagers\u2019 unwillingness to refrain from premarital sex, although the extent to which the media may or may not influence behavior cannot be proved."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "95b3c245747e4c4a9fa5cfb6c0d18439",
+        "children": [
+          {"text": "Example 3:"}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "b9498ea6e5a1432b9ebd47328fefa07f",
+        "children": [
+          {
+            "text": "Fact:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " STIs such as chlamydia, gonorrhea, and genital herpes are transmitted during sexual relations."}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "71a432b4e1dc4cb085d8e82b8f6b6eb3",
+        "children": [
+          {
+            "text": "Opinion:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " Advocating abstinence for teenagers is a battle that cannot be won. Teachers and parents would better serve teenagers by educating them about the dangers of STIs and stressing the necessity of practicing safe sex."}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "2bf34b57516e462d87d87993da84f274",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "c997cfc08d074ee3b632a5964174966b",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "1975d329bf0449338240a3e804432080",
+                "children": [
+                  {"text": "In this example, the statement makes the unprovable claim that teenagers will not embrace abstinence and attempts to convince readers that sex education offers a better approach to the issue of premarital sex."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "ca631666018e4da4b11d9bfe84ee014a",
+        "children": [
+          {"text": "Example 4:"}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "66492290042c484bb9ca4d2641dc2c92",
+        "children": [
+          {
+            "text": "Fact:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " "},
+          {
+            "uid": "5b43fe1d8b7146d0ac2e5cb725ea781a",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "The Guttmacher Institute reported in 2021 that more than 90 percent of American parents support sex education in high school that covers topics including STIs, healthy relationships, and birth control."}
+            ]
+          },
+          {"text": ""}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "fcf73cb87a144a0ab93b19dac797de38",
+        "children": [
+          {
+            "text": "Opinion:",
+            "attrs": {
+              "style": {}
+            },
+            "bold": true
+          },
+          {"text": " Comprehensive sex education is the best form of sex education"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "c3d066ea80ce42758671040702a28df5",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "2f65d58f5d1c4f59976d19e59dd64274",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "71314f145d53464188f5bb0f63887eab",
+                "children": [
+                  {"text": "In this example of an opinion, \"best\" is a value judgement that cannot be proven. "}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "2adf21cfc9ce4449b4cfbc33e34790b9",
+        "children": [
+          {"text": "Based "},
+          {
+            "uid": "902018025dcd4fb2b9b3e5bcd97660d6",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "on the criteria listed above, select"}
+            ]
+          },
+          {"text": ":"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "9535ddd3af5c407ea9010b50489e9b16",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "a3cae79a21674f498504bcd565545950",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "b8904acbd5544fdc8696a6bb3c8dfa08",
+                "children": [
+                  {"text": "Three "},
+                  {
+                    "uid": "30a9861b33234208a354cd95ebc8e5a7",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "fact statements from the Overview, Point, or Counterpoint sections, or one of the bibliographic sources within the essay on abstinence education."}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "1f181d5bb2374c13881ec99cd32ac8a1",
+        "children": [
+          {
+            "uid": "8253821bff994cb0bc708a3427c00ba7",
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "attrs": {},
+                "uid": "7d3aa5dfeeeb40bd92626ec6948dfc64",
+                "children": [
+                  {"text": "Three "},
+                  {
+                    "uid": "2c96ccae0b6647fdaa474a7984ed8353",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "opinion statements from the Overview, Point, or Counterpoint sections, or one of the bibliographic sources within the essay on abstinence education."}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              }
+            ],
+            "id": "11fa0405ab924449b5434da844ff683c",
+            "attrs": {}
+          },
+          {
+            "type": "h1",
+            "attrs": {},
+            "uid": "5ce3b88b55d94050b62a94f3bf58fcf2",
+            "children": [
+              {"text": ""},
+              {
+                "uid": "4dcab342f3ac4ee0b015606526647c90",
+                "type": "span",
+                "attrs": {},
+                "children": [
+                  {"text": "In Depth"}
+                ]
+              },
+              {"text": ""}
+            ]
+          },
+          {
+            "type": "p",
+            "attrs": {},
+            "uid": "48b9811d896048ed966d0bc68dcada9b",
+            "children": [
+              {"text": "Use "},
+              {
+                "uid": "34af8a9728e94d2d80d6eefdea074c6d",
+                "type": "span",
+                "attrs": {},
+                "children": [
+                  {"text": "the \u201cSearch\u201d box at the top of the page to look up articles about your topic. The Result List you get will offer many kinds of related information from various sources, such as magazines, journals, blogs, newspapers, reference books, and images."}
+                ]
+              },
+              {"text": ""}
+            ]
+          },
+          {
+            "type": "p",
+            "attrs": {},
+            "uid": "cb790bd729b5494a9434e9894bbf97c3",
+            "children": [
+              {"text": ""},
+              {
+                "uid": "c2300e495a6e4fd2b6a439b32b6f8c3e",
+                "type": "span",
+                "attrs": {},
+                "children": [
+                  {"text": ""}
+                ]
+              },
+              {"text": ""},
+              {
+                "uid": "88c033d705ed447e884816eb2edb5740",
+                "type": "span",
+                "attrs": {},
+                "children": [
+                  {"text": "Select one or two to explore."}
+                ]
+              },
+              {"text": ""}
+            ]
+          },
+          {
+            "uid": "80459199a32e4ddb8c52bafe1193e670",
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "attrs": {},
+                "uid": "46c679c7d86d4a6f9781fb008ac3deb3",
+                "children": [
+                  {"text": ""},
+                  {
+                    "uid": "7c74eadbcb2f40758aac94b78c20572e",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "What "}
+                    ]
+                  },
+                  {"text": ""},
+                  {
+                    "uid": "21c62fe60f5944fe88ff5b99e7e29142",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "source did you use and what is one benefit of using this type of source?"}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              },
+              {
+                "type": "li",
+                "attrs": {},
+                "uid": "51ff097854a242dab16316f9888b0d3f",
+                "children": [
+                  {"text": ""},
+                  {
+                    "uid": "e1210c1124ba423f968cee66398b2838",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "What "}
+                    ]
+                  },
+                  {"text": ""},
+                  {
+                    "uid": "8e5f45500a8d4e79926f77d1c9b7da7f",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "is one drawback?"}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              },
+              {
+                "type": "li",
+                "attrs": {},
+                "uid": "4ede2fa8d91345098a6fc6f2709f8ceb",
+                "children": [
+                  {"text": "What "},
+                  {
+                    "uid": "fcf986c95e6942b38eb10d01bc2ba4bb",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "new information did you learn from reading this article?"}
+                    ]
+                  },
+                  {"text": ""},
+                  {
+                    "uid": "caa8c4ed0149439bb0152d8f89e4f0ca",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": ""}
+                    ]
+                  },
+                  {"text": ""},
+                  {
+                    "uid": "df6623d4d25b4d08871468a6e8d49bcc",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": ""}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              }
+            ],
+            "id": "3317138a1064465eb2c29b189940eec7",
+            "attrs": {}
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "e2eb95becbce4b4681e4f00a327dc40d",
+        "children": [
+          {"text": "You Decide"}
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "65bb1aef85484e7d8bcec45f66853076",
+        "children": [
+          {"text": "Based "},
+          {
+            "uid": "c5f3cd75605e45e1a7460aee1f1294e8",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "on the readings and review of the Related Items offered, consider the Point and Counterpoint commentary in light of your own set of personal values and understanding of the topic"}
+            ]
+          },
+          {"text": "."}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "e42d41d0f66948b697b8fea8a866d7ad",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "826ba662ae6845138a932b3955a00991",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "ddb3e3b8b04f440bb26c08206081e13d",
+                "children": [
+                  {"text": "Reflect o"},
+                  {
+                    "uid": "d6a9c6423ec24efb87cdf9702d37280c",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "on which arguments about abstinence education you accept, those outlined in the Point, Counterpoint, or a completely different argument. For you, "}
+                    ]
+                  },
+                  {"text": ""},
+                  {
+                    "uid": "d0d67beafb3947fdb3e9717aaf0c8585",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "what is the single most compelling argument regarding abstinence education, and why"}
+                    ]
+                  },
+                  {"text": "?"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "305390a4aa0a431aa09d48ac335a9906",
+        "children": [
+          {"text": "Write "},
+          {
+            "uid": "fb1853e052e44469b721cf6690b77e1a",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "an 800- to 1,000-word essay response to the question above; include a thesis statement and two or three supporting arguments. See \u201cWriting a Thesis Statement\u201d and \u201cWriting a Persuasive Essay\u201d Research Guides for tips on how to write your essay."}
+            ]
+          },
+          {"text": ""}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "f0881caf264c4baba4abdd610d7326d9",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "46ab68d20b8244dd838ad0b6a86b8760",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "a2124c280fae444f89a91f4a6a0a626a",
+                "children": [
+                  {"text": "Use "},
+                  {
+                    "uid": "06560268dd684dd38b52020825ffbb15",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "facts from other resources found in "},
+                      {
+                        "text": "Points of View Reference Center™",
+                        "italic": true
+                      },
+                      {"text": ", other than the Overview, Point, and Counterpoint information. See"},
+                      {
+                        "text": " ",
+                        "italic": true
+                      },
+                      {"text": "\u201cJudging Fact vs. Opinion\u201d in the Research Guide section to help determine the value of the information you find"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "7deea33bdfc240cabda0028cb23db5b2",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "ea9864cfd8ac460aaa0da47c9ed0d5a0",
+                "children": [
+                  {"text": "Investigate "},
+                  {
+                    "uid": "6f646b115bc14dee939b9519be50d245",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "some of the sources cited in the Bibliography at the end of each Point of View essay to review the kinds of sources those authors consulted"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "0fd2db9445cb43029ea3262b9459b3f3",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "7be723af2d914fbf96cefa642a04d03a",
+                "children": [
+                  {"text": "For "},
+                  {
+                    "uid": "2862ab34b2804a2fa2a59d1439ced0e1",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "website information, first review the Research Guide article titled \u201cEvaluating a Website.\u201d Use the information you find there to guide your decisions on which sites provide the most credible information and would add value to your essay"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "0c3c8d140ad5450b82076fb919e5bd72",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "c0a4580bd29c42dfa38a537a6c14067d",
+                "children": [
+                  {"text": "Suggest "},
+                  {
+                    "uid": "57f18be2db9146ad96ad275c1d6a2830",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "ways in which the controversy surrounding abstinence education could be resolved"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "e6f449829f7f4d1ca1e51c983cd72137",
+        "children": [
+          {"text": "See t"},
+          {
+            "uid": "a772b6738c5b4c49a5966ba20ab3f713",
+            "type": "span",
+            "attrs": {},
+            "children": [
+              {"text": "hese other "},
+              {
+                "text": "Points of View Reference Center™ ",
+                "italic": true
+              },
+              {"text": "\u201chow to\u201d topics for additional help. They can be found using the Research Guides link on the home page"}
+            ]
+          },
+          {"text": "."}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "c0ed47afcfe0489081f6a5f6d376a362",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "765e4233f4974b34a2fb54622e36aa0d",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "87041ad9083e47bc8af583d5381bfb24",
+                "children": [
+                  {"text": "Writing a Topic Sentence"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "eafb9193011f4b768bf11793f7cf6dbe",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "e95925ec312b4ac5a5935851fa64da74",
+                "children": [
+                  {"text": "Taking Good Notes"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "81ce0f4b73c047f28a08a791b9f26590",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "d383469f33584b7d9842df83926a18a9",
+                "children": [
+                  {"text": "From Notes to Outline"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "d99f02c7be4843948c3be8d97ac01003",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "5df4d721c4d048b4983b1d06157b77c1",
+                "children": [
+                  {"text": "Visual Ways to Organize Your Ideas"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "0a2cd8f490994cf1ae5a870ba54c8dfc",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "f5728c14dab54a65b125802ac51e4503",
+                "children": [
+                  {"text": "Writing a Conclusion"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "51de4efece464e7fa49681940827f5f3",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "578c81bff82348af8626a1669d11b7a4",
+                "children": [
+                  {"text": "Citing Sources"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "2262d0693d9e4b6b81387a97ec850d37",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "936033e57d4841c3a9d2aab74c177a85",
+                "children": [
+                  {"text": "Creating a Bibliography"}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "9784e3b305484d3a85e8d6be69fc9551",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "7cf8936a93a8441ebbf2168310665669",
+                "children": [
+                  {"text": "Writing a Research Paper"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "h1",
+        "attrs": {},
+        "uid": "0da0f5a29c8c418788e130c75d73d940",
+        "children": [
+          {"text": "Debate It"}
+        ]
+      },
+      {
+        "type": "ul",
+        "attrs": {},
+        "uid": "9461cf3f00374f2ea319affbbec95645",
+        "children": [
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "6f0d2de9cd6741759eba6bf3c691c14b",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "beaa7adbb38346919ae5658ec08f0ed7",
+                "children": [
+                  {"text": "Debate "},
+                  {
+                    "uid": "eaf19cd021d440f5a468ea564c1adcb6",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "the issue. To create an effective debate, refer to the tips offered in the Research Guides\u2014\u201cDebate Strategies,\u201d \u201cGiving an Oral Presentation,\u201d and \u201cStarting a Debate Club"}
+                    ]
+                  },
+                  {"text": ".\""}
+                ]
+              }
+            ]
+          },
+          {
+            "type": "li",
+            "attrs": {},
+            "uid": "53eed15f38a542f1baac70a3e498dd71",
+            "children": [
+              {
+                "type": "p",
+                "attrs": {},
+                "uid": "ba9b632be36c4dcda6afea2a7e78c8e5",
+                "children": [
+                  {"text": "Select "},
+                  {
+                    "uid": "9f31dcf9fb1746faa762f129687c17a1",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "someone else to read an excerpt from a bibliographic source in either the Point of View essay or a related article. The excerpt should clearly support an argument for one side or the other of the discussion. As you listen, make note of the points (contentions) you would make to oppose the arguments"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "attrs": {},
+        "uid": "c8f52d5f7c0f40ac965923b6c708d4ba",
+        "children": [
+          {
+            "uid": "8b5f5e613bde43c28aa625e7fc575df9",
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "attrs": {},
+                "uid": "ee524d0a83914d5ca9e1bcbc8afb0b36",
+                "children": [
+                  {"text": "Respond "},
+                  {
+                    "uid": "f6636e748e704beeac5a14127e14f831",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "to the arguments presented with opposing arguments (rebuttals), pointing out any contradictions you have heard"}
+                    ]
+                  },
+                  {"text": "."}
+                ]
+              }
+            ],
+            "id": "443e8b1215174da999585c6970710ec5",
+            "attrs": {}
+          },
+          {
+            "uid": "39a37d4f07aa486481c6a344f02deec2",
+            "type": "ul",
+            "children": [
+              {
+                "type": "li",
+                "attrs": {},
+                "uid": "787eb2784b36455daeae1cae4fb0235a",
+                "children": [
+                  {"text": "Create "},
+                  {
+                    "uid": "39a39148860a482e893a137dc94d8f2c",
+                    "type": "span",
+                    "attrs": {},
+                    "children": [
+                      {"text": "a video or slide presentation that illustrates the essence of the debate. Include the issue at hand, your viewpoint, and evidence to support it."}
+                    ]
+                  },
+                  {"text": ""}
+                ]
+              }
+            ],
+            "id": "466e8085ba7643e59b7350d942cb797d",
+            "attrs": {}
+          }
+        ]
+      }
+    ],
+    "type": "doc",
+    "_version": 14
+  },
+  "name_record_created_date": null,
+  "original_requested_word_count": null,
+  "parent_article_id": "",
+  "past_projects": [],
+  "po_notes": "",
+  "primary_article": "",
+  "products": [
+    {
+      "uid": "bltb0b4dead143e9e2f",
+      "_content_type_uid": "product"
+    }
+  ],
+  "region": "US",
+  "reserach_starter_links_applied": false,
+  "reused": "",
+  "review_date": "2016-03-01",
+  "rights": "",
+  "rs_title": "",
+  "search_term_set": [],
+  "search_title": "Abstinence Education: Guide to Critical Analysis",
+  "source_note": "",
+  "status": "",
+  "table_in_main_body": false,
+  "tags": [],
+  "task_hours": 0.5,
+  "title": "Abstinence Education: Guide to Critical Analysis",
+  "topic": [
+    {
+      "uid": "blt893b3fde9042f1df",
+      "_content_type_uid": "topic_debate"
+    }
+  ],
+  "update_cycle": null,
+  "updated_at": "2023-02-15T14:42:12.405Z",
+  "updated_build": null,
+  "updated_by": "blt814e7c162ef42f1c",
+  "urgent": false,
+  "url": "/bltee464b8bc545f82b",
+  "usage_note": "",
+  "word_count": 1204,
+  "writer_due_date": null,
+  "xml_version_ui": ""
+}

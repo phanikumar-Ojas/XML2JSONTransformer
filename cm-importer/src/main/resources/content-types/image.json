@@ -1,0 +1,611 @@
+{
+	"created_at": "2022-11-23T20:08:17.424Z",
+	"updated_at": "2023-05-15T18:36:09.233Z",
+	"title": "Media",
+	"uid": "image",
+	"_version": 12,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Image Title",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "file",
+			"display_name": "Image File",
+			"uid": "image_file",
+			"extensions": [],
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard"
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Vendor Source",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Pixabay"
+					},
+					{
+						"value": "Wikimedia Commons"
+					},
+					{
+						"value": "Pexels"
+					},
+					{
+						"value": "Unsplash"
+					},
+					{
+						"value": "Flickr"
+					},
+					{
+						"value": "Getty Images"
+					},
+					{
+						"value": "NASA Images"
+					},
+					{
+						"value": "Library of Congress"
+					},
+					{
+						"value": "US Department of Defense"
+					},
+					{
+						"value": "Misc./Unknown"
+					},
+					{
+						"value": "Other - Government Publisher"
+					},
+					{
+						"value": "Mixed"
+					},
+					{
+						"value": "EBSCO"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "vendor_source",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Rights",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Public Domain"
+					},
+					{
+						"value": "Fair Use"
+					},
+					{
+						"value": "Coprighted"
+					},
+					{
+						"value": "Royalty-Free"
+					},
+					{
+						"value": "Royalty-Free (Extended)"
+					},
+					{
+						"value": "Rights-Managed"
+					},
+					{
+						"value": "Rights-Managed (Editorial)"
+					},
+					{
+						"value": "Permission Obtained/Record on File"
+					},
+					{
+						"value": "Misc./Unknown"
+					},
+					{
+						"value": "Creative Commons"
+					},
+					{
+						"value": "Mixed"
+					},
+					{
+						"value": "Rights-Free"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "rights",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Copyright Notes",
+			"uid": "copyright_notes",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "License",
+			"uid": "license",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Caption",
+			"uid": "caption",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Credit",
+			"uid": "credit",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Content Type",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Color Photo"
+					},
+					{
+						"value": "B/W Photo"
+					},
+					{
+						"value": "Illustration"
+					},
+					{
+						"value": "Infographic"
+					},
+					{
+						"value": "Photo with Text"
+					},
+					{
+						"value": "Photo Collage"
+					},
+					{
+						"value": "Illustration/Photo Collage"
+					},
+					{
+						"value": "Table"
+					},
+					{
+						"value": "Map"
+					},
+					{
+						"value": "Equation"
+					},
+					{
+						"value": "Audio"
+					},
+					{
+						"value": "Video"
+					},
+					{
+						"value": "Book Jacket"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "content_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Alt Text",
+			"uid": "alt_text",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Webpage URL",
+			"uid": "webpage_url",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Position Inline",
+			"uid": "position_inline",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Image Notes",
+			"uid": "image_notes",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Table data",
+			"uid": "table_data",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Article with table data",
+			"uid": "article_with_table_data",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Format",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "jpg"
+					},
+					{
+						"value": "jpeg"
+					},
+					{
+						"value": "tiff"
+					},
+					{
+						"value": "png"
+					},
+					{
+						"value": "gif"
+					},
+					{
+						"value": "svg"
+					},
+					{
+						"value": "mp3"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "format",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Not Placard",
+			"uid": "not_placard",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Force Placard",
+			"uid": "force_placard",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"create": true
+				}
+			},
+			{
+				"uid": "blt45f597cc5c42bf37",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltf31aa1f732cbc4a1",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"create": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "blt79fd4f70e1025b76",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			},
+			{
+				"uid": "blt9551b262b66f9184",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"create": true,
+					"update": true,
+					"publish": true,
+					"delete": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

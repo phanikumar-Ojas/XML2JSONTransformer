@@ -1,0 +1,186 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"mock brstCategory",
+			"Rhodes scholarship",
+			"Isaiah Berlin",
+			"G.E.M. Anscombe",
+			"political science",
+			"philosophy",
+			"identity",
+			"social theory"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 5,
+		"birth_month": "November",
+		"birth_year": 1931,
+		"non_numeric_birth_date": "November 5, 1931",
+		"place_of_birth": "Montreal, Canada",
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": [
+			"Philosopher"
+		],
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Principal Works"
+						}
+					],
+					"type": "h1",
+					"uid": "944c6ffb-4f37-4089-a1b7-e19501aa1d8f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hegel and Modern Society",
+							"italic": true
+						},
+						{
+							"text": ", 1979"
+						}
+					],
+					"type": "p",
+					"uid": "5ad0c739-43d8-4b28-be3b-a65c9701d0c6",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Human Agency and Language",
+							"italic": true
+						},
+						{
+							"text": ", 1985"
+						}
+					],
+					"type": "p",
+					"uid": "2b5877dc-4091-41c2-a39e-0a4a0247b0dd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Philosophy and the Human Sciences",
+							"italic": true
+						},
+						{
+							"text": ", 1985"
+						}
+					],
+					"type": "p",
+					"uid": "7b17305b-bb95-4cd2-bfe3-c1414fe7fd2f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Source of the Self: The Making of the Modern Identity",
+							"italic": true
+						},
+						{
+							"text": ", 1989"
+						}
+					],
+					"type": "p",
+					"uid": "f079eb73-fd5d-4e46-98e5-b64ced70bd8b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Multiculturalism and the Politics of Recognition",
+							"italic": true
+						},
+						{
+							"text": ", 1992"
+						}
+					],
+					"type": "p",
+					"uid": "a7e20455-5e53-4f98-adb9-c364c7047c17",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Philosophical Arguments",
+							"italic": true
+						},
+						{
+							"text": ", 1995"
+						}
+					],
+					"type": "p",
+					"uid": "08e1397e-d524-4425-b45f-742b8712f317",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A Secular Age",
+							"italic": true
+						},
+						{
+							"text": ", 2007"
+						}
+					],
+					"type": "p",
+					"uid": "31992de1-cacf-46ef-b46b-d270146af875",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "3e4a2850-0e27-4cd5-a030-8cf814f4867a"
+		},
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": null
+	}
+}

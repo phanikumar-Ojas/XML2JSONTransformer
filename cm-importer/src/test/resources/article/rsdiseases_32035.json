@@ -1,0 +1,966 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "c4e50325-dd8d-4ef2-938f-452bcf5b8295",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Bradford, Nikki. "
+						},
+						{
+							"text": "Your Premature Baby: The First Five Years",
+							"italic": true
+						},
+						{
+							"text": ". Toronto, Ont.: Firefly Books, 2003. "
+						}
+					],
+					"type": "p",
+					"uid": "2cbb9e10-d078-4625-8754-855c54c8ae2b",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Creasy, Robert K., and Robert Resnik, eds. "
+						},
+						{
+							"text": "Maternal-Fetal Medicine: Principles and Practice",
+							"italic": true
+						},
+						{
+							"text": ". 5th ed. Philadelphia: W. B. Saunders, 2004. "
+						}
+					],
+					"type": "p",
+					"uid": "768c0835-d428-4f80-8472-bb361b739189",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Cunningham, F. Gary, et al., eds. "
+						},
+						{
+							"text": "Williams Obstetrics",
+							"italic": true
+						},
+						{
+							"text": ". 23d ed. New York: McGraw-Hill, 2010. "
+						}
+					],
+					"type": "p",
+					"uid": "47494ce5-6d0c-4864-8cf3-8adcae546d06",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Martin, Richard J., Avroy A. Fanaroff, and Michele C. Walsh, eds. "
+						},
+						{
+							"text": "Fanaroff and Martin’s Neonatal-Perinatal Medicine: Diseases of the Fetus and Infant",
+							"italic": true
+						},
+						{
+							"text": ". 2 vols. "
+						},
+						{
+							"text": "9"
+						},
+						{
+							"text": "th ed. Philadelphia: Mosby/Elsevier, 20"
+						},
+						{
+							"text": "11"
+						},
+						{
+							"text": ". "
+						}
+					],
+					"type": "p",
+					"uid": "d2f85096-1456-44e1-9d3b-5f417d4dc9b4",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Moore, Keith L., and T. V. N. Persaud. "
+						},
+						{
+							"text": "The Developing Human",
+							"italic": true
+						},
+						{
+							"text": ". "
+						},
+						{
+							"text": "9"
+						},
+						{
+							"text": "th ed. Philadelphia: Saunders/Elsevier, 20"
+						},
+						{
+							"text": "13"
+						},
+						{
+							"text": ". "
+						}
+					],
+					"type": "p",
+					"uid": "bf5af01d-4052-488c-a9ed-ec86cfda0afa",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Pregnancy and Perinatology Branch (PPB).\u0022 "
+						},
+						{
+							"text": "National Institute of Child Health and Human Development",
+							"italic": true
+						},
+						{
+							"text": ", November 30, 2012."
+						}
+					],
+					"type": "p",
+					"uid": "ea74b9f2-f1af-49b4-b0c7-ad66f2ae19d7",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "website"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Ruhlman, Michael. "
+						},
+						{
+							"text": "Walk on Water: Inside an Elite Pediatric Surgery Unit",
+							"italic": true
+						},
+						{
+							"text": ". New York: Viking-Penguin, 2003. "
+						}
+					],
+					"type": "p",
+					"uid": "8580a8fc-2ec7-487a-9703-2096446c2122",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Sadler, T. W. "
+						},
+						{
+							"text": "Langman’s Medical Embryology",
+							"italic": true
+						},
+						{
+							"text": ". 1"
+						},
+						{
+							"text": "2"
+						},
+						{
+							"text": "th ed. Philadelphia: Lippincott Williams & Wilkins, 20"
+						},
+						{
+							"text": "12"
+						},
+						{
+							"text": ". "
+						}
+					],
+					"type": "p",
+					"uid": "37160bcc-1d01-408f-b7f8-6f892570e099",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "eba72e50-5970-4282-9d96-6de020b1a388"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"Computers",
+			"computed tomography",
+			"Mental Health",
+			"radiologist",
+			"supply",
+			"Social Issues",
+			"principal",
+			"Anatomy & Physiology",
+			"radiation",
+			"Specialties & Health Care Providers",
+			"sphingomyelin",
+			"physician",
+			"Children",
+			"low birth weight",
+			"Diseases, Disorders, & Symptoms"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Science and Profession"
+						}
+					],
+					"type": "h1",
+					"uid": "d4ff115a-057c-444f-bb2a-72dea127139e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " Practitioners of perinatal medicine include physicians and advanced practice nurses with a specialty in perinatology (neonatal and "
+						},
+						{
+							"children": [
+								{
+									"text": "pediatric"
+								}
+							],
+							"type": "span",
+							"uid": "41693bee-cec9-4c64-8d20-0ef9da1346cb",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " nurse practitioners). They then complete additional training specifically related to the perinatal period"
+						},
+						{
+							"text": " (defined variously as beginning from twenty to twenty-eight weeks of gestation and ending one to four weeks after birth)"
+						},
+						{
+							"text": ". The emphasis of perinatology is on a time period rather than on a specific organ system. The principal event of the perinatal period is birth. Prior to delivery, the perinatologist is concerned with the "
+						},
+						{
+							"children": [
+								{
+									"text": "physiological"
+								}
+							],
+							"type": "span",
+							"uid": "4391abd5-42ad-4bfe-ad4e-53c1c3448ca9",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " status and well-being of both mother and fetus. Immediately after delivery, the perinatologist strives to maximize the newborn’s chances for survival. "
+						}
+					],
+					"type": "p",
+					"uid": "f5f9e8e1-9030-4c17-8a0d-52118a5d3848",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Diagnostic and Treatment Techniques"
+						}
+					],
+					"type": "h1",
+					"uid": "d7c05804-bd42-44ca-b230-2419ed8caf14",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Prior to the birth, several diagnostic procedures are commonly employed by the perinatologist: ultrasonography, the measurement of fetal activity, and the evaluation of fetal lung maturity. Ultrasonography uses sound waves to create images. Sound waves are transmitted from a transducer that has been placed on the skin. Waves that are sent into the body reflect off internal tissues and structures, and the reflections are received by a microphone. Sound travels through tissues with different densities at different rates, which are characteristic for each tissue. Computers interpret the reflected sounds and convert them into an image that can be viewed. The images must be interpreted or read by someone with specialized training, usually a "
+						},
+						{
+							"children": [
+								{
+									"text": "radiologist"
+								}
+							],
+							"type": "a",
+							"uid": "0ed99c8b-13ee-4cb6-ac80-c96520300451",
+							"attrs": {
+								"url": "89550450"
+							}
+						},
+						{
+							"text": ". Ultrasound does not involve "
+						},
+						{
+							"children": [
+								{
+									"text": "radiation"
+								}
+							],
+							"type": "a",
+							"uid": "a6942a45-9b48-4b79-9a19-2d1ad609581a",
+							"attrs": {
+								"url": "89475342"
+							}
+						},
+						{
+							"text": "; thus it is not harmful to the fetus. Because sound waves are longer than radiation, the image generated is not as clear as that obtained with electromagnetic waves"
+						},
+						{
+							"text": " such as those from"
+						},
+						{
+							"text": " a computed tomography (CT) scan or a conventional "
+						},
+						{
+							"text": "x-ray"
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "30b16619-5141-4c07-901d-2bf87d807e71",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The measurement of fetal activity is important in evaluating fetal health. Fetal movement is normal; the earliest movement felt by the mother is called quickening. The diminution or cessation of fetal movement is indicative of fetal distress . Accordingly, movement is monitored by reports from the mother, "
+						},
+						{
+							"children": [
+								{
+									"text": "palpation"
+								}
+							],
+							"type": "span",
+							"uid": "bea49165-47e0-48b9-8ee1-c25c7b0df021",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " by the clinician, and ultrasound: Mothers report movements, individuals examining pregnant women can apply their hands to the "
+						},
+						{
+							"children": [
+								{
+									"text": "abdomen"
+								}
+							],
+							"type": "span",
+							"uid": "ef38e7af-a18e-4812-8dc8-db24bcb4e3a0",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and feel fetal movements, and "
+						},
+						{
+							"children": [
+								{
+									"text": "ultrasonography"
+								}
+							],
+							"type": "span",
+							"uid": "ae4ac766-579f-4084-b4d9-1b331ee71fb4",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " can show breathing and other movements in real time using continuous video records of fetal movements."
+						}
+					],
+					"type": "p",
+					"uid": "682115e8-8e4d-4ec7-ab8f-0234c6a50c09",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Fetal lung maturity is assessed by measuring the relative amounts of lecithin and "
+						},
+						{
+							"children": [
+								{
+									"text": "sphingomyelin"
+								}
+							],
+							"type": "a",
+							"uid": "0df140a5-db5a-4743-89be-424c32eeef85",
+							"attrs": {
+								"url": "89550655"
+							}
+						},
+						{
+							"text": " in amniotic fluid. The concentration of lecithin increases late in fetal development, while sphingomyelin decreases. A lecithin-sphingomyelin ratio that is greater than two indicates sufficient fetal lung maturity to ensure survival after birth."
+						}
+					],
+					"type": "p",
+					"uid": "0610001c-a571-4d7f-97d1-1ec35159ece8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Labor and delivery are the primary events of the perinatal period. Factors that can lead to difficulties include abnormalities of the "
+						},
+						{
+							"children": [
+								{
+									"text": "placenta"
+								}
+							],
+							"type": "span",
+							"uid": "53f48c50-28f7-49a2-bfff-a4ff447d247a",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and prematurity. The placenta can be abnormally located (placenta previa) or can separate prematurely (placenta abruptio). Normally, the placenta is located on the lateral wall of the uterus. Placenta previa is defined as a placenta located in the lower portion of the uterus. The placenta is compressed by the "
+						},
+						{
+							"children": [
+								{
+									"text": "fetus"
+								}
+							],
+							"type": "span",
+							"uid": "2d71896a-626a-4b80-ac85-04caf12b2fa2",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " during passage through the birth canal. This compression compromises the blood supply to the fetus, which causes "
+						},
+						{
+							"children": [
+								{
+									"text": "ischemia"
+								}
+							],
+							"type": "span",
+							"uid": "699ba6da-6b7d-498a-8c51-45b9e297afc6",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and can lead to "
+						},
+						{
+							"children": [
+								{
+									"text": "brain"
+								}
+							],
+							"type": "span",
+							"uid": "b39423fc-2b23-41cb-86dc-e44377520bf4",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " or other tissue damage or to death. This condition is usually managed by a cesarean section. Placenta abruptio refers to a normal placenta that separates prior to fetal delivery. This condition is potentially life-threatening to both mother and fetus; immediate hospitalization is indicated. "
+						}
+					],
+					"type": "p",
+					"uid": "ba9dfd18-7528-4d96-bfae-4a6995f1e61f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Prematurity is defined as delivery before the fetus is able to survive without unusual support. Premature infants are placed in incubators. A lack of body fat in the infant leads to difficulty in maintaining a normal body temperature; special heating is provided to offset th"
+						},
+						{
+							"text": "is"
+						},
+						{
+							"text": " problem. Lung immaturity may require mechanical assistance from a respirator. An immature "
+						},
+						{
+							"children": [
+								{
+									"text": "immune system"
+								}
+							],
+							"type": "span",
+							"uid": "feb5f3f6-146c-4318-8496-90630deb1c5f",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " makes "
+						},
+						{
+							"children": [
+								{
+									"text": "premature"
+								}
+							],
+							"type": "span",
+							"uid": "6783b46c-9675-45ad-9d38-deacb9718620",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " infants especially susceptible to infections; strict isolation precautions and prophylactic "
+						},
+						{
+							"children": [
+								{
+									"text": "antibiotic"
+								}
+							],
+							"type": "span",
+							"uid": "f5df3e34-420b-4734-b8b8-fcd3700c91e1",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " therapy address this problem."
+						}
+					],
+					"type": "p",
+					"uid": "24ebd2c2-d0dd-4fe7-9322-3d7092f51e61",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Many factors contribute to increasing the risks normally associated with pregnancy and delivery: maternal size and age; drug, tobacco, or "
+						},
+						{
+							"children": [
+								{
+									"text": "alcohol"
+								}
+							],
+							"type": "span",
+							"uid": "1f9467fc-4a91-4d31-b021-4b9079ac8c47",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " use; infection; medical conditions such as "
+						},
+						{
+							"children": [
+								{
+									"text": "diabetes mellitus"
+								}
+							],
+							"type": "span",
+							"uid": "78b1b4f2-ccaa-4da5-a843-ddd6d147e720",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and hypertension; and multiple gestations. A woman with a small pelvic opening may be unable to deliver her child normally; the solution in this case is a cesarean section. The risk of genetic abnormalities increases with advancing maternal (and, to a lesser degree, paternal) age. Counseling prior to "
+						},
+						{
+							"children": [
+								{
+									"text": "conception"
+								}
+							],
+							"type": "span",
+							"uid": "6d795864-0d24-47b2-a819-ab044da66132",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " is indicated. Once an older woman becomes pregnant, "
+						},
+						{
+							"children": [
+								{
+									"text": "amniotic fluid"
+								}
+							],
+							"type": "span",
+							"uid": "29ff8e88-d988-44dd-9d4a-df20b59367ee",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " should be obtained to test for genetic abnormalities. The degree of surveillance is dependent on maternal age: The recommended frequency of medical checks increases for older women."
+						}
+					],
+					"type": "p",
+					"uid": "38fd7cc8-f4f5-4f3b-9b1a-5b9ef6f593fa",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Alcohol intake during "
+						},
+						{
+							"children": [
+								{
+									"text": "pregnancy"
+								}
+							],
+							"type": "span",
+							"uid": "b3e0e54f-2d8a-4698-a203-68a609c92fa3",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " can result in an infant who is "
+						},
+						{
+							"text": "developmentally disabled"
+						},
+						{
+							"text": "; smoking during pregnancy frequently leads to an infant with a "
+						},
+						{
+							"children": [
+								{
+									"text": "low birth weight"
+								}
+							],
+							"type": "a",
+							"uid": "a9590c7d-122b-4254-a00c-8fa7d3ceb3ba",
+							"attrs": {
+								"url": "89550602"
+							}
+						},
+						{
+							"text": ". Drug usage during pregnancy can lead to anatomic or mental impairment. Avoiding the use of all substances is the easiest way to eliminate problems completely; any drug should be used only under the guidance of a physician. Some viral infections such as German "
+						},
+						{
+							"children": [
+								{
+									"text": "measles"
+								}
+							],
+							"type": "span",
+							"uid": "7957152f-3722-48c1-bfcb-20d7c917c328",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " (rubella) early in pregnancy can cause birth defects. Immunization prior to conception will avoid these problems."
+						}
+					],
+					"type": "p",
+					"uid": "01393087-397d-4903-bad5-01dad0865d8d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Diabetes mellitus can cause abnormally large intrauterine growth and babies (frequently more than 10 pounds and referred to as macrosomic) who are too large for normal delivery. Diabetes that commonly develops during pregnancy is called gestational diabetes. Medical monitoring to detect diabetes early is prudent. Appropriate medical management of preexisting diabetes minimizes problems associated with pregnancy. A macrosomic infant must be delivered with a cesarean section. Hypertension can also develop during pregnancy. Like diabetes, it can compromise both mother and fetus. Appropriate and aggressive medical management, sometimes including complete bed rest, is needed to control high "
+						},
+						{
+							"children": [
+								{
+									"text": "blood pressure"
+								}
+							],
+							"type": "span",
+							"uid": "f943ebf5-6e83-4609-b3af-283bc3a0fe93",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " during pregnancy. Multiple gestations"
+						},
+						{
+							"text": " (such as twins or triplets)"
+						},
+						{
+							"children": [
+								{
+									"text": "strain"
+								}
+							],
+							"type": "span",
+							"uid": "2b4eb3bd-dac6-46b7-baee-7a5869117fcc",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " the supply of maternal "
+						},
+						{
+							"children": [
+								{
+									"text": "nutrients"
+								}
+							],
+							"type": "span",
+							"uid": "abc8f731-5d4b-412f-8f1a-ed57ae170377",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " to the developing fetuses. Because space is limited, multiple fetuses are usually smaller than normal at birth."
+						}
+					],
+					"type": "p",
+					"uid": "19afa14d-2541-43e7-8ac3-1b55be1bec67",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Rhesus disease"
+						},
+						{
+							"text": ", also known as Rh incompatibility, can complicate pregnancy. It can occur only "
+						},
+						{
+							"text": "in the child of a father whose blood type is "
+						},
+						{
+							"text": "Rh-positive "
+						},
+						{
+							"text": "and "
+						},
+						{
+							"text": "a mother whose blood type is "
+						},
+						{
+							"text": "Rh-negative"
+						},
+						{
+							"text": ", and it affects the blood supply of a fetus. The treatment includes the identification of both maternal and paternal blood types and the administration of "
+						},
+						{
+							"text": "Rho(D) immune "
+						},
+						{
+							"text": "globulin to the mother at twenty-six weeks of "
+						},
+						{
+							"children": [
+								{
+									"text": "gestation"
+								}
+							],
+							"type": "span",
+							"uid": "bcaa8f1b-9d05-429d-b373-8a34afcb312d",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and again immediately after birth. An affected infant may require blood transfusions; in a severe case, transfusions may be needed during pregnancy."
+						}
+					],
+					"type": "p",
+					"uid": "9d020101-c44d-448a-bdce-e6f87ba3e3ec",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Perspective and Prospects"
+						}
+					],
+					"type": "h1",
+					"uid": "607f5dd1-e19c-451f-9030-03e5e817b49f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Management of a pregnancy requires specialized skills. As the number of "
+						},
+						{
+							"children": [
+								{
+									"text": "risk factors"
+								}
+							],
+							"type": "span",
+							"uid": "09a32f1e-2666-4416-9b46-ed8ea8543a74",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " related to either mother or fetus increases, the problems associated with pregnancy also increase. The care of a pregnant woman and her fetus requires input from many individuals with specialized training. Consequently, perinatology is very much a team effort. Together, the team members can ensure a safe journey through the perinatal period for a pregnant woman and a healthy transition to life outside the womb for a newborn infant. "
+						}
+					],
+					"type": "p",
+					"uid": "f8acd83c-61b6-4852-99fd-1bf7e1c66cb4",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "40fdf3da-ea3d-47da-950f-a25cdcec7a23"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Practitioners of perinatal medicine include physicians and advanced practice nurses with a specialty in perinatology (neonatal and pediatric nurse practitioners). They then complete additional training specifically related to the perinatal period (defined variously as beginning from twenty to twenty-eight weeks of gestation and ending one to four weeks after birth). The emphasis of perinatology is on a time period rather than on a specific organ system. The principal event of the perinatal period is birth. Prior to delivery, the perinatologist is concerned with the physiological status and well-being of both mother and fetus. Immediately after delivery, the perinatologist strives to maximize the newborn’s chances for survival."
+						}
+					],
+					"type": "p",
+					"uid": "6c9d5ff5-1ec8-418f-aeb0-1c1f9074194e",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "aadb38a9-09ec-4502-b8c6-c0ef9f7913cd"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": null,
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

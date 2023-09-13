@@ -1,0 +1,619 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "5426a809-ac14-4cc1-beb7-3026f05ecdda",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Books"
+						}
+					],
+					"type": "h1",
+					"uid": "a4c7b40e-e16a-4335-8a67-457f9bd0f4c8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Douglass, Susan L. "
+						},
+						{
+							"text": "Ramadan",
+							"italic": true
+						},
+						{
+							"text": ". Carolrhoda, 2004."
+						}
+					],
+					"type": "p",
+					"uid": "4ae075b3-aeae-419b-b684-178daafa9910",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Heiligman, Deborah. "
+						},
+						{
+							"text": "Holidays Around the World: Celebrate Ramadan and Eid al-Fitr with Praying, Fasting, and Charity.",
+							"italic": true
+						},
+						{
+							"text": "National Geographic, 2006."
+						}
+					],
+					"type": "p",
+					"uid": "55769019-cf82-4dbb-a2b9-27565e09ad14",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Ramadan.\u0022 "
+						},
+						{
+							"text": "BBC.",
+							"italic": true
+						},
+						{
+							"text": "BBC, 7 May 2011, http://www.bbc.co.uk/religion/religions/islam/practices/ramadan_1.shtml."
+						}
+					],
+					"type": "p",
+					"uid": "99733225-2eeb-4f6c-b0f7-c5001ed9af3c",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Ramadan.\u0022 "
+						},
+						{
+							"text": "Encyclopaedia Britannica.",
+							"italic": true
+						},
+						{
+							"text": "Encyclopaedia Britannica"
+						},
+						{
+							"text": ",",
+							"italic": true
+						},
+						{
+							"text": " 17 Feb. 2017, https://www.britannica.com/topic/Ramadan."
+						}
+					],
+					"type": "p",
+					"uid": "e8f214cf-d5f2-4576-9df5-35d7a4d0c6d6",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Ramadan.\u0022 "
+						},
+						{
+							"text": "History.",
+							"italic": true
+						},
+						{
+							"text": "A&E Television Networks, 2017, http://www.history.com/topics/holidays/ramadan."
+						}
+					],
+					"type": "p",
+					"uid": "f4672177-3586-42fa-8c27-8a65f65a735a",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Websites"
+						}
+					],
+					"type": "h1",
+					"uid": "285e4dc9-80a3-4f9c-a745-6187d7b8398b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Ramadan.\u0022 "
+						},
+						{
+							"text": "BBC.",
+							"italic": true
+						},
+						{
+							"text": "BBC, 7 May 2011, http://www.bbc.co.uk/religion/religions/islam/practices/ramadan_1.shtml."
+						}
+					],
+					"type": "p",
+					"uid": "d92b5a0d-1578-4599-b005-f02854c1324e",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Ramadan.\u0022 "
+						},
+						{
+							"text": "Encyclopaedia Britannica.",
+							"italic": true
+						},
+						{
+							"text": "Encyclopaedia Britannica"
+						},
+						{
+							"text": ",",
+							"italic": true
+						},
+						{
+							"text": " 17 Feb. 2017, https://www.britannica.com/topic/Ramadan."
+						}
+					],
+					"type": "p",
+					"uid": "8be16af9-c1bc-46a4-a8b6-e830173b4a65",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Ramadan.\u0022 "
+						},
+						{
+							"text": "History.",
+							"italic": true
+						},
+						{
+							"text": "A&E Television Networks, 2017, http://www.history.com/topics/holidays/ramadan."
+						}
+					],
+					"type": "p",
+					"uid": "0601983b-d886-4998-8e87-523ec484c349",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "bbebf806-0726-4d5f-b109-050097bdfe91"
+		},
+		"topic": null,
+		"lexile": 800,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Ramadan is the ninth month in the Islamic calendar. This is a special month for Muslims. They fast, spend time in thought and contemplation, and pray."
+						}
+					],
+					"type": "p",
+					"uid": "9aa38d0d-3c97-4c2a-9ddd-ce1e1e645c8e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "2c49d573-0938-4635-a426-062921c8e527",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "An old Fanous Ramadan. By Ibrahim.ID, C BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons",
+							"width": "auto",
+							"caption": "An old Fanous Ramadan. By Ibrahim.ID, C BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "An old Fanous Ramadan. By Ibrahim.ID, C BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons",
+						"asset-name": "rssalemprimaryencyc-20170809-126-162705.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "bd5743a4-574d-483a-b248-95ed597028dd",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Common Iftar foods. By Miansari66, CC0, via Wikimedia Commons",
+							"width": "auto",
+							"caption": "Common Iftar foods. By Miansari66, CC0, via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Common Iftar foods. By Miansari66, CC0, via Wikimedia Commons",
+						"asset-name": "rssalemprimaryencyc-20170809-126-162706.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "p",
+					"uid": "7d80a035-e27f-4df2-855d-2d33ab3a2c43",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Ramadan in Muslim History"
+						}
+					],
+					"type": "h1",
+					"uid": "d4a463ff-2323-4020-b507-1fd6c8ad5ccb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A man named Muhammad founded the religion known as Islam. Muslims say that Allah (God) called to him during Ramadan. This event happened during the early years of the seventh century CE. On the Night of Power ("
+						},
+						{
+							"text": "Laylat-al-Qadr",
+							"italic": true
+						},
+						{
+							"text": "), Allah revealed to the Prophet Muhammad the Qur'an. The Qur'an is Islam's holy book. It serves as a guide for devout Muslims. Muslims trace their beginnings to Ramadan. As a result, they consider this month to be very special."
+						}
+					],
+					"type": "p",
+					"uid": "4e321c1f-65c1-46f0-8544-72c467e89e66",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Islamic Calendar"
+						}
+					],
+					"type": "h1",
+					"uid": "898ad2f0-b7c9-4848-8ef0-db355d729d67",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Islamic calendar is based on the cycles of the moon. The entire cycle begins with the new (dark) moon. It continues to the full moon before returning to the new moon again. The cycle takes approximately twenty-seven days to complete. Over time, as a result, Ramadan moves from one season to the next. In 1990, for example, the month occurred in early spring. In 2015, it fell during the early days of summer."
+						}
+					],
+					"type": "p",
+					"uid": "d26c212a-f39d-4e14-9f9a-1d571afc9727",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Ramadan Practices"
+						}
+					],
+					"type": "h1",
+					"uid": "34b92f5b-74ce-4061-af7d-065a9bd37ca5",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Muslims believe in the Five Pillars of Islam. These pillars tell people how to live their lives. The Arabic word "
+						},
+						{
+							"text": "sawm",
+							"italic": true
+						},
+						{
+							"text": "appears in the fourth pillar. This word means \u0022to refrain.\u0022 It commands believers to fast during the month of Ramadan."
+						}
+					],
+					"type": "p",
+					"uid": "2c04ed0e-3e9c-427d-bbb3-a07e16c84fcf",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "During the ninth month, most Muslims fast from sunup to sundown. However, some people are allowed to eat during this time. People who are sick or old can skip the fast during the daylight hours. Women who are pregnant and young children are also allowed to eat during the time of fasting."
+						}
+					],
+					"type": "p",
+					"uid": "da7b4e8c-60b9-4a90-aa3b-fb163a14eba9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Devout Muslims wake up before dawn during Ramadan. It is then that they eat their first meal of the day. This meal is known as the "
+						},
+						{
+							"text": "suhoor",
+							"italic": true
+						},
+						{
+							"text": ". Once the sun is up, fasting Muslims will not eat again until nighttime."
+						}
+					],
+					"type": "p",
+					"uid": "3a62ccf1-433f-4e6f-9591-64755341cac9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "After sundown, fasting Muslims eat their second meal of the day. This meal is known as "
+						},
+						{
+							"text": "iftar",
+							"italic": true
+						},
+						{
+							"text": ". People generally break their fast by first eating a date. Then they often celebrate with a great feast that includes family and friends."
+						}
+					],
+					"type": "p",
+					"uid": "e2bfa786-1aa4-4d64-98a8-97aa1d40f5c4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "At several points during the day, Muslims will stop what they are doing. They will pray then. They also think about the kinds of lives they have lived."
+						}
+					],
+					"type": "p",
+					"uid": "51022510-44c3-4840-9b4e-c89c0321975c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The End of Ramadan"
+						}
+					],
+					"type": "h1",
+					"uid": "c66a94bd-7290-4da1-b21f-0e36ba90fb1d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The day following the end of Ramadan marks the beginning of a great celebration. This celebration lasts three days. It is called "
+						},
+						{
+							"text": "Eid-al-Fitr",
+							"italic": true
+						},
+						{
+							"text": ". This word means \u0022the Feast of Fast-Breaking.\u0022 During this three-day celebration, people will say special prayers. Sometimes, thousands of Muslims will gather together and pray as a community."
+						}
+					],
+					"type": "p",
+					"uid": "4a0b3f9e-b78c-4f94-b92a-f0bf92a3f5ea",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Role of Ramadan in Muslim Life"
+						}
+					],
+					"type": "h1",
+					"uid": "a93e9a4d-2776-40bc-805e-c1f2ea698b9d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Muslims believe that they should live a good life. Such a life is required by the Five Pillars of Islam. Muslims pray, think, and fast during Ramadan in order to be forgiven for their past sins. However, Ramadan differs from confession in Catholicism. Fasting, for example, is not really an act of atonement. Instead, fasting allows Muslims to practice self-restraint. Avoiding immoral behavior is another way to demonstrate self-restraint during Ramadan. With such efforts, Muslims are obeying the Fourth Pillar of Islam. It is this pillar that commands them \u0022to refrain\u0022 ("
+						},
+						{
+							"text": "sawm",
+							"italic": true
+						},
+						{
+							"text": ")."
+						}
+					],
+					"type": "p",
+					"uid": "0017df67-3155-47e8-8172-ffd75f922532",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "944a6049-82c9-406d-a229-c6e34d14a5af"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Ramadan is the ninth month in the Islamic calendar. This is a special month for Muslims. They fast, spend time in thought and contemplation, and pray. An old Fanous Ramadan. By Ibrahim.ID, C BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons Common Iftar foods. By Miansari66, CC0, via Wikimedia Commons"
+						}
+					],
+					"type": "p",
+					"uid": "11ebac53-e980-457c-92e5-b4a66c37c2b7",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "fafc273c-71df-43de-a490-acb3a929a59e"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": false,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

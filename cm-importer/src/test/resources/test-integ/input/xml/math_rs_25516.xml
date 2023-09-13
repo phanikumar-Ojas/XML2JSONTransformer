@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">math_rs</book-id>
+    <book-id pub-id-type="eis-mid">H50C</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Science</book-title>
+      <alt-title alt-title-type="mid">H50C</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>8</day>
+      <month>October</month>
+      <year>2014</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part id="Math_RS.10.3331.25516"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">math_rs_25516</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>History/Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="articletype">
+            <subject>History/Event</subject>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Arts</subject>
+            <subj-group>
+              <subject>Artists, Artisans, the Arts</subject>
+              <subject>Music, Musicians, Singers</subject>
+              <subject>Mathematics, Mathematicians</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subjectscience">
+            <subject>Mathematics, Measurement, Mapping, Logic</subject>
+            <subj-group>
+              <subject>Fine Arts and Humanities</subject>
+              <subject>Mathematics, Measurement, Mapping, Logic</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Time signatures (music)</title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western">
+              <given-names>Robert W.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Peck</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>A time signature is a musical notation that defines the meter of a particular composition or a portion of a composition. It establishes a hierarchical, cyclic relationship among beats and among the subdivisions of those beats, which are inherently mathematical in nature. The history of time signatures is somewhat unclear. Some suggest that time signatures first made their appearance around 1000 c.e., though they may not have looked like the ones used in the twenty-first century. Others date the development of the fractional-form time signature closer to the fifteenth century. Nearly all modern Western music uses time signatures or some type of grouped pulses. Along with tempo (rate of beats), musicians use time signatures to gain an understanding of the relation of the elements of a piece of music to one another in time, particularly with regard to a contextual temporal metric.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Musical time signatures are mathematically defined and are cyclical in nature.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/Math_143136901431</meta-value>
+          </custom-meta>
+          <custom-meta xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value>98697158</meta-value>
+          </custom-meta>
+          <custom-meta xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>517</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <bold>
+              <sc>Summary:</sc>
+            </bold> Musical time signatures are mathematically defined and are cyclical in nature.</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>A <index-term role="sciencegeneral">
+              <primary>Time signatures</primary>
+            </index-term>
+            <index-term role="sciencegeneral">
+              <primary>Music</primary>
+            </index-term> time signature is a musical notation that defines the meter of a particular composition or a portion of a composition. It establishes a hierarchical, cyclic relationship among beats and among the subdivisions of those beats, which are inherently mathematical in nature. The history of time signatures is somewhat unclear. Some suggest that time signatures first made their appearance around 1000 <sc>c.e.</sc>, though they may not have looked like the ones used in the twenty-first century. Others date the development of the fractional-form time signature closer to the fifteenth century. Nearly all modern Western music uses time signatures or some type of grouped pulses. Along with tempo (rate of beats), musicians use time signatures to gain an understanding of the relation of the elements of a piece of music to one another in time, particularly with regard to a contextual temporal metric.</p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Metronome</title>
+              <p>A metronome</p>
+            </caption>
+            <ext-link xlink:href="98697158-91192.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By J Alves (Open Clip Art Library image's page) [see page for license], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Time signature example</title>
+              <p>An example time signature (the music is the opening of Ludwig van Beethoven's Piano Sonata No. 31). </p>
+            </caption>
+            <ext-link xlink:href="98697158-91191.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Public domain, via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>A time signature normally consists of two integers,<disp-quote>
+              <p>
+                <italic>n</italic>
+              </p>
+              <p>
+                <italic>b</italic>
+              </p>
+            </disp-quote>
+          </p>
+          <p>written with one directly above the other. Although it is often notated in prose as a fraction (for example, n/b), it is not a fraction and does not contain a dividing bar or solidus. A time signature appears in the first measure of a composition (in the staff following the clef and key signature), where it defines the default meter for the composition as a whole or until any subsequent time signature occurs that establishes a new default.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Meters and Beat</title>
+          <p>Time signatures may define various types of meters: simple, compound, complex, additive, or open. In simple meters (those in which the beats have a binary division), the upper integer indicates the number of beats in any one measure. The lower integer is conventionally expressed as a power of two, <italic>b</italic>=2<sup>m</sup>, and specifies what rhythmic value receives the beat. For instance, the time signature<disp-quote>
+              <p>2</p>
+              <p>4</p>
+            </disp-quote>
+          </p>
+          <p>indicates a simple meter in which every measure contains two beats and the quarter-note value is the relative duration of each beat. In compound meters (where beats divide into triples), the upper integer n, which is larger than three and divisible by it, designates that each measure contains <italic>n</italic>/3 beats. The lower integer,<italic>b</italic>=2<sup>m</sup> , indicates that the dotted 1/2<sup>m-1</sup>-th note receives the beat (the total relative duration of a 1/2<sup>m-1</sup>-th note and a 1/2<sup>m</sup>-th note). For example,<disp-quote>
+              <p>6</p>
+              <p>8</p>
+            </disp-quote>
+          </p>
+          <p>is the time signature for the compound meter in which each measure has two beats, and the dotted quarter-note duration (a quarter-note value plus an eighth-note value, or equivalently three eighth-notes) represents the beat.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Meters: Complex and Open</title>
+          <p>Complex meters incorporate beats that normally divide into a mixture of twos and threes. For example, the time signature<disp-quote>
+              <p>5</p>
+              <p>8</p>
+            </disp-quote>
+          </p>
+          <p>(each measure has the duration of five eighth-notes) might divide into two unequal beats: one with two subdivisions and one with three. The time signature for a complex meter might also be notated as an additive meter, wherein the upper value is actually an arithmetic expression that agrees with this pattern. For instance, the complex meter<disp-quote>
+              <p>5</p>
+              <p>8</p>
+            </disp-quote>
+          </p>
+          <p>could be indicated by the time signature<disp-quote>
+              <p>2+3</p>
+              <p>8</p>
+            </disp-quote>
+          </p>
+          <p>An open meter is notated by the symbol <bold>0</bold> in place of a more traditional time signature. It indicates that the duration of each measure is defined merely by the rhythmic values or graphic spacing of the notes it contains and does not incorporate a recurring or otherwise specified pattern of beats.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Cyclic Groups</title>
+          <p>Because of its cyclic nature, meter suggests a modular temporal space, similar to clock time. Algebraically, one might use cyclic groups to model different types of meters. The time signature is useful in determining the order of such a cyclic group, <italic>n</italic> from above, and what relative duration represents a generating unit, <italic>b</italic> from above. Then, the first beat of a measure, beginning at time-point zero, would associate with the identity element of the cyclic group, and so on through the nth beat of the measure. Any subsequent measures would represent additional cycles through these sequential group elements.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Interesting Time Signatures</title>
+          <p>Some time signatures are frequently used, like the lilting rhythm of the following:</p>
+          <fig position="anchor" fig-type="elec_use">
+            <caption>
+              <p/>
+            </caption>
+            <ext-link xlink:href="98697158-29942.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+          </fig>
+          <p>A mathematician might argue that the number of time signatures is limited because the number of beats per measure quickly becomes divisible by a smaller number, making it a multiple of another time signature. However, in music theory, time signatures have a broader meaning in terms of tempo and musical phrasing, not just counts of beats. Interesting compositions have been constructed by considering the mathematical properties of time signatures. Robert Schneider of indie rock band The Apples in Stereo composed a score for a play written by mathematician Andrew Granville and his sister Jennifer Granville in which all the time signatures had only prime numbers of beats per measure. It also included Greek mathematics related to primes in musical form. An entire subgenre of music called math rock, which emerged in the 1980s, is typified by uncommon time signatures such as</p>
+          <fig position="anchor" fig-type="elec_use">
+            <caption>
+              <p/>
+            </caption>
+            <ext-link xlink:href="98697158-29943.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+          </fig>
+          <p>These complex rhythms can also be found in some mainstream music, such as the song “Anthem” by Rush, which is partially written in</p>
+          <fig position="anchor" fig-type="elec_use">
+            <caption>
+              <p/>
+            </caption>
+            <ext-link xlink:href="98697158-29944.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+          </fig>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Lewin, David. <italic>Generalized Musical Intervals and Transformations</italic>. New Haven, CT: Yale University Press, 1987.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Mazzola, Guerino. <italic>The Topos of Music: Geometric Logic of Concepts, Theory, and Performance</italic>. Basel, Switzerland: Birkhäuser, 2002.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Rastall, Richard. “Time Signatures.” Grove Music Online. Edited by L. Macy. http://www.grovemusic.com. </citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Wright, David. <italic>Mathematics and Music</italic>. Vol. 28 of Mathematical World. Providence, RI: American Mathematical Society, 2009.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation citation-type="original" xlink:type="simple">
+                <article-title>Time Signatures</article-title>
+                <italic>Encyclopedia of Mathematics &amp; Society</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Sarah J.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Greenwald</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Jill E.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Thomley</surname>
+                  </name>
+                </person-group>
+                <year>2011</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

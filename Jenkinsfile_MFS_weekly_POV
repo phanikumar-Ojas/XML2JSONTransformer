@@ -1,0 +1,59 @@
+properties([parameters([string(defaultValue: 'main', name: 'branch'), string(defaultValue: 'blt19b1adabdc5f429e', name: 'projectid')]), pipelineTriggers([cron('30 12 * * 1')])])
+
+pipeline {
+   environment {
+    API_KEY = credentials('api_key')
+    MANAGEMENT_TOKEN = credentials('management_token')
+    MFS_URL = credentials('mfs_url')
+   }
+   agent {label 'Slave1_Win'}
+   
+   stages {
+    stage('Git checkout') { // for display purposes
+        steps {
+            git url: 'git@github.com:EBSCOIS/platform.shared.cms-import.git', branch: "$branch"
+        }
+    }
+    
+    
+    stage('Build cm-exporter tool') {
+
+        steps {
+            script {
+            sh 'bash mvnw clean package -pl cm-exporter -am'
+            }
+        } 
+    }
+    
+    stage('Create properties file') {
+
+        steps {
+            script {
+            sh '''
+            cat > C:/app/java/cms.properties << EOF
+MFS_CONNECTION_URL=$MFS_URL
+CONTENTSTACK_API_KEY=$API_KEY
+CONTENTSTACK_MANAGEMENT_TOKEN=$MANAGEMENT_TOKEN
+EOF
+            '''
+            }
+        } 
+    }
+    
+    stage ('Perform MFS sync') {
+
+        steps {
+        script {
+        sh "cat C:/app/java/cms.properties; cd cm-exporter/target; dir; java -jar mfssync.jar -p $projectid"
+        }   
+      }
+    }
+ }
+ 
+    post {
+        always {
+        cleanWs()
+    } 
+  }
+
+}

@@ -1,0 +1,77 @@
+{
+	"entry": {
+		"title": "Maxine Kumin",
+		"tags": [
+			"Biography",
+			"American History",
+			"Women’s History",
+			"Literature, Publishing",
+			"North America",
+			"Wallace Stegner",
+			"Congress of Industrial Organizations",
+			"Anne Sexton",
+			"Silent Spring",
+			"Robert Frost"
+		],
+		"category": [
+			"Literature, Publishing"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Authors, Writers",
+			"Novelists, Short Story Writers",
+			"Poetry, Poets",
+			"Education, Educators",
+			"Judaism, Jews, Synagogues, Temples"
+		],
+		"curriculum_american_history": [
+			"US History 1901-1950",
+			"US History 1951-present"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": [
+			"US History 1901-1950",
+			"US History 1951-present"
+		],
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"North America"
+		],
+		"sub_geographical_category": [
+			"United States"
+		],
+		"geo_keyword": null,
+		"birth_day": 6,
+		"birth_month": "June",
+		"birth_year": 1925,
+		"non_numeric_birth_date": "June 6, 1925",
+		"place_of_birth": "Philadelphia, Pennsylvania",
+		"death_day": 6,
+		"death_month": "February",
+		"death_year": 2014,
+		"non_numeric_death_date": "February 6, 2014",
+		"place_of_death": "Warner, New Hampshire",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"0443700-Maxine Kumin"
+		]
+	}
+}

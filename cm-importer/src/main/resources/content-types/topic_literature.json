@@ -1,0 +1,1856 @@
+{
+	"created_at": "2022-11-23T20:08:23.180Z",
+	"updated_at": "2023-03-22T19:10:53.602Z",
+	"title": "Topic Literature",
+	"uid": "topic_literature",
+	"_version": 25,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Title",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Plot Analysis"
+					},
+					{
+						"value": "Literary Studies and Theory"
+					},
+					{
+						"value": "Criticism"
+					},
+					{
+						"value": "Reader Advisory"
+					},
+					{
+						"value": "Literary Arts (Drama and Poetry etc)"
+					},
+					{
+						"value": "Overview"
+					},
+					{
+						"value": "Resources"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "Literary Studies and Theory",
+				"instruction": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Primary Genres",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Drama"
+					},
+					{
+						"value": "Long fiction"
+					},
+					{
+						"value": "Nonfiction"
+					},
+					{
+						"value": "Poetry"
+					},
+					{
+						"value": "Short fiction"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "primary_genres",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Sub Genres",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Absurdist literature"
+					},
+					{
+						"value": "Adventure"
+					},
+					{
+						"value": "Agitprop"
+					},
+					{
+						"value": "Alien civilization"
+					},
+					{
+						"value": "Allegory"
+					},
+					{
+						"value": "Alternate history"
+					},
+					{
+						"value": "Amateur sleuth fiction"
+					},
+					{
+						"value": "Animal tale"
+					},
+					{
+						"value": "Anthem"
+					},
+					{
+						"value": "Anthology"
+					},
+					{
+						"value": "Anthropology"
+					},
+					{
+						"value": "Antimasque"
+					},
+					{
+						"value": "Antistory"
+					},
+					{
+						"value": "Apocalyptic and catastrophe fiction"
+					},
+					{
+						"value": "Apology"
+					},
+					{
+						"value": "Arthurian romance"
+					},
+					{
+						"value": "Arts"
+					},
+					{
+						"value": "Aubade"
+					},
+					{
+						"value": "Auto sacramental"
+					},
+					{
+						"value": "Autobiography"
+					},
+					{
+						"value": "Ballad"
+					},
+					{
+						"value": "Ballade"
+					},
+					{
+						"value": "Ballata"
+					},
+					{
+						"value": "Baroque literature"
+					},
+					{
+						"value": "Bestiary"
+					},
+					{
+						"value": "Bildungsroman"
+					},
+					{
+						"value": "Boulevard drama"
+					},
+					{
+						"value": "Bourgeois drama"
+					},
+					{
+						"value": "Bourgeois fiction"
+					},
+					{
+						"value": "Burlesque"
+					},
+					{
+						"value": "Burletta"
+					},
+					{
+						"value": "Cavalier"
+					},
+					{
+						"value": "Chanson de geste"
+					},
+					{
+						"value": "Chapbook"
+					},
+					{
+						"value": "Character study"
+					},
+					{
+						"value": "Children's literature"
+					},
+					{
+						"value": "Chronicle"
+					},
+					{
+						"value": "Cloak-and-sword play"
+					},
+					{
+						"value": "Closed universe"
+					},
+					{
+						"value": "Closet drama"
+					},
+					{
+						"value": "Comedia"
+					},
+					{
+						"value": "Comedia erudate"
+					},
+					{
+						"value": "Comédie ballet"
+					},
+					{
+						"value": "Comédie larmoyante"
+					},
+					{
+						"value": "Comédie rosse"
+					},
+					{
+						"value": "Comedy"
+					},
+					{
+						"value": "Commedia dell'arte"
+					},
+					{
+						"value": "Commedia palliata"
+					},
+					{
+						"value": "Coming-of-age drama"
+					},
+					{
+						"value": "Concrete poetry"
+					},
+					{
+						"value": "Confession"
+					},
+					{
+						"value": "Confessional poetry"
+					},
+					{
+						"value": "Corpus Christi plays"
+					},
+					{
+						"value": "Cosmic voyage fiction"
+					},
+					{
+						"value": "Court comedy"
+					},
+					{
+						"value": "Criticism"
+					},
+					{
+						"value": "Cruelty, Theater of"
+					},
+					{
+						"value": "Culinary literature"
+					},
+					{
+						"value": "Cup-and-saucer drama"
+					},
+					{
+						"value": "Current affairs"
+					},
+					{
+						"value": "Cyberpunk fiction"
+					},
+					{
+						"value": "Dark comedy"
+					},
+					{
+						"value": "Decadent literature"
+					},
+					{
+						"value": "Diary"
+					},
+					{
+						"value": "Didactic literature"
+					},
+					{
+						"value": "Documentary drama"
+					},
+					{
+						"value": "Doggerel"
+					},
+					{
+						"value": "Domestic"
+					},
+					{
+						"value": "Dramatic monologue"
+					},
+					{
+						"value": "Dream vision"
+					},
+					{
+						"value": "Dystopian fiction"
+					},
+					{
+						"value": "Eclogue"
+					},
+					{
+						"value": "Economics"
+					},
+					{
+						"value": "Elegy"
+					},
+					{
+						"value": "Encomium"
+					},
+					{
+						"value": "Entremés"
+					},
+					{
+						"value": "Environmental theater"
+					},
+					{
+						"value": "Epic"
+					},
+					{
+						"value": "Epic theater"
+					},
+					{
+						"value": "Epigram"
+					},
+					{
+						"value": "Epistolary literature"
+					},
+					{
+						"value": "Epitaph"
+					},
+					{
+						"value": "Epithalamion"
+					},
+					{
+						"value": "Epode"
+					},
+					{
+						"value": "Equestrian drama"
+					},
+					{
+						"value": "Erotic literature"
+					},
+					{
+						"value": "Essays"
+					},
+					{
+						"value": "Eulogy"
+					},
+					{
+						"value": "Exemplum"
+					},
+					{
+						"value": "Exilliteratur"
+					},
+					{
+						"value": "Existential literature"
+					},
+					{
+						"value": "Expressionist literature"
+					},
+					{
+						"value": "Extravaganza"
+					},
+					{
+						"value": "Fable"
+					},
+					{
+						"value": "Fabliau"
+					},
+					{
+						"value": "Fabula"
+					},
+					{
+						"value": "Fairy tale"
+					},
+					{
+						"value": "Family literature"
+					},
+					{
+						"value": "Fantasy"
+					},
+					{
+						"value": "Farce"
+					},
+					{
+						"value": "Fastnachtsspiel"
+					},
+					{
+						"value": "Feminist science fiction"
+					},
+					{
+						"value": "Fiction"
+					},
+					{
+						"value": "Fiction of manners"
+					},
+					{
+						"value": "Folk drama"
+					},
+					{
+						"value": "Folklore"
+					},
+					{
+						"value": "Found poetry"
+					},
+					{
+						"value": "Frame story"
+					},
+					{
+						"value": "Free verse"
+					},
+					{
+						"value": "Future history"
+					},
+					{
+						"value": "Galactic empire fiction"
+					},
+					{
+						"value": "Gaucho literature"
+					},
+					{
+						"value": "Geography"
+					},
+					{
+						"value": "Ghazal"
+					},
+					{
+						"value": "Ghost story"
+					},
+					{
+						"value": "Goliardic poetry"
+					},
+					{
+						"value": "Gongorism"
+					},
+					{
+						"value": "Gothic fiction"
+					},
+					{
+						"value": "Grand Guignol"
+					},
+					{
+						"value": "Graphic novel"
+					},
+					{
+						"value": "Grotesque literature"
+					},
+					{
+						"value": "Hagiography"
+					},
+					{
+						"value": "Haiku"
+					},
+					{
+						"value": "Hard-boiled detective fiction"
+					},
+					{
+						"value": "Harlequinade"
+					},
+					{
+						"value": "Hasidic tale"
+					},
+					{
+						"value": "Health and medicine"
+					},
+					{
+						"value": "Heroic"
+					},
+					{
+						"value": "High comedy"
+					},
+					{
+						"value": "High fantasy"
+					},
+					{
+						"value": "Historical fiction"
+					},
+					{
+						"value": "History"
+					},
+					{
+						"value": "History play"
+					},
+					{
+						"value": "Holocaust literature"
+					},
+					{
+						"value": "Horror literature"
+					},
+					{
+						"value": "Hymn"
+					},
+					{
+						"value": "Impressionistic literature"
+					},
+					{
+						"value": "Interlude"
+					},
+					{
+						"value": "Inverted crime fiction"
+					},
+					{
+						"value": "Jazz poetry"
+					},
+					{
+						"value": "Jeremiad"
+					},
+					{
+						"value": "Journalism"
+					},
+					{
+						"value": "Kabuki"
+					},
+					{
+						"value": "Language Poetry"
+					},
+					{
+						"value": "Laughing comedy"
+					},
+					{
+						"value": "Law and jurisprudence"
+					},
+					{
+						"value": "Lay"
+					},
+					{
+						"value": "Lectures"
+					},
+					{
+						"value": "Letters"
+					},
+					{
+						"value": "Light verse"
+					},
+					{
+						"value": "Limerick"
+					},
+					{
+						"value": "Linguistics"
+					},
+					{
+						"value": "Liturgical drama"
+					},
+					{
+						"value": "Living Newspaper"
+					},
+					{
+						"value": "Low comedy"
+					},
+					{
+						"value": "Lyrical"
+					},
+					{
+						"value": "Macaronic poetry"
+					},
+					{
+						"value": "Machine drama"
+					},
+					{
+						"value": "Magical and occult fantasy"
+					},
+					{
+						"value": "Magical Realism"
+					},
+					{
+						"value": "Marinism"
+					},
+					{
+						"value": "Masque"
+					},
+					{
+						"value": "Master sleuth fiction"
+					},
+					{
+						"value": "Meditation"
+					},
+					{
+						"value": "Melodrama"
+					},
+					{
+						"value": "Memoir"
+					},
+					{
+						"value": "Memory play"
+					},
+					{
+						"value": "Metafiction"
+					},
+					{
+						"value": "Metaphysical poetry"
+					},
+					{
+						"value": "Minstrel show"
+					},
+					{
+						"value": "Miracle play"
+					},
+					{
+						"value": "Mock-heroic"
+					},
+					{
+						"value": "Monodrama"
+					},
+					{
+						"value": "Monody"
+					},
+					{
+						"value": "Morality play"
+					},
+					{
+						"value": "Motoriae"
+					},
+					{
+						"value": "Mummers' play"
+					},
+					{
+						"value": "Musical drama"
+					},
+					{
+						"value": "Mystery and detective"
+					},
+					{
+						"value": "Mystery play"
+					},
+					{
+						"value": "Mythological literature"
+					},
+					{
+						"value": "Narrative poetry"
+					},
+					{
+						"value": "Naturalistic literature"
+					},
+					{
+						"value": "Nature writing"
+					},
+					{
+						"value": "Nautical drama"
+					},
+					{
+						"value": "Near future and distant future fiction"
+					},
+					{
+						"value": "Neorealist fiction"
+					},
+					{
+						"value": "New Journalism"
+					},
+					{
+						"value": "New Novel"
+					},
+					{
+						"value": "New Wave science fiction"
+					},
+					{
+						"value": "Newgate novel"
+					},
+					{
+						"value": "Nō"
+					},
+					{
+						"value": "Novel"
+					},
+					{
+						"value": "Novella"
+					},
+					{
+						"value": "Occasional verse"
+					},
+					{
+						"value": "Ode"
+					},
+					{
+						"value": "One-act play"
+					},
+					{
+						"value": "Opera"
+					},
+					{
+						"value": "Oriental tale"
+					},
+					{
+						"value": "Paean"
+					},
+					{
+						"value": "Palinode"
+					},
+					{
+						"value": "Panegyric"
+					},
+					{
+						"value": "Parable"
+					},
+					{
+						"value": "Parody"
+					},
+					{
+						"value": "Passion play"
+					},
+					{
+						"value": "Pastoral"
+					},
+					{
+						"value": "Pattern poetry"
+					},
+					{
+						"value": "Peking opera"
+					},
+					{
+						"value": "Philosophical realism"
+					},
+					{
+						"value": "Philosophy"
+					},
+					{
+						"value": "Picaresque fiction"
+					},
+					{
+						"value": "Police procedural"
+					},
+					{
+						"value": "Political"
+					},
+					{
+						"value": "Postcolonial literature"
+					},
+					{
+						"value": "Potboiler"
+					},
+					{
+						"value": "Private investigator fiction"
+					},
+					{
+						"value": "Problem"
+					},
+					{
+						"value": "Prose poem"
+					},
+					{
+						"value": "Proverbs"
+					},
+					{
+						"value": "Psychological drama"
+					},
+					{
+						"value": "Psychological fiction"
+					},
+					{
+						"value": "Psychology"
+					},
+					{
+						"value": "Radio play"
+					},
+					{
+						"value": "Realism"
+					},
+					{
+						"value": "Realistic comedy"
+					},
+					{
+						"value": "Récit"
+					},
+					{
+						"value": "Reference work"
+					},
+					{
+						"value": "Regional fiction"
+					},
+					{
+						"value": "Religion and spirituality"
+					},
+					{
+						"value": "Revenge tragedy"
+					},
+					{
+						"value": "Revue"
+					},
+					{
+						"value": "Ritterdrama"
+					},
+					{
+						"value": "Robinsonade"
+					},
+					{
+						"value": "Roman à clef"
+					},
+					{
+						"value": "Roman-fleuve"
+					},
+					{
+						"value": "Romance"
+					},
+					{
+						"value": "Romantic comedy"
+					},
+					{
+						"value": "Rondeau"
+					},
+					{
+						"value": "Rondel"
+					},
+					{
+						"value": "Roundel"
+					},
+					{
+						"value": "Saga"
+					},
+					{
+						"value": "Sainete"
+					},
+					{
+						"value": "Satire"
+					},
+					{
+						"value": "Satyr play"
+					},
+					{
+						"value": "Schicksalstragödie"
+					},
+					{
+						"value": "School drama"
+					},
+					{
+						"value": "Science and technology"
+					},
+					{
+						"value": "Science fantasy"
+					},
+					{
+						"value": "Science fiction"
+					},
+					{
+						"value": "Screenplay"
+					},
+					{
+						"value": "Sea story"
+					},
+					{
+						"value": "Senecan drama"
+					},
+					{
+						"value": "Sensation novel"
+					},
+					{
+						"value": "Sentimental"
+					},
+					{
+						"value": "Shishōsetsu"
+					},
+					{
+						"value": "Short short story"
+					},
+					{
+						"value": "Skaldic poetry"
+					},
+					{
+						"value": "Sketch"
+					},
+					{
+						"value": "Slave narrative"
+					},
+					{
+						"value": "Social issues"
+					},
+					{
+						"value": "Social realism"
+					},
+					{
+						"value": "Sociology"
+					},
+					{
+						"value": "Sonnet"
+					},
+					{
+						"value": "Sottie"
+					},
+					{
+						"value": "Space opera"
+					},
+					{
+						"value": "Speeches"
+					},
+					{
+						"value": "Sports"
+					},
+					{
+						"value": "Spy fiction"
+					},
+					{
+						"value": "Static drama"
+					},
+					{
+						"value": "Superbeing and evolutionary fiction"
+					},
+					{
+						"value": "Surrealist literature"
+					},
+					{
+						"value": "Suspense"
+					},
+					{
+						"value": "Symbolist literature"
+					},
+					{
+						"value": "Tall tale"
+					},
+					{
+						"value": "Tanka"
+					},
+					{
+						"value": "Teleplay"
+					},
+					{
+						"value": "Textbook"
+					},
+					{
+						"value": "Threnody"
+					},
+					{
+						"value": "Time travel fiction"
+					},
+					{
+						"value": "Tragedy"
+					},
+					{
+						"value": "Tragicomedy"
+					},
+					{
+						"value": "Translation"
+					},
+					{
+						"value": "Travel writing"
+					},
+					{
+						"value": "Unspoken, Theater of the"
+					},
+					{
+						"value": "Utopian fiction"
+					},
+					{
+						"value": "Vampire fiction"
+					},
+					{
+						"value": "Verse drama"
+					},
+					{
+						"value": "Vignette"
+					},
+					{
+						"value": "Villanelle"
+					},
+					{
+						"value": "War"
+					},
+					{
+						"value": "Weimar classicism"
+					},
+					{
+						"value": "Well-made play"
+					},
+					{
+						"value": "Western fiction"
+					},
+					{
+						"value": "Wit and humor"
+					},
+					{
+						"value": "Women's literature"
+					},
+					{
+						"value": "Yakshagana"
+					},
+					{
+						"value": "Young adult literature"
+					},
+					{
+						"value": "Zarzuela"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "sub_genres",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Geo Locale",
+			"uid": "geo_locale",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Theme",
+			"uid": "theme",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Movement and era",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Abbaye group"
+					},
+					{
+						"value": "Absurd, Theater of the"
+					},
+					{
+						"value": "Acmeist movement"
+					},
+					{
+						"value": "Aesthetic movement"
+					},
+					{
+						"value": "Afro-Cubanism"
+					},
+					{
+						"value": "Agrarian movement"
+					},
+					{
+						"value": "Algonquin Round Table"
+					},
+					{
+						"value": "American colonial period"
+					},
+					{
+						"value": "American early national period"
+					},
+					{
+						"value": "American naturalistic period"
+					},
+					{
+						"value": "American realistic period"
+					},
+					{
+						"value": "American Renaissance"
+					},
+					{
+						"value": "American revolutionary period"
+					},
+					{
+						"value": "Angry Young Men"
+					},
+					{
+						"value": "Archetypal critics"
+					},
+					{
+						"value": "Arzamas society"
+					},
+					{
+						"value": "Augustan Age, English"
+					},
+					{
+						"value": "Augustan Age, Roman"
+					},
+					{
+						"value": "Baroque age"
+					},
+					{
+						"value": "Beat movement"
+					},
+					{
+						"value": "Belle époque"
+					},
+					{
+						"value": "Black Arts movement"
+					},
+					{
+						"value": "Black Mountain school"
+					},
+					{
+						"value": "Bloomsbury Group"
+					},
+					{
+						"value": "Brahmins"
+					},
+					{
+						"value": "Brazilian Northeastern school"
+					},
+					{
+						"value": "Cambridge critics"
+					},
+					{
+						"value": "Canadian Confederation period"
+					},
+					{
+						"value": "Caroline age"
+					},
+					{
+						"value": "Cavalier dramatists"
+					},
+					{
+						"value": "Cavalier poets"
+					},
+					{
+						"value": "Cénacle"
+					},
+					{
+						"value": "Chicago Renaissance"
+					},
+					{
+						"value": "Ciceronian age"
+					},
+					{
+						"value": "Classicism"
+					},
+					{
+						"value": "Cockney school"
+					},
+					{
+						"value": "Commonwealth Interregnum"
+					},
+					{
+						"value": "Constructivism"
+					},
+					{
+						"value": "Contemporary period"
+					},
+					{
+						"value": "Costumbrismo"
+					},
+					{
+						"value": "Counterculture movement"
+					},
+					{
+						"value": "Counter-Reformation"
+					},
+					{
+						"value": "Creation Society"
+					},
+					{
+						"value": "Crepuscularism"
+					},
+					{
+						"value": "Criollismo"
+					},
+					{
+						"value": "Cruelty, Theater of"
+					},
+					{
+						"value": "Cubism"
+					},
+					{
+						"value": "Dada"
+					},
+					{
+						"value": "Decadent movement"
+					},
+					{
+						"value": "Decadentism"
+					},
+					{
+						"value": "Deconstruction school"
+					},
+					{
+						"value": "Deep Image poets"
+					},
+					{
+						"value": "Dirty realism"
+					},
+					{
+						"value": "Edwardian age"
+					},
+					{
+						"value": "Elizabethan age"
+					},
+					{
+						"value": "Enlightenment"
+					},
+					{
+						"value": "Existentialism"
+					},
+					{
+						"value": "Expressionism"
+					},
+					{
+						"value": "Félibrige"
+					},
+					{
+						"value": "Feminist critics"
+					},
+					{
+						"value": "Fin de siècle"
+					},
+					{
+						"value": "Formalism"
+					},
+					{
+						"value": "Frankfurt School"
+					},
+					{
+						"value": "Fugitive movement"
+					},
+					{
+						"value": "Futurism"
+					},
+					{
+						"value": "Generation of '98"
+					},
+					{
+						"value": "Generation of '27"
+					},
+					{
+						"value": "Generation of '36"
+					},
+					{
+						"value": "Georgian period"
+					},
+					{
+						"value": "Gilded Age"
+					},
+					{
+						"value": "Goethe, Age of"
+					},
+					{
+						"value": "Gothic Revival"
+					},
+					{
+						"value": "Grammatologists"
+					},
+					{
+						"value": "Graveyard school"
+					},
+					{
+						"value": "Grottesco, Teatro del"
+					},
+					{
+						"value": "Gruppe 47"
+					},
+					{
+						"value": "Harlem Renaissance"
+					},
+					{
+						"value": "Hermeticism"
+					},
+					{
+						"value": "Humanism"
+					},
+					{
+						"value": "Imaginism"
+					},
+					{
+						"value": "Imagism"
+					},
+					{
+						"value": "Inklings"
+					},
+					{
+						"value": "Interwar era"
+					},
+					{
+						"value": "Irish Literary Renaissance"
+					},
+					{
+						"value": "Jacobean age"
+					},
+					{
+						"value": "Jena Romanticism"
+					},
+					{
+						"value": "Kailyard school"
+					},
+					{
+						"value": "Kanze school"
+					},
+					{
+						"value": "Kit-Kat Club"
+					},
+					{
+						"value": "Knickerbocker school"
+					},
+					{
+						"value": "Lake Poets"
+					},
+					{
+						"value": "Language Poets"
+					},
+					{
+						"value": "Latin American boom"
+					},
+					{
+						"value": "Latin Golden Age"
+					},
+					{
+						"value": "Latin Silver Age"
+					},
+					{
+						"value": "Local color"
+					},
+					{
+						"value": "Lost generation"
+					},
+					{
+						"value": "Marxist critics"
+					},
+					{
+						"value": "Metaphysical poets"
+					},
+					{
+						"value": "Middle Ages"
+					},
+					{
+						"value": "Middle Comedy"
+					},
+					{
+						"value": "Middle English period"
+					},
+					{
+						"value": "Minimalism"
+					},
+					{
+						"value": "Minnesänger"
+					},
+					{
+						"value": "Modernism"
+					},
+					{
+						"value": "Modernismo"
+					},
+					{
+						"value": "Montreal group"
+					},
+					{
+						"value": "Movement poets"
+					},
+					{
+						"value": "Muckrakers"
+					},
+					{
+						"value": "Naturalism"
+					},
+					{
+						"value": "Negritude"
+					},
+					{
+						"value": "Neoclassical period"
+					},
+					{
+						"value": "Neoplatonism"
+					},
+					{
+						"value": "Neorealism"
+					},
+					{
+						"value": "Neoteric school"
+					},
+					{
+						"value": "New Comedy"
+					},
+					{
+						"value": "New Critics"
+					},
+					{
+						"value": "New Formalism"
+					},
+					{
+						"value": "New gothic"
+					},
+					{
+						"value": "New Novelists"
+					},
+					{
+						"value": "New Objectivists"
+					},
+					{
+						"value": "New York Intellectuals"
+					},
+					{
+						"value": "New York school"
+					},
+					{
+						"value": "Objectivism"
+					},
+					{
+						"value": "Old Comedy"
+					},
+					{
+						"value": "Old English period"
+					},
+					{
+						"value": "OuLiPo writers"
+					},
+					{
+						"value": "Oxford Movement"
+					},
+					{
+						"value": "Parnassian school"
+					},
+					{
+						"value": "Philosophes"
+					},
+					{
+						"value": "Pluralist critics"
+					},
+					{
+						"value": "Poetic Realism"
+					},
+					{
+						"value": "Postmodernism"
+					},
+					{
+						"value": "Poststructuralism"
+					},
+					{
+						"value": "Postwar period"
+					},
+					{
+						"value": "Prague Linguistic Circle"
+					},
+					{
+						"value": "Pre-Raphaelites"
+					},
+					{
+						"value": "Pre-Romanticism"
+					},
+					{
+						"value": "Psychoanalytic critics"
+					},
+					{
+						"value": "Realism"
+					},
+					{
+						"value": "Reformation"
+					},
+					{
+						"value": "Regency"
+					},
+					{
+						"value": "Renaissance"
+					},
+					{
+						"value": "Restoration"
+					},
+					{
+						"value": "Rhétoriqueurs"
+					},
+					{
+						"value": "Risorgimento"
+					},
+					{
+						"value": "Romanticism"
+					},
+					{
+						"value": "Russian realists"
+					},
+					{
+						"value": "Samizdat movement"
+					},
+					{
+						"value": "Scholasticism"
+					},
+					{
+						"value": "Scottish Enlightenment"
+					},
+					{
+						"value": "Scottish Renaissance"
+					},
+					{
+						"value": "Scriblerus Club"
+					},
+					{
+						"value": "Semioticians"
+					},
+					{
+						"value": "Sensibility, Age of"
+					},
+					{
+						"value": "Socialist Realism"
+					},
+					{
+						"value": "Southern gothic writers"
+					},
+					{
+						"value": "Southern renaissance"
+					},
+					{
+						"value": "Southwestern humor"
+					},
+					{
+						"value": "Spanish Golden Age"
+					},
+					{
+						"value": "Structuralism"
+					},
+					{
+						"value": "Sturm und Drang"
+					},
+					{
+						"value": "Surrealist movement"
+					},
+					{
+						"value": "Symbolist movement"
+					},
+					{
+						"value": "Teatro Campesino"
+					},
+					{
+						"value": "Tel Quel group"
+					},
+					{
+						"value": "Transcendentalists"
+					},
+					{
+						"value": "Tudor age"
+					},
+					{
+						"value": "Ultraism"
+					},
+					{
+						"value": "University Wits"
+					},
+					{
+						"value": "Verism"
+					},
+					{
+						"value": "Victorian age"
+					},
+					{
+						"value": "Vienna Circle"
+					},
+					{
+						"value": "Vorticism"
+					},
+					{
+						"value": "War poets"
+					},
+					{
+						"value": "World War I era"
+					},
+					{
+						"value": "World War II era"
+					},
+					{
+						"value": "Yellow journalists"
+					},
+					{
+						"value": "Young Germany"
+					},
+					{
+						"value": "Young Poland"
+					},
+					{
+						"value": "Twenty-third century b.c.e."
+					},
+					{
+						"value": "Twenty-second century b.c.e."
+					},
+					{
+						"value": "Twelfth century b.c.e."
+					},
+					{
+						"value": "Tenth century b.c.e."
+					},
+					{
+						"value": "Eighth century b.c.e."
+					},
+					{
+						"value": "Seventh century b.c.e."
+					},
+					{
+						"value": "Sixth century b.c.e."
+					},
+					{
+						"value": "Fifth century b.c.e."
+					},
+					{
+						"value": "Fourth century b.c.e."
+					},
+					{
+						"value": "Third century b.c.e."
+					},
+					{
+						"value": "Second century b.c.e."
+					},
+					{
+						"value": "First century b.c.e."
+					},
+					{
+						"value": "First century c.e."
+					},
+					{
+						"value": "Second century c.e."
+					},
+					{
+						"value": "Third century c.e."
+					},
+					{
+						"value": "Fourth century c.e."
+					},
+					{
+						"value": "Fifth century c.e."
+					},
+					{
+						"value": "Sixth century c.e."
+					},
+					{
+						"value": "Seventh century c.e."
+					},
+					{
+						"value": "Eighth century c.e."
+					},
+					{
+						"value": "Ninth century c.e."
+					},
+					{
+						"value": "Tenth century"
+					},
+					{
+						"value": "Eleventh century"
+					},
+					{
+						"value": "Twelfth century"
+					},
+					{
+						"value": "Thirteenth century"
+					},
+					{
+						"value": "Fourteenth century"
+					},
+					{
+						"value": "Fifteenth century"
+					},
+					{
+						"value": "Sixteenth century"
+					},
+					{
+						"value": "Seventeenth century"
+					},
+					{
+						"value": "Eighteenth century"
+					},
+					{
+						"value": "Nineteenth century"
+					},
+					{
+						"value": "Twentieth century"
+					},
+					{
+						"value": "Twenty-first century"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "movement",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Literture Curriculum",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "American History"
+					},
+					{
+						"value": "Ancient History"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "literture_curriculum",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Bio Reference ID",
+			"uid": "bio_reference_id",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Top reference ID",
+			"uid": "top_reference_id",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Xref ID",
+			"uid": "xref_id",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

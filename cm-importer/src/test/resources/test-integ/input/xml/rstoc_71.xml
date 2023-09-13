@@ -1,0 +1,126 @@
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">rstoc</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rstoc</book-id>
+         <book-id pub-id-type="eis-mid">GBJI</book-id>
+         <book-title-group>
+            <book-title>Violence: Research Starters Topic</book-title>
+            <alt-title alt-title-type="mid">GBJI</alt-title>
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+         <day>1</day>
+         <month>April</month>
+         <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>April</month>
+         <year>2021</year>
+      </pub-date>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink" book-part-type="chapter" id="rstoc.10.3331.85285" indexed="true" xml:lang="EN" xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">rstoc_71</book-part-id>
+               <title-group>
+                  <title>Violence: Research Starters Topic</title>
+               </title-group>
+            </book-part-meta>
+            <body>
+               <sec sec-type="bodytext">
+                  <title>Violence: Research Starters Topic</title>
+                  <p>Violence is defined as a material or spiritual attack causing physical or emotional harm. There are numerous Research Starter articles related to the topic of violence. The list below includes the most relevant Research Starter items.</p>
+               </sec>
+               <sec sec-type="bodytext">
+                  <title>Related Research Starters</title>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89185394">Crime and Violence in Schools</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="96397329">Ethnoviolence</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="109057043">Horizontal Violence</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="100259267">Lateral violence</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="95343040">Prison violence</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="93872176">Psychological causes and effects of violence</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89158308">School Violence: Overview.</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89164546">Violence Prevention</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="93872320">Violence by children and teenagers</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89550795">Violence in the precivilized world</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89185808">Violent Crime in the U.S.</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89158344">Violent protest debate</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="121772945">Workplace violence</related-article>
+                  </p>
+                  <sec sec-type="subsec">
+                     <title>Family Violence</title>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="89158162">Domestic violence</related-article>
+                     </p>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="94415391">Domestic violence and addiction</related-article>
+                     </p>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="89093391">Family violence and public health</related-article>
+                     </p>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="97176611">Interpartner violence</related-article>
+                     </p>
+                  </sec>
+                  <sec sec-type="subsec">
+                     <title>Violence and Literature</title>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="102165661">Violence in Graphic Novels</related-article>
+                     </p>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="100551665">Violence in Literature</related-article>
+                     </p>
+                  </sec>
+                  <sec sec-type="subsec">
+                     <title>Violence and the Media</title>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="102082495">Violence Against Journalists</related-article>
+                     </p>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="93872319">Violence and sexuality in the media</related-article>
+                     </p>
+                     <p>
+                        <related-article related-article-type="rs" xlink:href="89158343">Violence in the media debate</related-article>
+                     </p>
+                  </sec>
+               </sec>
+               <sec sec-type="bodytext">
+                  <title>Related Research Starters Topics</title>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="91919441">War: Research Starters Topic</related-article>
+                  </p>
+               </sec>
+            </body>
+         </book-part>
+      </body>
+   </book>

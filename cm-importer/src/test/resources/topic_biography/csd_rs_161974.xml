@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">csd_sp_ency_bio</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>8</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="csd_sp_ency_bio.10.3331.161974"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">csd_rs_161974</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Henry Bernstein</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Gordon</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Walters</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN0064950"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>Playwright. Henry Bernstein is known exclusively for his theatrical works.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>A biographical essay about Henry Bernstein, with brief critical analysis of major works.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>0064950-Henry Bernstein</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Root AN</meta-name>
+                  <meta-value>0130000270</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>XRef</meta-name>
+                  <meta-value>A006495011</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/CSD_14690130000270</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>794</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>Playwright</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN0064950" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>January 20, 1876</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Paris, France</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>November 27, 1953</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Paris, France</p>
+                  </list-item>
+               </list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Other Literary Forms</title>
+               <p>Henry Bernstein is known exclusively for his theatrical works. <index-term>
+                     <primary>[B]Bernstein, Henry[W0]</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[GEN]Male</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[GEO][B]FRANCE[W0];Bernstein, Henry</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[CH]Twentieth century</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[M][B]MELODRAMA[W0];Bernstein, Henry</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[M][B]BOULEVARD THEATER[W0];Bernstein, Henry</primary>
+                  </index-term>
+                  </p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Henri Bernstein 001.jpg</title>
+                     <p>Henri-Léon-Gustave-Charles Bernstein was a French playwright associated with Boulevard theatre.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89404029-112384.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By George Grantham Bain (1865–1944) (Original image from eBay) [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Henri Bernstein 1936.jpg</title>
+                     <p> French playwright Henri Bernstein (1876-1953).</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89404029-112385.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Agence de presse Meurisse‏ [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Achievements</title>
+               <p>Henry Bernstein did not distinguish himself by winning awards; his notable achievement is his long, rich, sometimes even courageous playwriting career, which spanned more than a half century. One critic has said that Bernstein dominated the French stage from 1900 to 1917. Bernstein is, however, sometimes dismissed as a playwright of the Paris Theater of the Boulevard <index-term>
+                     <primary>Boulevard theater</primary>
+                  </index-term>—meaning that he wrote only entertainment for a low-brow, middle-class public. However, a measured consideration of Bernstein’s work proves that such a perspective is exaggerated. In fact, Bernstein’s plays provide not only a fascinating record of what the French theatergoing public admired in the first forty years of the twentieth century but also a sound idea of the moral concerns of the bourgeoisie and minor nobility of the era. If Bernstein is not a playwright of profound ideas, he nevertheless intriguingly depicts an always interesting time, society, and ethos.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Biography</title>
+               <p>Henry-Léon-Gustave-Charles Bernstein would have been quite familiar with the social milieu that appears in his plays. Like most of his characters, Bernstein was well off. His father was a banker of Polish-Jewish origin; his mother was American, the daughter of another banker, William Seligman. Therefore, Henry was heir to a family fortune, and he added to that fortune himself.</p>
+               <p>Although he was born in Paris, Bernstein received his higher education at Cambridge, where he spent two years. In 1899, in order to avoid the last four months of his year of compulsory military service (he claimed he was a pacifist), he fled to Brussels. He was, however, pardoned for this offense.</p>
+               <p>As a writer, Bernstein took no grandiose posture. He evidently admitted that he wrote to make money. He was beyond a doubt financially successful: He made some eight million dollars during his career of writing and producing drama and selling film rights to his plays. At least a dozen of his plays were made into films. In addition, by 1900 when his first play was staged, Bernstein had acquired a reputation as a gambler and boulevardier.</p>
+               <p>A factor that would have made Bernstein something of an outsider in Parisian high society was his Jewish ancestry (he was only five years younger than the great <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/CSLF_15000140000438"
+                            xlink:type="simple">Marcel Proust</ext-link>, another French—and Jewish—writer of the day). In Bernstein’s early years, he, like other writers and intellectuals, came to the defense of Alfred Dreyfus in the famous Dreyfus affair, which dragged on for some twelve years. Dreyfus was a Jewish army captain accused of treason, then ultimately exonerated; rampant anti-Semitism had much to do with the persecution of Dreyfus. Bernstein’s ethnic background also surfaces in his own career. His <italic>Israël</italic> and <italic>After Me</italic> both deal with anti-Semitism—which was so strong in France at this time that riots forced the closing of <italic>After Me</italic>. Anti-Semitic writer Léon Daudet was at least in part responsible for these riots, insofar as he openly accused Bernstein of having shirked his military service. Bernstein fought three duels with Daudet; during his career, he managed to get involved in a total of twelve duels, sometimes for professional reasons, sometimes because of his ethnic identity.</p>
+               <p>Despite what Bernstein may have done in 1899, during World War I he fought with the British in Belgium, then did duty as an observer for the French aviation service in what was then Mesopotamia. He was wounded, and while he was recovering in an Iraqi hospital, he wrote <italic>L’Élévation</italic> (the Elevation). After World War I, he bought his own theater in Paris, the Gymnase.</p>
+               <p>When World War II broke out, Bernstein showed that age, success, and financial stature had not diminished his courage, sense of justice, and fighting spirit. In 1940, he presented his <italic>Elvire</italic>, an anti-Nazi play that had only a brief run before the Germans invaded France that summer. Bernstein later escaped to the United States, where he was active in the Free France movement, but returned to France after the war. He continued his playwriting until 1953. He died on November 27 of that year, following surgery for a brain tumor.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Analysis</title>
+               <p>Henry Bernstein was presented in the 1960’s as an example of what French theater ought not to be. The French playwrights in vogue in the 1960’s viewed the theater of Bernstein and other “popular” playwrights as anti-intellectual; writers such as <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/CSD_10180130000017"
+                            xlink:type="simple">Samuel Beckett</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/CSD_13990135000423"
+                            xlink:type="simple">Jean-Paul Sartre</ext-link>, and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/CSD_12480135000269"
+                            xlink:type="simple">Jean Anouilh</ext-link> saw theater as a vehicle for ideas, political statements, and philosophy. However, Bernstein’s plays have much more substance than these writers—and critics since the 1960’s—have been willing to admit.</p>
+               <p>Bernstein’s theater entertains, even in the twenty-first century. His plays almost always contain some comic element—amusing characters, witty dialogue, comic situations. The real essence of his drama, however, lies in the manner in which he presents an era in French society—or at least certain elements of French society—in the first half of the twentieth century. The society he depicts is a microcosm: upper-middle-class characters and members of the hereditary nobility, as diluted as the nobility was in France at the turn of the twentieth century. The only representatives of the rest of French society are maids and valets, who for the most part perform their appointed tasks (although a maid in <italic>Samson</italic> takes it on herself, benevolently, to warn a mother of her daughter’s misbehavior).</p>
+               <p>The upper levels of turn-of-the-twentieth-century French society, as Bernstein sees things, are materialistic, ever conscious of social status, generally superficial in any sense of appreciation of culture. This society, often referred to by Bernstein’s characters as “the world,” thrives on hypocrisy: It is the face one presents publicly, not one’s inner passions, longings, or lusts, that matters. Therefore, when for some reason one’s real identity is exposed, the individual is in peril. However, in Bernstein’s best plays there is always a hero or heroine—or occasionally, both, as in <italic>Samson</italic>—who has the courage to transcend the crowd mentality and do what is right.</p>
+               <sec sec-type="subsec" indexed="true">
+                  <title>The Whirlwind</title>
+                  <p>The <index-term role="workstitle">
+                        <primary>Whirlwind, The</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>{I}Whirlwind, The{/I} (Bernstein)</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>Bernstein, Henry;{I}Whirlwind, The{/I}</primary>
+                     </index-term>world of <italic>The Whirlwind</italic>, like that of most of Bernstein’s plays, is tightly circumscribed in more than one sense. Bernstein sets his plays for the most part in Paris, the center of French society, which, in turn, consists of a number of inner circles. <italic>The Whirlwind</italic> deals with insiders and outsiders (the play opens with a conversation about whether a certain man ought to be voted into an exclusive club). There is a clearly recognized distinction between those who trace their ancestry through several generations of nobility, on one hand, and those who have risen to the apex of this society on the basis of their forebears’ work and have climbed the social ladder from humble origins, on the other.</p>
+                  <p>At one point, Baron Lebourg, for example, is called a <italic>parvenu</italic>, a man who has “succeeded.” This expression is usually used negatively in eighteenth and nineteenth century France. Here, the Baron accepts the characterization because his interlocutor means that the Baron has an energy for life, a joy for challenge that the old nobility no longer has. It is Robert de Chacéroy who is talking with Lebourg in this scene. Chacéroy is, in contrast to the Baron, titled but impoverished nobility, a young man driven to pay for his elegant lifestyle by gambling. He has even learned to enjoy gambling. However, Chacéroy’s luck has run out. Early in the play, it is revealed that he has lost a great sum of money, and worse, he has covered his debts through embezzlement. Still, it is Chacéroy who is the focus of the love of Lebourg’s daughter, Hélène. She was forced into a loveless but socially useful marriage with a boor. This, too, is a long tradition in French society, in which fathers have complete control of their families.</p>
+                  <p>When the scandal of Chacéroy’s dilemma becomes known in the Lebourg family, the Baron tries to buy Chacéroy off. However, Chacéroy truly loves Hélène and turns down the offer. What is more important perhaps, and the point that constitutes the last act’s surprise twist, is that Robert has lost his nerve for gambling. Facing scandal, meaninglessness, and the loss of Hélène, Robert nobly kills himself—rather than ruin Hélène, who was all too willing to run away with him.</p>
+               </sec>
+               <sec sec-type="subsec" indexed="true">
+                  <title>The Thief</title>
+                  <p>
+                        <italic>The <index-term role="workstitle">
+                           <primary>Thief, The</primary>
+                        </index-term>
+                           <index-term>
+                           <primary>{I}Thief, The{/I} (Bernstein)</primary>
+                        </index-term>
+                           <index-term>
+                           <primary>Bernstein, Henry;{I}Thief, The{/I}</primary>
+                        </index-term>Thief</italic> is a thriller, a comedy, a love story (indeed, several love stories), and perhaps what one critic called a “comedy of character.” The first two acts carry several surprises, including an exposed disguise, and the crisis of the last act is a spontaneous confession. This kind of thing is to be expected in a play in which the very title is deliberately misleading: The French title, <italic>Le Voleur</italic>, refers to a masculine thief, leaving the French audience no reason to believe that the play will reveal a female thief (<italic>la voleuse</italic>).</p>
+                  <p>As is typical in Bernstein’s works, the milieu is that of the wealthy but, in this case, not idle rich. Raymond Lagardes is a Paris coffee merchant; he and his second wife, Isabelle, spend a good deal of time with their old friends, thirty-five-year-old Richard Voysin and his twenty-three-year-old wife, Marie-Louise. Raymond’s eighteen-year-old son, Fernand, falls madly in love with Marie-Louise, who proceeds to take advantage of him.</p>
+                  <p>Raymond Lagardes discovers that money has been stolen from his house; he suspects the servants and hires a detective, who passes for a family friend. The detective, Gondoin, announces that the thief is none other than Fernand. The boy admits his guilt, to the chagrin of his father. However, in act 2, Richard Voysin finds that his wife has been hiding money in a dresser drawer in their room; after much cajoling, she confesses that it was she who took the money from the Lagardes household and that Fernand took the blame to save her honor.</p>
+                  <p>The crux of the matter here is that Marie-Louise defends her theft by insisting on her love for her husband—that she spent the money on clothes so that she could be attractive for him and a credit to him in society. In addition, however, Marie-Louise, like other Bernstein characters, pleads a kind of moral helplessness: She claims to her husband that she could not stop herself from taking the money.</p>
+                  <p>Surprisingly, Richard accepts his wife’s explanation—and forgives her, at least provisionally. He knows that what Marie-Louise did is wrong, but he understands her lapse. To some extent, Marie-Louise redeems herself in act 3: She confesses to Raymond and saves Fernand from exile in Brazil. Instead, Richard and Marie-Louise will try to start over in South America. Richard also shows his magnanimity by quietly allowing his wife to say a tender goodbye to Fernand—a scene in which she transcends her selfishness and thanks Fernand for his noble, knightly self-sacrifice.</p>
+               </sec>
+               <sec sec-type="subsec" indexed="true">
+                  <title>Samson</title>
+                  <p>
+                        <italic>Samson</italic> 
+                        <index-term role="workstitle">
+                        <primary>Samson</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>{I}Samson{/I} (Bernstein)</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>Bernstein, Henry;{I}Samson{/I}</primary>
+                     </index-term>features a clash of social cultures and a hero and a heroine who express their courage in different ways. The Samson of the title is Jacques Branchart, a self-made man in a real sense. His past is shady: He grew up in Marseilles (a city traditionally regarded as unsavory by upper-class Parisians), mysteriously worked in Egypt, then just as mysteriously came to Paris and made a quick fortune in the stock market. In order to climb the social ladder, Jacques marries Anne-Marie d’Andeline, daughter of a marquis. Anne-Marie sees the marriage as a deal—one in which her parents have sold her like an animal.</p>
+                  <p>However, Jacques, over time, falls madly in love with Anne-Marie. When she has an affair with Jérôme Le Govain, he is enraged, so enraged that he engineers a stock-market crash that ruins Le Govain—but also Jacques. Hence the play’s title: Jacques, like the biblical figure, brings the roof down on himself as well as on his enemy.</p>
+                  <p>Anne-Marie’s parents want her to divorce Jacques, but in a surprising move, she refuses to play the game according to her parents’ rules. She will not abandon her husband in his time of need; she does not, however, promise Jacques that she can make herself love him. The play ends on Jacques’s likewise heroic pronouncement—that he will rise again to wealth and power.</p>
+               </sec>
+               <sec sec-type="subsec" indexed="true">
+                  <title>Le Secret</title>
+                  <p>For <index-term role="workstitle">
+                        <primary>Secret, Le</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>{I}Secret, Le{/I} (Bernstein)</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>Bernstein, Henry;{I}Secret, Le{/I}</primary>
+                     </index-term>almost two-thirds of its length, <italic>Le Secret</italic> plays like a bedroom farce—a love triangle, a jealous husband, and innuendo exchanged among two couples and a third man. However, in the middle of the play’s third act, the situation takes a sudden and dark turn.</p>
+                  <p>Constant and Gabrielle Jannelot are an apparently happy and secure couple in their thirties. Constant is a painter who, like many painters, struggles with self-doubt and hostile criticism. Gabrielle provides him with solid support in every way. The Jannelots, as well as their friends, are clearly well off: Money is not a subject of worry or conversation. Unfortunately, as is revealed at the play’s crisis, the couple has suffered in their childlessness. As Gabrielle confesses, not being able to conceive hurt her a good deal.</p>
+                  <p>Gabrielle’s close and longtime friend, Henriette Hozleur, is in her mid-twenties. As the play begins, she is being pursued by Denis Le Guenn. After Denis seems to satisfy himself as to Henriette’s virtuous past, he and she marry and are happy for a time. Not long after the marriage, the Le Guenns and the Jannelots enjoy a vacation at the Norman seaside. For reasons that remain obscure for a time, Henriette’s former lover, Charlie Ponta Tulli, very much a man of the world, also appears at the resort. Eventually, Charlie attempts to engage his former mistress in at least one brief sexual encounter. Henriette is shocked—and tempted. To avoid further temptation, she asks Gabrielle to see to it that Charlie is disinvited.</p>
+                  <p>Denis surprises Charlie and Gabrielle in a tête-à-tête. Denis has suspected the truth anyway—that his wife was Charlie’s mistress, that she has a “past.” The Le Guenn marriage is soon in jeopardy. In a fit of remorse, Gabrielle stuns her husband (and the audience) by confessing that she deliberately set out to destroy Henriette’s marriage by inviting Charlie to join them all. From this point on, <italic>Le Secret</italic> is no laughing matter. Gabrielle is obsessively jealous: As she says, when she sees people who are happy in a happiness in which she has no part, she is enraged. In another case of her instability, she has created a serious rift between Constant and his sister—simply because Gabrielle was envious of the close relationship they had.</p>
+                  <p>One of the points of <italic>Le Secret</italic>, as Constant says, is the sad notion that no human being can ever really know another—that everyone, in the last analysis, is alone. Even Constant and Gabrielle, formerly so happy, realize that human beings are much more complex than they know—or want to know. Denis and Henriette are reunited, but the Jannelots remain in a very uneasy state. Although Gabrielle vows to try to <italic>learn</italic> to be a good person, Constant is not convinced that this is possible. The Jannelot marriage is intact, but largely because Constant’s name proves appropriate.</p>
+               </sec>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Biliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Chandler, Frank Wadleigh. “Bernstein.” In <italic>The Contemporary Drama of France</italic>. Boston: Little, Brown, 1920. A judgment that is all the more valuable for its contemporaneity with Bernstein’s apogee. Chandler thinks that Bernstein’s drama becomes more substantial with <italic>Le Secret</italic> and <italic>L’Élévation</italic>.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Knapp, Bettina L. <italic>French Theatre, 1918-1939</italic>. London: Macmillan, 1985. A rich presentation of the state of theater in France during part of the era in which Bernstein worked. Focuses particularly on the avant-garde theater, whose playwrights saw Bernstein as a writer of little more than cheap, unimaginative, bourgeois entertainment.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Knowles, Dorothy. <italic>French Drama of the Inter-War Years, 1918-1939</italic>. London: Harrap, 1967. Knowles focuses on the differences between “boulevard” theater and more serious drama, including a short discussion of Bernstein.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Smith, Hugh Allison. <italic>Main Currents of Modern French Drama</italic>. New York: Henry Holt and Company, 1925. Chapter 14 includes several pages on Bernstein. Smith finds Bernstein’s drama superficial, too melodramatic, and formulaic.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Henry Bernstein</article-title>
+                           <italic>Critical Survey of Drama, Second Revised Edition</italic>
+                           <year>2003</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,457 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"mock brstCategory",
+			"ER",
+			"The X-Files"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Alan Hugh Dale"
+				}
+			],
+			"type": "doc",
+			"uid": "c44c9ae6-cbfd-47df-9a92-37622f4e3904"
+		},
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 6,
+		"birth_month": "May",
+		"birth_year": 1947,
+		"non_numeric_birth_date": "May 6, 1947",
+		"place_of_birth": "Dunedin, New Zealand",
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": [
+			"Actor"
+		],
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Principal Works: Film"
+						}
+					],
+					"type": "h1",
+					"uid": "aa80be00-b07e-468b-8e84-a7684841838a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Star Trek: Nemesis",
+											"italic": true
+										},
+										{
+											"text": " (2002)"
+										}
+									],
+									"type": "p",
+									"uid": "ad114182-e006-469e-bd61-d9632c3253c3",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "2d9b1238-bd8e-4428-8902-17c924287a2a",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Indiana Jones and the Kingdom of Crystal Skull",
+											"italic": true
+										},
+										{
+											"text": " (2008)"
+										}
+									],
+									"type": "p",
+									"uid": "c69b4531-a703-426c-9c63-dbe655165cae",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "52285f44-7064-4053-887e-7566082df711",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "The Girl with the Dragon Tattoo",
+											"italic": true
+										},
+										{
+											"text": " (2011)"
+										}
+									],
+									"type": "p",
+									"uid": "8627afa9-9d89-4278-bf80-36a43326fa7f",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "3417edc7-1d5c-44ea-8743-9e5944c21959",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Captain America: The Winter Soldier",
+											"italic": true
+										},
+										{
+											"text": " (2014)"
+										}
+									],
+									"type": "p",
+									"uid": "c7937262-446a-4d5c-9f5b-a899fd01d444",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "2b36b8a3-456e-49e4-b75c-80c3bfd289af",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "ul",
+					"uid": "5022c8e4-0f6e-4602-81a7-549a59fc7c7e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Principal Works: Television"
+						}
+					],
+					"type": "h1",
+					"uid": "c6b77fff-5d1f-42bd-9f7f-e8aa9bb5b372",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "The Young Doctors",
+											"italic": true
+										},
+										{
+											"text": ", 1979–83"
+										}
+									],
+									"type": "p",
+									"uid": "a131e3f0-267f-4276-80cd-263b7c783e87",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "0451910f-5bed-4125-bdb3-eac52437fbcb",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Neighbours",
+											"italic": true
+										},
+										{
+											"text": ", 1985–93"
+										}
+									],
+									"type": "p",
+									"uid": "8cbbce49-cb2d-4175-92fc-1428a567817d",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "e656677f-a92a-40b3-a33f-0691e7865b6d",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "The West Wing",
+											"italic": true
+										},
+										{
+											"text": ", 2002–3"
+										}
+									],
+									"type": "p",
+									"uid": "cd8ad390-6479-47ba-921b-6622f3b4fe51",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "09c89cd5-446c-411d-98a6-cc754f746f71",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "24",
+											"italic": true
+										},
+										{
+											"text": ", 2003–4"
+										}
+									],
+									"type": "p",
+									"uid": "841a300f-b95f-4c32-8043-5206598fbfdd",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "0804eca8-7916-445b-8f5e-7f0455f1b110",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "The OC",
+											"italic": true
+										},
+										{
+											"text": ", 2003–5"
+										}
+									],
+									"type": "p",
+									"uid": "6e3b3a67-9e85-42c2-bff9-b2d6b952a9f8",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "195d543b-c342-44b5-9fa5-3155bb1cad51",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Ugly Betty",
+											"italic": true
+										},
+										{
+											"text": ", 2006–7"
+										}
+									],
+									"type": "p",
+									"uid": "5df09895-e585-4a2f-a0f3-a6a9007a55d5",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "693685d8-cb7b-4ef5-9aa8-885a1030de62",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Lost",
+											"italic": true
+										},
+										{
+											"text": ", 2006–10"
+										}
+									],
+									"type": "p",
+									"uid": "e9071a4c-09be-4c85-9be6-5c8208a91df8",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "240dcd0e-bedb-449b-8c05-916de788d6ca",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Entourage",
+											"italic": true
+										},
+										{
+											"text": ", 2008–11"
+										}
+									],
+									"type": "p",
+									"uid": "2ccec8d1-d3c8-4858-9b5a-393e43ffd2fc",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "216bc8df-e476-4d1a-a013-a4bb7bd9ea91",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "The Killing",
+											"italic": true
+										},
+										{
+											"text": ", 2011–12"
+										}
+									],
+									"type": "p",
+									"uid": "58fea0ae-9ec8-4daa-b7ba-ffaa2ed426f9",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "639ad156-b08e-41e9-bbc3-419340321e86",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Dynasty",
+											"italic": true
+										},
+										{
+											"text": ", 2017– "
+										}
+									],
+									"type": "p",
+									"uid": "f4f081c9-20d2-4d8e-8471-b94cdeb047f5",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "bbdb3c3f-6996-4476-8e51-0b5854ae3937",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "ul",
+					"uid": "6e131b35-6b5d-4a79-9a87-89b760f770ce",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "8a6eed09-79fd-4903-8f36-1ffc7af5afde"
+		},
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": null
+	}
+}

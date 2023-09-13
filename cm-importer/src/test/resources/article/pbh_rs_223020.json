@@ -1,0 +1,1055 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "c99dc90a-0e11-4766-b93a-b0fd13cd632a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Horzepa, H. R. (2013, April 27). “The Appeal of the Bad Boy and How Women Get Sucked In.” "
+						},
+						{
+							"text": "Huffington Post.",
+							"italic": true
+						}
+					],
+					"type": "p",
+					"uid": "598fe281-76a7-44ad-a657-c7e0074ee391",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "other"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Grewal, D. (2012). “Psychology Uncovers Sex Appeal of Dark Personalities: Why Are Narcissists More Physically Attractive?”. "
+						},
+						{
+							"text": "Scientific American.",
+							"italic": true
+						}
+					],
+					"type": "p",
+					"uid": "175d4897-d5d8-4f09-b599-51c596b2bfcc",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "other"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Meade, E.(2009). "
+						},
+						{
+							"text": "The Bad Boy Appeal: Female Sexuality and Development in The Young Adult Horror Fiction of L.J. Smith",
+							"italic": true
+						},
+						{
+							"text": ". Saarbrucken, Germany: VDM Verlag. "
+						}
+					],
+					"type": "p",
+					"uid": "de30d0d1-2e08-4c26-9b07-f508a43c3062",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "other"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Author. (2011, March 25). “Modern Men Prefer Powerful Women (But Also ‘Bad Girls’ Like Angelina Jolie)”. "
+						},
+						{
+							"text": "Daily Mail.",
+							"italic": true
+						}
+					],
+					"type": "p",
+					"uid": "f292e625-3951-424b-bc19-85a5ee0517ab",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "other"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "O’Malley, H. (2012, December 3). “The Appeal of ‘Bad Boys’”. "
+						},
+						{
+							"text": "Paging Dr. Nerdlove",
+							"italic": true
+						},
+						{
+							"text": ". Paging Dr. Nerdlove, 3 Dec. 2012. Web. 28 June 2016. "
+						}
+					],
+					"type": "p",
+					"uid": "1e22b261-f5cb-458f-b108-50d82d8ed036",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Pelusi, N. (2009). “Neanderthink: The Appeal of The Bad Boy.” "
+						},
+						{
+							"text": "Psychology Today",
+							"italic": true
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "bbdea6be-fca1-480c-b84d-ffdcbf95d0e7",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "other"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "ffb31668-ea14-4aa0-9131-cb9a95b37332"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"Warren Beatty",
+			"Angelina Jolie",
+			"hormones",
+			"Buffy the Vampire Slayer",
+			"psychopathic",
+			"Miley Cyrus",
+			"Lord Byron",
+			"Ted Bundy",
+			"Paleolithic",
+			"sexual abuse",
+			"Darwinist evolution",
+			"Thelma and Louise",
+			"aphorism",
+			"horror fiction",
+			"narcissism",
+			"halo effect"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": " TYPE OF PSYCHOLOGY: Clinical; Community; Psychopathology; Social"
+						}
+					],
+					"type": "p",
+					"uid": "6e0e7dfd-aed8-4502-95f2-1deb20a1e46b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A collision between lust and enduring love, “bad-boy appeal” has been exploited by countless movies, advertising campaigns, and romance novels. The motion-picture industry (James Dean and Marlon Brando) and rock musicians (Elvis Presley’s pelvic thrusts) have long capitalized on the appeal of rebellion. Research indicates, however, that in real life, fidelity often wins the battle with lust over the long term. Usually such behavior is private and not a matter for psychological therapy. No official diagnosis exists for bad-boy appeal, and no credible estimate exists for the number of people subject to it.",
+							"italic": true
+						}
+					],
+					"type": "blockquote",
+					"uid": "8a1f90a5-b961-47d4-b012-a5288859b09a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Introduction"
+						}
+					],
+					"type": "h1",
+					"uid": "59ea04aa-e024-4f38-9dec-83c70a571684",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Students of "
+						},
+						{
+							"children": [
+								{
+									"text": "Darwinist evolution"
+								}
+							],
+							"type": "a",
+							"uid": "573957ec-1eb6-4fd8-a9ab-ec6a5359ea0d",
+							"attrs": {
+								"url": "114325110"
+							}
+						},
+						{
+							"text": " point out that bad-boy appeal may have roots in "
+						},
+						{
+							"children": [
+								{
+									"text": "Paleolithic"
+								}
+							],
+							"type": "a",
+							"uid": "c7bed3f5-ee1c-466d-81c3-1a4ec76db75e",
+							"attrs": {
+								"url": "87324195"
+							}
+						},
+						{
+							"text": " male competition for female sexual partners. Why are bad boys seen as a good choice (at least in the short term) by so many women? Nando Pelusi writes in "
+						},
+						{
+							"text": "Psychology Today",
+							"italic": true
+						},
+						{
+							"text": " (2009) that “evolutionary psychologists define ‘good genes’ for men as high-testosterone-fueled masculinity, symmetry, height, and, believe it or not, parasite resistance. Men who are blessed with these qualities tend to be confident and dominant, and able to get away with roguish behavior.” In an earlier time, the fighting skills, risk-taking, and drive of the “bad boy” may have provided a survival advantage, although such men may also have been more prone to injury or death in fights and accidents."
+						}
+					],
+					"type": "p",
+					"uid": "123e7aa7-e37b-431e-b5bd-4a0978c21d79",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Pelusi also writes that according to Daniel Kruger, principal author of a study on “dads and cads,” “Women intuitively get attracted to brave acts of altruism more than to altruism per se. . . . A distinction between long-term and short-term relationships is important for understanding women’s partner choices.” According to this theory, love of boldness helps women find strong males as mates. Secretly they harbor the fantasy of turning their genetically gifted cads into loving dads who stick around long term, long enough to help raise the kids. Think "
+						},
+						{
+							"children": [
+								{
+									"text": "Warren Beatty"
+								}
+							],
+							"type": "a",
+							"uid": "836b259b-1ea5-46fe-8964-ee4619771c18",
+							"attrs": {
+								"url": "89404224"
+							}
+						},
+						{
+							"text": " and Keith Richards; fairy tales sometimes come true."
+						}
+					],
+					"type": "p",
+					"uid": "52b1ef3b-e16c-4856-8d5d-16bbd86716e7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "55d4df0a-cbeb-44ff-9a58-7963ddef7397",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "James Dean in 1955. pixabay",
+							"width": "auto",
+							"caption": "James Dean in 1955. pixabay",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "James Dean in 1955. pixabay",
+						"asset-name": "pbh-rs-223020-179890.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "ea928dc3-5c9f-4fee-89f7-03d162a2ae4a",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Angelina Jolie regularly makes the top of the list of bad-girls. Foreign and Commonwealth Office / CC BY (https://creativecommons.org/licenses/by/2.0)",
+							"width": "auto",
+							"caption": "Angelina Jolie regularly makes the top of the list of bad-girls. Foreign and Commonwealth Office / CC BY (https://creativecommons.org/licenses/by/2.0)",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Angelina Jolie regularly makes the top of the list of bad-girls. Foreign and Commonwealth Office / CC BY (https://creativecommons.org/licenses/by/2.0)",
+						"asset-name": "pbh-rs-223020-179983.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Love, lust, and murder"
+						}
+					],
+					"type": "h1",
+					"uid": "ccaa2a1b-ed6b-4292-bea4-168413c811c3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In the same article, Pelusi states, “Rock stars, the dudes with the smoldering eyes at the bar, the strong, silent types. The template can morph, but the assessment is the same—the guy’s got genes that make women weak in the knees, and the power and confidence that signal them. So the answer may be that the scoundrel gets the girl—but not for long. His roguish behavior wins out: either he moves on, hawking his testosterone-rich genetic wares on the romantic market, or she gets exasperated with his impulsiveness and pulls away…Bad boys will always be with us because they have good genes to spare.” The bad boy becomes truly "
+						},
+						{
+							"children": [
+								{
+									"text": "psychopathic"
+								}
+							],
+							"type": "a",
+							"uid": "75a2f34d-59e6-4bcf-a86a-d89765c572d3",
+							"attrs": {
+								"url": "95343048"
+							}
+						},
+						{
+							"text": " when he abuses a sense of lust and trust to turn the people he engages – women, usually – into victims. This goes beyond the play rebellion of the movie theater and rock concert into "
+						},
+						{
+							"children": [
+								{
+									"text": "sexual abuse"
+								}
+							],
+							"type": "a",
+							"uid": "b9078e65-86ad-4db8-8ebc-98a360631eaf",
+							"attrs": {
+								"url": "115297566"
+							}
+						},
+						{
+							"text": " and even murder. Witness the Green River Killer, or "
+						},
+						{
+							"children": [
+								{
+									"text": "Ted Bundy"
+								}
+							],
+							"type": "a",
+							"uid": "b9022767-595e-4ff1-af19-acfa36f5dbbb",
+							"attrs": {
+								"url": "88828774"
+							}
+						},
+						{
+							"text": ", for example, the “boy next door,” once an assistant to some of Washington state’s best-known politicians during the 1970s, who lured his many targets into murder. Between these two poles, a spectrum of men uses lustiness and a roguish nature to play with women’s emotions to dominate and eventually erode relationships."
+						}
+					],
+					"type": "p",
+					"uid": "0e72c9bc-cc34-4c46-a99d-6c4aabcec65a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The bad boy sets up a conflict between love and lust. Enduring love seeks a long-term relationship, while short-term lust wants to take a chance on the fantasy of Mr. Tall, Dark, and Handsome. Lusty best-selling books—Harlequin romances, for example—sell in the millions. “The male protagonists are invariably studs on steeds who morph into devoted dads by novel’s end. That is, the women get the best of both worlds,” writes Pelusi (2009). The fantasy world of the novel stokes the hope that the rough edge of the bad boy exists side-by side with tempting, redeeming innocence. A good girl more often than not gets into such a relationship after hearing of a bad boy’s heartrending childhood laced with drugs and sexual abuse at the hands of relatives. A Christian sense of redemption often runs through such narratives. The bad boy has a way of telling his story to many potential bed partners, in quick succession, and then casting himself as a victim when relationships crumble."
+						}
+					],
+					"type": "p",
+					"uid": "826d76c3-8f5a-4651-9c60-d31407caeefd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A yearning for lust early in life creates an opening for the bad boy who, in the real world, may or may not develop into a loving, long-term family man who possesses a steady job and willingness to father children and create a life-long relationship. Many women, however, must survive a rocky breakup with a bad boy (perhaps more than one) before finding that one true love with whom to steer through life."
+						}
+					],
+					"type": "p",
+					"uid": "02ad2dba-c2de-4502-a84a-4f4f1756286e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "One observer (O’Malley, 2012) comments that some “Nice Guys” (also known as “White Knights”) complain that some women do not appreciate “nice” men,” at least not at first. They seem to prefer a taste of risk, as “the ‘bad boy’ seems to win women’s hearts and loins.” This is not new, argues O’Malley. "
+						},
+						{
+							"children": [
+								{
+									"text": "Lord Byron"
+								}
+							],
+							"type": "a",
+							"uid": "c4634c24-d62a-4b41-8b19-4911070c3247",
+							"attrs": {
+								"url": "88807290"
+							}
+						},
+						{
+							"text": ", for example, was widely known as a “rake” who was famously “mad, bad and dangerous to know.” Even at the risk of narcissistic, drug-abusing, and often self-destructive behavior, even if they cannot handle money, hold their liquor, or keep their dating to one woman at a time, bad boys seem more “alpha,” and therefore more seductive than more steady, reliable men, at least in youth, when "
+						},
+						{
+							"children": [
+								{
+									"text": "hormones"
+								}
+							],
+							"type": "a",
+							"uid": "d157ccc0-1697-4465-b79c-357f2101e77b",
+							"attrs": {
+								"url": "93872226"
+							}
+						},
+						{
+							"text": " rule emotions."
+						}
+					],
+					"type": "p",
+					"uid": "4027ca7d-91e1-44f0-9d56-008ed318be84",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The role of narcissism"
+						}
+					],
+					"type": "h1",
+					"uid": "a25f6762-8bb0-4b6c-bc6c-f3d8f3164a46",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Dominant bad boys (and bad girls) manipulate others by means of "
+						},
+						{
+							"children": [
+								{
+									"text": "narcissism"
+								}
+							],
+							"type": "a",
+							"uid": "aefd2208-8c72-40d3-a899-5bca4292b7e7",
+							"attrs": {
+								"url": "93788109"
+							}
+						},
+						{
+							"text": ", an ongoing narrative in which everyone in such a person’s ambit is assigned a bit part in his or her script. With dominance comes a sense of manipulation that allows the individual to direct others’ lives as well as “reckless thrill-seeking, selfishness, lack of remorse and affect and a certain level of superficial charm.” (O’Malley, 2012)."
+						}
+					],
+					"type": "p",
+					"uid": "109b65ae-f649-46f3-a308-d5876e9e2594",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Nicholas Holtzman and Michael Strube, both working at Washington University in St. Louis, examined 111 college students (64% of whom were female) who were dressed in as close to an identical manner as possible (in grey, monotonic sweatshirts, without makeup, with differences in hairstyles subdued). They were then photographed as control subjects and asked to rate themselves on a personality scale regarding narcissism, manipulation, and so forth. Acquaintances of the subjects also were asked to rate them on so-called “dark triad personality types.” Subjects who did not know the 111 students were asked to view photographs of the control group (in their usual garb and then in the neutral uniform) and asked to rate them for physical attractiveness. To a significant degree, those who were shown “dressed up” scored higher on attractiveness. Pictured in the drab “uniform,” their advantage largely disappeared. Or, to quote an old (and entirely unscientific) "
+						},
+						{
+							"children": [
+								{
+									"text": "aphorism"
+								}
+							],
+							"type": "a",
+							"uid": "fd65c4a3-3fb2-4415-9272-b62cb764dc96",
+							"attrs": {
+								"url": "87994461"
+							}
+						},
+						{
+							"text": ": “The clothes make the man” (or woman)."
+						}
+					],
+					"type": "p",
+					"uid": "c09dca72-93af-4b0c-831c-be68ae79d6d2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "“In other words,” writes Daisy Grewal in "
+						},
+						{
+							"text": "Scientific American",
+							"italic": true
+						},
+						{
+							"text": " (2012), “People with dark personality traits are not seen as more physically attractive than others when you take away their freedom to wear their own clothes and makeup. People with dark personalities seem to be better at making themselves physically appealing, a take on the old aphorism that ‘you can’t tell a book by its cover.’” The findings reinforce previous research showing that narcissists are more appealing to than others “literally at first sight.” Other studies, conducted in 2012 by Stefan Schmukle of Westfalische Wilhelms-University as well as Mitja Back and Boris Egloff of Johannes Gutenberg-University (Mainz and Muenster universities) came to similar conclusions."
+						}
+					],
+					"type": "p",
+					"uid": "ce8c0856-e838-43c6-a801-7dcf2343936b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A set of reactions and assumptions known as the "
+						},
+						{
+							"children": [
+								{
+									"text": "halo effect"
+								}
+							],
+							"type": "a",
+							"uid": "134ef46e-8f28-42ca-a62b-420550788119",
+							"attrs": {
+								"url": "100259346"
+							}
+						},
+						{
+							"text": " indicates that many give people whom they perceive as physically attractive credit for being smarter and kinder as well, though the traits may or may not reflect this perception. However the effect tends to wear off over time. “Since the hallmark of these personality traits is interpersonal exploitation, it is only a matter of time before those closest to them get wise to their ways and start to avoid them,” writes Grewal (2012). Many people are also wary of forming long-term relationships with “dark personality traits” after an initial flash of attraction."
+						}
+					],
+					"type": "p",
+					"uid": "9d4fa797-4cdc-44d0-a48f-f9422fcf2b09",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In a 2012 article, Harris O’Malley summed up the phenomenon best: “The dark triad personality types are pre-disposed to short-term goals;…they focus on immediate goals (How do I get her in bed?) and less on long-term ones (How do I get her to go out with me again?)…They’re prone to stealing partners from others and are more likely to have substance-abuse issues and [have] a correlation with excessive aggression towards others, bullying behavior and racist attitudes. Thus, a person who may have seemed attractive in the short term ends up being dismissed as repulsive as experience renders its judgment. According to O’Malley, “What can seem charmingly rakish at 20 quickly becomes boorish at 30 and just embarrassing at 40.”"
+						}
+					],
+					"type": "p",
+					"uid": "28c604cb-1302-4e63-ba14-38284d13e8ae",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Bad-girl appeal"
+						}
+					],
+					"type": "h1",
+					"uid": "ff466346-1824-4894-8b7a-0d97150cd590",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In today’s world, might we also have ‘bad-girl appeal,” a la "
+						},
+						{
+							"children": [
+								{
+									"text": "Thelma and Louise"
+								}
+							],
+							"type": "a",
+							"uid": "9db69212-ab61-4f6f-bc85-4bc917b957c5",
+							"attrs": {
+								"url": "89112736"
+							}
+						},
+						{
+							"text": ", tempting innocent young men? Could we also have same-sex couples tempted by the same appeal? Screenwriters, novelists, and advertising agencies seem not to have yet caught this drift. Do we not now live in a world in which female “players” are not only possible, but likely? As if to welcome the new era of equal-opportunity badness, "
+						},
+						{
+							"children": [
+								{
+									"text": "Amazon.com"
+								}
+							],
+							"type": "a",
+							"uid": "d8f51c9c-8caa-4d57-b58b-f49ae8c910eb",
+							"attrs": {
+								"xlink:type": "simple",
+								"xmlns:xlink": "http://www.w3.org/1999/xlink",
+								"href": "Amazon.com",
+								"url": "Amazon.com",
+								"ext-link-type": "uri",
+								"xlink:href": "http://Amazon.com"
+							}
+						},
+						{
+							"text": " marketed a silver-studded, black leather “Bad Girl Purse” in time for Christmas in 2014."
+						}
+					],
+					"type": "p",
+					"uid": "6cae87f7-79a1-4270-8867-6b1e250666b1",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In fact, in a Google search (November, 2014) “bad-girl appeal” outhit “bad-boy appeal” 155,000 to 104,000, with major contributions from the likes of "
+						},
+						{
+							"children": [
+								{
+									"text": "Miley Cyrus"
+								}
+							],
+							"type": "a",
+							"uid": "77998f72-e051-4376-b60b-5ae2b881968b",
+							"attrs": {
+								"url": "89405125"
+							}
+						},
+						{
+							"text": ". "
+						},
+						{
+							"text": "Daily Mail",
+							"italic": true
+						},
+						{
+							"text": " even posted a list of “Top 10 Celebrity Bad Girls” (Modern Men, 2011). "
+						},
+						{
+							"children": [
+								{
+									"text": "Angelina Jolie"
+								}
+							],
+							"type": "a",
+							"uid": "e18610f6-9da3-494a-8df3-5223feaf2e86",
+							"attrs": {
+								"url": "89406262"
+							}
+						},
+						{
+							"text": " tops this list:"
+						}
+					],
+					"type": "p",
+					"uid": "94c9cd54-38a3-4581-acfc-47c3a0443c52",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Angelina Jolie"
+										}
+									],
+									"type": "p",
+									"uid": "dba33bd0-ef2a-4398-a972-00ea523a90bd",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "2ec002d8-6981-419e-adf9-8468b786875a",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Megan Fox"
+										}
+									],
+									"type": "p",
+									"uid": "93cc4dc9-7a51-4152-9900-01dcf7ea72ae",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "ea49cf9d-8742-44d2-b8a5-0983980bc310",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Charlotte Church"
+										}
+									],
+									"type": "p",
+									"uid": "ac41dc0b-e382-46ac-8e4f-80f7be9a4e63",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "e3679599-de3f-4198-8747-6d6cff0e11ac",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Sienna Miller"
+										}
+									],
+									"type": "p",
+									"uid": "8e263bd5-67ea-4b98-b7c7-1181d24414be",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "ac788a7b-0058-4962-996e-408f57a09f97",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Lily Allen"
+										}
+									],
+									"type": "p",
+									"uid": "123d8d7b-b235-4ceb-ac94-8cfe86230a34",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "421b4ebf-89a2-449d-9d13-cc9cf1afaffc",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Christina Aguilera"
+										}
+									],
+									"type": "p",
+									"uid": "c073e1e4-dca6-42f3-98a6-e681c8d523aa",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "b58fe5d8-887e-4441-809d-08050f9d8113",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Lindsey Lohan"
+										}
+									],
+									"type": "p",
+									"uid": "bb56d0c7-7f20-4bd0-bf54-d4438c84084f",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "305bcf93-19de-4a9f-9804-21d67d5cc6a1",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Britney Spears"
+										}
+									],
+									"type": "p",
+									"uid": "eb146ba0-df57-43b6-bd9d-73c49bd6318a",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "6bcf90aa-0816-4129-8a06-b110ff112738",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Paris Hilton"
+										}
+									],
+									"type": "p",
+									"uid": "0e8389e7-a286-4f7c-af78-65348cbd422d",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "3cb9b066-1b27-4f49-bc9f-a35633d6163c",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Nicole Richie"
+										}
+									],
+									"type": "p",
+									"uid": "f6bc7af3-50ae-4099-87cf-50bd0b0c873c",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "386f5c52-5c4a-4744-9cfa-2d0db32e5eac",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "ol",
+					"uid": "deef3923-dc0f-4829-b630-0c02a34ba6a0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "As evidence of bad girl appeal, some mention the “Queen Bee at the top of the high-school pecking order, the most popular girl in school, enforcing her will through manipulation and cruelty” (O’Malley, 2012). Emma Meade writes (2009) that "
+						},
+						{
+							"children": [
+								{
+									"text": "horror fiction"
+								}
+							],
+							"type": "a",
+							"uid": "3cec2482-a202-4278-a844-72d88beb330f",
+							"attrs": {
+								"url": "87998339"
+							}
+						},
+						{
+							"text": ", long “a masculine genre, saturated with submissive, weak females” depicting women dying violent deaths at the hands of a stronger male has recently cultivated “female characters repossess[ing] their power and authority, equaling the strength and cunning of their male counterparts,” citing the example of "
+						},
+						{
+							"children": [
+								{
+									"text": "Buffy the Vampire Slayer",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "d22598b5-52d0-4b5d-b068-0022a2ca54e3",
+							"attrs": {
+								"url": "87322925"
+							}
+						},
+						{
+							"text": " “with the central heroine having greater physical prowess than anyone else, male or female, in the world.”"
+						}
+					],
+					"type": "p",
+					"uid": "3873f39d-738b-42f0-a68a-2454c1ed5ce9",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "f49d9e22-dc73-4ad8-bf48-eb1d82d91ba2"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Students of Darwinist evolution point out that bad-boy appeal may have roots in Paleolithic male competition for female sexual partners. Why are bad boys seen as a good choice (at least in the short term) by so many women? Nando Pelusi writes in Psychology Today (2009) that “evolutionary psychologists define ‘good genes’ for men as high-testosterone-fueled masculinity, symmetry, height, and, believe it or not, parasite resistance. Men who are blessed with these qualities tend to be confident and dominant, and able to get away with roguish behavior.” In an earlier time, the fighting skills, risk-taking, and drive of the “bad boy” may have provided a survival advantage, although such men may also have been more prone to injury or death in fights and accidents."
+						}
+					],
+					"type": "p",
+					"uid": "4d97b0bb-3e3c-4cb7-94b0-cadacb9bcc99",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "8d58ea9b-fcfa-4e39-82c4-dca76a434d8c"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

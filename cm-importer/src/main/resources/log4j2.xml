@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+    
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5p %c{1} %m%n</pattern>
+            </PatternLayout>
+        </Console>
+        <RollingFile name="fileLogger"
+            fileName="./logs/cm-importer-(latest).log"
+            filePattern="./logs/cm-importer-%d{yyyy-MM-dd}(%d{HH.mm.ss-SSS}).log">
+            <PatternLayout>
+                <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5p %c{1} %m%n</pattern>
+            </PatternLayout>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="200MB" />
+            </Policies>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <!-- Root logger referring to console appender -->
+        <Root level="debug" additivity="false">
+            <AppenderRef ref="console" />
+            <AppenderRef ref="fileLogger" />
+        </Root>
+    </Loggers>
+</Configuration>

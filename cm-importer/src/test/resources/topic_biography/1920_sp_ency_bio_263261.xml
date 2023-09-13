@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">1920_sp_ency_bio</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>30</day>
+         <month>September</month>
+         <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>April</month>
+         <year>2016</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="sp_ency_bio.10.3331.263261"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">1920_sp_ency_bio_263261</book-part-id>
+            <title-group>
+               <title>John Marin</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Michael and Patricia</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Coronel</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>John Marin was one of the first American painters to express an individual modern style synthesized from contemporary European art movements.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>John Marin was one of the first American painters to express an individual modern style synthesized from contemporary European art movements.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/1920_0401</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>814</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="h1-36736443" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>December 23, 1870</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Rutherford, New Jersey</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>October 2, 1953</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Cape Split, Maine</p>
+                  </list-item>
+               </list>
+               <p><sc>Identification:</sc>American modernist artist</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>
+                  <italic>John Marin was one of the first American painters to express an individual modern style synthesized from contemporary European art movements.</italic>
+               </p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>John Marin</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="1920-sp-ency-bio-263261-143900.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Alfred Stieglitz [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>John Marin</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="1920-sp-ency-bio-263261-143901.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Alfred Stieglitz [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>First exposed to modern art in Paris, France, in 1920, Marin developed his <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="93787284"
+                                   xlink:type="simple">abstract expressionist</related-article> painting style in the following years. During summers with his family in Maine, the artist began exploring less urban landscapes and focusing on the coastline. His watercolors <italic>Maine Islands</italic> (1922) and <italic>Red and Green and Blue Autumn</italic> (1921) maintain the structural fragmentation of earlier cityscape paintings but exhibit a new organic rhythm with vivid color.</p>
+               <p>Marin’s early professional education included architectural studies and practice, followed by formal art training at the Pennsylvania Academy of the Fine Arts in Philadelphia from 1899 to 1901. A more significant influence to his 1920s painting style was his six-year journey throughout Europe, beginning in 1905. Marin’s distinctive watercolor style soon emerged, which especially featured translucent color washes. His compositions and subject matter became abstract forms with opaque linear elements that would later be the foundations of his signature style.</p>
+               <p>While in Paris, Marin met photographer <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88826439"
+                                   xlink:type="simple">Edward Steichen</related-article>, who would prove to be instrumental to the artist’s future success in the United States. Steichen returned to New York with several Marin watercolors and showed them to fellow photographer <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88830402"
+                                   xlink:type="simple">Alfred Stieglitz</related-article>, whose Photo Secession Gallery was an important venue for early American modernists. In 1910, Stieglitz exhibited Marin’s first show. His reputation as a leading American painter was established in 1913 when he was included in the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89313752"
+                                   xlink:type="simple">Armory Show</related-article>, an exhibition credited with introducing twentieth-century Parisian art movements to the American public.</p>
+               <p>Watercolor paintings dominated Marin’s work in the 1920s. <italic>Movement in Brown with Sun</italic> (1928) was part of a series depicting various views of the Brooklyn Bridge with the inclusion of the sun and its surrounding aura. This painterly style was reminiscent of the natural and organic rhythms found in Marin’s earlier coastline paintings.</p>
+               <p>In 1929 and 1930, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89874854"
+                                   xlink:type="simple">Mabel Dodge Luhan</related-article>, an important collector and patron of the arts, invited Marin to Taos, New Mexico. He completed approximately one hundred paintings inspired by the new geography and cultures he encountered during this time. <italic>Dance of the San Domingo Indians</italic> (1929) and <italic>Entrance to Hondo Canyon</italic> (1930) reflect the focus of many of his New Mexico watercolors.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>Marin was an established American abstract expressionist in the 1920s, portraying landscapes and city scapes with direct brushstrokes and conveying an emotional experience to the viewer. By the end of the decade, his distinctive style paved the way for a new generation of artists known as Taos Moderns.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Curry, Larry. <italic>John Marin, 1870–1953: A Centennial Exhibition</italic>. Los Angeles: Los Angeles County Museum of Art, 1970.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Fine, Ruth Eileen. <italic>John Marin Collection of the Colby College Museum of Art</italic>. Waterville, Me.: Colby College, 2003.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Reich, Sheldon. <italic>John Marin: A Stylistic Analysis and Catalogue Raisonné</italic>. Tucson: University of Arizona Press, 1970.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Marin, John</article-title>
+                           <italic>The Twenties in America</italic>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Carl</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Rollyson</surname>
+                           </name>
+                        </person-group>
+                           <year>2012</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ell_2222_rs</book-id>
+      <book-id pub-id-type="eis-mid">HDMJ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Primary Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">HDMJ</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>22</day>
+         <month>September</month>
+         <year>2014</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="ell_2222_RS.10.3331.156203"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ell_2222_rs_156203</book-part-id>
+            <title-group>
+               <title>Saving Money</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <string-name>Ragan, Melissa</string-name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>People save money when they make more than they spend. People save money to pay for things they want. People also save money in case they lose their job or are too sick to work.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>34247925</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/ell_2222_132538</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>99251677</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>497</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front/>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>People save money when they make more than they spend. People save money to pay for things they want. People also save money in case they lose their job or are too sick to work.</p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title/>
+                     <p>Bancorp South Building in Magnolia, AR</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="99251677-93612.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Billy Hathorn (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title/>
+                     <p>Piggy bank and saving money.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="99251677-93613.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By 401(K) 2012 [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Types of Accounts</title>
+               <p>A savings account is a safe place to save your money. You deposit, or put, money into the account and it earns interest. Interest is the amount of money you get for keeping your money in the account. The interest rate is how much additional money you will make on the money in your savings account. The interest rate is usually a small amount, such as 1%. For example, if you have $100 in your savings account, and your interest rate is 1%, you will get $1 per month as interest. This may not seem like a lot, but over time it adds up.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Power of Saving</title>
+               <p>Over time, small savings can really add up. For example, if you spend $5.00 every day on a fast food lunch, and you make lunch at home instead, in one week you will save $35. After one month, you will have saved $140. After one year, you will have saved $1,820. If you put that money in a savings account, you could have $2,000 when you add the interest.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Where Should You Save?</title>
+               <p>
+
+    
+                      Banks  are a good place to save your money. They have many locations and offer safe services. However, banks may not have the highest interest rates on savings accounts. They may also charge fees. A fee is the amount of money a place charges for their services.</p>
+               <p>
+
+    
+                      Credit unions  are also a good place to save your money. They usually offer better rates to their members and they often charge lower fees than banks. However, some credit unions are only for certain people, such as teachers or firefighters. Also, some credit unions do not have many locations, so it can be more difficult to get to your money.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Opening a Savings Account</title>
+               <p>You need to have identification to open a savings account. You can use a driver's license and a Social Security card. If you do not have a Social Security card, you can bring a green card. A green card shows proof that you are living in the United States legally. If you are visiting the United States for less than 183 days, you can sign a form called a W-8 (Certificate of Foreign Status).</p>
+               <p>Melissa Ragan is a high school English teacher. She teaches reading and writing to ninth-grade English language learners in Lawrence, Massachusetts.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <title>Websites</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Beehive. 12 July 2008.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                           <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple">
+              http://www.beehive.org/Templates/Money/Level3NoRight.aspx?PageId==1.194.7411.7413.7474.
+            </ext-link>
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Federal Deposit Insurance Corporation. 12 July 2008.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                           <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple"> http://www.fdic.gov/. </ext-link>
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">ING Direct. 11 July 2008.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                           <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple"> http://www.orangekids.com/amy/save&amp;amp;#95;intro.htm.
+            </ext-link>
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Massachusetts Legal Help. 11 July 2008.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                           <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple">
+              http://www.masslegalhelp.org/consumer/cashing-checks-opening-bank-accounts2.
+            </ext-link>
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">The Mint. 12 July 2008.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                           <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple"> http://www.themint.org/kids/saving.html. </ext-link>
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Young Investor. July 12, 2008.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                           <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple"> http://www.younginvestor.com/kids/investIt/. </ext-link>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="au_note" indexed="true">
+               <title/>
+               <p>By Melissa Ragan</p>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Saving Money</article-title>
+                           <source>ELL Life Skills Series</source>
+                           <year>2009</year>
+                           <publisher-name>Great Neck Publishing</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

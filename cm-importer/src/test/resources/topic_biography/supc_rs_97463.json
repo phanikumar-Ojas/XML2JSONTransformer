@@ -1,0 +1,71 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"Biography",
+			"American History",
+			"Government, Politics",
+			"Law, Legal History, Courts",
+			"North America",
+			"mock brstCategory",
+			"Roosevelt, Franklin D.;nominations to the Court"
+		],
+		"category": [
+			"Government, Politics",
+			"Law, Legal History, Courts"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Laws, Acts, Legislation",
+			"Supreme Court, U.S.",
+			"Trials, Judges, Lawyers"
+		],
+		"curriculum_american_history": [
+			"US History 1901-1950"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"North America"
+		],
+		"sub_geographical_category": [
+			"United States"
+		],
+		"geo_keyword": null,
+		"birth_day": null,
+		"birth_month": null,
+		"birth_year": null,
+		"non_numeric_birth_date": null,
+		"place_of_birth": null,
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": [
+			"Politics"
+		],
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3194690-Wiley Blount Rutledge, Jr."
+		]
+	}
+}

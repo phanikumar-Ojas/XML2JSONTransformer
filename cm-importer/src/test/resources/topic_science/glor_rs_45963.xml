@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">glor_rs</book-id>
+      <book-id pub-id-type="eis-mid">GBIR</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Science</book-title>
+         <alt-title alt-title-type="mid">GBIR</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>24</day>
+         <month>June</month>
+         <year>2013</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GloR_RS.10.3331.45963"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">glor_rs_45963</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Science</subject>
+               </subj-group>
+               <subj-group subj-group-type="subjectscience">
+                  <subject>Biology, Life Sciences, Ecosystems</subject>
+                  <subj-group>
+                     <subject>Biology, Life Sciences, Ecosystems</subject>
+                     <subject>Animals, Zoology, Marine Biology</subject>
+                     <subject>Plants, Vegetation, Botany, Horticulture</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Rangeland and wildlife resources</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Rex D.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Pieper</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Rangeland generally refers to a kind of land rather than a use of that land. The Society for Range Management defines rangelands as “land on which the native vegetation (climax or natural potential) is predominantly grasses, grasslike plants, forbs, or shrubs.” Rangeland, states the society, “includes lands revegetated naturally or artificially when routine management of that vegetation is accomplished mainly through manipulation of grazing” as well as “natural grasslands, savannas, shrublands, most deserts, tundra, alpine communities, coastal marshes and wet meadows.”</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Rangeland encompasses a wide variety of land types, including grasslands, shrublands, marshes, and meadows as well as much desert and alpine land. Rangeland is a valuable and resilient ecosystem resource that supports considerable plant and animal life.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GloR_1394</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <italic>Rangeland encompasses a wide variety of land types, including grasslands, shrublands, marshes, and meadows as well as much desert and alpine land. Rangeland is a valuable and resilient ecosystem resource that supports considerable plant and animal life.</italic>
+               </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Background</title>
+               <p>Rangeland generally refers to a kind of land rather than a use of that land. The Society for <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474395"
+                                   xlink:type="simple">Range Management</related-article> defines rangelands as “land on which the native vegetation (climax or natural potential) is predominantly grasses, grasslike plants, forbs, or shrubs.” Rangeland, states the society, “includes lands revegetated naturally or artificially when routine management of that vegetation is accomplished mainly through manipulation of grazing” as well as “natural grasslands, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833349"
+                                   xlink:type="simple">savannas</related-article>, shrublands, most <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88833184"
+                                   xlink:type="simple">deserts</related-article>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833377"
+                                   xlink:type="simple">tundra</related-article>, alpine communities, coastal marshes and wet meadows.”
+                  
+                  
+                  
+                  
+                  
+                  
+               </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <p>Buffalo graze on rangeland in Crook County, Wyoming.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="89474845-28950.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>(United States Department of Agriculture/Ron Nichols)</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>Rangelands usually have some limitation on <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87995864"
+                                   xlink:type="simple">intensive agriculture</related-article>, such as low and erratic <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88953046"
+                                   xlink:type="simple">precipitation</related-article>, lack of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89474880"
+                                   xlink:type="simple">soil</related-article> fertility, shallow or rocky soil, or steep slopes. In addition to habitat for livestock and wildlife grazing, rangelands serve other multiple-use functions, such as providing recreational opportunities, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88953078"
+                                   xlink:type="simple">watersheds</related-article>, mining locations, and habitat for many animal species. Renewable natural resources associated with rangelands are plants and animals (and, in some senses, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89474949"
+                                   xlink:type="simple">water</related-article>). Nonrenewable resources include <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88802582"
+                                   xlink:type="simple">minerals</related-article> and other extractable materials.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Variety of Rangelands</title>
+               <p>Rangelands are extensive and extremely variable. As defined by the Society for Range Management, they occupy approximately 50 percent of the world’s total land surface and about 500 million hectares in the United States alone. Rangelands are home to countless nomadic herders on nearly every continent. They vary from high-elevation alpine tundra and high-latitude Arctic tundra to tropical grasslands. The tall grass prairies in the United States (now mostly plowed for intensive agriculture) and the rich grasslands of eastern Africa are among the most productive. Rangelands grade into woodlands and forest as woody species and trees become more abundant. Some forests are grazed by wild and domestic animals, and the distinction between rangeland and forest is often not clear. The other difficult distinction is between rangeland and pastureland. Pastureland is generally improved by seeding, fertilization, or <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474258"
+                                   xlink:type="simple">irrigation</related-article>, whereas rangelands support native plants and have little intensive improvement.</p>
+               <p>In the United States, rangeland improvements during the twenty years after <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89116550"
+                                   xlink:type="simple">World War II</related-article> often included brush control, grazing management, seeding, and other practices, but rangelands were not irrigated. After the 1970’s, when fuel costs increased and environmental concerns over <xref ref-type="glossary" id="glor.gloss.1155">pesticide</xref> use increased, brush control practices were reduced considerably. Modern environmental concerns include rangeland degradation from livestock grazing, especially on riparian vegetation along streams, endangered animal and plant species. These issues have become controversial in the United States.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Rangelands as Ecosystems</title>
+               <p>Rangelands constitute natural <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833195"
+                                   xlink:type="simple">ecosystems</related-article> with nonliving environmental factors such as soil and climatic factors, primary producers (grasses, forbs, and shrubs), 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833248"
+                                   xlink:type="simple">herbivores</related-article> (livestock; big game animals such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88833183"
+                                   xlink:type="simple">deer</related-article>, bison, pronghorn <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833139"
+                                   xlink:type="simple">antelope</related-article>; and many <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833346"
+                                   xlink:type="simple">rodents</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833265"
+                                   xlink:type="simple">insects</related-article>), 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833163"
+                                   xlink:type="simple">carnivores</related-article> and 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833307"
+                                   xlink:type="simple">omnivores</related-article> (coyotes, bears, weasels, eagles, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833364"
+                                   xlink:type="simple">spiders</related-article>, and cougars), and decomposers that break down organic matter into elements that can be utilized by plants. Plants convert <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89404313"
+                                   xlink:type="simple">carbon dioxide</related-article> and water into complex carbohydrates, fats, and proteins that can be utilized by animals feeding on the plants. Individual chemical elements are circulated throughout the various components. Many of these elements are present in the parent material of the soil (for example, phosphorus, magnesium, potassium, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88806563"
+                                   xlink:type="simple">sulfur</related-article>). Nitrogen, on the other hand, is present in large amounts in the <xref ref-type="glossary" id="glor.gloss.1013">atmosphere</xref> but must be converted (fixed) into forms that can be utilized by plants before it can be cycled.</p>
+               <p>When chemicals are taken up by plant <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89551826"
+                                   xlink:type="simple">roots</related-article> from the soil solution, they are available to a wide group of herbivores from small microbes to large <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833378"
+                                   xlink:type="simple">ungulates</related-article>. Eventually nutrients are passed on to higher trophic groups (omnivores and carnivores). Both plant and animal litter is eventually broken down by decomposers—<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551611"
+                                   xlink:type="simple">bacteria</related-article>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551701"
+                                   xlink:type="simple">fungi</related-article>, and other small soil organisms—and returned to the soil or, in the case of nitrogen, given off to the atmosphere.</p>
+               <p>Energy is fixed through the process of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475805"
+                                   xlink:type="simple">photosynthesis</related-article> and transformed to forms useful for the plants themselves and animals that feed on the plants. However, energy is degraded at each step along the way and cannot be used again. Energy is transferred but not cycled. Grazing animals on rangelands influence plants by removing living tissue, by trampling, and by altering competitive relations with other plants. Large grazing animals tend to compact the soil and reduce infiltration and increase surface runoff. Plants furnish all the nutrients obtained by herbivores and eventually by carnivores and omnivores as well.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Rangeland Dynamics</title>
+               <p>Rangelands vary considerably with time; they are not static. Scientists are gaining a better understanding of some factors related to rangeland change over time. Pollen records and, in the southwestern United States, packrat middens have been used to reconstruct past <xref ref-type="glossary" id="glor.gloss.1038">climate</xref> and vegetational changes. Some areas have become drier and others more mesic. Formation and retreat of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475655"
+                                   xlink:type="simple">glaciers</related-article> have influenced rangelands, climatic patterns, and soil development. A recent general trend in many rangelands of the world is an increase in woody plants at the expense of grasses. Many factors are probably responsible for these shifts, but fire control, excessive livestock grazing, climatic shifts, introduction of exotic species, and the influence of native animals are likely causal agents.</p>
+               <p>Rangelands are threatened by encroachment from crop agriculture as human populations increase. Nomadic herders traditionally dealt with periodic <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88953002"
+                                   xlink:type="simple">drought</related-article> conditions by moving to areas not impacted by drought. In modern society, with reductions of area available for livestock grazing and restrictions for political reasons, herders are often forced to maintain higher livestock numbers to support their growing families and others directly dependent on livestock. Despite various kinds of disturbances and stresses on rangelands, these areas have supported many large grazing animals and people for centuries. They are resilient and will likely be sustained for many more centuries to come.
+                  
+                  
+               </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Anella, Anthony, and John B. Wright. <italic>Saving the Ranch: Conservation Easement Design in the American West</italic>. Photographs by Edward Ranney. Washington, D.C.: Island Press, 2004.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Heady, Harold F., and R. Dennis Child. <italic>Rangeland Ecology and Management</italic>. Boulder, Colo.: Westview Press, 1994.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Holechek, Jerry L., Rex D. Pieper, and Carlton H. Herbel. <italic>Range Management: Principles and Practices</italic>. 5th ed. Upper Saddle River, N.J.: Pearson/Prentice Hall, 2004.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Johnson, Barbara H., ed. <italic>Forging a West That Works—An Invitation to the Radical Center: Essays on Ranching, Conservation, and Science</italic>. Santa Fe, N.Mex.: Quivira Coalition, 2003.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Miller, G. Tyler, Jr. <italic>Resource Conservation and Management</italic>. Belmont, Calif.: Wadsworth, 1990.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Sayre, Nathan F. <italic>The New Ranch Handbook: A Guide to Restoring Western Rangelands</italic>. Santa Fe, N.Mex.: Quivira Coalition, 2001.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">White, Courtney. <italic>Revolution on the Range: The Rise of a New Ranch in the American West</italic>. Washington, D.C.: Island Press/Shearwater Books, 2008.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Rangeland</article-title>
+                        <italic>Encyclopedia of Global Resources</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Craig W.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Allin</surname>
+                           </name>
+                        </person-group>
+                        <year>2010</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

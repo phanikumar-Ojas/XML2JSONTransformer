@@ -1,0 +1,213 @@
+{
+	"created_at": "2022-11-23T20:08:22.908Z",
+	"updated_at": "2023-02-23T14:44:03.716Z",
+	"title": "Topic Education Resource",
+	"uid": "topic_education_resource",
+	"_version": 5,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Title",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Automotive"
+					},
+					{
+						"value": "Critical Skills"
+					},
+					{
+						"value": "DIY"
+					},
+					{
+						"value": "EBSCO Resources"
+					},
+					{
+						"value": "English Language Learning"
+					},
+					{
+						"value": "Financial Literacy"
+					},
+					{
+						"value": "Hobbies and Crafts"
+					},
+					{
+						"value": "Home Improvement"
+					},
+					{
+						"value": "Legal Reference"
+					},
+					{
+						"value": "Lesson Plans"
+					},
+					{
+						"value": "Skills and Training"
+					},
+					{
+						"value": "Small Business Reference"
+					},
+					{
+						"value": "Test questions and answers"
+					},
+					{
+						"value": "Work and Life Skills"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Reading Levels",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Primary"
+					},
+					{
+						"value": "Secondary"
+					},
+					{
+						"value": "Academic"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "reading_levels",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Target audience",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Academic"
+					},
+					{
+						"value": "Primary School"
+					},
+					{
+						"value": "Secondary School"
+					},
+					{
+						"value": "Consumer"
+					},
+					{
+						"value": "Corporate"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "target_audience",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

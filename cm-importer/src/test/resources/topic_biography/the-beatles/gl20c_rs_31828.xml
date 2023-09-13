@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="2.3" xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">gl20c_rs</book-id>
+      
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">G8Z8</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>17</day>
+         <month>June</month>
+         <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>1</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part id="GL20C_RS.10.3331.31828" indexed="true" book-part-type="chapter" xlink:type="simple" xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">gl20c_rs_31828</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>British History</subject>
+                     <subject>20th &amp; 21st Century European History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Arts</subject>
+                  <subj-group>
+                     <subject>Artists, Artisans, the Arts</subject>
+                     <subject>Composers, Songwriters</subject>
+                     <subject>Films, Movies, Motion Pictures</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                     <subject>Popular Culture, Trends, Fads</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Popular Culture, Trends, Fads</subject>
+                  <subj-group>
+                     <subject>Popular Culture, Trends, Fads</subject>
+                     <subject>Artists, Artisans, the Arts</subject>
+                     <subject>Composers, Songwriters</subject>
+                     <subject>Films, Movies, Motion Pictures</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Europe</subject>
+                  <subj-group>
+                     <subject>Europe</subject>
+                     <subject>United Kingdom</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geo-keyword">
+                  <subject>England</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>The Beatles</title>
+            </title-group>
+            <contrib-group>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>David W.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Madden</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3170170" object-id-type="dbpub-entity-id" source-id="10.3331/biographical.db" source-id-type="doi" source-type="dbpub"/>
+            <related-object object-id="AN3173240" object-id-type="dbpub-entity-id" source-id="10.3331/biographical.db" source-id-type="doi" source-type="dbpub"/>
+            <related-object object-id="AN3156170" object-id-type="dbpub-entity-id" source-id="10.3331/biographical.db" source-id-type="doi" source-type="dbpub"/>
+            <related-object object-id="AN3200710" object-id-type="dbpub-entity-id" source-id="10.3331/biographical.db" source-id-type="doi" source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>British rock band. The Beatles helped to popularize rock and roll in the early 1960s and became not only the major exponent of British rock around the world but also one of the best-selling and most influential music groups in history.
+               </p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The Beatles helped to popularize rock and roll in the early 1960s and became not only the major exponent of British rock around the world but also one of the best-selling and most influential music groups in history.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3170170-John Lennon</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3173240-Paul McCartney</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3156170-George Harrison</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3200710-Ringo Star</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GL20C_3661005711</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>British rock band</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="36756648" list-content="bio_meta">
+                  <title>George Harrison</title>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>February 25, 1943</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Liverpool, England</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>November 29, 2001</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Los Angeles, California</p>
+                  </list-item>
+               </list>
+               <list id="36701337" list-content="bio_meta">
+                  <title>John Lennon</title>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>October 9, 1940</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Liverpool, England</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>December 8, 1980</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>New York, New York</p>
+                  </list-item>
+               </list>
+               <list id="36739767" list-content="bio_meta">
+                  <title>Paul McCartney</title>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>June 18, 1942</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Liverpool, England</p>
+                  </list-item>
+               </list>
+               <list id="36761444" list-content="bio_meta">
+                  <title>Ringo Starr</title>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>July 7, 1940</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Liverpool, England</p>
+                  </list-item>
+               </list>
+               <p>
+                  <italic>The Beatles helped to popularize rock and roll in the early 1960s and became not only the major exponent of British rock around the world but also one of the best-selling and most influential music groups in history.</italic>
+               </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Early Lives</title>
+               <p>John Lennon was born the only son of Freddie and Julia (Stanley) Lennon, in <related-article
+                     related-article-type="rs" xlink:href="87323434" xlink:type="simple"
+                     >Liverpool, England</related-article>. After being deserted by his father and having a mother who could not properly care for him, Lennon was reared by his maternal aunt, Mimi. He was a bright, precocious boy who was given to countless acts of rebellion. As a teenager he found an outlet for his high spirits by forming a musical group called the Quarrymen.</p>
+               <p>While playing at a garden festival in 1955, Lennon met and befriended another teenager, <related-article
+                     related-article-type="rs" xlink:href="89407167" xlink:type="simple"
+                     >Paul McCartney</related-article>, who soon joined his band. McCartney, born to James and Mary (Mohin) McCartney in Liverpool, could not have been more different from Lennon: McCartney was quiet and gave his widowed father little trouble. In the next year, <related-article
+                     related-article-type="rs" xlink:href="89872105" xlink:type="simple"
+                     >George Harrison</related-article>, born to Harry and Louise Harrison, also in Liverpool, became the band’s lead guitarist, thus inaugurating what would become the world’s most celebrated rock and pop band.</p>
+               <p>In the group’s early years, Stuart Sutcliffe, a gifted college friend of Lennon, played bass for the group before leaving to pursue a career as an artist. A series of drummers came and went until Peter Best joined the group on the eve of their departure to play in Hamburg, West Germany, in 1960. Through a series of four trips extending over two years, the Beatles (as they now called themselves) played a grueling schedule in various Hamburg clubs and developed into a cohesive unit with a large repertoire of songs, many of which they would record later, on consecutive albums. </p>
+               <p>While in Hamburg, the group was recorded as a backup band to singer Tony Sheridan, and the single “My Bonnie” became a cult favorite among Liverpool teenagers. After a number of fans requested copies of the song from a local record store, the store manager, Brian Epstein, was surprised to learn that members of the band lived and played nearby. A curious Epstein attended one of the band’s concerts and impulsively asked to act as their manager. He then began a systematic campaign to polish their scruffy appearance and secure a recording contract.</p>
+               <p>Consistently rebuffed, the Beatles auditioned in 1962 for <related-article
+                     related-article-type="rs" xlink:href="115298599"
+                     >George Martin</related-article>, a classically trained musician who had recorded comedy acts for a small record label. Martin was impressed with the group’s musicianship and vocals, but he was especially taken because they already had a considerable catalogue of original songs. Martin told Epstein that Best, however, was inadequate as a drummer and could not appear on recordings. Armed with the excuse for which they had been searching, the band replaced Best with another Liverpool acquaintance, Ringo Starr (born Richard Starkey to Richard and Elsie Starkey), and the group was now solidified.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Lives’ Work</title>
+               <p>In October 1962, the Beatles released their first single record, “Love Me Do,” which was only moderately successful. However, their second release, “Please, Please Me,” immediately went to the top of the charts, beginning a string of Beatles hits and a rise in national popularity. In April 1963, they recorded their first album, <italic>Please, Please Me</italic>
+                  , a combination of original material and songs from their stage shows. They continued playing concerts throughout England. By August, the Beatles were so popular that they were invited to appear at the Royal Command Performance, a variety show given in honor of the royal family and broadcast over national television in the United Kingdom.</p>
+               <p>While the band had captivated England, its record company could not persuade its American subsidiary to release any of the group's records in the United States. <italic>With the Beatles</italic> appeared in England in November 1963 and was immediately popular, and the success of the song “I Want to Hold Your Hand” convinced the American subsidiary to release the song in the United States in January 1964. A massive advertising campaign helped the song become an instant success, which was unprecedented for an English band. The group soon was invited to appear on <related-article
+                     related-article-type="rs" xlink:href="89311931"
+                        ><italic>The Ed Sullivan Show</italic></related-article>, a Sunday-night institution on American television. The small live audience at their performance was so frenzied that the term “Beatlemania” was coined to describe the hysteria that accompanied the group’s appearance. Beatlemania would become the group’s legacy as they <related-article
+                     related-article-type="rs" xlink:href="89313870" xlink:type="simple"
+                     >revolutionized popular music</related-article>.</p>
+               <p>For the next three years, the band toured almost nonstop, crossing the globe numerous times as it kept to a mind-numbing, wearying schedule. Remarkably, the band not only continued to record, but Lennon and McCartney also developed into an extraordinarily talented and prolific songwriting team. In June 1964, England’s Queen <related-article related-article-type="rs" xlink:href="90669614" xlink:type="simple">Elizabeth II</related-article> named the Beatles members of the Order of the British Empire.</p>
+               <p>In July, <related-article related-article-type="rs" xlink:href="89402927"
+                        ><italic>A Hard Day’s Night</italic></related-article> was released as a film and album and was an international success. The fictional film attempted to chronicle the chaos that surrounded the lives of the otherwise patient and accepting musicians. The plot was episodic, but the heart of the film was the personalities of the Beatles themselves, and it was their wit and charm that captivated audiences and critics.</p>
+               <p>On their fourth album, <italic>Beatles for Sale</italic>, the band, exhausted from touring and the demands of popularity, revealed a more somber mood. With their next album, <italic>Help!</italic> , the band continued a pattern begun with <italic>Beatles for Sale</italic>. The film of the same name was also a popular success.</p>
+               <p>The album <italic>Rubber Soul</italic> was released in December 1965 and, like each previous album, was an instant success. However, <italic>Rubber Soul</italic> was anything but another Beatles album, as the band explored new territory. Everything from the jacket cover to the songs’ lyrics and the musical compositions suggested a new level of sophistication and a rising maturity. Quite simply, the Beatles were now making music unlike anything heard before, and it was music that they were finding increasingly difficult to duplicate on stage. The song “Norwegian Wood,” for example, epitomizes some of the changes. For the first time, a Western pop record included the music of a <related-article related-article-type="rs" xlink:href="87324889" xlink:type="simple">sitar</related-article> (An Indian stringed instrument). The album’s foggy, obscure lyrics by Lennon were intentionally evasive in describing an extramarital affair he did not want discovered by his wife, Cynthia.</p>
+               <p>The ongoing musical evolution signaled by <italic>Rubber Soul</italic> continued with the release of <italic>Revolver</italic> in 1966. Here, the influence of the group’s use of <related-article related-article-type="rs" xlink:href="89145015" xlink:type="simple">psychedelic drugs</related-article> becomes far more pronounced, the melodies are more densely textured, and the lyrics are controlled and evocative. The songs “She Said She Said” and “Tomorrow Never Knows” are particularly experimental in their exotic lyrics and unique use of tape loops, helping to usher in the style of <related-article related-article-type="rs" xlink:href="87325813" xlink:type="simple">psychedelic rock</related-article> that would arguably reach its pinnacle with the band's next album.</p>
+               <p>As these albums reveal, the Beatles, by the end of 1966, had become a studio band. They performed their last concert that year in San Francisco, California. For their next album, they planned an aural scrapbook of their lives in Liverpool and recorded three songs. When their record company insisted on a single, they released “Penny Lane” and “Strawberry Fields Forever” and gradually changed the conception of the album to one of a song cycle performed by a fictional band.</p>
+               <p>With the release of <related-article related-article-type="rs"
+                     xlink:href="89313869" xlink:type="simple"
+                        ><italic>Sgt. Pepper’s Lonely Hearts Club Band</italic></related-article> in June 1967, the Beatles took their most daringly experimental step. Although working with the still-primitive recording equipment of the late 1960s, the band managed to produce an intricate aural paean to psychedelia. Songs were no longer three-minute ditties (in fact, the longest track, “A Day in the Life,” stands as a definite masterpiece), and the album sleeve featured song lyrics and an elaborate cover photograph that commented on the change in artistic direction the group was taking.</p>
+               <p>Two months later, on August 27, 1967, Epstein died of a drug overdose. Following Epstein's death, the band temporarily focused themselves on learning transcendental meditation in India with <related-article
+                     related-article-type="rs" xlink:href="94415937" xlink:type="simple"
+                     >Maharishi Mahesh Yogi</related-article>. They emerged to produce their own television film, <italic>Magical Mystery Tour</italic> . While the album of the same name was popular, the film was a disaster, and for the first time critics panned the Beatles. Early in 1968, Lennon and McCartney announced the formation of Apple Records, their own record company and business enterprise.</p>
+               <p>In November 1968, the group released <italic>The Beatles</italic> (popularly known as the <italic>White Album</italic> for its plain white jacket), a two-record album of diverse songs. By now the songwriting team of Lennon and McCartney had effectively dissolved, and each member contributed his own distinctive pieces to the production. Though uneven in spots, the album stands as a wild burst of creative energy from a band suffering from much dissension and confusion. During this period, Lennon’s experiments with drugs developed into an addiction to heroin, which led to paranoia and lethargy. As he retreated into his relationship with avant-garde artist <related-article
+                     related-article-type="rs" xlink:href="89407734" xlink:type="simple"
+                     >Yoko Ono</related-article>, the band foundered and tensions were further exacerbated. In December 1968, <italic>Yellow Submarine</italic>, a cartoon film with four new Beatles songs, was released to laudatory reviews.</p>
+               <p>Sensing their dissolution, the Beatles decided to return to their musical roots and record their next album as a film crew recorded the event. A return to live performance was also planned, though grand ambitions were scaled down to an unannounced performance on the roof of the Apple Records studio in late January 1969, which was cut short by police intervention. The often acrimonious recording sessions produced thirty hours of tape that no one could face editing. Producer <related-article
+                     related-article-type="rs" xlink:href="89408947" xlink:type="simple"
+                     >Phil Spector</related-article> was hired by the group, and <italic>Let It Be</italic> was released in May 1970, as the band’s final album. It was met with mixed reviews, while the film of the same name was largely poorly received by contemporary critics (though it would win an Academy Award for best original song score) and would not be made widely available over the next decades.</p>
+               <p>The actual swan song for the Beatles came in the fall of 1969, however, with the release of <italic>Abbey Road</italic>, a gorgeous collection of disparate pieces of magically blending harmony. With <italic>Abbey Road</italic>, the Beatles returned to the high production values that had been associated with their best work, and one side of the record is a collage of songs that emerge as nothing short of an artistic triumph. Still, in April 1970, the group disbanded in anger and frustration, and Lennon, McCartney, Harrison, and Starr each pursued solo careers that sporadically produced further acclaimed music.</p>
+               <p>Lennon was fatally shot by Mark David Chapman on December 8, 1980. Even after <related-article related-article-type="rs" xlink:href="89313770" xlink:type="simple">Lennon's assassination</related-article>, the Beatles' output continued with a series of releases that revealed not only their astounding creativity but the range of their accomplishments. In 1995, the three surviving Beatles and producer George Martin collaborated on a television special, <italic>The Beatles Anthology</italic>, in which they reminisced about their years together and returned to the studio to complete two scraps of songs Lennon had composed years earlier. The film and ensuing DVD were supported by a collection of three CDs presenting alternate takes, a few new songs, and demos of Beatles standards. Arguably the highlight of the anthology is the two early versions of “Strawberry Fields Forever,” which were blended and reconfigured into the widely recognized version of the song. In 2000, Capitol Records released <italic>Beatles 1</italic>, a collection of the band’s number one hits, which reminded audiences how remarkable the group had been over a mere seven-year period in the 1960s.</p>
+               <p><italic>Live at the BBC</italic> was released in 2001, featuring live studio performances from the early 1960s and Beatles originals as well as cover versions of previously unreleased songs. The year 2001 also saw the death of a second member of the Fab Four: George Harrison died of lung cancer on November 29 in Los Angeles, California. In 2003 McCartney helped release the album <italic>Let It Be . . . Naked</italic>, showcasing songs from the <italic>Let It Be</italic> sessions without Spector's edits.</p>
+               <p>An inventive and unexpected release came in 2006 with <italic>Love</italic>, a remixed and reordered collection of at least twenty Beatles songs into aural collage. Martin and his son, Giles, produced the collection as a soundtrack for shows by the entertainment giant Cirque de Soleil, but the highly polished collection also stands on its own.</p>
+               <p>Due to various legal disputes, the Beatles' music was for a long time not legally available through online music retailers. In particular, a longstanding dispute between the band's Apple Corps corporation and the computer company Apple Inc. meant that the Beatles' back catalog was not available on Apple Inc.'s iTunes music service until 2010.</p>
+               <p>In 2021 the three-part, almost eight-hour-long documentary <italic>The Beatles: Get Back</italic> was released by director <related-article
+                     related-article-type="rs" xlink:href="150079747"
+                     >Peter Jackson</related-article>. The project painstakingly drew from the many hours of footage taken during the development of the <italic>Let It Be</italic> film, much of which had not been widely seen. It was hailed by many critics for providing new insight into the dynamics of the late-period Beatles, especially showing that the <italic>Let It Be</italic> recording sessions had had plenty of positive moments along with the tensions.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>To understand the Beatles and their work, one must consider them as a 1960s phenomenon, for they mirrored and epitomized so much that has come to be associated with that dramatic decade. It was, therefore, oddly appropriate that as a new decade dawned, the leading musical group of the 1960s dissolved.</p>
+               <p>The Beatles were unique in many ways but no more so than in their legacy and collective influence. For British audiences, they represented something largely unprecedented in the twentieth century. When these northern boys, speaking in their distinctive accents, emerged from the backwaters of Liverpool, they demonstrated that English culture was not confined to the United Kingdom. They furthermore revealed, to a rigidly class-conscious society, that anyone with talent could command national attention and succeed professionally. Further, the Beatles triggered the "<related-article related-article-type="rs" xlink:href="89311737" xlink:type="simple">British invasion</related-article>" of the United States, paving the way for such bands as the <related-article related-article-type="rs" xlink:href="89311893" xlink:type="simple">Rolling Stones</related-article>, <related-article related-article-type="rs" xlink:href="89111062" xlink:type="simple">the Who</related-article>, and the <related-article related-article-type="rs" xlink:href="89402463" xlink:type="simple">Kinks</related-article>.</p>
+               <p>Worldwide, the Beatles had a significant and lasting influence on music, fashion, and popular culture. World music changed dramatically as songs grew longer and more reflective, as production experiments and new recording technology proliferated, and as record packaging suddenly became an art form of its own. Decades after the band dissolved, the Beatles remain among the best-selling recording artists of all time, ranked alongside such musical greats as <related-article related-article-type="rs" xlink:href="88829506" xlink:type="simple">Elvis Presley</related-article> and <related-article related-article-type="rs" xlink:href="89098600" xlink:type="simple">Michael Jackson</related-article>.</p>
+            </sec>
+            <sec sec-type="timeline" indexed="true">
+               <title>Beatles Discography</title>
+               <list list-content="timeline">
+                  <list-item>
+                     <label>Please Please Me </label>
+                     <p>(1963)</p>
+                  </list-item>
+                  <list-item>
+                     <label>With the Beatles </label>
+                     <p>(1963)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Introducing…the Beatles </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Meet the Beatles! </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>The Beatles’ Second Album </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>A Hard Day’s Night </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Something New </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Beatles for Sale </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Beatles ’65 </label>
+                     <p>(1964)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Beatles VI </label>
+                     <p>(1965)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Help! </label>
+                     <p>(1965)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Rubber Soul </label>
+                     <p>(1965)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Yesterday…and Today </label>
+                     <p>(1966)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Revolver </label>
+                     <p>(1966)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Sgt. Pepper’s Lonely Hearts Club Band </label>
+                     <p>(1967)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Magical Mystery Tour </label>
+                     <p>(1967)</p>
+                  </list-item>
+                  <list-item>
+                     <label>The Beatles (White Album) </label>
+                     <p>(1968)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Yellow Submarine </label>
+                     <p>(1969)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Abbey Road </label>
+                     <p>(1969)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Let It Be </label>
+                     <p>(1970)</p>
+                  </list-item>
+                  <list-item>
+                     <label>In the Beginning: The Early Tapes </label>
+                     <p>(1970)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Live at the Hollywood Bowl </label>
+                     <p>(1977)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Live at the Star Club (2 vols.) </label>
+                     <p>(1977)</p>
+                  </list-item>
+                  <list-item>
+                     <label>The Beatles Box Set </label>
+                     <p>(1988)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Anthology 1 </label>
+                     <p>(1995)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Anthology 2 </label>
+                     <p>(1996)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Anthology 3 </label>
+                     <p>(1996)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Let It Be . . . Naked </label>
+                     <p>(2003)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Love </label>
+                     <p>(2006)</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple"> <italic>The Beatles Anthology</italic>. San Francisco: Chronicle, 2000. Print.</citation></ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Brocken, Michael. <italic>The Twenty-First Century Legacy of the Beatles: Liverpool and Popular Music Heritage Tourism</italic>. Farnham: Ashgate, 2015.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Burrows, Terry. <italic>The Beatles: The Story of the Fab Four's Swinging Sixties</italic>. London: Carlton, 2015.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Carr, Roy, and Tony Tyler. <italic>The Beatles: An Illustrated Record</italic>. New York: Harmony, 1981.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Collins, Marcus. "'The Age of the Beatles': Parliament and Popular Music in the 1960s." <italic>Contemporary British History</italic> 27.1 (2013): 85–107.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Emerick, Geoff, and Howard Massey. <italic>Here, There, and Everywhere: My Life Recording the Music of the Beatles</italic>. New York: Gotham, 2006.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Friede, Goldie, Robin Titone, and Sue Weiner. <italic>The Beatles A to Z: John Lennon, Paul McCartney, George Harrison, and Ringo Starr</italic>. New York: Methuen, 1980.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Guesdon, Jean-Michel, and Philippe Margotin. <italic>All the Songs: The Story behind Every Beatles Release</italic>. New York: Black Dog, 2013.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Lewisohn, Mark. <italic>Tune In: The Beatles: All These Years</italic>. Vol 1. London: Little, 2013.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">McKinney, Devin. <italic>Magic Circles: The Beatles in Dream and History</italic>. Cambridge: Harvard UP, 2003.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Norman, Philip. <italic>Shout! The Beatles in Their Generation</italic>. 1981. Rev. ed. New York: Simon, 2005.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Schaffner, Nicholas. <italic>The Beatles Forever</italic>. Harrisburg: Cameron House, 1977.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Spitz, Bob. <italic>The Beatles: The Biography</italic>. New York: Little, 2005.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Unterberger, Richie. <italic>The Unreleased Beatles: Music and Film</italic>. Milwaukee: Backbeat, 2006.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Wenner, Jann. <italic>Lennon Remembers</italic>. 1971. Rev. ed. New York: Verso, 2000.</citation>
+                  </ref>
+<ref><citation citation-type="booksimple">Wilson, Carl. "The Beatles: Get Back Is an Eight-Hour Love Story." <italic>Slate</italic>, 30 Nov. 2021, slate.com/culture/2021/11/get-back-beatles-documentary-review-disney-plus.html. Accessed 17 Dec. 2021.</citation></ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="original" xlink:type="simple">
+                        <article-title>The Beatles</article-title>
+                        <italic>Great Lives from History: The Twentieth Century</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Robert F.</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Gorman</surname>
+                           </name>
+                        </person-group>
+                        <year>2008</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+         </body>
+      </book-part>
+   </body>
+</book>

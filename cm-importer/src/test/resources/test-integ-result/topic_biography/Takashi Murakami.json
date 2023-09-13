@@ -1,0 +1,216 @@
+{
+	"entry": {
+		"title": "Takashi Murakami",
+		"tags": [
+			"anime",
+			"manga",
+			"sculptures"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "alternate name"
+				}
+			],
+			"type": "doc",
+			"uid": "d26f496e-f10f-4848-a3c1-ebc3aa0f4c08"
+		},
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 1,
+		"birth_month": "February",
+		"birth_year": 1962,
+		"non_numeric_birth_date": "February 1, 1962",
+		"place_of_birth": "Place of birth: Japan",
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Principal Works"
+						}
+					],
+					"type": "h1",
+					"uid": "a0039bef-6da7-454b-aa5d-6c1752328a6b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"text": " "
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						},
+						{
+							"text": "Miss Ko2",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": ", (1997)"
+						}
+					],
+					"type": "p",
+					"uid": "14bea560-5ce6-43cb-845b-5374a7a8e2aa",
+					"attrs": {
+						
+					}
+				},
+				{
+					"text": " "
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						},
+						{
+							"text": "Hiropon",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": ", 1997"
+						}
+					],
+					"type": "p",
+					"uid": "a1583e28-993b-41fd-b412-a3de69964584",
+					"attrs": {
+						
+					}
+				},
+				{
+					"text": " "
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						},
+						{
+							"text": "My Lonesome",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": "Cowboy",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": ", 1998"
+						}
+					],
+					"type": "p",
+					"uid": "509d6d21-e4a8-43f8-8a0c-b5c422db3b08",
+					"attrs": {
+						
+					}
+				},
+				{
+					"text": " "
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						},
+						{
+							"text": "Cosmos Ball",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": ", 2000"
+						}
+					],
+					"type": "p",
+					"uid": "b6797a9c-b4ff-4536-b048-c77a6889985b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"text": " "
+				},
+				{
+					"children": [
+						{
+							"text": " "
+						},
+						{
+							"text": "The 500 Arhats",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": " "
+						},
+						{
+							"text": ", 2011"
+						}
+					],
+					"type": "p",
+					"uid": "34d0da8b-7619-4f0a-966f-66766f3874ca",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "9474ece3-f2f6-4577-9e13-5c13b2b2a20b"
+		},
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": null
+	}
+}

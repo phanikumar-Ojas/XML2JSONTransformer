@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rsdiseases</book-id>
+    <book-id pub-id-type="eis-mid">FV1S</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Health</book-title>
+      <alt-title alt-title-type="mid">FV1S</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>15</day>
+      <month>February</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="RSDISEASES.10.3331.118454"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rstocmmg7_118454</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject/>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Aortic aneurysm</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Marisela</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Fermin-Schon</surname>
+            </name>
+            <x xml:space="preserve">, </x>
+            <degrees>RN</degrees>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Aortic aneurysms can be described in terms of their location, type, and whether they are true or false. While it is possible for an aneurysm to develop in the ascending, transverse, or descending portions of the aorta, it is most commonly seen in the abdominal aorta area between the renal arteries and the aortic bifurcation. Aortic aneurysms can be thoracic (above the diaphragm) or abdominal (below the diaphragm). A fusiform aneurysm describes dilation of the circumference of the aorta compared to saccular, which describes a dilation confined to one area of the vessel wall. Aneurysms may also be described as true, caused by a congenital or acquired problem, or false, caused by trauma to the layers of the arterial wall.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Aortic aneurysms can be described in terms of their location, type, and if they are true or false. While it is possible for an aneurysm to develop in the ascending, transverse, or descending portions of the aorta, it is most commonly seen in the abdominal aorta area between the renal arteries and the aortic bifurcation. Aortic aneurysms can be thoracic (above the diaphragm) or abdominal (below the diaphragm). A fusiform aneurysm describes dilation of the circumference of the aorta compared to saccular, which describes a dilation confined to one area of the vessel wall. Aneurysms may also be described as true, caused by a congenital or acquired problem, or false, caused by trauma to the layers of the arterial wall.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/mmg2014_0077</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value>97176592</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>391</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title>Disease/Disorder</title>
+          <p>
+            <bold>Anatomy or system affected:</bold> The aorta</p>
+          <p>
+            <bold>Definition:</bold> A dilation or ballooning of the arterial vessel wall to twice its original size, creating an area of weakness.</p>
+          <p>
+            <bold>Key terms:</bold>
+          </p>
+          <p>
+            <italic>adventitia:</italic> the outermost collagen layer of the aortic vessel</p>
+          <p>
+            <italic>
+              <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                               related-article-type="rs"
+                               xlink:href="87325639"
+                               xlink:type="simple">aorta</related-article>:</italic> largest artery in the body, carrying freshly oxygenated blood to the peripheral vascular system</p>
+          <p>
+            <italic>
+              <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                               related-article-type="rs"
+                               xlink:href="89250402"
+                               xlink:type="simple">computed tomography</related-article> (CT):</italic> a scan that uses x-rays to visualize cross-sections of the body</p>
+          <p>
+            <italic>false aneurysm:</italic> a weakening and dilation of an arterial vessel caused by trauma</p>
+          <p>
+            <italic>true aneurysm:</italic> dilation of an arterial vessel caused by a congenital or acquired problem</p>
+          <p>
+            <italic>fusiform aneurysm:</italic> dilation of the circumference of the arterial vessel</p>
+          <p>
+            <italic>saccular aneurysm:</italic> arterial wall dilation confined to one area causing a ballooning effect</p>
+          <p>
+            <italic>abdominal aortic aneurysm (AAA):</italic> a dilation of the aorta in the abdominal cavity</p>
+          <p>
+            <italic>thoracic aortic aneurysm (TAA):</italic> a dilation of the aorta in the thoracic cavity</p>
+          <p>
+            <italic>intima:</italic> the innermost layer of endothelial cells in the aortic vessel</p>
+          <p>
+            <italic>media:</italic> the middle layer of the aortic vessel made up of thick elastic tissue</p>
+          <p>
+            <italic>ultrasound:</italic> a method of diagnostic imaging using high-frequency sound</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Overview</title>
+          <p>Aortic aneurysms can be described in terms of their location, type, and whether they are true or false. While it is possible for an <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86193889"
+                             xlink:type="simple">aneurysm</related-article> to develop in the ascending, transverse, or descending portions of the aorta, it is most commonly seen in the abdominal aorta area between the renal arteries and the aortic bifurcation. Aortic aneurysms can be thoracic (above the diaphragm) or abdominal (below the diaphragm). A fusiform aneurysm describes dilation of the circumference of the aorta compared to saccular, which describes a dilation confined to one area of the vessel wall. Aneurysms may also be described as true, caused by a congenital or acquired problem, or false, caused by trauma to the layers of the arterial wall.</p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Aortic aneurysm</title>
+              <p/>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="97176592-90206.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By en:National Institutes of Health [Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Sagital aaa</title>
+              <p>This is an example of bolus tracking in the use of imaging an abdominal aortic aneurysm (AAA).</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="97176592-90207.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By Glitzy queen00 at en.wikipedia [Public domain], from Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Three tissue layers construct the vessel walls of the aorta: the intima is the inner most layer of endothelial cells; the media, the middle layer, is thick elastic tissue; and the adventitia is the outer most collagen layer. When the media layer is weakened by either true or false causes, stretching of the intima and adventitia ensues, allowing for widening and increased tension within the arterial wall. A history of smoking, elevated blood pressure, and other factors can accelerate the rate of aneurysm enlargement and thus risk for rupture. While the normal abdominal aorta has diameter less than 3 cm, an aneurysm diameter of greater than 5.5 cm is the most indicative clinical feature of an impending rupture. A rupture causes an abrupt and massive hemorrhage resulting in shock that is life threatening. Up to 90 percent of all ruptured abdominal aortic aneurysms (AAA) result in death.</p>
+          <table-wrap position="float">
+            <caption>
+              <title/>
+            </caption>
+            <oasis:table xmlns:oasis="//OASIS//DTD XML Exchange Table Model 19990315//EN">
+              <oasis:tgroup cols="2" align="left">
+                <oasis:colspec colnum="1" align="left" colname="col1"/>
+                <oasis:colspec colnum="2" align="left" colname="col2"/>
+                <oasis:thead valign="bottom">
+                  <oasis:row>
+                    <oasis:entry>
+                      <bold>Diameter of AAA</bold>
+                    </oasis:entry>
+                    <oasis:entry>
+                      <bold>Risk of Rupture</bold>
+                    </oasis:entry>
+                  </oasis:row>
+                </oasis:thead>
+                <oasis:tbody valign="bottom">
+                  <oasis:row>
+                    <oasis:entry>&gt;5cm</oasis:entry>
+                    <oasis:entry>20%</oasis:entry>
+                  </oasis:row>
+                  <oasis:row>
+                    <oasis:entry>&gt;6cm</oasis:entry>
+                    <oasis:entry>40%</oasis:entry>
+                  </oasis:row>
+                  <oasis:row>
+                    <oasis:entry>&gt;7cm</oasis:entry>
+                    <oasis:entry>50%</oasis:entry>
+                  </oasis:row>
+                </oasis:tbody>
+              </oasis:tgroup>
+            </oasis:table>
+          </table-wrap>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Causes and Symptoms</title>
+          <p>Thoracic aneurysms tend to be asymptomatic until they rupture. Depending on where the dilation of the aorta pushes on surrounding structures, such as the esophagus, left vagus, laryngeal nerve, or phrenic nerve, a person may experience dyspnea, wheezing, dysphagia, or cough, as well as pain in their neck, substernal area, or back, worsened by supine positioning. If the aneurysm develops in the ascending region or the aortic root, heart failure or a myocardial infarction may be the initial presenting symptoms.</p>
+          <p>Similarly, an AAA can also be asymptomatic. Usually an AAA is discovered during a physical examination or through imaging. The most common complaint related to an AAA is lower back or flank pain. Other associated symptoms may include: a pulsating abdominal mass, the sensation of a “heartbeat” in the abdomen with supine posturing, cool or cyanotic extremities, and pain or tiredness in the legs with walking.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Diagnosis</title>
+          <p>Thoracic aortic aneurysms (TAA) are not usually identified on physical exam, as they are obscured by the rib cage and sternum. AAAs can often be identified during a physical exam, but it can be difficult to accurately determine the size. In obese individuals, palpation of a large AAA may not be possible.</p>
+          <p>If a clinician suspects an AAA in an asymptomatic patient, the definitive diagnosis is made by a fasting abdominal <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="93788283"
+                             xlink:type="simple">ultrasound</related-article>. However, if an AAA is suspected, and the patient presents with symptoms (back or flank pain) and is hypotensive, a computed tomography (CT) scan is used to locate or rule out a hemorrhage. A CT scan is a highly accurate tool for assessing aneurysm size, and is often used to monitor aneurysm growth. A CT scan is also used to definitively diagnose a TAA.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Treatment</title>
+          <p>While there are no recommended medical management guidelines, the mainstay of treatment is reducing the risk of expansion and rupture. This includes smoking cessation and modification of other risk factors. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="97176591"
+                             xlink:type="simple">Blood pressure–reducing agents</related-article> such as angiotensin-converting enzyme inhibitors, and cholesterol-reducing agents such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322991"
+                             xlink:type="simple">statins</related-article> can be helpful in the reducing the aneurysm rate of growth. Surgical repair of the aneurysm is the most effective means of preventing rupture. For those with an AAA less than 5.5cm, the recommendation is close monitoring through serial CT scans; and for an AAA greater than 5.5cm in otherwise healthy patients, surgical repair is recommended.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Risk Factors and Screening</title>
+          <p>Several compounding risk factors predispose an individual for abdominal aortic aneurysms, including: male gender, advancing age (over sixty-five), history of smoking, family history of AAA, history of peripheral artery aneurysm, atherosclerosis, and Caucasian race. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94416366"
+                             xlink:type="simple">Atherosclerosis</related-article> coupled with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89093446"
+                             xlink:type="simple">hypertension</related-article>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86194201"
+                             xlink:type="simple">hyperlipidemia</related-article>, and smoking is the most common cause of aneurysms. Ehlers-Danlos syndrome, Marfan syndrome, Syphilis, chronic inflammation, and blunt trauma are other less common causes of AAA. The U.S. Preventive Services Task Force (USPSTF) defines the screening criteria for an AAA, recommending a one-time abdominal ultrasound for men ages sixty-five to seventy-five years that have ever smoked. The USPSTF also recommends screening men over the age of sixty with a family history of AAA.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">“Abdominal Aortic Aneurysm Screening.” Medicare.gov: Your Medicare Coverage. Retrieved November 9, 2013. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.medicare.gov/coverage/ab-aortic-aneurysm-screening.html"
+                          xlink:type="simple">http://www.medicare.gov/coverage/ab-aortic-aneurysm-screening.html</ext-link>
+              </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Chaikof, E. L., D. C. Brewster, R. L. Dalman, et al. “The Care of Patients with an Abdominal Aortic Aneurysm: The Society for Vascular Surgery Practice Guidelines.” <italic>Journal of Vascular Surgery</italic> 50, no. 4 (2009): S2–S49.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Clouse, W. D., J. W. Hallett, H. V. Schaff, M. M. Gayari, D. M. Ilstrup, and L. J. Melton. “Improved Prognosis of Thoracic Aortic Aneurysms: A Population-Based Study.” <italic>Journal of the American Medical Association</italic> 280, no. 22 (1998): 1926–1929.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">Collins, K. A. (2013). “Overview of abdominal aortic aneurysm.” In <italic>UpToDate</italic>, edited by J. F. Eidt, J. L. Mills, and J. L. Duda. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.uptodate.com/contents/overview-of-abdominal-aortic-aneurysm?detectedLanguage=en&amp;source=search_result&amp;search=Overview+of+abdominal+aortic+aneurysm&amp;selectedTitle=1%7E150&amp;provider=noProvider"
+                          xlink:type="simple">http://www.uptodate.com/contents/overview-of-abdominal-aortic-aneurysm</ext-link>
+              </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">Dalman, R. L., and M. Mell. “Management of Asymptomatic Abdominal Aortic Aneurysm.” In <italic>UpToDate</italic>, edited by J. L. Mills, J. F. Eidt, E. R. Mohler, and D. L. Clement. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.uptodate.com/contents/management-of-asymptomatic-abdominal-aortic-aneurysm?detectedLanguage=en&amp;source=search_result&amp;search=abdominal+aortic+aneurysm&amp;selectedTitle=1~126&amp;provider=noProvider#H909597049"
+                          xlink:type="simple">http://www.uptodate.com/contents/management-of-asymptomatic-abdominal-aortic-aneurysm</ext-link>
+              </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Forsdahl, S. H., K. Singh, S. Solberg, and B. K. Jacobsen. “Risk Factors for Abdominal Aortic Aneurysms: A 7-Year Prospective Study: The Tromsø Study, 1994–2001.” <italic>Circulation</italic> 119, no. 16 (2009): 2202–2208.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Hiratzka, L. F., G. L. Bakris, J. A. Beckman, et al. “Guidelines for the Diagnosis and Management of Patients with Thoracic Aortic Disease.” <italic>Journal of the American College of Cardiology</italic> 55, no. 14 (2010):e27–e129.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Isselbacher, Eric Michael. “Diseases of the Aorta.” In <italic>Goldman's Cecil Medicine</italic>, 24th ed., edited by Lee Goldman and Andrew I. Schafer, 482–486. Philadelphia: Elsevier Saunders, 2011.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">Jim, J., and R. W. Thompson. “Clinical Features and Diagnosis of Abdominal Aortic Aneurysm.” In <italic>UpToDate</italic>, edited by J. L. Mills, J. F. Eidt, E. R. Mohler, and K. A. Collins. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.uptodate.com/contents/clinical-features-and-diagnosis-of-abdominal-aortic-aneurysm?detectedLanguage=en&amp;source=search_result&amp;search=aortic+aneurysm&amp;selectedTitle=4%7E150&amp;provider=noProvider"
+                          xlink:type="simple">http://www.uptodate.com/contents/clinical-features-and-diagnosis-of-abdominal-aortic-aneurysm</ext-link>
+              </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Little, Tami. “Care of Patients with Vascular Problems.” In <italic>Medical-Surgical Nursing: Patient-Centered Collaborative Care</italic>, 7th ed., edited by Donna D. Ignatavicius and M. Linda Workman, 792–796. St. Louis: Elsevier, 2013.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">Mohler, E. R. “Epidemiology, Risk Factors, Pathogenesis and Natural History of Abdominal Aortic Aneurysm.” In <italic>UpToDate</italic>, edited by J. L. Mills, J. F. Eidt, and K. A. Collins. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.uptodate.com/contents/epidemiology-risk-factors-pathogenesis-and-natural-history-of-abdominal-aortic-aneurysm?detectedLanguage=en&amp;source=search_result&amp;search=Epidemiology%2C+risk+factors%2C+pathogenesis+and+natural+history+of+abdominal+aortic+aneurysm&amp;selectedTitle=1~126&amp;provider=noProvider"
+                          xlink:type="simple">http://www.uptodate.com/contents/epidemiology-risk-factors-pathogenesis-and-natural-history-of-abdominal-aortic-aneurysm</ext-link>
+              </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">“Screening for Abdominal Aortic Aneurysm.” U.S. Preventive Services Task Force, 2005. Retrieved November 9, 2013 from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.uspreventiveservicestaskforce.org/uspstf/uspsaneu.htm"
+                          xlink:type="simple">http://www.uspreventiveservicestaskforce.org/uspstf/uspsaneu.htm</ext-link>
+              </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="web"
+                        xlink:type="simple">Woo, Y. J., and E. R. Mohler. “Clinical Features and Diagnosis of Thoracic Aortic Aneurysm.” In <italic>UpToDate</italic>, edited by C. M. Otto, J. Hoekstra, J. F. Eidt, J. L. Mills, and K. A. Collins. Retrieved from <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                          ext-link-type="uri"
+                          xlink:href="http://www.uptodate.com/contents/clinical-features-and-diagnosis-of-thoracic-aortic-aneurysm?detectedLanguage=en&amp;source=search_result&amp;search=aortic+aneurysm&amp;selectedTitle=3%7E150&amp;provider=noProvider"
+                          xlink:type="simple">http://www.uptodate.com/contents/clinical-features-and-diagnosis-of-thoracic-aortic-aneurysm</ext-link>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Aortic aneurysm</article-title>
+                <source>Magill's Medical Guide, Seventh Edition</source>
+                <year>2014</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

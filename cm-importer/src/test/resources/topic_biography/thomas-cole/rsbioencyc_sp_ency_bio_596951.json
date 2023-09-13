@@ -1,0 +1,200 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"mock brstCategory",
+			"oil painting",
+			"Hudson River",
+			"James Fenimore Cooper novel",
+			"John Trumbull",
+			"William Dunlap",
+			"John Constable",
+			"Luman Reed",
+			"Hudson River School"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 1,
+		"birth_month": "February",
+		"birth_year": 1801,
+		"non_numeric_birth_date": "February 1, 1801",
+		"place_of_birth": "Bolton-le-Moors, England",
+		"death_day": 11,
+		"death_month": "February",
+		"death_year": 1848,
+		"non_numeric_death_date": "February 11, 1848",
+		"place_of_death": "Catskill, New York",
+		"main_occupation_or_related_field": [
+			"Painter"
+		],
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Principal Works"
+						}
+					],
+					"type": "h1",
+					"uid": "07b1ca36-c79c-48d1-b496-ece0e863f701",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Paintings",
+							"bold": true
+						}
+					],
+					"type": "p",
+					"uid": "1192915a-c306-43f7-a51b-957c1964dc1c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Sunrise in the Catskills",
+							"italic": true
+						},
+						{
+							"text": ", 1826"
+						}
+					],
+					"type": "p",
+					"uid": "eabf0729-e961-4e05-ab87-0e0d3df2a94f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Course of Empire",
+							"italic": true
+						},
+						{
+							"text": " series, 1833–1836"
+						}
+					],
+					"type": "p",
+					"uid": "aebf2099-832e-43d7-b93f-128095f2f40e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Departure",
+							"italic": true
+						},
+						{
+							"text": ", 1837"
+						}
+					],
+					"type": "p",
+					"uid": "2958bafa-58fb-4d67-8ff2-eeacbfcb46e3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Return",
+							"italic": true
+						},
+						{
+							"text": ",1837"
+						}
+					],
+					"type": "p",
+					"uid": "37cee821-e6b4-40fa-84e2-29748df6c438",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A View of the Mountain Pass Called the Notch of the White Mountains",
+							"italic": true
+						},
+						{
+							"text": ", 1839"
+						}
+					],
+					"type": "p",
+					"uid": "08fcc52e-8956-420a-9f59-f10767a10e70",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Voyage of Life",
+							"italic": true
+						},
+						{
+							"text": "series, 1842"
+						}
+					],
+					"type": "p",
+					"uid": "ed07d019-deca-4081-b52f-f9b5c8acb7b2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Home in the Woods",
+							"italic": true
+						},
+						{
+							"text": ", 1847"
+						}
+					],
+					"type": "p",
+					"uid": "9c12c9b7-bd03-40b7-9cad-0537dbed9bcb",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "0d18e348-0168-4c47-bc9c-7d50fe88f115"
+		},
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": null
+	}
+}

@@ -1,0 +1,84 @@
+{
+	"entry": {
+		"title": "George Michael",
+		"tags": [
+			"Biography",
+			"American History",
+			"Western Civilization/European History",
+			"Popular Culture, Trends, Fads",
+			"Arts",
+			"North America",
+			"Europe",
+			"England",
+			"U.S. History",
+			"Aretha Franklin",
+			"Grammy Award",
+			"rhythm and blues",
+			"gay rights",
+			"AIDS",
+			"Elton John"
+		],
+		"category": [
+			"Popular Culture, Trends, Fads",
+			"Arts"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": "Michael",
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Composers, Songwriters",
+			"Music, Musicians, Singers",
+			"Artists, Artisans, the Arts"
+		],
+		"curriculum_american_history": [
+			"US History 1951-present"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": [
+			"British History",
+			"20th & 21st Century European History"
+		],
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"North America",
+			"Europe"
+		],
+		"sub_geographical_category": [
+			"United States",
+			"United Kingdom"
+		],
+		"geo_keyword": [
+			"England"
+		],
+		"birth_day": 25,
+		"birth_month": "June",
+		"birth_year": 1963,
+		"non_numeric_birth_date": "June 25, 1963",
+		"place_of_birth": "Finchley, London, England",
+		"death_day": 25,
+		"death_month": "December",
+		"death_year": 2016,
+		"non_numeric_death_date": "December 25, 2016",
+		"place_of_death": "Goring-on-Thames, United Kingdom",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3177550-George Michael"
+		]
+	}
+}

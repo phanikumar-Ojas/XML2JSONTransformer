@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rsspencyclopedia</book-id>
+    <book-id pub-id-type="eis-mid">GY4S</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">GY4S</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>31</day>
+      <month>December</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="rsspencyclopedia.10.3331.210260"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rsspencyclopedia_210260</book-part-id>
+        <title-group>
+          <title>Exodus</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>William E.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Burns</surname>
+            </name>
+            <x xml:space="preserve">, </x>
+            <degrees>PhD</degrees>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>The book of Exodus, consisting of forty chapters, is the second book in the Bible. Exodus recounts the freeing of the Jews from bondage in Egypt and their subsequent wanderings in the desert, led by Moses, the protagonist of the book. It contains many of the most compelling stories in the Bible, such as the rescue of the infant Moses by Pharaoh’s daughter, the burning bush, the plagues of Egypt and the passing of the angel of death, and the parting of the Red Sea. It also includes the Ten Commandments. Preceded by Genesis and followed by Leviticus, Numbers, and Deuteronomy, Exodus is one of the five books of Moses, known as the Torah. The Torah, called the Pentateuch by Hellenistic Jews and later by Christians, is the holiest text in Judaism.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>210260</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>732</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+            
+         </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>The book of Exodus, consisting of forty chapters, is the second book in the Bible. Exodus recounts the freeing of the Jews from bondage in Egypt and their subsequent wanderings in the desert, led by Moses, the protagonist of the book. It contains many of the most compelling stories in the Bible, such as the rescue of the infant Moses by Pharaoh’s daughter, the burning bush, the plagues of Egypt and the passing of the angel of death, and the parting of the Red Sea. It also includes the Ten Commandments. Preceded by Genesis and followed by Leviticus, Numbers, and Deuteronomy, Exodus is one of the five books of Moses, known as the Torah. The Torah, called the Pentateuch by Hellenistic Jews and later by Christians, is the holiest text in Judaism.</p>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <title>David Roberts-IsraelitesLeavingEgypt 1828</title>
+              <p>The Israelites Leaving Egypt</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="89402394-107019.jpg"/>
+            <permissions>
+              <copyright-statement>David Roberts [Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <title>Hans Jordaens (III) - Le passage de la Mer Rouge</title>
+              <p>Crossing of Red Sea</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="89402394-107018.jpg"/>
+            <permissions>
+              <copyright-statement>Hans III Jordaens (circa 1595–1643) [Public domain or Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Background</title>
+          <p>There is a considerable gap in time between the end of Genesis and the beginning of Exodus, and the leading position of the Jews in Egypt seen in the "prime ministership" of Joseph in Genesis has declined to one of bondage in which the Jews face considerable hostility from the Egyptian population and government. Out of this oppressed population emerges a prophesied leader, Moses. Concerned by the growing numbers of Jews, the pharaoh orders Jewish boy babies killed upon birth. Moses’s mother conceals him, and then when he is too big to be hidden puts him in a basket among the reeds of the Nile, where he is found and adopted by Pharaoh’s daughter. After leaving Egypt for the land of Midian, Moses marries a Midianite, Zipporah, and has an experience where God appears to him in a burning bush and commands him to return to Egypt and free the Jewish people there.</p>
+          <p>To force the Egyptian ruler to permit the Jews to leave, God sends a series of ten plagues. Although some of the plagues were effective in forcing pharaoh to reconsider, God "hardens his heart" so that he again refuses and Egypt is subject to another plague. The plagues culminate in the plague which kills the firstborn of every household in Egypt except those of the Jews, who are "passed over"—the origin of the Jewish festival of Pesach, or Passover, one of the most important of Jewish holidays and one observed in obedience to God’s command as given in the twelfth chapter of Exodus.</p>
+          <p>At this point Pharaoh, who has lost his own son, allows the Jews to leave, although he then changes his mind yet again and sends an army in pursuit of the fleeing Jews. The Jews are allowed to leave Egypt through the miraculous parting of the Red Sea, which then closes on the pursuing Egyptians, destroying their army.</p>
+          <p>Rather than immediately reaching the promised land of Canaan, however, the Jews spend forty years wandering through the desert. This stage includes some of the best-known episodes in the book, such as the sustenance of the Jews by a food called "manna" falling from the sky, battles with a people known as the Amalekites, the Lord's giving of the Ten Commandments and other laws from Mount Sinai, and the temporary apostacy of the Jews from God by worshipping an idol in the form of a calf made of gold. Exodus ends with a very lengthy description of the building of the Ark of the Covenant and the Tabernacle and the making of the priestly garments.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Exodus Today</title>
+          <p>The story of the Exodus is central to the religion of Judaism and the identity of the Jewish people. The narrative of the Exodus is repeated every year at the Passover festival, deeply imbuing religious Jews and even non-religious Jews, who keep the traditional festivals with the connection between God and the Jews as exemplified in Exodus. The festival of Sukkot is also first described in Exodus (although there is a more elaborate description in Leviticus) and, in addition to being a harvest festival, is also meant to mark the forty years of wandering in the desert. The temporary structures built to observe the holiday are meant to commemorate the structures built to provide temporary housing during the wanderings.</p>
+          <p>The experience of the Jews in Exodus being freed from bondage in Egypt and liberated into the wilderness has resonated powerfully not only among Jews but also among Christians and people of other religions and philosophies over the centuries. "Pharaoh" is often used by Jews and Christians to stand in metaphorically for oppressive worldly authority in general or for anti-Semitic rulers in particular. Anti-Semitic peoples are often referred to as "Amalekites." The idea of leaving Egypt, or bondage, freedom frequently appears in the discourse of African American liberation movements from the times of slavery to the Civil Rights movement. The idea of a Jewish return from exile, or the diaspora, to the Holy Land also greatly influenced Zionism, the movement of Jewish nationalism that led to the foundation of the state of Israel. The story of the exodus, or leaving, from Egypt is one of the best-known stories of the Bible generally and has been told and re-told in such popular films as <italic>The Ten Commandments</italic> (1923, 1956) and <italic>Prince of Egypt</italic> (1998).</p>
+          <p>The Ten Commandments have also had immense impact on Christianity and Judaism. Other images and episodes in Exodus which have been widely used in Jewish and Christian writing and preaching include the ten plagues, the parting of the Red Sea, the manna that fell from Heaven, and the Golden Calf worshipped by the Israelites.</p>
+          <p>The historicity of the Exodus narrative has been questioned by Biblical scholars and archeologists and remains fiercely debated. There is no archeological or textual evidence (outside the Bible itself) for the major events of the narrative, although some defenders of Exodus have argued that the lack of any mention of the Exodus events in Egyptian writings and inscriptions is not surprising because the Egyptians would not have preserved the memory of disasters that would have reflected badly on a pharaoh. The idea of the Jewish people emerging in one large group out of Egypt and conquering the promised land of Canaan has been abandoned by most historians in favor of a gradual emergence of Judaism and Jewish culture out of a Canaanite background.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Assmann, Jan. "Around Exodus: Monotheism, Difference and Violence." <italic>Revue de l histoire des religions</italic> 231.1 (2014): 5–26.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bosman, Hendrik L. "The Exodus as Negotiation of Identity and Human Dignity Between Memory and Myth." <italic>Hervormde Teologiese Studies</italic> 70.1 (2014): 1–6. <italic>Academic Search Complete</italic>. Web. 10 Jan. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Coffey, John. <italic>Exodus and Liberation: Deliverance Politics from John Calvin to Martin Luther King Jr.</italic> Oxford UP, 2014.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Dozeman, Thomas, Craig A. Evans, and Joel N. Lohr, eds. <italic>The Book of Exodus: Composition, Reception, and Interpretation</italic>. Brill, 2014.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Levy, Thomas E., Thomas Schneider, and William H. C. Propp, eds. <italic>Israel's Exodus in Transdisciplinary Perspective: Text, Archaeology, Culture, and Geoscience</italic>. Springer, 2015.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Nelson, W. David, and Pamela Barmash, eds. <italic>Exodus in the Jewish Experience: Echoes and Reverberations</italic>. Lexington, 2015.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Pettit, David. "When The Lord Seeks to Kill Moses: Reading Exodus 4.24–26 in Its Literary Context." <italic>Journal for the Study of the Old Testament</italic> 40.2 (2015): 163–177. <italic>Academic Search Complete</italic>. Web. 10 Jan. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Schipper, Bernd Ulrich. "Raamses, Pithom, and the Exodus: A Critical Evaluation of Ex 1:11." <italic>Vetus Testamentum</italic> 65.2 (2015): 265–288. <italic>Academic Search Complete</italic>. Web. 10 Jan. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Spero, Shubert. "Resetting the Exodus Mission: Deciphering Exodus Chapter Six." <italic>Jewish Bible Quarterly</italic> 43.3 (2015): 158–162. <italic>Academic Search Complete</italic>. Web. 10 Jan. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Weill, Rivka. "Exodus: Structuring Redemption of Captives." <italic>Cardozo Law Review</italic> 36.1 (2014): 177–239. <italic>Academic Search Complete</italic>. Web. 10 Jan. 2016.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

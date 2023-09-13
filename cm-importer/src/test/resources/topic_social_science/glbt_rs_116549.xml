@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">glbt_rs</book-id>
+    <book-id pub-id-type="eis-mid">HAK6</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">HAK6</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>11</day>
+      <month>February</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="GLBT_RS.10.3331.116549"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">glbt_rs_116549</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>History/Event</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>American History</subject>
+            <subj-group>
+              <subject>US Civil War &amp; Reconstruction Era (1856-1877)</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Women’s History</subject>
+            <subj-group>
+              <subject>US Civil War &amp; Reconstruction Era (1856-1877)</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Women’s Issues</subject>
+            <subj-group>
+              <subject>Women’s Issues</subject>
+              <subject>Feminism, Feminists, Women’s Rights</subject>
+              <subject>Gender Issues, Sexism</subject>
+              <subject>Homosexuality, Homosexuals, Gay Men, Lesbians</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Social Issues, Reform</subject>
+            <subj-group>
+              <subject>Social Issues, Reform</subject>
+              <subject>Protests, Marches, Demonstrations, Rallies</subject>
+              <subject>Homosexuality, Homosexuals, Gay Men, Lesbians</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Military History</subject>
+            <subj-group>
+              <subject>Military History</subject>
+              <subject>American Civil War</subject>
+              <subject>Generals, Military Officers, Soldiers</subject>
+              <subject>Homosexuality, Homosexuals, Gay Men, Lesbians</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>North America</subject>
+            <subj-group>
+              <subject>North America</subject>
+              <subject>United States</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geo-keyword">
+            <subject>Washington, D.C.</subject>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Mary Edwards Walker Is Awarded the Medal of Honor</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Ellen</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Greenblatt</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Born in Oswego, New York, in 1832, Mary Edwards Walker was raised in a progressive family that espoused radical feminist views for the time, including those of dress reform and education for women. Encouraged by her parents to seek a profession, Walker attended Syracuse Medical School and graduated in 1855, the only woman in her class. Shortly thereafter, she married fellow classmate Albert Miller, in a ceremony considered unusual for the time because Walker omitted the word “obey” from her wedding vows. She also refused to take her husband’s name. The couple set up practice in Rome, New York, but the community did not easily accept a woman as a physician, especially one that dressed in nontraditional attire, and the couple eventually divorced. [kw]Mary Edwards Walker Is Awarded the Medal of Honor (Nov. 11, 1865) [kw]Walker Is Awarded the Medal of Honor, Mary Edwards (Nov. 11, 1865) [kw]Medal of Honor, Mary Edwards Walker Is Awarded the (Nov. 11, 1865) Military, U.S.[Military US];women in Cross-dressing[cross dressing];nineteenth century Civil War, U.S., gender bending in[Civil War US] Gender-bending women, in U.S. Civil War[Gender bending] Medal of Honor, Mary Edwards Walker [c]Military;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030] [c]Transgender/transsexuality;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030] [c]Feminism;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030] [c]Organizations and institutions;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030] [c]Health and medicine;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030] Walker, Mary Edwards Johnson, Andrew</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Cross-dressing physician, Civil War hero, feminist, and social reformer Mary Edwards Walker is the only woman to have received the Medal of Honor, the United States’s highest military award. She was also the first female doctor of the Army Medical Corps.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/GLBT_1003</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value>96775924</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>249</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <italic>Cross-dressing physician, Civil War hero, feminist, and social reformer Mary Edwards Walker is the only woman to have received the Medal of Honor, the United States’s highest military award. She was also the first female doctor of the Army Medical Corps.</italic>
+          </p>
+          <p>
+            <sc>
+              <bold>Date</bold>
+            </sc> November 11, 1865</p>
+          <p>
+            <sc>
+              <bold>Locale</bold>
+            </sc> Washington, D.C.</p>
+        </sec>
+        <sec sec-type="keyterm" indexed="true">
+          <title>Key Figures</title>
+          <def-list>
+            <def-item>
+              <term>
+                <italic>Mary Edwards Walker</italic>
+              </term>
+              <x xml:space="preserve"> </x>
+              <def>
+                <p>(1832-1919), American physician, dress reformer, suffragist, Civil War contract surgeon, and prisoner of war</p>
+              </def>
+            </def-item>
+            <def-item>
+              <term>
+                <italic>Andrew Johnson</italic>
+              </term>
+              <x xml:space="preserve"> </x>
+              <def>
+                <p>(1808-1875), U.S. president, 1865-1869</p>
+              </def>
+            </def-item>
+          </def-list>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Summary of Event</title>
+          <p>Born in Oswego, New York, in 1832, Mary Edwards Walker was raised in a progressive family that espoused radical feminist views for the time, including those of dress reform and education for women. Encouraged by her parents to seek a profession, Walker attended Syracuse Medical School and graduated in 1855, the only woman in her class. Shortly thereafter, she married fellow classmate Albert Miller, in a ceremony considered unusual for the time because Walker omitted the word “obey” from her wedding vows. She also refused to take her husband’s name. The couple set up practice in Rome, New York, but the community did not easily accept a woman as a physician, especially one that dressed in nontraditional attire, and the couple eventually divorced.<index-term>
+              <primary>[kw]Mary Edwards Walker Is Awarded the Medal of Honor (Nov. 11, 1865)</primary>
+            </index-term>
+            <index-term>
+              <primary>[kw]Walker Is Awarded the Medal of Honor, Mary Edwards (Nov. 11, 1865)</primary>
+            </index-term>
+            <index-term>
+              <primary>[kw]Medal of Honor, Mary Edwards Walker Is Awarded the (Nov. 11, 1865)</primary>
+            </index-term>
+            <index-term>
+              <primary>Military, U.S.[Military US];women in</primary>
+            </index-term>
+            <index-term>
+              <primary>Cross-dressing[cross dressing];nineteenth century</primary>
+            </index-term>
+            <index-term>
+              <primary>Civil War, U.S., gender bending in[Civil War US]</primary>
+            </index-term>
+            <index-term>
+              <primary>Gender-bending women, in U.S. Civil War[Gender bending]</primary>
+            </index-term>
+            <index-term>
+              <primary>Medal of Honor, Mary Edwards Walker</primary>
+            </index-term>
+            <index-term>
+              <primary>[c]Military;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030]</primary>
+            </index-term>
+            <index-term>
+              <primary>[c]Transgender/transsexuality;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030]</primary>
+            </index-term>
+            <index-term>
+              <primary>[c]Feminism;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030]</primary>
+            </index-term>
+            <index-term>
+              <primary>[c]Organizations and institutions;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030]</primary>
+            </index-term>
+            <index-term>
+              <primary>[c]Health and medicine;Nov. 11, 1865: Mary Edwards Walker Is Awarded the Medal of Honor[0030]</primary>
+            </index-term>
+            <index-term role="personages">
+              <primary>Walker, Mary Edwards</primary>
+            </index-term>
+            <index-term role="personages">
+              <primary>Johnson, Andrew</primary>
+            </index-term>
+          </p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Mary Edwards Walker.jpg</title>
+              <p> Photo of Mary Edwards Walker.</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="96775924-90069.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>See page for author [Public domain, Public domain or Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <p>Mary Edwards Walker.</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="96775924-20873.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>(National Institutes of Health)</copyright-statement>
+            </permissions>
+          </fig>
+          <p>When the American Civil War began, Walker moved to Washington to offer her services to the Union Army<index-term>
+              <primary>Army Medical Corps, U.S.</primary>
+            </index-term> in the hopes of securing a commission as a medical officer. Unsuccessful, she served as an unpaid volunteer at Indiana Hospital (an improvised infirmary located in the Patent Office building) and helped organize the Woman’s Relief Association. Walker persisted in petitioning for a commission, and in September, 1863, she was appointed as a contract assistant surgeon to the 52nd Ohio Infantry, then fighting in Tennessee. She treated civilians as well as soldiers, and during one of her visits away from the Army camp, she was captured by the Confederates and sent to Castle Thunder, a prison in Richmond, Virginia. She was released in a prisoner-of-war exchange on August 12, 1864, after four months in wretched conditions that ostensibly affected her eyesight for the rest of her life. Walker continued in government service through the end of the war, serving as the Surgeon in Charge of the Louisville Female Military Prison in Kentucky and later at an orphanage in Clarksville, Tennessee.</p>
+          <p>On November 11, 1865, President Andrew Johnson<index-term role="personages">
+              <primary>Johnson, Andrew</primary>
+            </index-term> signed a citation awarding Walker the Congressional Medal of Honor in recognition of her service to the Union during the Civil War; she received the award a few months later, on January 24, 1866. When the medal was redesigned in 1907, she received an additional medal. However, in 1917, Congress revised the award criteria to include service that was meritorious only in a combat situation with an enemy, and then appointed a board to review all previously awarded medals. The board rescinded Walker’s medal along with the medals  of more than nine hundred others. Walker refused to relinquish either medal and proudly wore at least one each day for the rest of her life. On June 10, 1977, the Department of the Army announced it would reinstate Walker’s medal, attributing the earlier repeal to sex discrimination. President Jimmy Carter<index-term role="personages">
+              <primary>Carter, Jimmy</primary>
+            </index-term> restored the medal the following day.</p>
+          <p>After the war, Walker turned her energies to various reform movements, including those relating to temperance and woman suffrage. However, she is perhaps best known for her lifelong efforts to encourage dress reform. She believed that contemporary women’s clothing, consisting of constrictive corsets and heavy hoop skirts, was detrimental to women’s health. She put her principles into action, and her style of dress evolved over time to become increasingly masculine.</p>
+          <p>During the Civil War, she dressed in a military-like uniform consisting of a tunic with a green surgeon’s sash worn over gold-striped trousers, and after the war she appeared in public in black pants, a starched white shirt, a black frock coat, and a top hat. In the decades between the Civil War and her death shortly after World War I, Walker was arrested several times for dressing in men’s clothing (or for disturbing the peace, based on public reaction to her appearance).</p>
+          <p>Although a popular lecturer in the years immediately following the Civil War—likely as much for the notoriety stemming from her war exploits and her uncommon mode of dress as for the content of her speeches—as time passed, people viewed Walker less as a hero and more as an eccentric, and her speaking venues changed from lecture halls to sideshows and dime museums. Walker died in relative obscurity at her home in Oswego at the age of eighty-six.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Significance</title>
+          <p>Mary Edwards Walker’s contributions have been formally recognized through the issue in 1982 of a twenty-cent postage stamp commemorating her as an Army surgeon and a Medal of Honor recipient. One wonders what Walker would have made of this particular honor, though, because the stamp shows her in the “proper” feminine attire of Victorian women of the time, with no hint of her preference for masculine attire. In 1997, the Women in Military Service to America Memorial at Arlington National Cemetery in Virginia paid homage to Walker’s military service in its Hall of Honor, featuring a photograph of her with her Medal of Honor proudly displayed on her typical frock coat.</p>
+          <p>Defying the conventions of her time, Walker’s contributions paved the way for following generations of women to enter professions such as military service and medicine. Her unwavering dedication to dress reform liberated many women from the confining costume of the day, and inspired them to pursue more masculine occupations with confidence and without hindrance.<index-term>
+              <primary>Military, U.S.[Military US];women in</primary>
+            </index-term>
+            <index-term>
+              <primary>Cross-dressing[cross dressing];nineteenth century</primary>
+            </index-term>
+            <index-term>
+              <primary>Civil War, U.S., gender bending in[Civil War US]</primary>
+            </index-term>
+            <index-term>
+              <primary>Gender-bending women, in U.S. Civil War[Gender bending]</primary>
+            </index-term>
+            <index-term>
+              <primary>Medal of Honor, Mary Edwards Walker</primary>
+            </index-term>
+          </p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Katz, Jonathan Ned. “1902: Drs. Robert Shufeldt, Mary Walker, and Others; Dr. Mary Walker: ’The Most Distinguished Sexual Invert in the United States.’” <italic>Gay American History: Lesbians and Gay Men in the U.S.A.</italic> New York: Thomas Y. Crowell, 1976.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Leonard, Elizabeth D. “’A Thing That Nothing but the Depraved Yankee Nation Could Produce’: Mary Walker, M.D., and the Limits of Tolerance.” <italic>Yankee Women: Gender Battles in the Civil War.</italic> New York: W. W. Norton, 1994.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">“Medal of Honor Is Restored to Civil War Woman Doctor.” <italic>Washington Post</italic>, June 11, 1977, p. A3.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Spiegel, Allen D., and Peter B. Suskind. “Mary Edwards Walker, M.D.: A Feminist Physician a Century Ahead of Her Time.” <italic>Journal of Community Health</italic> 21, no. 3 (June, 1996): 211-235.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Williams, Rudi. “Only Woman Medal of Honor Holder Ahead of Her Time.” 1999. U.S. Department of Defense News Archive and Armed Forces Information Service. http://www .defenselink.mil/news/Apr1999/.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Mary Edwards Walker Is Awarded the Medal of Honor</article-title>
+                <source>Great Events from History: Gay, Lesbian, Bisexual, Transgender Events</source>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Lillian</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Faderman</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Horacio Roque</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Ramírez</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Yolanda</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Retter</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Stuart</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Timmons</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Eric C.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Wat</surname>
+                  </name>
+                </person-group>
+                <year>2007</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

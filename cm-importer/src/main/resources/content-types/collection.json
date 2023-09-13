@@ -1,0 +1,277 @@
+{
+	"created_at": "2022-11-23T20:08:17.150Z",
+	"updated_at": "2023-01-27T18:08:31.915Z",
+	"title": "Collection",
+	"uid": "collection",
+	"_version": 3,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Collection Id",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Collection Title",
+			"uid": "collection_title",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Publisher",
+			"uid": "publisher",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Series Id XML",
+			"uid": "series_id_xml",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Publication Date",
+			"uid": "publication_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Publication Year",
+			"uid": "publication_year",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Publication Location",
+			"uid": "publication_location",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Copyright Statement",
+			"uid": "copyright_statement",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Copyright Holder",
+			"uid": "copyright_holder",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Rights",
+			"uid": "rights",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Article Count",
+			"uid": "article_count",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Old Book Title",
+			"uid": "old_book_title",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Reading Level",
+			"uid": "reading_level",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "Collection, a grouping of articles ",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

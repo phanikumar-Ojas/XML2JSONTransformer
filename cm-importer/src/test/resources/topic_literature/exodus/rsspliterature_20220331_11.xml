@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">sp_ency_lit</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rsspliterature</book-id>
+         <book-title-group>
+            <book-title>Salem Press Encyclopedia of Literature</book-title>
+            <alt-title alt-title-type="mid">GY4P</alt-title>
+            <alt-title alt-title-type="derived_from_id">796979</alt-title>
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+            <day>1</day>
+            <month>April</month>
+            <year>2022</year>
+         </pub-date>
+         <pub-date pub-type="revised">
+            <day>1</day>
+            <month>April</month>
+            <year>2022</year>
+         </pub-date>
+         <pub-date pub-type="reviewed">
+            <day>1</day>
+            <month>April</month>
+            <year>2022</year>
+         </pub-date>
+         <copyright-statement>© 2022 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink" book-part-type="chapter" id="sp_ency_lit.796979" indexed="true" xml:lang="EN" xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">rsspliterature_20220331_11</book-part-id>
+               <title-group>
+                  <title>Exodus</title>
+               </title-group>
+               <contrib-group>
+                  <contrib contrib-type="author" xlink:type="simple">
+                     <name name-style="western">
+                        <given-names>Jim</given-names>
+                        <x xml:space="preserve"> </x>
+                        <surname>Greene</surname>
+                     </name>
+                     <x xml:space="preserve">, </x>
+                     <degrees>MFA</degrees>
+                  </contrib>
+               </contrib-group>
+               <abstract abstract-type="placard">
+               <p>As a matter of religious and cultural tradition, the Jewish prophet and leader Moses has historically been identified as the author of the Pentateuch, a term used to collectively describe the first five books of the biblical Old Testament. The Pentateuch includes the Books of Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Its date of composition is traditionally given as 1450–1410 BCE.</p>
+            </abstract>
+            <custom-meta-wrap>
+                  <custom-meta>
+                     <meta-name>Derived from</meta-name>
+                     <meta-value>796979</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>doctype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>arttype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>project id</meta-name>
+                     <meta-value>2581</meta-value>
+                  </custom-meta>
+               </custom-meta-wrap>
+            </book-part-meta>
+            <body>
+                            <sec sec-type="bodytext" indexed="true">
+                  <title>Composition</title>
+                  <p>As a matter of religious and cultural tradition, the Jewish prophet and leader <related-article xlink:type="simple" related-article-type="rs" xlink:href="88828187">Moses</related-article> has historically been identified as the author of the Pentateuch, a term used to collectively describe the first five books of the biblical <related-article xlink:type="simple" related-article-type="rs" xlink:href="89403082">Old Testament</related-article>. The Pentateuch includes the Books of Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Its date of composition is traditionally given as 1450–1410 BCE.</p>
+                  <p>Some books in the Pentateuch contain references to events that contradict known biographical details about Moses and the time in which he lived, as well as allusions to events that occurred long after Moses died. These passages have led some experts to question Moses’ long-accepted authorship of the Pentateuch. However, in the case of the Book of Exodus, biblical scholars have compiled evidence supporting Moses as its author. For example, numerous Exodus passages (such as Exodus 24:4) reference events, interactions, and geographic features that could only have been known to someone who participated in or witnessed them firsthand. In the <related-article xlink:type="simple" related-article-type="rs" xlink:href="96411115">New Testament’s</related-article> Gospel of Mark (Mark 7:10), <related-article xlink:type="simple" related-article-type="rs" xlink:href="88258776">Jesus Christ</related-article> makes a direct reference to Moses’ authorship of Exodus.</p>
+                  <p>These indications do not definitively position Moses as the undisputed author of Exodus but suggest that contemporary figures, including Christ himself, recognized and accepted that Exodus (and the entire Pentateuch) were the work of Moses. Religious scholars also note that Moses was educated in the courts of Egyptian royals and was therefore literate with both the ability and the opportunity required to create the Biblical works ascribed to him.</p>
+                  <p>However, the idea that Moses wrote Exodus and the Pentateuch have also been challenged. Divergences of expert opinion have led to multiple schools of thought regarding authorship of the Pentateuch. Fundamentalists, conservatives, and traditionalists generally continue to accept Moses as the Pentateuch’s dominant or exclusive author. This viewpoint is known as “essential Mosaic authorship” or “substantial Mosaic authorship.” Others believe that the Pentateuch was not actually composed by Moses but based substantially on accounts, descriptions, and concepts that Moses personally delivered to his followers during his lifetime. Meanwhile, some researchers question whether Moses had any meaningful direct involvement in the writing of the Pentateuch at all. The consensus opinion is that Moses made, at minimum, substantial contributions to the Pentateuch’s composition, and any parts not directly written by Moses, were either based on his teachings or crafted after his death in a style supporting their seamless integration into the portions of the Pentateuch that Moses completed during his lifetime.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>The Israelites Leaving Egypt.</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="rsspliterature-20220331-11-191960.jpg"/>
+                  <permissions>
+                     <copyright-statement>David Roberts, Public domain, via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Moses with the Tablets of the Law, a painting by Rembrandt.</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="rsspliterature-20220331-11-192065.jpg"/>
+                  <permissions>
+                     <copyright-statement>Rembrandt, Public domain, via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+               <sec sec-type="bodytext" indexed="true">
+                  <title>Summary</title>
+                  <p>Exodus begins approximately four centuries after the events described at the end of <related-article xlink:type="simple" related-article-type="rs" xlink:href="89454133">Genesis</related-article>. The descendants of the original nation of Israel remain in Egypt, where they are enslaved under a new royal regime that orders all Israelite boys to be killed at birth. One woman defies the order, sending her newborn son down the Nile River in a basket. The child is rescued by the daughter of the ruling Egyptian pharaoh. She names him Moses and raises him as her own. Moses becomes aware of his origins and flees to the town of Midian after killing an Egyptian for beating an Israelite slave. There, Moses marries and becomes a shepherd. Taking the form of a burning bush, <related-article xlink:type="simple" related-article-type="rs" xlink:href="87995564">God</related-article> appears to Moses and reveals the <related-article related-article-type="rs" xlink:href="113931188">covenant</related-article> established in the <italic>Book of Genesis</italic>—a holy pledge to the people of Israel that they will one day reach freedom and self-determination in their “promised land” of Canaan. In Exodus, the promised land is famously described as “a land flowing with milk and honey” (Exodus 3:8).</p>
+                  <p>God charges Moses with the task of leading the Israelite people out of slavery and back to their promised land. Moses is reluctant, prompting God to equip him with a wooden staff capable of performing miracles. Together with his brother Aaron, Moses returns to Egypt to assume leadership of the Israelite people. Demanding that the Egyptian pharaoh free the Israelites, Moses turns his miracle-performing staff into a snake. Unimpressed by the display, the pharaoh refuses Moses’ request and redoubles the enslavement of the Israelites.</p>
+                  <p>In response, God unleashes a series of calamities onto Egypt known as the “ten plagues.” Prior to the onset of each plague, Moses entreaties the pharaoh to release the Israelite people, but in each case, the pharaoh refuses. Prominent examples of the ten plagues include the divine transmutation of the Nile River from water into blood, gnat and locust swarms, perpetual darkness, and a rain of frogs that buries all of Egypt. The pharaoh finally relents when the final plague kills all the firstborn male children of Egypt, which the Israelites avoided by spreading the blood of sacrificial lambs on their doorways in a signal to God to spare the house.</p>
+                  <p>Marking their escape from slavery with a feast dubbed the <related-article xlink:type="simple" related-article-type="rs" xlink:href="87324248">Passover</related-article>, the Israelites travel west toward the Red Sea with the forces of the Egyptian pharaoh in pursuit. Moses uses his miracle-working staff to part the sea, allowing the Israelites to cross in safety before the waters crash back into place and stop the pharaoh’s advance. The episode secures Moses’ position as leader of the Israelites, and Moses leads them to Mount Sinai. There, God appears to give Moses the <related-article xlink:type="simple" related-article-type="rs" xlink:href="87325150">Ten Commandments</related-article>, which are etched on two stone tablets. The Ten Commandments are prescriptive directions for leading an ethical life, and God tells Moses that the covenant with the Israelite people will be fulfilled if the Israelites honor them.</p>
+                  <p>Moses subsequently finds that his brother Aaron and the Israelite people have built the idol of a golden calf, which they blasphemously worship in direct defiance of the Ten Commandments. Managing to appease the angry God, Moses pleads for God to spare the Israelites, to which God agrees as a forgiving and merciful deity. God delivers precise instructions to Moses for the construction of a suitable temple, known as the <related-article xlink:type="simple" related-article-type="rs" xlink:href="87325090">Tabernacle</related-article>, which Moses follows in perfect detail.</p>
+               </sec>
+               <sec sec-type="bodytext" indexed="true">
+                  <title>Themes</title>
+                  <p>Analysts often contrast Genesis with Exodus, positioning Genesis as an origin story and identifying Exodus as the work that establishes the fundamental religious and dogmatic pillars of the Judeo-Christian tradition. The delivery of the Ten Commandments and the construction of the Tabernacle to God’s precise specifications both offer fundamental displays of this dogmatism in action: God’s law and God’s word must be obeyed without question or exception. Moreover, God’s law does not just institute a set of prescriptive norms for the Israelites to follow; it describes a way of life to which they must adhere for their covenant with God to be upheld. Exodus also portrays God as a watchful and demanding but fair and forgiving deity. This portrayal, which is arguably on clearest display in the episode in which Moses discovers Aaron and the Israelites worshipping the golden calf idol, largely defines the many treatments of God found in later books of both the Old and New Testaments.</p>
+                  <p>God’s law functions as another major theme of the <italic>Book of Exodus</italic>. The book contains the first formal and explicit set of direct instructions from God describing how faithful, religiously observant people should live. In this sense, the <italic>Book of Exodus</italic> occupies a critically important place in the Judeo-Christian scriptural canon. The theme of obedience to holy law is closely related to the ongoing theme of covenants, which began in Genesis and continues in Exodus. In the Judeo-Christian tradition, a covenant is a type of sacred promise between God and human beings, in which human beings can earn the reward of God’s special favor by meeting certain specified terms and conditions.</p>
+                  <p>Another major theme of the <italic>Book of Exodus</italic> is revealed by understanding the dual nature of the word “exodus” in the ancient <related-article related-article-type="rs" xlink:href="87322545">Hebrew</related-article> language. In the modern sense, “exodus” means a mass-scale escape or departure from something or somewhere. This definition describes the main narrative thrust of the <italic>Book of Exodus</italic>, which recounts the mass departure of Israelites from their enslavement in Egypt. However, in ancient Hebrew, the word “exodus” originally referred to names and nomenclature. Exodus mentions multiple names for God, including one episode in which Moses directly asks the name of God, to which God replies, “I am that I am” (Exodus 3:14). Prevailing interpretations of the cryptic, widely discussed and debated exchange tend to fixate on God’s self-description using a verb, suggesting that God does not necessarily conform to the configuration one might typically expect. God’s physical manifestations throughout the <italic>Book of Exodus</italic> advance this same theme. For example, God takes the unusual form of a burning bush in one appearance before Moses.</p>
+               </sec>
+               <sec sec-type="hangindent" indexed="true">
+                  <title>Bibliography</title>
+                  <ref-list>
+                     <ref>
+                        <citation citation-type="booksimple" xlink:type="simple">“Analysis and Synthesis of Exodus.” <italic>Bible.org</italic>, 2022, bible.org/seriespage/2-analysis-and-synthesis-exodus. Accessed 12 Apr. 2022.</citation>
+                     </ref>
+                     <ref>
+                        <citation citation-type="booksimple" xlink:type="simple">Assmann, Jan. <italic>The Invention of Religion: Faith and Covenant in the Book of Exodus.</italic> Princeton, NJ: Princeton University Press, 2020.</citation>
+                     </ref>
+                     <ref>
+                        <citation citation-type="booksimple" xlink:type="simple">Baden, Joel S. <italic>The Book of Exodus: A Biography</italic>. Princeton, NJ: Princeton University Press, 2019.</citation>
+                     </ref>
+                     <ref>
+                        <citation citation-type="booksimple" xlink:type="simple">Fairchild, Mary. “Book of Exodus.” <italic>Learn Religions</italic>, 6 Feb. 2019, www.learnreligions.com/book-of-exodus-701144. Accessed 12 Apr. 2022.</citation>
+                     </ref>
+                     <ref>
+                        <citation citation-type="booksimple" xlink:type="simple">Hill, Andrew E. and John H. Walton. <italic>A Survey of the Old Testament</italic>. Grand Rapids, MI: Zondervan Academic, 2010.</citation>
+                     </ref>
+                     <ref>
+                        <citation citation-type="booksimple" xlink:type="simple">Montgomery, Robert M. <italic>An Introduction to Source Analysis of the Pentateuch</italic>. Nashville, TN: Abingdon Press, 1971.</citation>
+                     </ref>
+                  </ref-list>
+               </sec>
+            </body>
+         </book-part>
+      </body>
+   </book>

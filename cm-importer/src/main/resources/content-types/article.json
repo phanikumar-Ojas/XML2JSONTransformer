@@ -1,0 +1,2029 @@
+{
+	"created_at": "2022-11-23T20:08:16.867Z",
+	"updated_at": "2023-04-26T11:06:36.868Z",
+	"title": "Article",
+	"uid": "article",
+	"_version": 99,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"display_name": "Title",
+			"uid": "title",
+			"data_type": "text",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"unique": false,
+			"mandatory": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Assigned to",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "unassigned"
+					},
+					{
+						"value": "Adam Groff"
+					},
+					{
+						"value": "Alec Spencer"
+					},
+					{
+						"value": "Carolyn DeVivo"
+					},
+					{
+						"value": "Céleste Kracke"
+					},
+					{
+						"value": "Cole Fitzgerald"
+					},
+					{
+						"value": "Devon Fitzgibbons"
+					},
+					{
+						"value": "Kerry Reynolds"
+					},
+					{
+						"value": "Kelly Barett"
+					},
+					{
+						"value": "Lindsay Lothrop"
+					},
+					{
+						"value": "Lisa Phillips"
+					},
+					{
+						"value": "Tyler Nelson"
+					},
+					{
+						"value": "Tracey DiLascio-Martinuk"
+					},
+					{
+						"value": "Joy Crelin"
+					},
+					{
+						"value": "Beth Russell"
+					},
+					{
+						"value": "Emma Joyce"
+					},
+					{
+						"value": "Jen Graham"
+					},
+					{
+						"value": "Myra Junyk"
+					},
+					{
+						"value": "Bethany Dorau"
+					},
+					{
+						"value": "Lee Tunstall"
+					},
+					{
+						"value": "Simon Linacre"
+					},
+					{
+						"value": "Rob Edwards"
+					},
+					{
+						"value": "Erin Flegg"
+					},
+					{
+						"value": "Laura Curtis"
+					},
+					{
+						"value": "thrdcircle NO_LAST_NAME"
+					},
+					{
+						"value": "Susan Miscio"
+					},
+					{
+						"value": "Mujde Pamuk"
+					},
+					{
+						"value": "Lindsay Bourgeois"
+					},
+					{
+						"value": "Proppub Cms"
+					},
+					{
+						"value": "Proppub Reporting"
+					},
+					{
+						"value": "Larysa Zhmaieva"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "assigned_to",
+			"field_metadata": {
+				"description": "",
+				"default_value": "unassigned",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Single Line Textbox",
+			"uid": "single_line",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Target update date",
+			"uid": "target_update_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "Last Update date plus cycle time",
+				"default_value": {
+					
+				},
+				"date_range": false,
+				"hide_time": true
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"display_name": "RTE assets",
+			"extension_uid": "blt63ce92d5fd68b0db",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "rte_assets",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Region",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "US"
+					},
+					{
+						"value": "UK"
+					},
+					{
+						"value": "Canada"
+					},
+					{
+						"value": "Australia/New Zealand"
+					},
+					{
+						"value": "All"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "region",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Contributors",
+			"reference_to": [
+				"contributor"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "contributors",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "file",
+			"display_name": "Uploaded Images",
+			"uid": "associated_images",
+			"extensions": [],
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard"
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Main Body",
+			"uid": "main_body",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "custom",
+				"options": [
+					"undo",
+					"redo",
+					"blockquote",
+					"h1",
+					"bold",
+					"italic",
+					"sup",
+					"sub",
+					"lists",
+					"imagemanager",
+					"deleted",
+					"table",
+					"link"
+				]
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false,
+			"plugins": [
+				"bltcae6267d7150f83f",
+				"bltbc3b9d2745f3d317",
+				"blt78faa8e87cdc93fa",
+				"bltff8c6deaacf25cda"
+			]
+		},
+		{
+			"data_type": "json",
+			"display_name": "Citations",
+			"uid": "citations",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "custom",
+				"options": [
+					"undo",
+					"redo",
+					"h1",
+					"italic",
+					"sup",
+					"sub",
+					"link"
+				]
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false,
+			"plugins": [
+				"bltcae6267d7150f83f",
+				"bltff8c6deaacf25cda",
+				"blt78faa8e87cdc93fa"
+			]
+		},
+		{
+			"data_type": "json",
+			"display_name": "Author Information",
+			"uid": "author_note",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "custom",
+				"options": [
+					"undo",
+					"redo",
+					"h1",
+					"italic",
+					"bold",
+					"sup",
+					"sub"
+				]
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false,
+			"plugins": [
+				"bltcae6267d7150f83f"
+			]
+		},
+		{
+			"data_type": "json",
+			"display_name": "Abstract",
+			"uid": "abstract",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"display_name": "Main body contains table",
+			"extension_uid": "blt53a6ade4555f2a72",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "rte_table",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Current Project",
+			"reference_to": [
+				"project"
+			],
+			"field_metadata": {
+				"ref_multiple": false,
+				"ref_multiple_content_types": true
+			},
+			"uid": "current_project",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Topic",
+			"reference_to": [
+				"topic_science",
+				"topic_literature",
+				"topic_history",
+				"topic_health",
+				"topic_education_resource",
+				"topic_debate",
+				"topic_business",
+				"topic_biography",
+				"topic_social_science"
+			],
+			"field_metadata": {
+				"ref_multiple": false,
+				"ref_multiple_content_types": true
+			},
+			"uid": "topic",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"display_name": "Topic",
+			"extension_uid": "blt8ac765561e84d68a",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "topic_value",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Lexile",
+			"uid": "lexile",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Editor Notes",
+			"uid": "editor_notes",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Original requested word count",
+			"uid": "original_requested_word_count",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Active Word Count",
+			"uid": "word_count",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Task Hours",
+			"uid": "task_hours",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Project Owner Notes",
+			"uid": "po_notes",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Editor due date",
+			"uid": "editor_due_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Art spec",
+			"uid": "art_spec_summary",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"display_name": "Research Starter links applied",
+			"extension_uid": "blt9b39bd7e696fc905",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "rte_rs_links",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Manual image placement instructions",
+			"uid": "bulk_project_image_placement",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Automatic image placement",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "after 1st paragraph"
+					},
+					{
+						"value": "after 2nd paragrah"
+					},
+					{
+						"value": "after 3rd paragraph"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "automatic_image_placement",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Old CMS Article Id",
+			"uid": "article_id",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Writer Due date",
+			"uid": "writer_due_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Date Created",
+			"uid": "date_created",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					"custom": false,
+					"date": "",
+					"time": ""
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Review Date",
+			"uid": "review_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Last Updated Date",
+			"uid": "last_updated_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Audience",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "K-5"
+					},
+					{
+						"value": "Public Schools"
+					},
+					{
+						"value": "Consumer Preferred"
+					},
+					{
+						"value": "Corporate Preferred"
+					},
+					{
+						"value": "Academic Preferred"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "audience",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Urgent",
+			"uid": "urgent",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Indexed by A&I",
+			"uid": "indexed_by_a_i",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Name Record created date",
+			"uid": "name_record_created_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Collection Debate Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Abortion Issues"
+					},
+					{
+						"value": "Addiction & Substance Abuse"
+					},
+					{
+						"value": "AIDS / HIV"
+					},
+					{
+						"value": "Animal Rights"
+					},
+					{
+						"value": "Animal Welfare"
+					},
+					{
+						"value": "Arts & Culture"
+					},
+					{
+						"value": "Basic Aid"
+					},
+					{
+						"value": "Bioethics"
+					},
+					{
+						"value": "Body Image"
+					},
+					{
+						"value": "Brexit"
+					},
+					{
+						"value": "Business & Economics"
+					},
+					{
+						"value": "Censorship"
+					},
+					{
+						"value": "Citizens' Rights"
+					},
+					{
+						"value": "Civics & Government"
+					},
+					{
+						"value": "Civil Rights"
+					},
+					{
+						"value": "COVID-19"
+					},
+					{
+						"value": "Crime & Punishment"
+					},
+					{
+						"value": "Culture"
+					},
+					{
+						"value": "Diversity, Equity & Inclusion"
+					},
+					{
+						"value": "Drugs"
+					},
+					{
+						"value": "Earth & Environment"
+					},
+					{
+						"value": "Economy"
+					},
+					{
+						"value": "Education"
+					},
+					{
+						"value": "Energy"
+					},
+					{
+						"value": "Energy & Conservation"
+					},
+					{
+						"value": "Environment"
+					},
+					{
+						"value": "Ethics"
+					},
+					{
+						"value": "Evolution"
+					},
+					{
+						"value": "Family Issues"
+					},
+					{
+						"value": "Family Life"
+					},
+					{
+						"value": "Foreign Policy"
+					},
+					{
+						"value": "Global Issues"
+					},
+					{
+						"value": "Global Issues; Civil Rights"
+					},
+					{
+						"value": "Government & Citizenship"
+					},
+					{
+						"value": "Government Funding"
+					},
+					{
+						"value": "Health & Medicine"
+					},
+					{
+						"value": "Health & Medicine; Citizens' Rights"
+					},
+					{
+						"value": "Health & Medicine; Social Issues"
+					},
+					{
+						"value": "Human Rights"
+					},
+					{
+						"value": "Immigration"
+					},
+					{
+						"value": "Indigenous Peoples"
+					},
+					{
+						"value": "Internet"
+					},
+					{
+						"value": "Labor & Economics"
+					},
+					{
+						"value": "Media"
+					},
+					{
+						"value": "Media & Communications"
+					},
+					{
+						"value": "Medicine & Ethics"
+					},
+					{
+						"value": "National High School Debate"
+					},
+					{
+						"value": "Native Americans"
+					},
+					{
+						"value": "People & Society"
+					},
+					{
+						"value": "Politics & Government"
+					},
+					{
+						"value": "Race & Culture"
+					},
+					{
+						"value": "Race & Culture; Schools & Education"
+					},
+					{
+						"value": "Race and Culture"
+					},
+					{
+						"value": "Religion"
+					},
+					{
+						"value": "Schools & Education"
+					},
+					{
+						"value": "Science"
+					},
+					{
+						"value": "Sex Education"
+					},
+					{
+						"value": "Social Issues"
+					},
+					{
+						"value": "Social Issues; Schools & Education"
+					},
+					{
+						"value": "Social Issues; Technology"
+					},
+					{
+						"value": "Society"
+					},
+					{
+						"value": "Sport"
+					},
+					{
+						"value": "Sports"
+					},
+					{
+						"value": "Substance Abuse"
+					},
+					{
+						"value": "Taxes"
+					},
+					{
+						"value": "Technology"
+					},
+					{
+						"value": "Technology & Internet"
+					},
+					{
+						"value": "Technology; War & Peace"
+					},
+					{
+						"value": "Voting & Elections"
+					},
+					{
+						"value": "War & Peace"
+					},
+					{
+						"value": "War & Terrorism"
+					},
+					{
+						"value": "Women’s Issues; Labor & Economics"
+					},
+					{
+						"value": "Women's Issues"
+					},
+					{
+						"value": "Women's Issues; Social Issues"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "collection_debate_category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Article Work type",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "new"
+					},
+					{
+						"value": "update"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "article_work_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Image status",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "No image needed"
+					},
+					{
+						"value": "Needs image"
+					},
+					{
+						"value": "Needs update to existing"
+					},
+					{
+						"value": "Needs RTE image placed"
+					},
+					{
+						"value": "Complete inside RTE"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "image_status",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "URL",
+			"uid": "url",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"multiple": false,
+			"unique": false,
+			"mandatory": false,
+			"non_localizable": false
+		},
+		{
+			"display_name": "URL counter test",
+			"extension_uid": "blt1a2133c2ae18b489",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "url_counter_test",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Article Definitions",
+			"reference_to": [
+				"article_product_definition"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "article_definitions",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Products",
+			"reference_to": [
+				"product"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "products",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"display_name": "Products value",
+			"extension_uid": "blt1ec4b4724e129aa1",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "products_value",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Collections",
+			"reference_to": [
+				"collection"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "collections",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Collection Topic",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Debate"
+					},
+					{
+						"value": "Business and Management"
+					},
+					{
+						"value": "Health and Medicine"
+					},
+					{
+						"value": "History"
+					},
+					{
+						"value": "Science and Technology"
+					},
+					{
+						"value": "Social Sciences and Humanities"
+					},
+					{
+						"value": "Literature"
+					},
+					{
+						"value": "Biography"
+					},
+					{
+						"value": "Educational Resources"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "collection_topic",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Search Title",
+			"uid": "search_title",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "XML Version Ui",
+			"uid": "xml_version_ui",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Custom PDF Only (No full text)",
+			"uid": "custom_pdf_only_no_full_text_",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Current update type",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "0"
+					},
+					{
+						"value": "0.5 hours"
+					},
+					{
+						"value": "0.5 hour"
+					},
+					{
+						"value": "1"
+					},
+					{
+						"value": "1 hour"
+					},
+					{
+						"value": "1 hours"
+					},
+					{
+						"value": "1.5"
+					},
+					{
+						"value": "1.5 hours"
+					},
+					{
+						"value": "1.5 hour"
+					},
+					{
+						"value": "2"
+					},
+					{
+						"value": "2 hours"
+					},
+					{
+						"value": "2.5 hours"
+					},
+					{
+						"value": "2: Create Bib"
+					},
+					{
+						"value": "20: Bio Metadata Update"
+					},
+					{
+						"value": "3"
+					},
+					{
+						"value": "3 hours"
+					},
+					{
+						"value": "3.5 hours"
+					},
+					{
+						"value": "3: Minor Update Only"
+					},
+					{
+						"value": "3a: Minor Update--Derivative"
+					},
+					{
+						"value": "3b: Update --child"
+					},
+					{
+						"value": "4 hours"
+					},
+					{
+						"value": "4.5 hours"
+					},
+					{
+						"value": "4: Image Only"
+					},
+					{
+						"value": "4: Update Only"
+					},
+					{
+						"value": "5: Major Update Only"
+					},
+					{
+						"value": "5a: Derivative"
+					},
+					{
+						"value": "6 hours"
+					},
+					{
+						"value": "7: New Original Article"
+					},
+					{
+						"value": "9: ToC Topic"
+					},
+					{
+						"value": "99: Use as is"
+					},
+					{
+						"value": "Bio Metadata Update"
+					},
+					{
+						"value": "Correction"
+					},
+					{
+						"value": "Correction(0.5)"
+					},
+					{
+						"value": "Heavy"
+					},
+					{
+						"value": "High"
+					},
+					{
+						"value": "Image only"
+					},
+					{
+						"value": "Light"
+					},
+					{
+						"value": "Links only"
+					},
+					{
+						"value": "major"
+					},
+					{
+						"value": "Medium"
+					},
+					{
+						"value": "minor"
+					},
+					{
+						"value": "Minor (Biography Only)"
+					},
+					{
+						"value": "Moderate"
+					},
+					{
+						"value": "Review only (date stamped)"
+					},
+					{
+						"value": "Title change"
+					},
+					{
+						"value": "Urgent"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "current_update_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Last Update Type",
+			"uid": "last_update_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Data Type",
+			"uid": "data_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Primary Article",
+			"uid": "primary_article",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Date in Repository Updated",
+			"uid": "date_in_repository_updated",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Date in Repository",
+			"uid": "date_in_repository",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Reused",
+			"uid": "reused",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "RS Title",
+			"uid": "rs_title",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Date Added",
+			"uid": "date_added",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Update Cycle",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "2-year"
+					},
+					{
+						"value": "3-year"
+					},
+					{
+						"value": "5-year"
+					},
+					{
+						"value": "6-month"
+					},
+					{
+						"value": "Annually"
+					},
+					{
+						"value": "Monthly"
+					},
+					{
+						"value": "Weekly"
+					},
+					{
+						"value": "EOD"
+					},
+					{
+						"value": "Never"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "update_cycle",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Source Note",
+			"uid": "source_note",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Search Term Set",
+			"reference_to": [
+				"search_term_set"
+			],
+			"field_metadata": {
+				"ref_multiple": false,
+				"ref_multiple_content_types": true
+			},
+			"uid": "search_term_set",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"display_name": "Primary term value",
+			"extension_uid": "blt26e3026f7e9bcd43",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "primary_term_value",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"display_name": "Alt term value",
+			"extension_uid": "blt1d32d0ce427de9be",
+			"field_metadata": {
+				"extension": true
+			},
+			"uid": "alt_term_value",
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false,
+			"config": {
+				
+			},
+			"data_type": "text",
+			"multiple": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Status",
+			"uid": "status",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Copied to Build",
+			"uid": "copied_to_build",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Updated Build",
+			"uid": "updated_build",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Do Not Use",
+			"uid": "do_not_use",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Usage Note",
+			"uid": "usage_note",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Old Article AN",
+			"uid": "article_an",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Rights",
+			"uid": "rights",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Art Topic",
+			"uid": "art_topic",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Past Projects",
+			"reference_to": [
+				"project"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "past_projects",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Data Pulls",
+			"reference_to": [
+				"project"
+			],
+			"field_metadata": {
+				"ref_multiple": false,
+				"ref_multiple_content_types": true
+			},
+			"uid": "data_pulls",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Parent article ID",
+			"uid": "parent_article_id",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "Article",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "blt45f597cc5c42bf37",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltf31aa1f732cbc4a1",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"create": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "blt79fd4f70e1025b76",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true
+				}
+			},
+			{
+				"uid": "blt3f3e9c6d2b51cc34",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"field_rules": [],
+	"options": {
+		"title": "title",
+		"publishable": true,
+		"is_page": true,
+		"singleton": false,
+		"sub_title": [
+			"url"
+		],
+		"url_prefix": "/",
+		"url_pattern": ":unique_id-:title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

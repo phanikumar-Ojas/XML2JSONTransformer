@@ -1,0 +1,41 @@
+{
+	"entry": {
+		"title": "Skin",
+		"tags": [
+			"Anatomy & Physiology",
+			"Diseases, Disorders, & Symptoms",
+			"Specialties & Health Care Providers",
+			"Treatment & Therapy",
+			"energy storage",
+			"radiation",
+			"albinism",
+			"sebaceous gland",
+			"psoriasis",
+			"basal cell carcinomas",
+			"poison ivy",
+			"detergents",
+			"rubber",
+			"surgery",
+			"side effects",
+			"heavy metals",
+			"supply",
+			"motion sickness"
+		],
+		"category": [
+			"Anatomy & Physiology",
+			"Diseases, Disorders, & Symptoms",
+			"Specialties & Health Care Providers"
+		],
+		"definitions": {
+			"children": [
+				{
+					"text": "The largest organ of the body, which is vital to the survival of an organism for its protection against dehydration and abrasion, regulation of body temperature, and sensory reception."
+				}
+			],
+			"type": "doc",
+			"uid": "9a88dcb0-182b-4d8a-8091-207e26539a5f"
+		},
+		"anatomy_or_systems_affected": "Nerves, nervous system",
+		"also_known_as": null
+	}
+}

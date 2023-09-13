@@ -1,0 +1,1995 @@
+{
+	"created_at": "2023-03-06T19:22:37.777Z",
+	"updated_at": "2023-04-27T00:37:57.542Z",
+	"title": "Topic History",
+	"uid": "topic_history",
+	"_version": 25,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Title",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Arts"
+					},
+					{
+						"value": "Civilizations, Cultures"
+					},
+					{
+						"value": "Crime, Criminals"
+					},
+					{
+						"value": "Diplomacy, International Relations, Foreign Affairs"
+					},
+					{
+						"value": "Disasters, Accidents"
+					},
+					{
+						"value": "Discovery, Exploration, Explorers"
+					},
+					{
+						"value": "Economics, Economists"
+					},
+					{
+						"value": "Education, Educators"
+					},
+					{
+						"value": "Environmental Issues"
+					},
+					{
+						"value": "Geography, Geographers"
+					},
+					{
+						"value": "Government, Politics"
+					},
+					{
+						"value": "Law, Legal History, Courts"
+					},
+					{
+						"value": "Literature, Publishing"
+					},
+					{
+						"value": "Medicine, Health"
+					},
+					{
+						"value": "Military History"
+					},
+					{
+						"value": "Popular Culture, Trends, Fads"
+					},
+					{
+						"value": "Historical"
+					},
+					{
+						"value": "Health and Medical"
+					},
+					{
+						"value": "Religion, Spirituality, Ethics"
+					},
+					{
+						"value": "Royalty, Rulers, Nobility"
+					},
+					{
+						"value": "Science, Scientists"
+					},
+					{
+						"value": "Social Issues, Reform"
+					},
+					{
+						"value": "Social Science"
+					},
+					{
+						"value": "Sports, Athletics, Athletes"
+					},
+					{
+						"value": "Technology, Inventions, Inventors"
+					},
+					{
+						"value": "Transportation"
+					},
+					{
+						"value": "Women's Issues"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Secondary Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Abolition Movement, Abolitionists"
+					},
+					{
+						"value": "Acting, Actors, Performers"
+					},
+					{
+						"value": "Addresses, Speeches"
+					},
+					{
+						"value": "Advertising, Marketing, Sales"
+					},
+					{
+						"value": "African Americans, Blacks"
+					},
+					{
+						"value": "Aging, Elderly, Old Age"
+					},
+					{
+						"value": "Agriculture, Plants, Botany, Horticulture"
+					},
+					{
+						"value": "American Civil War"
+					},
+					{
+						"value": "American Revolution, Revolutionary War"
+					},
+					{
+						"value": "Animals, Endangered Species, Zoology"
+					},
+					{
+						"value": "Anthropology, Anthropologists"
+					},
+					{
+						"value": "Archaeology, Archaeologists"
+					},
+					{
+						"value": "Architecture, Architects"
+					},
+					{
+						"value": "Aristocracy, Aristocrats, Nobles"
+					},
+					{
+						"value": "Artists, Artisans, the Arts"
+					},
+					{
+						"value": "Asian Americans"
+					},
+					{
+						"value": "Astronauts, Cosmonauts"
+					},
+					{
+						"value": "Astronomy, Astronomers, Cosmology"
+					},
+					{
+						"value": "Asylum, Refugees"
+					},
+					{
+						"value": "Authors, Writers"
+					},
+					{
+						"value": "Automobiles, Cars"
+					},
+					{
+						"value": "Aviation, Airplanes, Aircraft"
+					},
+					{
+						"value": "Banks, Banking, Finance"
+					},
+					{
+						"value": "Barbarians, Nomads"
+					},
+					{
+						"value": "Biology, Biologists"
+					},
+					{
+						"value": "Bombs, Bombings, Explosions"
+					},
+					{
+						"value": "British Empire"
+					},
+					{
+						"value": "Buddhism, Buddhists"
+					},
+					{
+						"value": "Business"
+					},
+					{
+						"value": "Byzantine Empire"
+					},
+					{
+						"value": "Capitalism, Capitalists"
+					},
+					{
+						"value": "Catholic Church, Catholics"
+					},
+					{
+						"value": "Celebrations, Festivals"
+					},
+					{
+						"value": "Censorship"
+					},
+					{
+						"value": "Ceremonies, Rites, Rituals"
+					},
+					{
+						"value": "Chemistry, Chemists"
+					},
+					{
+						"value": "Children"
+					},
+					{
+						"value": "Christianity, Christians, Churches"
+					},
+					{
+						"value": "Cities, Urbanization"
+					},
+					{
+						"value": "Civil Disobedience, Nonviolence"
+					},
+					{
+						"value": "Civil Rights, Minority Rights, Minorities"
+					},
+					{
+						"value": "Civil Wars, Coups"
+					},
+					{
+						"value": "Civilizations, Cultures"
+					},
+					{
+						"value": "Class Conflict"
+					},
+					{
+						"value": "Cold War"
+					},
+					{
+						"value": "Colonialism, Colonies, Settlements"
+					},
+					{
+						"value": "Communications"
+					},
+					{
+						"value": "Communism, Communists"
+					},
+					{
+						"value": "Composers, Songwriters"
+					},
+					{
+						"value": "Computers, Computer Science"
+					},
+					{
+						"value": "Confucianism"
+					},
+					{
+						"value": "Congress, Senate, Senators, House of Representatives"
+					},
+					{
+						"value": "Corruption, Fraud"
+					},
+					{
+						"value": "Court Cases, Rulings, Appeals"
+					},
+					{
+						"value": "Crafts"
+					},
+					{
+						"value": "Crime, Criminals"
+					},
+					{
+						"value": "Crusades"
+					},
+					{
+						"value": "Cults"
+					},
+					{
+						"value": "Czars, Tsars"
+					},
+					{
+						"value": "Dance, Dancers, Dancing"
+					},
+					{
+						"value": "Daoism, Dao, Taoism, Tao"
+					},
+					{
+						"value": "Democracy"
+					},
+					{
+						"value": "Demographics, Population"
+					},
+					{
+						"value": "Depressions, Recessions"
+					},
+					{
+						"value": "Dictatorships, Dictators, Tyrants"
+					},
+					{
+						"value": "Diplomacy, International Relations, Foreign Affairs"
+					},
+					{
+						"value": "Disabilities, Handicapped People"
+					},
+					{
+						"value": "Disasters, Accidents"
+					},
+					{
+						"value": "Discovery, Exploration, Explorers"
+					},
+					{
+						"value": "Discrimination, Prejudice"
+					},
+					{
+						"value": "Doctors, Nurses, Medical Professionals"
+					},
+					{
+						"value": "Drama, Theater, Plays, Playwrights"
+					},
+					{
+						"value": "Drugs, Substance Abuse, Addiction"
+					},
+					{
+						"value": "Earth Sciences"
+					},
+					{
+						"value": "Ecology, Environment, Conservation"
+					},
+					{
+						"value": "Economics, Economists"
+					},
+					{
+						"value": "Education, Educators"
+					},
+					{
+						"value": "Elections, Voting"
+					},
+					{
+						"value": "Embargoes, Sanctions"
+					},
+					{
+						"value": "Emperors, Caesars, Khans"
+					},
+					{
+						"value": "Empires, Dynasties"
+					},
+					{
+						"value": "Energy, Fuel, Power Sources"
+					},
+					{
+						"value": "Engineering, Engineers"
+					},
+					{
+						"value": "Enlightenment"
+					},
+					{
+						"value": "Epidemics, Diseases"
+					},
+					{
+						"value": "Espionage, Spying, Spies"
+					},
+					{
+						"value": "Family, Marriage"
+					},
+					{
+						"value": "Farms, Farming, Rural Life"
+					},
+					{
+						"value": "Fascism, Fascists"
+					},
+					{
+						"value": "Fashion, Clothing"
+					},
+					{
+						"value": "Feminism, Feminists, Women's Rights"
+					},
+					{
+						"value": "Feudalism, Serfs, Peasants"
+					},
+					{
+						"value": "Films, Movies, Motion Pictures"
+					},
+					{
+						"value": "Food, Cooking, Cuisine"
+					},
+					{
+						"value": "French Revolution, Reign of Terror"
+					},
+					{
+						"value": "Frontier, Pioneers"
+					},
+					{
+						"value": "Gender Issues, Sexism"
+					},
+					{
+						"value": "Generals, Military Officers, Soldiers"
+					},
+					{
+						"value": "Genetics"
+					},
+					{
+						"value": "Geography, Geographers"
+					},
+					{
+						"value": "Geology, Geologists"
+					},
+					{
+						"value": "Government, Politics"
+					},
+					{
+						"value": "Hellenistic Age, Ancient Greece"
+					},
+					{
+						"value": "Hinduism, Hindus"
+					},
+					{
+						"value": "Historians"
+					},
+					{
+						"value": "Holocaust"
+					},
+					{
+						"value": "Holy Roman Empire"
+					},
+					{
+						"value": "Homosexuality, Homosexuals, Gay Men, Lesbians"
+					},
+					{
+						"value": "Human Rights"
+					},
+					{
+						"value": "Humanitarian Aid, Disaster Relief"
+					},
+					{
+						"value": "Immigration, Immigrants"
+					},
+					{
+						"value": "Industrial Revolution, Industrialization"
+					},
+					{
+						"value": "Industry, Manufacturing, Factories"
+					},
+					{
+						"value": "Invasions, Raids, Conquests, Sieges"
+					},
+					{
+						"value": "Islam, Muslims, Mosques"
+					},
+					{
+						"value": "Judaism, Jews, Synagogues, Temples"
+					},
+					{
+						"value": "Kidnapping, Hostages, Prisoners"
+					},
+					{
+						"value": "Kings, Queens, Kingdoms, Monarchy"
+					},
+					{
+						"value": "Knights, Knighthood"
+					},
+					{
+						"value": "Korean War"
+					},
+					{
+						"value": "Labor, Unions"
+					},
+					{
+						"value": "Land Acquisition, Expansion, Territory Redistribution"
+					},
+					{
+						"value": "Language, Linguistics, Philology"
+					},
+					{
+						"value": "Latinos, Hispanics, Chicanos"
+					},
+					{
+						"value": "Law, Legal History, Courts"
+					},
+					{
+						"value": "Laws, Acts, Legislation"
+					},
+					{
+						"value": "Literature, Publishing"
+					},
+					{
+						"value": "Massacres, Genocide, Torture"
+					},
+					{
+						"value": "Mathematics, Mathematicians"
+					},
+					{
+						"value": "Media, Journalism, Journalists"
+					},
+					{
+						"value": "Medicine, Health"
+					},
+					{
+						"value": "Metrology, Weights, Measures"
+					},
+					{
+						"value": "Military History"
+					},
+					{
+						"value": "Monks, Nuns, Monasteries, Convents"
+					},
+					{
+						"value": "Murder, Homicide, Execution, Assassination"
+					},
+					{
+						"value": "Music, Musicians, Singers"
+					},
+					{
+						"value": "Mythology, Myths, Folklore, Legends"
+					},
+					{
+						"value": "Napoleonic Wars"
+					},
+					{
+						"value": "Nationalism"
+					},
+					{
+						"value": "Native Americans, American Indians, First Nations"
+					},
+					{
+						"value": "Natural History"
+					},
+					{
+						"value": "Natural Phenomena"
+					},
+					{
+						"value": "Natural Resources"
+					},
+					{
+						"value": "Novelists, Short Story Writers"
+					},
+					{
+						"value": "Nuclear Weapons, Power, Radiation"
+					},
+					{
+						"value": "Organizations, Agencies, Institutions"
+					},
+					{
+						"value": "Ottoman Empire"
+					},
+					{
+						"value": "Paganism, Witches, Witchcraft"
+					},
+					{
+						"value": "Painting, Painters, Drawing"
+					},
+					{
+						"value": "Parliament, House of Commons, House of Lords"
+					},
+					{
+						"value": "Patrons, Mentors"
+					},
+					{
+						"value": "Peace Movement, Pacifism, Pacifists"
+					},
+					{
+						"value": "Pharaohs"
+					},
+					{
+						"value": "Philanthropy, Philanthropists"
+					},
+					{
+						"value": "Philosophy, Philosophers"
+					},
+					{
+						"value": "Photography, Photographers"
+					},
+					{
+						"value": "Physics, Physicists"
+					},
+					{
+						"value": "Poetry, Poets"
+					},
+					{
+						"value": "Politicians, Diplomats"
+					},
+					{
+						"value": "Pollution, Toxic Waste"
+					},
+					{
+						"value": "Popes, Papacy, Cardinals"
+					},
+					{
+						"value": "Popular Culture, Trends, Fads"
+					},
+					{
+						"value": "Poverty, Poor People"
+					},
+					{
+						"value": "Prehistoric Humans"
+					},
+					{
+						"value": "Presidents, Prime Ministers"
+					},
+					{
+						"value": "Priests, Ministers, Clergy"
+					},
+					{
+						"value": "Princes, Princesses"
+					},
+					{
+						"value": "Propaganda"
+					},
+					{
+						"value": "Protestantism, Protestants"
+					},
+					{
+						"value": "Protests, Marches, Demonstrations, Rallies"
+					},
+					{
+						"value": "Psychology, Psychiatry"
+					},
+					{
+						"value": "Race, Ethnicity, Racism"
+					},
+					{
+						"value": "Reconstruction"
+					},
+					{
+						"value": "Recreation, Games"
+					},
+					{
+						"value": "Reformation"
+					},
+					{
+						"value": "Religion, Spirituality, Ethics"
+					},
+					{
+						"value": "Reproductive Rights, Abortion"
+					},
+					{
+						"value": "Revolutions, Rebellions, Uprisings, Riots"
+					},
+					{
+						"value": "Robbery, Theft, Thieves"
+					},
+					{
+						"value": "Roman Empire, Ancient Rome"
+					},
+					{
+						"value": "Russian Revolution, Bolsheviks"
+					},
+					{
+						"value": "Saints, Prophets"
+					},
+					{
+						"value": "Scandals"
+					},
+					{
+						"value": "Science, Scientists"
+					},
+					{
+						"value": "Sculpture, Sculptors"
+					},
+					{
+						"value": "Segregation, Desegregation, Apartheid"
+					},
+					{
+						"value": "Sexuality"
+					},
+					{
+						"value": "Ships, Naval History"
+					},
+					{
+						"value": "Slavery, Slaves"
+					},
+					{
+						"value": "Social Issues, Reform"
+					},
+					{
+						"value": "Socialism, Socialists"
+					},
+					{
+						"value": "Social Science"
+					},
+					{
+						"value": "Sociology, Sociologists"
+					},
+					{
+						"value": "Space Exploration, Spacecraft"
+					},
+					{
+						"value": "Spanish Inquisition"
+					},
+					{
+						"value": "Sports, Athletics, Athletes"
+					},
+					{
+						"value": "Strikes, Boycotts, Lockouts"
+					},
+					{
+						"value": "Supreme Court, U.S."
+					},
+					{
+						"value": "Teaching, Teachers"
+					},
+					{
+						"value": "Technology, Inventions, Inventors"
+					},
+					{
+						"value": "Television, Radio, Broadcasting"
+					},
+					{
+						"value": "Terrorism, Terrorists"
+					},
+					{
+						"value": "Theology, Theologians"
+					},
+					{
+						"value": "Trade, Commerce"
+					},
+					{
+						"value": "Transportation"
+					},
+					{
+						"value": "Travel"
+					},
+					{
+						"value": "Treason, Traitors"
+					},
+					{
+						"value": "Treaties, Agreements, Negotiations"
+					},
+					{
+						"value": "Tribes, Indigenous Peoples, Aborigines"
+					},
+					{
+						"value": "Trials, Judges, Lawyers"
+					},
+					{
+						"value": "Trojan War"
+					},
+					{
+						"value": "Vietnam War"
+					},
+					{
+						"value": "Violence"
+					},
+					{
+						"value": "War of 1812"
+					},
+					{
+						"value": "Wars, Battles"
+					},
+					{
+						"value": "Wars of the Roses"
+					},
+					{
+						"value": "Weather"
+					},
+					{
+						"value": "Women's Issues"
+					},
+					{
+						"value": "Work, Employment"
+					},
+					{
+						"value": "World War I"
+					},
+					{
+						"value": "World War II"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "secondary_category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Curriculum: World History",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "African History"
+					},
+					{
+						"value": "Asian History"
+					},
+					{
+						"value": "Australian/New Zealand History"
+					},
+					{
+						"value": "Middle Eastern History"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "curriculum_world_history",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Curriculum: Western  Civilization/European History",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Medieval History/Middle Ages"
+					},
+					{
+						"value": "Renaissance History"
+					},
+					{
+						"value": "17th Century European History"
+					},
+					{
+						"value": "18th Century European History"
+					},
+					{
+						"value": "19th Century European History"
+					},
+					{
+						"value": "20th & 21st Century European History"
+					},
+					{
+						"value": "British History"
+					},
+					{
+						"value": "Eastern European History"
+					},
+					{
+						"value": "French History"
+					},
+					{
+						"value": "German History"
+					},
+					{
+						"value": "Italian/Mediterranean History"
+					},
+					{
+						"value": "Russian/Former Soviet States History"
+					},
+					{
+						"value": "Scandinavian History"
+					},
+					{
+						"value": "Spanish/Portuguese History"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "curriculum_western_civilization_european_history",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Curriculum Women's History",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "African American History"
+					},
+					{
+						"value": "American Indian History"
+					},
+					{
+						"value": "Asian American History"
+					},
+					{
+						"value": "Latino History"
+					},
+					{
+						"value": "American Pre-Colonial History (to 1606)"
+					},
+					{
+						"value": "Canadian History"
+					},
+					{
+						"value": "Latin American History"
+					},
+					{
+						"value": "US Colonial History (1607-1775)"
+					},
+					{
+						"value": "US Revolutionary History (1776-1788)"
+					},
+					{
+						"value": "US Early National History (1789-1815)"
+					},
+					{
+						"value": "US History 1816-1855"
+					},
+					{
+						"value": "US Civil War & Reconstruction Era (1856-1877)"
+					},
+					{
+						"value": "US History 1878-1900"
+					},
+					{
+						"value": "US History 1901-1950"
+					},
+					{
+						"value": "US History 1951-present"
+					},
+					{
+						"value": "Medieval History/Middle Ages"
+					},
+					{
+						"value": "Renaissance History"
+					},
+					{
+						"value": "17th Century European History"
+					},
+					{
+						"value": "18th Century European History"
+					},
+					{
+						"value": "19th Century European History"
+					},
+					{
+						"value": "20th & 21st Century European History"
+					},
+					{
+						"value": "British History"
+					},
+					{
+						"value": "Eastern European History"
+					},
+					{
+						"value": "French History"
+					},
+					{
+						"value": "German History"
+					},
+					{
+						"value": "Italian/Mediterranean History"
+					},
+					{
+						"value": "Russian/Former Soviet States History"
+					},
+					{
+						"value": "Scandinavian History"
+					},
+					{
+						"value": "Spanish/Portuguese History"
+					},
+					{
+						"value": "African History"
+					},
+					{
+						"value": "Asian History"
+					},
+					{
+						"value": "Australian/New Zealand History"
+					},
+					{
+						"value": "Middle Eastern History"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "curriculum_women_s_history",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Curriculum: Ancient History",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Ancient History--General"
+					},
+					{
+						"value": "African History"
+					},
+					{
+						"value": "American Pre-Colonial History (to 1606)"
+					},
+					{
+						"value": "Asian History"
+					},
+					{
+						"value": "Australian/New Zealand History"
+					},
+					{
+						"value": "British History"
+					},
+					{
+						"value": "Canadian History"
+					},
+					{
+						"value": "Eastern European History"
+					},
+					{
+						"value": "French History"
+					},
+					{
+						"value": "German History"
+					},
+					{
+						"value": "Italian/Mediterranean History"
+					},
+					{
+						"value": "Latin American History"
+					},
+					{
+						"value": "Middle Eastern History"
+					},
+					{
+						"value": "Russian/Former Soviet States History"
+					},
+					{
+						"value": "Scandinavian History"
+					},
+					{
+						"value": "Spanish/Portuguese History"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "curriculum_ancient_history",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Curriculum: American History",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "American Pre-Colonial History (to 1606)"
+					},
+					{
+						"value": "Canadian History"
+					},
+					{
+						"value": "Latin American History"
+					},
+					{
+						"value": "American Colonial History (1607-1775)"
+					},
+					{
+						"value": "US Revolutionary History (1776-1788)"
+					},
+					{
+						"value": "US Early National History (1789-1815)"
+					},
+					{
+						"value": "US History 1816-1855"
+					},
+					{
+						"value": "US Civil War &amp; Reconstruction Era (1856-1877)"
+					},
+					{
+						"value": "US History 1878-1900"
+					},
+					{
+						"value": "US History 1901-1950"
+					},
+					{
+						"value": "US History 1951-present"
+					},
+					{
+						"value": "African American History"
+					},
+					{
+						"value": "American Indian History"
+					},
+					{
+						"value": "Asian American History"
+					},
+					{
+						"value": "Latino History"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "curriculum_american_history",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Geographical category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Africa"
+					},
+					{
+						"value": "Antarctica"
+					},
+					{
+						"value": "Asia"
+					},
+					{
+						"value": "Australia and Oceania"
+					},
+					{
+						"value": "Central America and West Indies"
+					},
+					{
+						"value": "Europe"
+					},
+					{
+						"value": "North America"
+					},
+					{
+						"value": "South America"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "geographical_category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Sub Geographical category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Afghanistan"
+					},
+					{
+						"value": "Albania"
+					},
+					{
+						"value": "Algeria"
+					},
+					{
+						"value": "Andorra"
+					},
+					{
+						"value": "Angola"
+					},
+					{
+						"value": "Antarctica"
+					},
+					{
+						"value": "Antigua and Barbuda"
+					},
+					{
+						"value": "Argentina"
+					},
+					{
+						"value": "Armenia"
+					},
+					{
+						"value": "Australia"
+					},
+					{
+						"value": "Austria"
+					},
+					{
+						"value": "Azerbaijan"
+					},
+					{
+						"value": "Azores"
+					},
+					{
+						"value": "Bahamas"
+					},
+					{
+						"value": "Bahrain"
+					},
+					{
+						"value": "Bangladesh"
+					},
+					{
+						"value": "Barbados"
+					},
+					{
+						"value": "Belarus"
+					},
+					{
+						"value": "Belgium"
+					},
+					{
+						"value": "Belize"
+					},
+					{
+						"value": "Benin"
+					},
+					{
+						"value": "Bhutan"
+					},
+					{
+						"value": "Bolivia"
+					},
+					{
+						"value": "Bosnia and Herzegovina"
+					},
+					{
+						"value": "Botswana"
+					},
+					{
+						"value": "Brazil"
+					},
+					{
+						"value": "Brunei"
+					},
+					{
+						"value": "Bulgaria"
+					},
+					{
+						"value": "Burkina Faso"
+					},
+					{
+						"value": "Burma"
+					},
+					{
+						"value": "Burundi"
+					},
+					{
+						"value": "Cambodia"
+					},
+					{
+						"value": "Cameroon"
+					},
+					{
+						"value": "Canada"
+					},
+					{
+						"value": "Cape Verde"
+					},
+					{
+						"value": "Central African Republic"
+					},
+					{
+						"value": "Chad"
+					},
+					{
+						"value": "Chile"
+					},
+					{
+						"value": "China"
+					},
+					{
+						"value": "Colombia"
+					},
+					{
+						"value": "Comoros"
+					},
+					{
+						"value": "Congo, Democratic Republic of the"
+					},
+					{
+						"value": "Congo, Republic of the"
+					},
+					{
+						"value": "Corsica"
+					},
+					{
+						"value": "Costa Rica"
+					},
+					{
+						"value": "Côte d’Ivoire"
+					},
+					{
+						"value": "Crete"
+					},
+					{
+						"value": "Croatia"
+					},
+					{
+						"value": "Cuba"
+					},
+					{
+						"value": "Cyprus"
+					},
+					{
+						"value": "Czech Republic"
+					},
+					{
+						"value": "Denmark"
+					},
+					{
+						"value": "Djibouti"
+					},
+					{
+						"value": "Dominica"
+					},
+					{
+						"value": "Dominican Republic"
+					},
+					{
+						"value": "East Timor"
+					},
+					{
+						"value": "Ecuador"
+					},
+					{
+						"value": "Egypt"
+					},
+					{
+						"value": "El Salvador"
+					},
+					{
+						"value": "England"
+					},
+					{
+						"value": "Equatorial Guinea"
+					},
+					{
+						"value": "Eritrea"
+					},
+					{
+						"value": "Estonia"
+					},
+					{
+						"value": "Ethiopia"
+					},
+					{
+						"value": "Falkland Islands"
+					},
+					{
+						"value": "Fiji"
+					},
+					{
+						"value": "Finland"
+					},
+					{
+						"value": "France"
+					},
+					{
+						"value": "French Guiana"
+					},
+					{
+						"value": "Gabon"
+					},
+					{
+						"value": "Gambia"
+					},
+					{
+						"value": "Georgia, Republic of"
+					},
+					{
+						"value": "Germany"
+					},
+					{
+						"value": "Ghana"
+					},
+					{
+						"value": "Greece"
+					},
+					{
+						"value": "Greenland"
+					},
+					{
+						"value": "Grenada"
+					},
+					{
+						"value": "Guam"
+					},
+					{
+						"value": "Guatemala"
+					},
+					{
+						"value": "Guinea"
+					},
+					{
+						"value": "Guinea-Bissau"
+					},
+					{
+						"value": "Guyana"
+					},
+					{
+						"value": "Haiti"
+					},
+					{
+						"value": "Honduras"
+					},
+					{
+						"value": "Hungary"
+					},
+					{
+						"value": "Iceland"
+					},
+					{
+						"value": "India"
+					},
+					{
+						"value": "Indonesia"
+					},
+					{
+						"value": "Iran"
+					},
+					{
+						"value": "Iraq"
+					},
+					{
+						"value": "Ireland"
+					},
+					{
+						"value": "Israel"
+					},
+					{
+						"value": "Italy"
+					},
+					{
+						"value": "Jamaica"
+					},
+					{
+						"value": "Japan"
+					},
+					{
+						"value": "Jordan"
+					},
+					{
+						"value": "Kazakhstan"
+					},
+					{
+						"value": "Kenya"
+					},
+					{
+						"value": "Kiribati"
+					},
+					{
+						"value": "Kuwait"
+					},
+					{
+						"value": "Kyrgyzstan"
+					},
+					{
+						"value": "Laos"
+					},
+					{
+						"value": "Latvia"
+					},
+					{
+						"value": "Lebanon"
+					},
+					{
+						"value": "Lesotho"
+					},
+					{
+						"value": "Liberia"
+					},
+					{
+						"value": "Libya"
+					},
+					{
+						"value": "Liechtenstein"
+					},
+					{
+						"value": "Lithuania"
+					},
+					{
+						"value": "Luxembourg"
+					},
+					{
+						"value": "Macedonia"
+					},
+					{
+						"value": "Madagascar"
+					},
+					{
+						"value": "Malawi"
+					},
+					{
+						"value": "Malaysia"
+					},
+					{
+						"value": "Maldives"
+					},
+					{
+						"value": "Mali"
+					},
+					{
+						"value": "Malta"
+					},
+					{
+						"value": "Mariana Islands"
+					},
+					{
+						"value": "Marshall Islands"
+					},
+					{
+						"value": "Martinique"
+					},
+					{
+						"value": "Mauritania"
+					},
+					{
+						"value": "Mauritius"
+					},
+					{
+						"value": "Mexico"
+					},
+					{
+						"value": "Micronesia, Federated States of"
+					},
+					{
+						"value": "Moldova"
+					},
+					{
+						"value": "Monaco"
+					},
+					{
+						"value": "Mongolia"
+					},
+					{
+						"value": "Montenegro"
+					},
+					{
+						"value": "Montserrat"
+					},
+					{
+						"value": "Morocco"
+					},
+					{
+						"value": "Mozambique"
+					},
+					{
+						"value": "Namibia"
+					},
+					{
+						"value": "Nauru"
+					},
+					{
+						"value": "Nepal"
+					},
+					{
+						"value": "Netherlands"
+					},
+					{
+						"value": "New Guinea"
+					},
+					{
+						"value": "New Zealand"
+					},
+					{
+						"value": "Nicaragua"
+					},
+					{
+						"value": "Niger"
+					},
+					{
+						"value": "Nigeria"
+					},
+					{
+						"value": "North Korea"
+					},
+					{
+						"value": "Northern Ireland"
+					},
+					{
+						"value": "Norway"
+					},
+					{
+						"value": "Oman"
+					},
+					{
+						"value": "Pakistan"
+					},
+					{
+						"value": "Palau"
+					},
+					{
+						"value": "Panama"
+					},
+					{
+						"value": "Papua New Guinea"
+					},
+					{
+						"value": "Paraguay"
+					},
+					{
+						"value": "Peru"
+					},
+					{
+						"value": "Philippines"
+					},
+					{
+						"value": "Poland"
+					},
+					{
+						"value": "Portugal"
+					},
+					{
+						"value": "Puerto Rico"
+					},
+					{
+						"value": "Qatar"
+					},
+					{
+						"value": "Romania"
+					},
+					{
+						"value": "Russia"
+					},
+					{
+						"value": "Rwanda"
+					},
+					{
+						"value": "Saint Kitts and Nevis"
+					},
+					{
+						"value": "Saint Lucia"
+					},
+					{
+						"value": "Saint Vincent and the Grenadines"
+					},
+					{
+						"value": "Samoa"
+					},
+					{
+						"value": "San Marino"
+					},
+					{
+						"value": "São Tomé and Príncipe"
+					},
+					{
+						"value": "Saudi Arabia"
+					},
+					{
+						"value": "Scotland"
+					},
+					{
+						"value": "Senegal"
+					},
+					{
+						"value": "Serbia"
+					},
+					{
+						"value": "Seychelles"
+					},
+					{
+						"value": "Sicily"
+					},
+					{
+						"value": "Sierra Leone"
+					},
+					{
+						"value": "Singapore"
+					},
+					{
+						"value": "Slovakia"
+					},
+					{
+						"value": "Slovenia"
+					},
+					{
+						"value": "Solomon Islands"
+					},
+					{
+						"value": "Somalia"
+					},
+					{
+						"value": "South Africa"
+					},
+					{
+						"value": "South Korea"
+					},
+					{
+						"value": "Spain"
+					},
+					{
+						"value": "Sri Lanka"
+					},
+					{
+						"value": "Sudan"
+					},
+					{
+						"value": "Suriname"
+					},
+					{
+						"value": "Swaziland"
+					},
+					{
+						"value": "Sweden"
+					},
+					{
+						"value": "Switzerland"
+					},
+					{
+						"value": "Syria"
+					},
+					{
+						"value": "Taiwan"
+					},
+					{
+						"value": "Tajikistan"
+					},
+					{
+						"value": "Tanzania"
+					},
+					{
+						"value": "Thailand"
+					},
+					{
+						"value": "Togo"
+					},
+					{
+						"value": "Tonga"
+					},
+					{
+						"value": "Transylvania"
+					},
+					{
+						"value": "Trinidad and Tobago"
+					},
+					{
+						"value": "Tunisia"
+					},
+					{
+						"value": "Turkey"
+					},
+					{
+						"value": "Turkmenistan"
+					},
+					{
+						"value": "Uganda"
+					},
+					{
+						"value": "Ukraine"
+					},
+					{
+						"value": "United Arab Emirates"
+					},
+					{
+						"value": "United Kingdom"
+					},
+					{
+						"value": "United States"
+					},
+					{
+						"value": "Uruguay"
+					},
+					{
+						"value": "Uzbekistan"
+					},
+					{
+						"value": "Vanuatu"
+					},
+					{
+						"value": "Vatican City"
+					},
+					{
+						"value": "Venezuela"
+					},
+					{
+						"value": "Vietnam"
+					},
+					{
+						"value": "Yemen"
+					},
+					{
+						"value": "Zambia"
+					},
+					{
+						"value": "Zimbabwe"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "sub_geographical_category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Date",
+			"uid": "date",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Location",
+			"uid": "location",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Also known as",
+			"uid": "also_known_as",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Quotes",
+			"uid": "quotes",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Defining Moment",
+			"uid": "defining_moment",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"read": true,
+				"sub_acl": {
+					"read": true
+				},
+				"uid": "blta6c352758ea7e7f2"
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

@@ -1,0 +1,1174 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "48af212b-29aa-4684-b100-8a9e93cbfda3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "“Abdominal Aortic Aneurysm Screening.” Medicare.gov: Your Medicare Coverage. Retrieved November 9, 2013. "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.medicare.gov/coverage/ab-aortic-aneurysm-screening.html"
+								}
+							],
+							"type": "span",
+							"uid": "5940eb2c-c5f2-45da-8a5e-edd62ed7ab5a",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "babf6c01-4b82-44aa-9462-be6ab0ba5ea5",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Chaikof, E. L., D. C. Brewster, R. L. Dalman, et al. “The Care of Patients with an Abdominal Aortic Aneurysm: The Society for Vascular Surgery Practice Guidelines.” "
+						},
+						{
+							"text": "Journal of Vascular Surgery",
+							"italic": true
+						},
+						{
+							"text": " 50, no. 4 (2009): S2–S49."
+						}
+					],
+					"type": "p",
+					"uid": "156d0e4f-4507-40c7-bdd7-dd7d54d38bc8",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "journal"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Clouse, W. D., J. W. Hallett, H. V. Schaff, M. M. Gayari, D. M. Ilstrup, and L. J. Melton. “Improved Prognosis of Thoracic Aortic Aneurysms: A Population-Based Study.” "
+						},
+						{
+							"text": "Journal of the American Medical Association",
+							"italic": true
+						},
+						{
+							"text": " 280, no. 22 (1998): 1926–1929."
+						}
+					],
+					"type": "p",
+					"uid": "f5649a63-06e3-4d6f-9b07-974837d12676",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "journal"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Collins, K. A. (2013). “Overview of abdominal aortic aneurysm.” In "
+						},
+						{
+							"text": "UpToDate",
+							"italic": true
+						},
+						{
+							"text": ", edited by J. F. Eidt, J. L. Mills, and J. L. Duda. Retrieved from "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.uptodate.com/contents/overview-of-abdominal-aortic-aneurysm"
+								}
+							],
+							"type": "span",
+							"uid": "c003ccd2-a3f0-4b88-8dd2-3f6e93c0f9ca",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "24b63cf4-6ae1-4337-b63b-49706b8ad960",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Dalman, R. L., and M. Mell. “Management of Asymptomatic Abdominal Aortic Aneurysm.” In "
+						},
+						{
+							"text": "UpToDate",
+							"italic": true
+						},
+						{
+							"text": ", edited by J. L. Mills, J. F. Eidt, E. R. Mohler, and D. L. Clement. Retrieved from "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.uptodate.com/contents/management-of-asymptomatic-abdominal-aortic-aneurysm"
+								}
+							],
+							"type": "span",
+							"uid": "512076ee-b731-4ee6-96da-b112d6ff689f",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "5c563419-5ab4-4470-915a-9e0183429bed",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Forsdahl, S. H., K. Singh, S. Solberg, and B. K. Jacobsen. “Risk Factors for Abdominal Aortic Aneurysms: A 7-Year Prospective Study: The Tromsø Study, 1994–2001.” "
+						},
+						{
+							"text": "Circulation",
+							"italic": true
+						},
+						{
+							"text": " 119, no. 16 (2009): 2202–2208."
+						}
+					],
+					"type": "p",
+					"uid": "78968b26-75d1-4dd0-9c6d-eed249d7c022",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "journal"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hiratzka, L. F., G. L. Bakris, J. A. Beckman, et al. “Guidelines for the Diagnosis and Management of Patients with Thoracic Aortic Disease.” "
+						},
+						{
+							"text": "Journal of the American College of Cardiology",
+							"italic": true
+						},
+						{
+							"text": " 55, no. 14 (2010):e27–e129."
+						}
+					],
+					"type": "p",
+					"uid": "ef0f08b5-5906-4653-a1fe-75576976683c",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "journal"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Isselbacher, Eric Michael. “Diseases of the Aorta.” In "
+						},
+						{
+							"text": "Goldman's Cecil Medicine",
+							"italic": true
+						},
+						{
+							"text": ", 24th ed., edited by Lee Goldman and Andrew I. Schafer, 482–486. Philadelphia: Elsevier Saunders, 2011."
+						}
+					],
+					"type": "p",
+					"uid": "b29c4b84-a918-4292-803b-1657c1731f0c",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Jim, J., and R. W. Thompson. “Clinical Features and Diagnosis of Abdominal Aortic Aneurysm.” In "
+						},
+						{
+							"text": "UpToDate",
+							"italic": true
+						},
+						{
+							"text": ", edited by J. L. Mills, J. F. Eidt, E. R. Mohler, and K. A. Collins. Retrieved from "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.uptodate.com/contents/clinical-features-and-diagnosis-of-abdominal-aortic-aneurysm"
+								}
+							],
+							"type": "span",
+							"uid": "c813d1cd-2332-464f-9558-7e9efb585ad9",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "d3732f60-0a2f-4e1f-a55e-61fd1485c0fa",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Little, Tami. “Care of Patients with Vascular Problems.” In "
+						},
+						{
+							"text": "Medical-Surgical Nursing: Patient-Centered Collaborative Care",
+							"italic": true
+						},
+						{
+							"text": ", 7th ed., edited by Donna D. Ignatavicius and M. Linda Workman, 792–796. St. Louis: Elsevier, 2013."
+						}
+					],
+					"type": "p",
+					"uid": "cedfd0dd-4149-43e1-9ec3-22c962ec3c43",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Mohler, E. R. “Epidemiology, Risk Factors, Pathogenesis and Natural History of Abdominal Aortic Aneurysm.” In "
+						},
+						{
+							"text": "UpToDate",
+							"italic": true
+						},
+						{
+							"text": ", edited by J. L. Mills, J. F. Eidt, and K. A. Collins. Retrieved from "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.uptodate.com/contents/epidemiology-risk-factors-pathogenesis-and-natural-history-of-abdominal-aortic-aneurysm"
+								}
+							],
+							"type": "span",
+							"uid": "2523caaa-d638-40b1-a1eb-94521e3d8e75",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "d7551e4d-76ab-4a3d-ac1d-42af8841ed6c",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "“Screening for Abdominal Aortic Aneurysm.” U.S. Preventive Services Task Force, 2005. Retrieved November 9, 2013 from "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.uspreventiveservicestaskforce.org/uspstf/uspsaneu.htm"
+								}
+							],
+							"type": "span",
+							"uid": "fa39ed93-ebe7-4e64-850a-d95cbf125785",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "06f5534d-f538-4511-a58a-99b80aff1ae8",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Woo, Y. J., and E. R. Mohler. “Clinical Features and Diagnosis of Thoracic Aortic Aneurysm.” In "
+						},
+						{
+							"text": "UpToDate",
+							"italic": true
+						},
+						{
+							"text": ", edited by C. M. Otto, J. Hoekstra, J. F. Eidt, J. L. Mills, and K. A. Collins. Retrieved from "
+						},
+						{
+							"children": [
+								{
+									"text": "http://www.uptodate.com/contents/clinical-features-and-diagnosis-of-thoracic-aortic-aneurysm"
+								}
+							],
+							"type": "span",
+							"uid": "89f5288f-97d1-4c9e-9138-e1aee047cd99",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "21a454cc-4a3e-4cb0-afd2-5b3cc0eeed52",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "web"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "30e90961-d3ac-479e-a3d2-b4db8a8dcb86"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"computed tomography",
+			"aneurysm",
+			"hyperlipidemia",
+			"statins",
+			"Atherosclerosis",
+			"aorta",
+			"Blood pressure–reducing agents",
+			"hypertension",
+			"ultrasound"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Disease/Disorder"
+						}
+					],
+					"type": "h1",
+					"uid": "2d95f070-7f62-4b39-bcca-b2d77d50df41",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Key terms:",
+							"bold": true
+						}
+					],
+					"type": "p",
+					"uid": "98c90a36-583d-4003-a2ba-72cda682480c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "adventitia:",
+							"italic": true
+						},
+						{
+							"text": " the outermost collagen layer of the aortic vessel"
+						}
+					],
+					"type": "p",
+					"uid": "1ba8531c-94c1-43c9-81a5-299bd6a0266f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "aorta:",
+							"italic": true
+						},
+						{
+							"text": " largest artery in the body, carrying freshly oxygenated blood to the peripheral vascular system"
+						}
+					],
+					"type": "p",
+					"uid": "48cd67ca-02a5-4496-866e-116e5b885f7d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "computed tomography (CT):",
+							"italic": true
+						},
+						{
+							"text": " a scan that uses x-rays to visualize cross-sections of the body"
+						}
+					],
+					"type": "p",
+					"uid": "a61335e5-de3a-4903-9ba3-fd2ecad8520a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "false aneurysm:",
+							"italic": true
+						},
+						{
+							"text": " a weakening and dilation of an arterial vessel caused by trauma"
+						}
+					],
+					"type": "p",
+					"uid": "dc03e4a9-73dd-430e-aed9-83a53bc5f904",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "true aneurysm:",
+							"italic": true
+						},
+						{
+							"text": " dilation of an arterial vessel caused by a congenital or acquired problem"
+						}
+					],
+					"type": "p",
+					"uid": "65c94191-a16c-43f3-b677-da6ef19d1320",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "fusiform aneurysm:",
+							"italic": true
+						},
+						{
+							"text": " dilation of the circumference of the arterial vessel"
+						}
+					],
+					"type": "p",
+					"uid": "64884650-400d-4b4f-83e6-e4237f06ce56",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "saccular aneurysm:",
+							"italic": true
+						},
+						{
+							"text": " arterial wall dilation confined to one area causing a ballooning effect"
+						}
+					],
+					"type": "p",
+					"uid": "bf65a04c-4ec5-4814-b92b-7190a0a4c8ac",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "abdominal aortic aneurysm (AAA):",
+							"italic": true
+						},
+						{
+							"text": " a dilation of the aorta in the abdominal cavity"
+						}
+					],
+					"type": "p",
+					"uid": "c708efad-73ca-422e-9e39-4493a70fc055",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "thoracic aortic aneurysm (TAA):",
+							"italic": true
+						},
+						{
+							"text": " a dilation of the aorta in the thoracic cavity"
+						}
+					],
+					"type": "p",
+					"uid": "c8ac1521-da33-4baa-aacb-3e4f0b6e0c71",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "intima:",
+							"italic": true
+						},
+						{
+							"text": " the innermost layer of endothelial cells in the aortic vessel"
+						}
+					],
+					"type": "p",
+					"uid": "d248dd0b-d433-468c-975f-615d9cc21d8b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "media:",
+							"italic": true
+						},
+						{
+							"text": " the middle layer of the aortic vessel made up of thick elastic tissue"
+						}
+					],
+					"type": "p",
+					"uid": "bed44faf-b3a0-4408-9741-e2b82d1d84c8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "ultrasound:",
+							"italic": true
+						},
+						{
+							"text": " a method of diagnostic imaging using high-frequency sound"
+						}
+					],
+					"type": "p",
+					"uid": "5228174e-eabf-4475-a11c-0f7098b05e13",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Overview"
+						}
+					],
+					"type": "h1",
+					"uid": "5a9f28ad-bc8a-457d-acf2-b25513da3de1",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Aortic aneurysms can be described in terms of their location, type, and whether they are true or false. While it is possible for an "
+						},
+						{
+							"children": [
+								{
+									"text": "aneurysm"
+								}
+							],
+							"type": "a",
+							"uid": "b4da5061-7cc9-4cff-86b2-43bde8b65a32",
+							"attrs": {
+								"url": "86193889"
+							}
+						},
+						{
+							"text": " to develop in the ascending, transverse, or descending portions of the aorta, it is most commonly seen in the abdominal aorta area between the renal arteries and the aortic bifurcation. Aortic aneurysms can be thoracic (above the diaphragm) or abdominal (below the diaphragm). A fusiform aneurysm describes dilation of the circumference of the aorta compared to saccular, which describes a dilation confined to one area of the vessel wall. Aneurysms may also be described as true, caused by a congenital or acquired problem, or false, caused by trauma to the layers of the arterial wall."
+						}
+					],
+					"type": "p",
+					"uid": "55223526-ebac-44d8-b0a1-9c7da3681aa3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "a682a5ad-d072-4f33-b4e5-77346c4933a4",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Aortic aneurysm. By en:National Institutes of Health [Public domain], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "Aortic aneurysm. By en:National Institutes of Health [Public domain], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Aortic aneurysm. By en:National Institutes of Health [Public domain], via Wikimedia Commons",
+						"asset-name": "97176592-90206.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "374d04f7-99a2-4cc0-a847-546ab61c6bc9",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Sagital aaa. This is an example of bolus tracking in the use of imaging an abdominal aortic aneurysm (AAA). By Glitzy queen00 at en.wikipedia [Public domain], from Wikimedia Commons",
+							"width": "auto",
+							"caption": "Sagital aaa. This is an example of bolus tracking in the use of imaging an abdominal aortic aneurysm (AAA). By Glitzy queen00 at en.wikipedia [Public domain], from Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Sagital aaa. This is an example of bolus tracking in the use of imaging an abdominal aortic aneurysm (AAA). By Glitzy queen00 at en.wikipedia [Public domain], from Wikimedia Commons",
+						"asset-name": "97176592-90207.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Three tissue layers construct the vessel walls of the aorta: the intima is the inner most layer of endothelial cells; the media, the middle layer, is thick elastic tissue; and the adventitia is the outer most collagen layer. When the media layer is weakened by either true or false causes, stretching of the intima and adventitia ensues, allowing for widening and increased tension within the arterial wall. A history of smoking, elevated blood pressure, and other factors can accelerate the rate of aneurysm enlargement and thus risk for rupture. While the normal abdominal aorta has diameter less than 3 cm, an aneurysm diameter of greater than 5.5 cm is the most indicative clinical feature of an impending rupture. A rupture causes an abrupt and massive hemorrhage resulting in shock that is life threatening. Up to 90 percent of all ruptured abdominal aortic aneurysms (AAA) result in death."
+						}
+					],
+					"type": "p",
+					"uid": "6741127c-13f1-41b9-9ccb-308325fe8829",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"children": [
+												{
+													"text": "Diameter of AAA",
+													"bold": true
+												}
+											],
+											"type": "th",
+											"uid": "b87c1746-aefe-4190-900d-2036427ecb24",
+											"attrs": {
+												
+											}
+										},
+										{
+											"children": [
+												{
+													"text": "Risk of Rupture",
+													"bold": true
+												}
+											],
+											"type": "th",
+											"uid": "d2c18c42-cab6-4d17-918f-e067f4cd9c48",
+											"attrs": {
+												
+											}
+										}
+									],
+									"type": "tr",
+									"uid": "b17cd222-f86d-46a3-aec0-c56df69ea10d",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "thead",
+							"uid": "593d2e21-cb14-4ca0-8580-93af9161de05",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"children": [
+												{
+													"text": ">5cm"
+												}
+											],
+											"type": "td",
+											"uid": "b1668815-bf80-467d-b60d-4a227ca7b92b",
+											"attrs": {
+												
+											}
+										},
+										{
+											"children": [
+												{
+													"text": "20%"
+												}
+											],
+											"type": "td",
+											"uid": "00ec8e39-7813-450f-8cd3-e36a34eb2ff1",
+											"attrs": {
+												
+											}
+										}
+									],
+									"type": "tr",
+									"uid": "0087fff9-2ca7-4b37-862c-0bf77bafeecc",
+									"attrs": {
+										
+									}
+								},
+								{
+									"children": [
+										{
+											"children": [
+												{
+													"text": ">6cm"
+												}
+											],
+											"type": "td",
+											"uid": "81271136-2c39-4b06-8ae5-72c64e40fd9f",
+											"attrs": {
+												
+											}
+										},
+										{
+											"children": [
+												{
+													"text": "40%"
+												}
+											],
+											"type": "td",
+											"uid": "384502e0-2e8d-42d0-890f-7b1822951a25",
+											"attrs": {
+												
+											}
+										}
+									],
+									"type": "tr",
+									"uid": "f6aacecc-07a4-4e5a-8828-c65a2f0614d2",
+									"attrs": {
+										
+									}
+								},
+								{
+									"children": [
+										{
+											"children": [
+												{
+													"text": ">7cm"
+												}
+											],
+											"type": "td",
+											"uid": "40a491a3-968b-48f4-a18c-867b41a11aab",
+											"attrs": {
+												
+											}
+										},
+										{
+											"children": [
+												{
+													"text": "50%"
+												}
+											],
+											"type": "td",
+											"uid": "dd008abd-02e2-41ef-a40b-91806c9c9853",
+											"attrs": {
+												
+											}
+										}
+									],
+									"type": "tr",
+									"uid": "bb75f4d6-3dba-4165-9270-76ffb4fd8930",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "tbody",
+							"uid": "f7677a08-b19f-4a85-a6cf-ab5a648cddd1",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "table",
+					"uid": "77717e19-a394-493f-825c-d543458d99ca",
+					"attrs": {
+						"colWidths": [
+							250,
+							250
+						]
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Causes and Symptoms"
+						}
+					],
+					"type": "h1",
+					"uid": "2a451764-e417-4186-9421-3faf5b2e7b2b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Thoracic aneurysms tend to be asymptomatic until they rupture. Depending on where the dilation of the aorta pushes on surrounding structures, such as the esophagus, left vagus, laryngeal nerve, or phrenic nerve, a person may experience dyspnea, wheezing, dysphagia, or cough, as well as pain in their neck, substernal area, or back, worsened by supine positioning. If the aneurysm develops in the ascending region or the aortic root, heart failure or a myocardial infarction may be the initial presenting symptoms."
+						}
+					],
+					"type": "p",
+					"uid": "bb3da04b-a134-48f6-baee-7086a54d1e24",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Similarly, an AAA can also be asymptomatic. Usually an AAA is discovered during a physical examination or through imaging. The most common complaint related to an AAA is lower back or flank pain. Other associated symptoms may include: a pulsating abdominal mass, the sensation of a “heartbeat” in the abdomen with supine posturing, cool or cyanotic extremities, and pain or tiredness in the legs with walking."
+						}
+					],
+					"type": "p",
+					"uid": "a368dcf0-dba9-481d-a003-8b0a6d4875c9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Diagnosis"
+						}
+					],
+					"type": "h1",
+					"uid": "fd20594a-f381-437e-8d44-a8d91b7a2b95",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Thoracic aortic aneurysms (TAA) are not usually identified on physical exam, as they are obscured by the rib cage and sternum. AAAs can often be identified during a physical exam, but it can be difficult to accurately determine the size. In obese individuals, palpation of a large AAA may not be possible."
+						}
+					],
+					"type": "p",
+					"uid": "af812147-2776-4e0f-aed4-0b6e1051dd8f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "If a clinician suspects an AAA in an asymptomatic patient, the definitive diagnosis is made by a fasting abdominal "
+						},
+						{
+							"children": [
+								{
+									"text": "ultrasound"
+								}
+							],
+							"type": "a",
+							"uid": "2540f4cd-235a-4ce0-ad42-cbc317e7d026",
+							"attrs": {
+								"url": "93788283"
+							}
+						},
+						{
+							"text": ". However, if an AAA is suspected, and the patient presents with symptoms (back or flank pain) and is hypotensive, a computed tomography (CT) scan is used to locate or rule out a hemorrhage. A CT scan is a highly accurate tool for assessing aneurysm size, and is often used to monitor aneurysm growth. A CT scan is also used to definitively diagnose a TAA."
+						}
+					],
+					"type": "p",
+					"uid": "1cf5f3b7-912e-4d80-8c6d-4bd8b77dd33d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Treatment"
+						}
+					],
+					"type": "h1",
+					"uid": "6e766bc5-c7c1-439b-82c8-b310e056121c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "While there are no recommended medical management guidelines, the mainstay of treatment is reducing the risk of expansion and rupture. This includes smoking cessation and modification of other risk factors. "
+						},
+						{
+							"children": [
+								{
+									"text": "Blood pressure–reducing agents"
+								}
+							],
+							"type": "a",
+							"uid": "6561ce03-28d5-4a49-9134-d8746f5b5340",
+							"attrs": {
+								"url": "97176591"
+							}
+						},
+						{
+							"text": " such as angiotensin-converting enzyme inhibitors, and cholesterol-reducing agents such as "
+						},
+						{
+							"children": [
+								{
+									"text": "statins"
+								}
+							],
+							"type": "a",
+							"uid": "56394d5f-8a28-4d36-a72f-9ed826065858",
+							"attrs": {
+								"url": "87322991"
+							}
+						},
+						{
+							"text": " can be helpful in the reducing the aneurysm rate of growth. Surgical repair of the aneurysm is the most effective means of preventing rupture. For those with an AAA less than 5.5cm, the recommendation is close monitoring through serial CT scans; and for an AAA greater than 5.5cm in otherwise healthy patients, surgical repair is recommended."
+						}
+					],
+					"type": "p",
+					"uid": "2b1dba04-d207-45b4-ada0-67c0ae423556",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Risk Factors and Screening"
+						}
+					],
+					"type": "h1",
+					"uid": "99ebdd89-7409-4562-801b-e9373c63a9b7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Several compounding risk factors predispose an individual for abdominal aortic aneurysms, including: male gender, advancing age (over sixty-five), history of smoking, family history of AAA, history of peripheral artery aneurysm, atherosclerosis, and Caucasian race. "
+						},
+						{
+							"children": [
+								{
+									"text": "Atherosclerosis"
+								}
+							],
+							"type": "a",
+							"uid": "0d5cf492-ad6c-41d6-b498-3b2c569c531d",
+							"attrs": {
+								"url": "94416366"
+							}
+						},
+						{
+							"text": " coupled with "
+						},
+						{
+							"children": [
+								{
+									"text": "hypertension"
+								}
+							],
+							"type": "a",
+							"uid": "b1afa45a-0116-4948-acbd-0f6922ef2718",
+							"attrs": {
+								"url": "89093446"
+							}
+						},
+						{
+							"text": ", "
+						},
+						{
+							"children": [
+								{
+									"text": "hyperlipidemia"
+								}
+							],
+							"type": "a",
+							"uid": "37361b40-8563-4c2c-b4b3-079487fc18a7",
+							"attrs": {
+								"url": "86194201"
+							}
+						},
+						{
+							"text": ", and smoking is the most common cause of aneurysms. Ehlers-Danlos syndrome, Marfan syndrome, Syphilis, chronic inflammation, and blunt trauma are other less common causes of AAA. The U.S. Preventive Services Task Force (USPSTF) defines the screening criteria for an AAA, recommending a one-time abdominal ultrasound for men ages sixty-five to seventy-five years that have ever smoked. The USPSTF also recommends screening men over the age of sixty with a family history of AAA."
+						}
+					],
+					"type": "p",
+					"uid": "36c8dbc6-c88d-4c6a-94be-bdcb1f5d3730",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "b3c5005a-018a-4dba-a3c3-4adfd28b7eee"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Aortic aneurysms can be described in terms of their location, type, and whether they are true or false. While it is possible for an aneurysm to develop in the ascending, transverse, or descending portions of the aorta, it is most commonly seen in the abdominal aorta area between the renal arteries and the aortic bifurcation. Aortic aneurysms can be thoracic (above the diaphragm) or abdominal (below the diaphragm). A fusiform aneurysm describes dilation of the circumference of the aorta compared to saccular, which describes a dilation confined to one area of the vessel wall. Aneurysms may also be described as true, caused by a congenital or acquired problem, or false, caused by trauma to the layers of the arterial wall."
+						}
+					],
+					"type": "p",
+					"uid": "2ee9cb0b-bc68-4821-baa4-60f3dbe5cbbc",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "fe48133e-fed4-4a1f-acd9-accf7006092e"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

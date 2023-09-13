@@ -1,0 +1,28 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Health",
+		"tags": [
+			"Prevention & Lifestyle",
+			"Specialties & Health Care Providers",
+			"Treatment & Therapy",
+			"aminoglycoside drugs",
+			"vitamin B",
+			"kidneys"
+		],
+		"category": [
+			"Prevention & Lifestyle",
+			"Specialties & Health Care Providers"
+		],
+		"definitions": {
+			"children": [
+				{
+					"text": "Antibiotics given intravenously to treat certain infections."
+				}
+			],
+			"type": "doc",
+			"uid": "66c979b9-a3c0-4000-961f-e782b05f23cd"
+		},
+		"anatomy_or_systems_affected": null,
+		"also_known_as": null
+	}
+}

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">gl20c_rs</book-id>
+      <book-id pub-id-type="eis-mid">G8Z8</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">G8Z8</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>28</day>
+         <month>February</month>
+         <year>2021</year>
+      </pub-date>
+      
+      <pub-date pub-type="original">
+         <day>10</day>
+         <month>June</month>
+         <year>2013</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GL20C_RS.10.3331.30689"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">gl20c_rs_30689</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>20th &amp; 21st Century European History</subject>
+                     <subject>Italian/Mediterranean History</subject>
+                     <subject>19th Century European History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Economics, Economists</subject>
+                  <subj-group>
+                     <subject>Economics, Economists</subject>
+                     <subject>Business</subject>
+                     <subject>Industry, Manufacturing, Factories</subject>
+                     <subject>Trade, Commerce</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Technology, Inventions, Inventors</subject>
+                  <subj-group>
+                     <subject>Technology, Inventions, Inventors</subject>
+                     <subject>Industry, Manufacturing, Factories</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Government, Politics</subject>
+                  <subj-group>
+                     <subject>Government, Politics</subject>
+                     <subject>Politicians, Diplomats</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Europe</subject>
+                  <subj-group>
+                     <subject>Europe</subject>
+                     <subject>Italy</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Pirelli Family</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Margaret B.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Denning</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3188230"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <related-object object-id="AN3188240"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <related-object object-id="AN3188220"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>Italian industrialists. 
+                  The Pirelli family was a group of Italian industrialists who furthered the development, production, and trade of rubber goods, electric wire, and electric cables. The family also figured significantly in nineteenth and twentieth century Italian and international politics.
+               </p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The Pirelli family was a group of Italian industrialists who furthered the development, production, and trade of rubber goods, electric wire, and electric cables. The family also figured significantly in nineteenth and twentieth century Italian and international politics.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3188230-Giovanni Battista Pirelli</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3188240-Piero Pirelli</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3188220-Alberto Pirelli</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GL20C_3661077111</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>Italian industrialists</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="" list-content="bio_meta">
+                  <title>
+                     <italic>Giovanni Battista Pirelli</italic>
+                  </title>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>December 27, 1848</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Varenna, Como, Austrian Empire (now in Italy)</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>October 20, 1932</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Milan, Italy</p>
+                  </list-item>
+               </list>
+               <list id="" list-content="bio_meta">
+                  <title>
+                     <italic>Piero Pirelli</italic>
+                  </title>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>January 27, 1881</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Milan, Italy</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>August 7, 1956</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Milan, Italy</p>
+                  </list-item>
+               </list>
+               <p>
+                  <italic>The Pirelli family was a group of Italian industrialists who furthered the development, production, and trade of rubber goods, electric wire, and electric cables. The family also figured significantly in nineteenth and twentieth century Italian and international politics.</italic>
+               </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Early Lives</title>
+               <p>Giovanni Battista Pirelli
+                   (pee-REHL-lee), who would become the father of Piero and Alberto, was born in Varenna, Como, then part of the Austrian Empire. He attended schools in Como and later entered the Facolta de Matematica in Pavia, from which he went on to the Politechnico of Milan. During the years of the Italian unification, Giovanni fought with the Italian patriot <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807099"
+                                   xlink:type="simple">Giuseppe Garibaldi</related-article>, serving as a guerrilla Red Shirt at Trentino and in the Battle of Mentana. He later served as a senator in the Italian government.</p>
+               <p>In 1870, Giovanni traveled to <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391194"
+                                   xlink:type="simple">Switzerland</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391086"
+                                   xlink:type="simple">Germany</related-article> to learn about the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551054"
+                                   xlink:type="simple">rubber industry</related-article>, which, like other forms of industry, was little developed in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391103"
+                                   xlink:type="simple">Italy</related-article>. He returned to Milan and, in 1872, started a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89551827"
+                                   xlink:type="simple">rubber</related-article> hose factory to combat domination of the market by the French, Italy’s erstwhile enemy. He opened a shop in Milan with forty-two thousand dollars in borrowed capital, thirty-five workers, and some experience in vulcanization, the process whereby rubber is hardened to prevent melting at high temperatures. It was the first business of its kind in Italy and one of the first in Europe.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Lives’ Work</title>
+               <p>The firm developed specialties in wires, insulated cables, and eventually automobile tires. It produced some of the earliest telegraph and telephone wires for Italy’s new army. In 1879, Giovanni extended his enterprise to the production of electrical conductors. He later produced cables whose design and construction stood far in advance of anything obtainable at the time. In 1883, Milan inaugurated the Edison Central Electric Station, the first station of its scale in Europe. The Pirelli firm supplied the rubber-coated wires used in the new installations, its first customer being the Milanese opera house, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89141179"
+                                   xlink:type="simple">La Scala</related-article>. The company pioneered the manufacture of electric cable and, in 1887, began producing and installing underwater cables as well. The firm had a subsidiary factory in Barcelona for the production of electric cables by 1902, making Pirelli the first Italian industrialist to establish plants outside Italy. In 1917, when a Pirelli engineer patented an oil-insulated cable that could carry far more than the limit then in effect, Pirelli became a leader in the high-tension cable business. The Pirelli firm entered the pneumatic tire business in 1890 with production of its first air-filled bicycle tires. As Italy’s automobile industry began increased development, Pirelli moved into the pneumatic automobile tire market in 1899.
+               </p>
+               <p>Giovanni’s son, Piero, joined the firm in 1901. Piero received an LL.D. at the University of Genoa. Alberto, a second son, joined the business in 1903. To promote the automobile tire industry, Alberto helped sponsor the eight-thousand-mile Beijing-to-Paris automobile race of 1907, which was won by the Italian driver Prince Borghese in a car fitted with Pirelli tires. Alberto built dirigibles for <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87324023"
+                                   xlink:type="simple">North Pole</related-article> explorations during the 1920’s. The Pirelli <italic>Norge</italic> was the first lighter-than-air craft to succeed in reaching the pole, making a more than eight-thousand-mile voyage from Rome to Teller, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88112620"
+                                   xlink:type="simple">Alaska</related-article>, in 1926. The crew, which included <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88802129"
+                                   xlink:type="simple">Roald Amundsen</related-article>, saw and photographed parts of the globe never before seen by human eyes.</p>
+               <p>By 1914, the Pirelli company was the largest Italian manufacturer of rubber goods. It had built an industrial system that was virtually independent of the Italian state, linking its strength to foreign markets without Italian favors. Pirelli plants could be found in many parts of Italy and the world.</p>
+               <p>Both Piero and Alberto participated actively in promoting Italian business and international trade. Piero assisted greatly with the development of the Italian telephone service, represented Italy in many important international financial <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89163882"
+                                   xlink:type="simple">negotiations</related-article>, and served as vice president of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88390979"
+                                   xlink:type="simple">Confederation</related-article> of Italian Industries. Alberto was <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="87575317"
+                                   xlink:type="simple">chosen</related-article> by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89098813"
+                                   xlink:type="simple">Benito Mussolini</related-article> to represent Italy at the important post-<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89316811"
+                                   xlink:type="simple">World War I</related-article> conferences. The younger Pirelli brother was a member of the Supreme Economic Committee of Versailles, Italian delegate to the first International Labor Office of Geneva, and a member of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88960845"
+                                   xlink:type="simple">League of Nations</related-article> Economic Committee. Between 1928 and 1932, Alberto served as president of the International <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89404361"
+                                   xlink:type="simple">Chamber of Commerce</related-article>. He served on the Dawes Committee, bringing to bear his concern for the impact of reparations payments on international trade. Alberto became Mussolini’s trusted financial and economic adviser. He was a member of the National Council of Corporations and a commissioner of the General Fascist Confederation of Industries, two syndicates through which the Italian government controlled industry.</p>
+               <p>Giovanni died in 1932. Piero was then serving as managing director of the Pirelli organization and, after his father’s death, became chair of the board. Alberto assumed management of the business that year.</p>
+               <p>Pirelli plants were destroyed during <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89116550"
+                                   xlink:type="simple">World War II</related-article>, but <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89403027"
+                                   xlink:type="simple">Marshall Plan</related-article> funds assisted in building five new factories and refurbishing old ones; the business flourished again. To counter the growing communist influence among workers during the 1950’s, Alberto began a progressive program that brought higher <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89551136"
+                                   xlink:type="simple">wages</related-article>, increased benefits, and greater worker satisfaction to the business, resulting in the decline of communist influence and an increase in worker <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89163932"
+                                   xlink:type="simple">productivity</related-article>. Pirelli workers gained a free medical, surgical, and hospital plan; low-cost modern housing options; a free home for retirees on Lake Como; and free vacation camps on the Italian Riviera. During one eight-year period, Pirelli wages increased 96 percent vis-à-vis the 28 percent Italian cost-of-living rise.</p>
+               <p>By the mid-1960’s, Pirelli had become the second-largest tire and rubber company outside the United States and shared a close race with a British company for the position as the world’s largest producer of electric cable. It sold more abroad than any other Italian company and had eighty-one plants in thirteen different countries. It was also the second-largest stockholder in Italy’s Fiat automobile company.</p>
+               <p>The Pirelli organization continued <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89677574"
+                                   xlink:type="simple">innovation</related-article> in the tire industry. In 1953, radial-ply tires using textile belts were introduced, giving much greater vertical flexibility. During the 1970’s, Pirelli improved wet traction by modifying rubber formulas, and the company’s methods of measuring vehicle handling came to be considered the most professional in the world. In 1971, the firm merged with Great Britain’s Dunlop Holding, a union designed to join the resources of Europe’s two largest tire and rubber companies, while maintaining their status as separate <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475181"
+                                   xlink:type="simple">holding companies</related-article> and retaining their own trademarks. The merger was dissolved in 1981. Its failure has been attributed to greater <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89551660"
+                                   xlink:type="simple">competition</related-article> in the industry and to higher production costs emerging from increased oil prices. Today Pirelli is an international <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89405918"
+                                   xlink:type="simple">holding company</related-article> with operations in Europe, North and South America, the Middle East, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391144"
+                                   xlink:type="simple">New Zealand</related-article>.</p>
+               <p>Piero died in 1956. His younger brother, Alberto, retired in 1965 and died six years later after a long illness. The direction of the Pirelli company remained in the hands of Alberto’s second son, Leopoldo, who modernized the organization’s management structure and conducted the firm as the chief executive of the vast and highly organized stockholder organization that it had already become.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>Giovanni Pirelli, his sons, and the firm they established were both cause and effect in the industrialization of Italy during the late nineteenth and early twentieth centuries. Giovanni brought to Italy the production practices of that part of Europe north of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88802500"
+                                   xlink:type="simple">Alps</related-article>. His sons Alberto and Piero played a large role in the political and industrial advancement of Italy as a substantial international power.</p>
+               <p>The Pirelli family, particularly Alberto, pushed rubber technology to the limit. Besides innovative research and application in the tire industry and with rubber-insulated electric cables, the Pirelli organization has produced countless rubber items, including skin diving equipment, raincoats, elastic thread, plastic food bags, baby bottle nipples, rubber hoses, and drive belts.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Coates, Austin. <italic>The Commerce in Rubber: The First 250 Years</italic>. New York: Oxford University Press, 1987. Coates’s interesting and comprehensive history of the world rubber industry places the Pirelli organization in the larger context of that trade. The chapter entitled “Europe-Electricity and Tyres-Pirelli-Dunlop-Michelin” is particularly relevant.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Editors of <italic>Fortune</italic>. <italic>Businessmen Around the Globe</italic>. Englewood Cliffs, N.J.: Prentice-Hall, 1967. The article on Leopold Pirelli, who assumed leadership of the Pirelli organization in 1965, contains a brief account of Giovanni’s founding of the business.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Nobile, Umberto. “Navigating the <italic>Norge</italic> from Rome to the North Pole and Beyond.” <italic>National Geographic Magazine</italic> 52 (August, 1927): 177-215. Nobile was an Italian air force general who codirected the Pirelli-sponsored dirigible flight over the North Pole. The body of the <italic>Norge</italic> was constructed of rubberized, triple-ply fabric.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Pirelli, Alberto, Josiah C. Stamp, and Count A. de Chalendar. <italic>Reparation Payments and Future International Trade</italic>. Paris: International Chamber of Commerce, 1925. This report by the Economic Restoration Committee of the International Chamber of Commerce contains the study of the possible effects of the German reparation payments on international trade. Pirelli served on the subcommittee and helped compose part 1 of the report.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Ridgeway, George L. <italic>Merchants of Peace: Twenty Years of Business Diplomacy Through the International Chamber of Commerce</italic>. New York: Columbia University Press, 1938. Ridgeway describes the evolution and work of the International Chamber of Commerce, whose president from 1928 to 1932 was Alberto Pirelli. The chapter on the business settlement of reparations also describes the work of the Dawes Committee, on which Alberto also served.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Webster, Richard A. <italic>Industrial Imperialism in Italy 1908-1915</italic>. Berkeley: University of California Press, 1975. Webster’s research provides a valuable description of the environment in which Italian companies such as the Pirelli organization worked during the decade preceding World War I. The chapter dealing with non-trust industries is the most pertinent.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>The Pirelli Family</article-title>
+                        <source>Great Lives from History: The Twentieth Century</source>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Robert F.</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Gorman</surname>
+                           </name>
+                        </person-group>
+                        <year>2008</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

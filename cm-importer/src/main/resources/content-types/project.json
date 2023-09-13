@@ -1,0 +1,1028 @@
+{
+	"created_at": "2022-11-23T20:08:17.434Z",
+	"updated_at": "2022-11-24T01:23:00.414Z",
+	"title": "Project",
+	"uid": "project",
+	"_version": 4,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Project Name",
+			"field_metadata": {
+				"_default": true,
+				"instruction": "Naming Convention\n(Prod code + FY + Q +month +new/update",
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Product",
+			"reference_to": [
+				"product"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "product",
+			"mandatory": true,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Priority",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Low"
+					},
+					{
+						"value": "Medium"
+					},
+					{
+						"value": "High"
+					},
+					{
+						"value": "Urgent"
+					},
+					{
+						"value": "Regular"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "priority",
+			"field_metadata": {
+				"description": "",
+				"default_value": "Regular",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Number of articles for project",
+			"uid": "art_count_articles",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": true,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Project Date",
+			"uid": "start_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "This is the new DTformat for the project",
+				"default_value": {
+					
+				},
+				"hide_time": true,
+				"instruction": "This is the new DTformat for the project"
+			},
+			"mandatory": true,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Select all workflow stages for project",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Draft - New writing or editorial update"
+					},
+					{
+						"value": "EPA Check"
+					},
+					{
+						"value": "1st Editorial Review"
+					},
+					{
+						"value": "2nd Editorial Review"
+					},
+					{
+						"value": "Image Development"
+					},
+					{
+						"value": "Project Approval"
+					},
+					{
+						"value": "Ready for product"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "project_stages",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Description ",
+			"uid": "description_",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "Project description (Project issue note)\n",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Project Type",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Update"
+					},
+					{
+						"value": "Data pull"
+					},
+					{
+						"value": "New reuse as is"
+					},
+					{
+						"value": "New"
+					},
+					{
+						"value": "Data fix"
+					},
+					{
+						"value": "Review only"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "project_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Project Processing Type",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Update existing content on product"
+					},
+					{
+						"value": "(Originally created) New to product"
+					},
+					{
+						"value": "(Reuse as is) New to product"
+					},
+					{
+						"value": "(Reuse with update needed) New to product"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "project_processing_type",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Quarter",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Q1"
+					},
+					{
+						"value": "Q2"
+					},
+					{
+						"value": "Q3"
+					},
+					{
+						"value": "Q4"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "quarter",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": true,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Month",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "January"
+					},
+					{
+						"value": "February"
+					},
+					{
+						"value": "March"
+					},
+					{
+						"value": "April"
+					},
+					{
+						"value": "May"
+					},
+					{
+						"value": "June"
+					},
+					{
+						"value": "July"
+					},
+					{
+						"value": "August"
+					},
+					{
+						"value": "September"
+					},
+					{
+						"value": "October"
+					},
+					{
+						"value": "November"
+					},
+					{
+						"value": "December"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "month",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Fiscal Year",
+			"uid": "fiscal_year",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"instruction": "YYYY"
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"min": null,
+			"max": null
+		},
+		{
+			"data_type": "file",
+			"display_name": "Project Guidelines",
+			"uid": "project_guidelines",
+			"extensions": [],
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard"
+			},
+			"mandatory": true,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Status",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Archived"
+					},
+					{
+						"value": "Closed"
+					},
+					{
+						"value": "Active"
+					},
+					{
+						"value": "Inactive"
+					},
+					{
+						"value": "Defined"
+					},
+					{
+						"value": "In-progress"
+					},
+					{
+						"value": "Accepted"
+					},
+					{
+						"value": "Completed"
+					},
+					{
+						"value": "Cancelled"
+					},
+					{
+						"value": "On-hold"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "status",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "PM Notes",
+			"uid": "pm_notes",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Art Spec status",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Art specs needed"
+					},
+					{
+						"value": "Art specs in progress"
+					},
+					{
+						"value": "Art specs ready"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "art_spec_status",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Art Spec Owner",
+			"uid": "art_spec_owner",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Image Developer",
+			"uid": "image_developer",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Bulk Image Placement Instructions",
+			"uid": "bulk_image_placement_instructions",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Date Processed",
+			"uid": "date_processed",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Date Rule",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "New"
+					},
+					{
+						"value": "Original"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "date_rule",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Date to RS Build",
+			"uid": "date_to_rs_build",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "file",
+			"display_name": "Article Cutlist",
+			"uid": "finalized_article_cutlist",
+			"extensions": [],
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard"
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "file",
+			"display_name": "Finalized Image Cutlist",
+			"uid": "finalized_image_cutlist",
+			"extensions": [],
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard"
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Images uploaded",
+			"uid": "images_checked_in",
+			"field_metadata": {
+				"description": "images asset created and metadata associated",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Link to Contentstack Image Folder",
+			"uid": "link_to_image_folder",
+			"field_metadata": {
+				"allow_rich_text": true,
+				"description": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": [],
+				"version": 3
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Link to PropPub folder",
+			"uid": "link_to_proppub_folder",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "New Images Needed",
+			"uid": "new_images_needed",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "PDF Needed",
+			"uid": "pdf_needed",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Target Product Launch Date",
+			"uid": "target_product_launch_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Target Due Date to CM",
+			"uid": "target_due_date_to_cm",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Target CEs Start Date",
+			"uid": "target_ces_start_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "reference",
+			"display_name": "Source Title",
+			"reference_to": [
+				"book_source"
+			],
+			"field_metadata": {
+				"ref_multiple": true,
+				"ref_multiple_content_types": true
+			},
+			"uid": "source_title",
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Dtformat (For New Content)",
+			"uid": "dtformat_for_new_content_",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "file",
+			"display_name": "Articles with Title Changes Sheet",
+			"uid": "articles_with_title_changes_sheet",
+			"extensions": [],
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard"
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "PM Owner",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Jane Doe"
+					}
+				]
+			},
+			"multiple": false,
+			"uid": "pm_owner",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Estimated Total Hours for Project",
+			"uid": "estimated_total_hours_for_project",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": true,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "number",
+			"display_name": "Actual Hours Spent for Project",
+			"uid": "actual_hours_spent_for_project",
+			"field_metadata": {
+				"description": "",
+				"default_value": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "isodate",
+			"display_name": "Vendor Due Date",
+			"uid": "vendor_due_date",
+			"startDate": null,
+			"endDate": null,
+			"field_metadata": {
+				"description": "",
+				"default_value": {
+					
+				}
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "boolean",
+			"display_name": "Project Contains Biographies",
+			"uid": "project_contains_biographies",
+			"field_metadata": {
+				"description": "",
+				"default_value": false
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Biography Topic Fields to Include",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "First name"
+					},
+					{
+						"value": "Middle name"
+					},
+					{
+						"value": "Last name"
+					},
+					{
+						"value": "Also known as"
+					},
+					{
+						"value": "Date of birth"
+					},
+					{
+						"value": "Place of birth"
+					},
+					{
+						"value": "Date of death"
+					},
+					{
+						"value": "Place of death"
+					},
+					{
+						"value": "Position/Title/Affiliation"
+					},
+					{
+						"value": "Main occupation"
+					},
+					{
+						"value": "Other occupation/related fields"
+					},
+					{
+						"value": "Gender"
+					},
+					{
+						"value": "Race"
+					},
+					{
+						"value": "Nationality"
+					},
+					{
+						"value": "Religion"
+					},
+					{
+						"value": "Associated figures"
+					},
+					{
+						"value": "Key events"
+					},
+					{
+						"value": "Works"
+					},
+					{
+						"value": "Works in CMS"
+					},
+					{
+						"value": "Awards"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "biography_topic_fields_to_include",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "Project",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "blt45f597cc5c42bf37",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltf31aa1f732cbc4a1",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"create": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

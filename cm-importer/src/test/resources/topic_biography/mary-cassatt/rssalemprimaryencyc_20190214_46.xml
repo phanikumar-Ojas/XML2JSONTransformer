@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rssalemprimaryencyc</book-id>
+      <book-id pub-id-type="eis-mid">HDMJ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Primary Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">HDMJ</alt-title>
+         <alt-title alt-title-type="derived_from_id">344099</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>June</month>
+         <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>30</day>
+         <month>June</month>
+         <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="reviewed">
+         <day>30</day>
+         <month>June</month>
+         <year>2019</year>
+      </pub-date>
+      <copyright-statement>© 2019 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="sp_ency_pri.344099"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rssalemprimaryencyc_20190214_46</book-part-id>
+            <title-group>
+               <title>Mary Cassatt</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Kermin</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bhot</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Mary Cassatt was an American painter. She played a major role in Impressionism. Impressionism was an art movement of the 1800s. Cassatt was one of the few women to be a member of the Impressionist group. She was also the only American officially associated with the movement. Cassatt’s work often depicted the lives of women. It included social and intimate family scenes.A portrait of Mary Cassatt in the early 1880s painted by fellow impressionist Edgar Degas.Edgar Degas [Public domain] Mary Cassatt in 1913.Durand-Ruel [Public domain]</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Lexile:</meta-name>                  <meta-value>800</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>344099</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1820</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN3134740" list-content="bio_meta">
+                  <title/>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>May 22, 1844</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Allegheny, Pennsylvania</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>June 14, 1926</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Château de Beaufresne, Le Mesnil-Théribus, France</p>
+                  </list-item>
+               </list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>Mary Cassatt was an American painter. She played a major role in Impressionism. Impressionism was an art movement of the 1800s. Cassatt was one of the few women to be a member of the Impressionist group. She was also the only American officially associated with the movement. Cassatt’s work often depicted the lives of women. It included social and intimate family scenes.<fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>A portrait of Mary Cassatt in the early 1880s painted by fellow impressionist Edgar Degas.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="rssalemprimaryencyc-20190214-46-174767.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>Edgar Degas [Public domain]</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Mary Cassatt in 1913.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="rssalemprimaryencyc-20190214-46-174812.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>Durand-Ruel [Public domain]</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Early Life</title>
+               <p>Mary Stevenson Cassatt was born in Allegheny City, Pennsylvania, in 1844. Her father was a well-to-do banker. When she was a young girl, Cassatt and her family moved to Europe. She lived there for five years. She received private tutoring in art. At the age of sixteen, Cassatt enrolled in the Pennsylvania Academy of the Fine Arts and studied there until 1865. In 1866, Cassatt traveled to Europe to study art. Paris became her home. She had private lessons with European painters. These men taught at the prestigious École des Beaux-Arts school. She worked privately with them because the school would not accept women. Cassatt also trained herself by copying the paintings of masters. In 1868, one of her paintings, <italic>The Mandolin Player</italic>, was selected for the Paris Salon. The Paris Salon was a prestigious annual art exhibition.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Fame and Family</title>
+               <p>In 1870, Cassatt returned to America. The next year, she traveled back to Europe to resume her career. She spent time in Italy, Spain, Belgium, and Holland, where she worked and studied. She showcased her work again at the 1872 Paris Salon. Her paintings began to appear regularly in salon exhibitions. She became an established artist. During this time, few women were considered to be serious artists. In 1874, Cassatt decided to settle in Paris.</p>
+               <p>Three years later, her parents and sister joined her there. It was during this time that Cassatt started to experiment with her style. She and the artist Edgar Degas became friends. He invited her to join a group of independent artists. These artists would later become known as the Impressionists. Impressionists were part of an art movement called Impressionism. Impressionists used bright, bold colors. Landscapes and outdoor scenes feature predominantly in their art. The Impressionists didn’t paint realistic pictures with detailed scenes and defined shapes. Rather, these artists painted an impression of the scene or person. Impressionists also focused on the effect of light in their work. As a result, they often painted outdoors.</p>
+               <p>Degas and Cassatt became good friends. Influenced by this group, Cassatt started modifying her own technique. She revised her use of color and light in her work. Her paintings showed a move towards Impressionism.</p>
+               <p>In the 1870s and 1880s, Cassatt’s work generally featured the same subjects. They included her family, the opera, and the theater. Later, she would specialize in works that showcased the mother and child relationship.</p>
+               <p>In 1879, Degas invited Cassatt to exhibit her work along with other Impressionists. The show was a success. Cassatt also joined them in their 1880, 1881, and 1886 exhibitions.</p>
+               <p>In 1894, Cassatt bought a château in the French countryside. A château is a large country house. Eventually, Cassatt’s health problems started affecting her eyesight. By 1912, she had become partially blind. By 1914, she was forced to stop working. She died in 1926 in her country home.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <title>Books</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Brooks, Philip. <italic>Mary Cassatt: An American in Paris</italic>. Franklin Watts, 1995.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Hoena, Blake A. <italic>Mary Cassatt</italic>. Capstone Press, 2004.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Morlock, Rachael. <italic>Mary Cassatt: Famous Female Impressionist</italic>. Lucent Press, 2019.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Wood, Alix. <italic>Mary Cassatt</italic>. Windmill Books, 2016.</citation>
+                  </ref>
+               </ref-list>
+               <ref-list>
+                  <title>Websites</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Biography.com Editors. “Mary Cassatt.” <italic>Biography</italic>. A&amp;E Television Networks, 2 Apr. 2014, https://www.biography.com/people/mary-cassatt-9240820.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">“Mary Cassatt.” <italic>Britannica Kids</italic>. Encyclopaedia Britannica, Inc., n.d., https://kids.britannica.com/kids/article/Mary-Cassatt/399392.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">“Mary Stevenson Cassatt.”<italic> Mary Cassatt</italic>. MaryCassatt.org, n.d., https://www.marycassatt.org/.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

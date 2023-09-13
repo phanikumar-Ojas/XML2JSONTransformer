@@ -1,0 +1,114 @@
+properties([parameters([[$class: 'ChoiceParameter', choiceType: 'PT_SINGLE_SELECT', filterLength: 1, filterable: false, name: 'branch', randomName: 'choice-parameter-2694435368033716', script: [$class: 'GroovyScript', fallbackScript: [classpath: [], oldScript: '', sandbox: false, script: ''], script: [classpath: [], oldScript: '', sandbox: true, script: '''def gettags = ("git ls-remote -t -h git@github.com:EBSCOIS/platform.shared.cms-import.git").execute()
+       return gettags.text.readLines().collect { 
+       it.split()[1].replaceAll(\'refs/heads/\', \'\').replaceAll(\'refs/tags/\', \'\').replaceAll("\\\\^\\\\{\\\\}", \'\')
+}''']]], [$class: 'ChoiceParameter', choiceType: 'PT_SINGLE_SELECT', filterLength: 1, filterable: true, name: 'projectid', randomName: 'choice-parameter-2694435369032087', script: [$class: 'GroovyScript', fallbackScript: [classpath: [], oldScript: '', sandbox: false, script: ''], script: [classpath: [], oldScript: '', sandbox: false, script: '''import jenkins.model.*
+import groovy.json.JsonSlurper
+
+instance = Jenkins.getInstance()
+globalNodeProperties = instance.getGlobalNodeProperties()
+
+globalNodeProperties.each {
+  envVars = it.getEnvVars()
+    API = envVars.get(\'API_KEY\');
+    TOKEN = envVars.get(\'MANAGEMENT_TOKEN\');
+}
+
+HttpURLConnection urlc = (HttpURLConnection) (new URL("https://api.contentstack.io/v3/content_types/project/entries").openConnection());
+urlc.setRequestProperty("api_key", API.toString());
+urlc.setRequestProperty("authorization", TOKEN.toString());
+urlc.connect();
+def projects = urlc.getInputStream().text
+//println(projects)
+def slurper = new JsonSlurper()
+def result = slurper.parseText(projects)
+return result.entries.collect{[(it.title) , it.uid]}''']]], booleanParam(defaultValue: true, name: 'pdf')])])
+
+if (projectid != '[ALL]') { 
+    id = projectid.replaceAll("\\[|\\]", "").split(',')[1]
+    title = projectid.replaceAll("\\[|\\]", "").split(',')[0]
+}
+else {
+    id = projectid.replaceAll("\\[|\\]", "")
+}
+
+pipeline {
+   environment {
+    API_KEY = credentials('api_key')
+    MANAGEMENT_TOKEN = credentials('management_token')
+    MFS_URL = credentials('mfs_url')
+    CREDS = credentials('Win_creds')
+   }
+   agent {label 'Slave1_Win'}
+   
+   stages {
+    stage('Git checkout') { // for display purposes
+        steps {
+            git url: 'git@github.com:EBSCOIS/platform.shared.cms-import.git', branch: "$branch"
+        }
+    }
+    
+    
+    stage('Build cm-exporter tool') {
+
+        steps {
+            script {
+            sh 'bash mvnw clean package -pl cm-exporter -am'
+            }
+        } 
+    }
+    
+    stage('Create properties file') {
+
+        steps {
+            script {
+            sh '''
+            cat > C:/app/java/cms.properties << EOF
+MFS_CONNECTION_URL=$MFS_URL
+CONTENTSTACK_API_KEY=$API_KEY
+CONTENTSTACK_MANAGEMENT_TOKEN=$MANAGEMENT_TOKEN
+contentstack-base-url=https://api.contentstack.io/v3
+nextjs-app-url=https://development.d14d0yxuvvfjbv.amplifyapp.com
+EOF
+            '''
+            }
+        } 
+    }
+      
+    stage('Perform CM export') {
+
+        steps {
+            script {
+                if (params.pdf) { 
+                    sh "cat C:/app/java/cms.properties; cd cm-exporter/target; dir; java -jar cm_exporter.jar -p $id"
+                }
+                else {
+                    sh "cat C:/app/java/cms.properties; cd cm-exporter/target; dir; java -jar cm_exporter.jar -p $id -nopdf"
+                }
+            }
+        } 
+    }
+    
+    
+    stage ('Map network drive and copy export files') {
+
+        steps {
+        script {
+        SOURCE = "\'C:/exports/$title\'"
+        DESTINATION = "\'Z:/SP1/Salem_Press_Archive_files/working_copies/cm_folders/\'"
+        powershell "net use Z: \\\\svm-cdnnas101\\salem_press /u:CORP\\amykytyshyn $CREDS"
+        sh "net use"
+        sh "cp -r $SOURCE $DESTINATION"
+        powershell "net use Z: /d"
+
+          }
+        }   
+      }
+ }
+ 
+    post {
+        always {
+        cleanWs()
+    } 
+  }
+
+}

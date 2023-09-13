@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_lit</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsspliterature</book-id>
+      <book-id pub-id-type="eis-mid">GY4P</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Literature</book-title>
+         <alt-title alt-title-type="mid">GY4P</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>February</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>December</month>
+         <year>2017</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="rsspliterature.10.3331.310660"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">poetry_movements_2017_sp_ency_lit_310660</book-part-id>
+            <title-group>
+               <title>Symbolists</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Molly</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Hagan</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Symbolism was a literary movement that flourished in France in the second half of the nineteenth century. Its most important practitioners were Charles Baudelaire, Stéphane Mallarmé, Paul Verlaine, and Arthur Rimbaud, all of whom sought to capture the unknowable essence of existence through suggestive symbols. Symbolist poets eschewed traditional poetic forms. Instead, they often wrote lyric poems or free verse using imagery that evoked the five senses. They prized imagination over scientific thought and, inspired by prehistoric rituals and religions, believed that the world was suffused with mystery beyond human understanding. The Symbolist movement, wedged between the earlier Romantic period and the later surrealist and modernist movements, lasted for only a short time, but it served as a necessary bridge that carried influential ideas about poetic form (or rather, lack of form) and the value of art from one century to the next. The works that best demonstrate the Symbolist manifesto are Baudelaire's "Correspondances" ("Correspondences") and "Le vin des chiffonniers" ("The Ragpickers' Wine"), Mallarmé's "L'après-midi d'un faune" ("The Afternoon of a Faun"), Verlaine's "Art poétique" ("Ars Poetica"), and Rimbaud's "Le bateau ivre" ("The Drunken Boat").</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>287172</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1242</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>125599275</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1243</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Works Discussed in This Essay</title>
+               <list list-type="simple">
+                  <list-item>
+                     <p>"The Afternoon of a Faun" by Stéphane Mallarmé</p>
+                  </list-item>
+                  <list-item>
+                     <p>"Ars Poetica" by Paul Verlaine</p>
+                  </list-item>
+                  <list-item>
+                     <p>"Be Drunk" by Charles Baudelaire</p>
+                  </list-item>
+                  <list-item>
+                     <p>"Correspondences" by Charles Baudelaire</p>
+                  </list-item>
+                  <list-item>
+                     <p>"The Drunken Boat" by Arthur Rimbaud</p>
+                  </list-item>
+                  <list-item>
+                     <p>"The Ragpickers' Wine" by Charles Baudelaire</p>
+                  </list-item>
+               </list>
+               <p>Symbolism was a literary movement that flourished in France in the second half of the nineteenth century. Its most important practitioners were Charles Baudelaire, Stéphane Mallarmé, Paul Verlaine, and Arthur Rimbaud, all of whom sought to capture the unknowable essence of existence through suggestive symbols. Symbolist poets eschewed traditional poetic forms. Instead, they often wrote lyric poems or free verse using imagery that evoked the five senses. They prized imagination over scientific thought and, inspired by prehistoric rituals and religions, believed that the world was suffused with mystery beyond human understanding. The Symbolist movement, wedged between the earlier Romantic period and the later surrealist and modernist movements, lasted for only a short time, but it served as a necessary bridge that carried influential ideas about poetic form (or rather, lack of form) and the value of art from one century to the next. The works that best demonstrate the Symbolist manifesto are Baudelaire's "Correspondances" ("Correspondences") and "Le vin des chiffonniers" ("The Ragpickers' Wine"), Mallarmé's "L'après-midi d'un faune" ("The Afternoon of a Faun"), Verlaine's "Art poétique" ("Ars Poetica"), and Rimbaud's "Le bateau ivre" ("The Drunken Boat").</p>
+               <p>The movement was thus named by poet Jean Moréas, who published a Symbolist manifesto in the Parisian newspaper <italic>Le Figaro</italic> in 1886. In his fiery tract, Moréas positioned Symbolism in opposition to both naturalism and sentimentality. Allusion, metaphor, and of course symbolic imagery stood, in his eyes, as superior tools for understanding and describing the known world and one's inner life. Writing more than a decade later, British poet Arthur Symons, who is credited with introducing the French Symbolists to an Anglo-American readership, described the goal of the movement as an intimacy with the "ultimate essence" (Symons 9) of a thing. One comes nearest to that essence, a Symbolist poet postulates, not by naming it outright, but by evoking it. As Mallarmé wrote in a letter to the poet Henri Cazalis in 1864: "I am inventing a language which must necessarily burst forth from a very new poetics that could be defined in a couple of words: <italic>Paint, not the thing, but the effect it produces</italic>" (qtd. in Lloyd 48).</p>
+               <p>To evoke these effects, the Symbolist poets frequently turned to descriptions of the senses. Finding unity among the senses, harmonizing sight, scent, taste, feel, and sound, was for Baudelaire in particular a primary interest and guiding poetic philosophy. The term for this harmonization is synesthesia, a word that literally means "union of the sense." In science and neurology, the term refers to a very small subset of people who experience the world differently than others; synesthetes might say that particular words have a certain taste, or that certain music produces different colors. The term is also used to describe this phenomenon in the abstract. Whether or not Baudelaire was technically a synesthete, he described the world in a way that combined the senses in unusual ways. In "Correspondences," he compares in the unity of the senses to the mystical unity of all things both in the spiritual realm and in nature.</p>
+               <p>Most scholars trace the beginning of the Symbolist movement to the publication of Baudelaire's poetry collection <italic>Les fleurs du mal</italic> (<italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="87575112"
+                                      xlink:type="simple">Flowers of Evil</related-article>
+                  </italic>, 1936) in 1857, but the movement enjoyed its peak during the 1880s and 1890s. This period, known in France as the fin de siècle (end of the century), was a time of political and technological change. The rise of Marxism in France splintered political parties into increasingly polarized factions, and the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160528"
+                                   xlink:type="simple">Dreyfus affair</related-article>, in which a Jewish officer in the French army was falsely accused of treason, lent an air of scandal to the Third Republic (France's government at the time). It was also during this period that France amassed, rather quickly, one of the largest colonial empires in the world—perhaps to make up for the country's dwindling industrial resources at home. Meanwhile, the rise of electric lighting changed the way city dwellers saw the places they lived, and along with the rest of the world, French people experienced radical changes in public transportation and saw the implementation of standardized time and the birth of film. The French were standing on the cusp of a new era, and the feeling of mingled excitement and foreboding brought by this knowledge was palpable. As is often the case, art flourished during this time of uncertainty and called for change.</p>
+               <p>The Symbolists rejected the new and celebrated modernity, and more broadly rejected a merely scientific way of looking at the world. Charles Darwin's <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="98697024"
+                                      xlink:type="simple">On the Origin of Species</related-article>
+                  </italic> had a profound influence on both scientific and popular thought after it was published in 1859. Effectively, Darwin's work asserted that the world could be understood empirically; the Symbolists disagreed, saying that world was suffused with mystery that was beyond human understanding. Taking a cue from Baudelaire, who died in 1867, the Symbolists believed that reality was merely a façade and that truth dwelled in the realm of the spirit. They rebelled against the strictures of their early contemporaries, the Parnassian poets, who were more concerned with traditional poetic forms than with creative inspiration. The Symbolists were unconcerned with form; most of their poetry could be described as lyric or free verse, and Baudelaire (in a posthumously published collection) and Rimbaud even pioneered an early form of prose poetry. The Decadents, a subset of the movement that most famously included Verlaine and Rimbaud, took the Symbolist revolt several steps further. They rejected bourgeois morals, values, and attitudes in favor of hedonism, debauchery, and explorations of then-taboo subjects such as homosexuality and the occult.</p>
+               <p>The Symbolist movement grew out of the Romantic period that flourished during the first half of the nineteenth century. Symbolism was relatively short-lived, thriving for only about twenty years before morphing into the more sustained surrealist and modernist movements. Though the movement was centered in France, there were a small number of adherents elsewhere, among them the Irish writer Oscar Wilde. The Symbolists pioneered the popular idea of art as a spiritual experience or as necessary nourishment for one's soul. They also sought inspiration from Greek mythology and the early Christian Gnostics. As literary scholar Daniel Gerould wrote of the movement, "Mythologies were less valued for their narratives than for their imagery and atmosphere as bearers of ideas and images. Alive and contemporary, myth became an embodiment of wisdom and prophecy for the present age as bearers of secret meaning" (82). Gerould was describing the Symbolist movement in the theater, but his observation also applies to poetry. The Modernists would inherit this inclination—to ransack the past in order to create something new—and expand on it.</p>
+               <p>Baudelaire was born in Paris on April 9, 1821. He was an eccentric and complicated fellow; at various points in his life he was a starving artist, a snobbish aristocrat, a monarchist, and a revolutionary. He found some success as an art critic and essayist, and he published translations of works by American author Edgar Allen Poe, whom he called a "twin soul." Thirteen of the poems in his famous collection, <italic>Les fleurs du mal</italic>, fell afoul of government censors; six of them were condemned and not publicly released until 1949. The censorship aided Baudelaire's carefully crafted image as a "poète maudit" (cursed poet)—a degenerate and outsider never quite given his due. In his poetry and, according to friends, in his life, Baudelaire delighted in provoking shock. This aspect of his personage would resonate strongly with the Decadents, particularly Rimbaud. Baudelaire died in Paris, likely from an illness caused by syphilis, on August 31, 1867. He was forty-six.</p>
+               <p>Baudelaire's sonnet "Correspondences," published in <italic>Les fleurs du mal</italic>, illustrates the poet's artistic philosophy of the spiritual unity of all things. In it, he describes nature as a living temple in which, in one translation (by C. F. MacIntyre), "perfumes, sounds, and colors correspond" (line 8). "Man" (3)—and, for that matter, the reader—passes through a forest of symbols, trying to make sense of it all. (Notably, in the poem, the symbols observe the man, not the other way around.) The meaning of the poem is ambiguous, but its images—incense and singing or chanting—evoke scenes of ritual, suggesting that nature, or the physical world, possesses sacred knowledge that man must seek to understand. The synesthesia of Baudelaire's descriptions—the "perfumes" are both "as cool as children's flesh" (9) and as "sweet as oboes" (10)—emphasize this mystical commingling.</p>
+               <p>Baudelaire effectively uses <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="86196374"
+                                   xlink:type="simple">synesthesia</related-article> in another poem, "The Ragpickers' Wine." The poem is included, appropriately enough, in a section of <italic>Les fleurs du mal</italic> about wine. Wine and drunkenness were both literal and metaphorical concepts for Baudelaire. In his prose poem "Enivrez-vous" ("Be Drunk"), he advises the reader to "be always drunk . . . [s]o as not to feel the horrible burden of time" and goes on to say that one can be drunk on "[w]ine, poetry or virtue, as you wish." The wine in "The Ragpickers' Wine" is a kind of poetry. The ragpicker, a person who collects trash and refuse, is "lost in dreams" (7), perhaps of what he will create with other people's junk, and "drunken of his splendid qualities" (12). His visions come alive, in synesthetic glory, with "the dazzling, deafening debauch / Of bugles" (22–23). The poem is otherwise emblematic of Baudelaire's style because it finds beauty in the decay of a Paris slum and finds empathy in a character, the ragpicker, that most poets of the day would have likely ignored.</p>
+               <p>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89313461"
+                                   xlink:type="simple">Stéphane Mallarmé</related-article> was born in Paris on March 18, 1842. Unlike the other Symbolist leaders, he led a relatively quiet life. He studied English literature, sharing Baudelaire's affinity for Poe, and became a schoolteacher, though reportedly not a very good one. In his late twenties, Mallarmé experienced an intense "psychological crisis" (Ross) and found solace in studying the rites of ancient and prehistoric religions, images of which abound in his work. In the 1870s, he moved to Paris and began to hold weekly salons with other writers, including Wilde and, later, a young Paul Valéry. Mallarmé enjoyed a brief period of public success in the 1880s and 1890s before his premature death in 1898 at the age of fifty-six. His works are best known for their radical form, dense imagery, and ambiguity, which some might call inscrutability. They mark an important shift toward the later modernist movement, as well as movements such as surrealism and Dadaism.</p>
+               <p>Like Baudelaire, Mallarmé saw a close relationship between poetry and music. He felt artistically challenged by the German composer <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807406"
+                                   xlink:type="simple">Richard Wagner</related-article>, who reminded him of that to which he aspired: the total command of another's senses. Good music had an almost mystical effect on people, Baudelaire and Mallarmé (independently) observed—though good poetry, Mallarmé believed, was the first art form to produce this effect. Mallarmé, as paraphrased by Valéry, urged fellow poets to "recover from Music what properly belonged to them" (qtd. in Austin 50). Therefore, it is appropriate that Mallarmé's most famous poem, "The Afternoon of a Faun," would inspire an even <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160826"
+                                   xlink:type="simple">more famous piece of music</related-article>, Claude Debussy's <italic>Prélude à l'après-midi d'un faune</italic> (Prelude to the afternoon of a faun), in 1894. The poem imagines the euphoric, sexual exploits of a faun, a mythical creature that is half man and half goat, and two virgin nymphs. The events of the poem take place in the haze of a dream. As a Symbolist, Mallarmé was more interested in evoking the Dionysian encounter in a forest than in describing it in tangible detail. An early image of the faun playing a flute, recalling the Greek god Pan, might have inspired Debussy's decision to open his instrumental interpretation of the poem with a solo flute:</p>
+               <disp-quote>
+                  <p>No water murmurs unless poured by my flute</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>On the thicket sprinkled with melody; and the</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>Only wind, quick to escape the twin pipes before</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>Scattering the sound in an arid rain, is,</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>On the smooth untroubled surface of the horizon,</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>The visible and serene artificial breath</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>Of inspiration returning to the sky. (19–25)</p>
+               </disp-quote>
+               <p>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89313303"
+                                   xlink:type="simple">Paul Verlaine</related-article> was born in Metz, France, on March 30, 1844. He was inspired to become a poet after reading Baudelaire's <italic>Les fleurs du mal</italic>. Verlaine, who fell in with a group of bohemian poets in the 1860s, was the most famous of the Symbolists during his lifetime. In 1871, he received a fan letter from a sixteen-year-old Rimbaud. Despite Verlaine's marriage, his relationship with Rimbaud blossomed into a torrid and violent love affair.</p>
+               <p>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88806888"
+                                   xlink:type="simple">Arthur Rimbaud</related-article> was born in Ardennes on October 20, 1854. In many ways, he was cut from the same cloth as Baudelaire. He ran away from his provincial home and lived as a vagabond in Paris before Verlaine took him in. From 1871 to 1873, the two men embarked on a deliberate program, conjured by Rimbaud, of self-destruction and debauchery. According to critic Jeffrey Meyers, "Rimbaud believed the disorder of the poet's mind was sacred. The visionary yet analytic poet, determined to grasp the unknown, tragically yet joyfully destroyed himself in order to escape from ordinary life, enter a higher reality, and gain superhuman poetical power" (169). Their relationship ended quite dramatically: Verlaine went to prison after shooting Rimbaud during an argument. Rimbaud, who survived, went home to his mother's farm. Verlaine continued to write until his death on January 8, 1896, at the age of fifty-two. Rimbaud, however, stopped writing poetry at the age of twenty. He took a job trading guns in Africa and died in 1891.</p>
+               <p>Like "The Afternoon of a Faun," one of Verlaine's poems, "Clair de lune" ("Moonlight"), was also adapted to a piece of music by Debussy. However, it was Verlaine's "Ars Poetica" that had the most profound effect on his fellow Symbolists. The poem, which he likely wrote in prison, appears in his 1881 collection, <italic>Sagesse</italic> (Wisdom). The content of the poem serves as Verlaine's artistic manifesto, but more largely, it is also a Symbolist manifesto. "Music first and foremost!" (1) it begins. "Nuance, not Color absolute, / Is your goal" (13–14), the speaker advises, before waving away the foolishness of rhyme. Better to let one's imagination wander: "Let your verse be what goes soaring, sighing, / Set free, fleeing from the soul gone flying / Off to other skies and loves, wherever" (30–32).</p>
+               <p>Rimbaud wrote his famous <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="119624777"
+                                   xlink:type="simple">one-hundred-line poem</related-article> "The Drunken Boat" while he was still a young teenager in his hometown. The poem is composed of twenty-five rhymed quatrains, but its content marked an important step in Rimbaud's larger journey toward a more anarchic verse. Daniel Mendelsohn, writing for the <italic>New Yorker</italic>, described it as a "destabilizing fantasy" about a rudderless boat that serves as a metaphor about life and art. Students and scholars often find the poem frustrating in its ambiguity. Rimbaud describes the boat, the water, and the sights and sounds of the things he passes, but these details are impressionistic, passing in the haze of a dream. He describes the ecstasy of letting go (of restrictive poetic forms and social conventions) in terms of the boat taking in water. His vision is both dangerous and exhilarating:</p>
+               <disp-quote>
+                  <p>Sweeter than the flesh of hard apples is to children</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>The green water penetrated my hull of fir</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>And washed me of spots of blue wine</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>And vomit, scattering rudder and grappling-hook</p>
+               </disp-quote>
+               <disp-quote>
+                  <p> </p>
+               </disp-quote>
+               <disp-quote>
+                  <p>And from then on I bathed in the Poem</p>
+               </disp-quote>
+               <disp-quote>
+                  <p>Of the Sea . . . (17–22)</p>
+               </disp-quote>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Austin, Lloyd. <italic>Poetic Principles and Practice: Occasional Papers on Baudelaire, Mallarmé, and Valéry</italic>. Cambridge UP, 1987.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Baudelaire, Charles. "Be Drunk." Translated by Louis Simpson. <italic>Poets.org</italic>, Academy of American Poets, www.poets.org/poetsorg/poem/be-drunk. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Baudelaire, Charles. <italic>One Hundred Poems from </italic>Les Fleurs du mal. Translated by C. F. MacIntyre, U of California P, 1947.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Gerould, Daniel. "The Symbolist Legacy." <italic>PAJ: A Journal of Performance and Art</italic>, vol. 31, no. 1, 2009, pp. 80–90. <italic>Academic Search Complete</italic>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="eplink"
+                                  xlink:href="35955992"
+                                  xlink:type="simple">http://search.ebscohost.com/login.aspx?direct=true&amp;db=a9h&amp;AN=35955992&amp;site=ehost-live</ext-link>. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Horton, Scott. "Mallarmé—the Faun's Afternoon." <italic>Browsings: The Harper's Blog</italic>, Harper's Magazine, 6 Mar. 2008, harpers.org/blog/2008/03/mallarme-the-fawns-afternoon/. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Lloyd, Rosemary. <italic>Mallarmé: The Poet and His Circle</italic>. Cornell UP, 1999.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Mallarmé, Stéphane. "L'Après-midi d'un faune." Translated by Alan Edwards. <italic>The Golden Age of Paris: 1850–1900</italic>, Indiana U Bloomington, www.iub.edu/~paris10/ParisOSS/D10_New_Directions/Mallarme_Faun.html. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Mendelsohn, Daniel. "Rebel Rebel." <italic>The New Yorker</italic>, 29 Aug. 2011, www.newyorker.com/magazine/2011/08/29/rebel-rebel. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Meyers, Jeffrey. "The Savage Experiment: Arthur Rimbaud and Paul Verlaine." <italic>Kenyon Review</italic>, vol. 33, no. 3, 2011, pp. 167–80. <italic>Poetry &amp; Short Story Reference Center</italic>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="eplink"
+                                  xlink:href="61439858"
+                                  xlink:type="simple">http://search.ebscohost.com/login.aspx?direct=true&amp;db=prf&amp;AN=61439858&amp;site=prc-live</ext-link>. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Ross, Alex. "Encrypted." <italic>The New Yorker</italic>, 11 Apr. 2016, www.newyorker.com/magazine/2016/04/11/stephane-mallarme-prophet-of-modernism. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Rimbaud, Arthur. <italic>Rimbaud: Complete Works, Selected Letters; A Bilingual Edition</italic>. Translated and edited by Wallace Fowlie, updated and revised by Seth Whidden, U of Chicago P, 2005.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Symons, Arthur. <italic>The Symbolist Movement in Literature</italic>. 1899. Archibald Constable, 1908. <italic>Internet Archive</italic>, archive.org/details/cu31924027214034. Accessed 9 May 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Verlaine, Paul. <italic>One Hundred and One Poems by Paul Verlaine: A Bilingual Edition</italic>. Translated by Norman R. Shapiro, U of Chicago P, 1999.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Symbolists</article-title>
+                           <italic>Poetry and Short Story Reference Center: Literary Periods, Schools &amp; Movements</italic>
+                           <year>2017</year>
+                           <publisher-name>345</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

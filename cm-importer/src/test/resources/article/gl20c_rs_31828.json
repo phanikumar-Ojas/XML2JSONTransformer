@@ -1,0 +1,1565 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "4e46dd7f-5393-45b4-a066-1b4ca2d0b5d4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Beatles Anthology",
+							"italic": true
+						},
+						{
+							"text": ". San Francisco: Chronicle, 2000. Print."
+						}
+					],
+					"type": "p",
+					"uid": "0f49aed6-3f38-4cad-bf87-bc2f644769dd",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Brocken, Michael. "
+						},
+						{
+							"text": "The Twenty-First Century Legacy of the Beatles: Liverpool and Popular Music Heritage Tourism",
+							"italic": true
+						},
+						{
+							"text": ". Farnham: Ashgate, 2015."
+						}
+					],
+					"type": "p",
+					"uid": "40065cec-63c3-48fc-b95e-a5548a47e2c7",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Burrows, Terry. "
+						},
+						{
+							"text": "The Beatles: The Story of the Fab Four's Swinging Sixties",
+							"italic": true
+						},
+						{
+							"text": ". London: Carlton, 2015."
+						}
+					],
+					"type": "p",
+					"uid": "dc79d5cc-af71-4fad-a5c4-d75a094aab83",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Carr, Roy, and Tony Tyler. "
+						},
+						{
+							"text": "The Beatles: An Illustrated Record",
+							"italic": true
+						},
+						{
+							"text": ". New York: Harmony, 1981."
+						}
+					],
+					"type": "p",
+					"uid": "1f93b2c0-b878-4433-a90b-5e3bb08f7186",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Collins, Marcus. \u0022'The Age of the Beatles': Parliament and Popular Music in the 1960s.\u0022 "
+						},
+						{
+							"text": "Contemporary British History",
+							"italic": true
+						},
+						{
+							"text": " 27.1 (2013): 85–107."
+						}
+					],
+					"type": "p",
+					"uid": "fa16e978-74b5-4054-8084-a6d37d781d35",
+					"attrs": {
+						"citation-type": "journal",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Emerick, Geoff, and Howard Massey. "
+						},
+						{
+							"text": "Here, There, and Everywhere: My Life Recording the Music of the Beatles",
+							"italic": true
+						},
+						{
+							"text": ". New York: Gotham, 2006."
+						}
+					],
+					"type": "p",
+					"uid": "aab26f8e-0a5e-4029-8941-86cb5b7a1374",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Friede, Goldie, Robin Titone, and Sue Weiner. "
+						},
+						{
+							"text": "The Beatles A to Z: John Lennon, Paul McCartney, George Harrison, and Ringo Starr",
+							"italic": true
+						},
+						{
+							"text": ". New York: Methuen, 1980."
+						}
+					],
+					"type": "p",
+					"uid": "23fbf43f-2235-412e-ad6e-873987320588",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Guesdon, Jean-Michel, and Philippe Margotin. "
+						},
+						{
+							"text": "All the Songs: The Story behind Every Beatles Release",
+							"italic": true
+						},
+						{
+							"text": ". New York: Black Dog, 2013."
+						}
+					],
+					"type": "p",
+					"uid": "1993ec67-f9b5-434a-b719-b3049537a3ad",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Lewisohn, Mark. "
+						},
+						{
+							"text": "Tune In: The Beatles: All These Years",
+							"italic": true
+						},
+						{
+							"text": ". Vol 1. London: Little, 2013."
+						}
+					],
+					"type": "p",
+					"uid": "646e8545-48bd-4c20-af9f-c83e95aa35c9",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "McKinney, Devin. "
+						},
+						{
+							"text": "Magic Circles: The Beatles in Dream and History",
+							"italic": true
+						},
+						{
+							"text": ". Cambridge: Harvard UP, 2003."
+						}
+					],
+					"type": "p",
+					"uid": "834e6c1e-736c-4bb4-a636-0a541575a9e9",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Norman, Philip. "
+						},
+						{
+							"text": "Shout! The Beatles in Their Generation",
+							"italic": true
+						},
+						{
+							"text": ". 1981. Rev. ed. New York: Simon, 2005."
+						}
+					],
+					"type": "p",
+					"uid": "a7b1ee4e-2c2e-4f6d-9c7f-7df62f0076e2",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Schaffner, Nicholas. "
+						},
+						{
+							"text": "The Beatles Forever",
+							"italic": true
+						},
+						{
+							"text": ". Harrisburg: Cameron House, 1977."
+						}
+					],
+					"type": "p",
+					"uid": "646528b9-24fd-4c56-93fb-871025959a9b",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Spitz, Bob. "
+						},
+						{
+							"text": "The Beatles: The Biography",
+							"italic": true
+						},
+						{
+							"text": ". New York: Little, 2005."
+						}
+					],
+					"type": "p",
+					"uid": "1b14a9a6-b4f1-44a8-b67f-e191ec30016b",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Unterberger, Richie. "
+						},
+						{
+							"text": "The Unreleased Beatles: Music and Film",
+							"italic": true
+						},
+						{
+							"text": ". Milwaukee: Backbeat, 2006."
+						}
+					],
+					"type": "p",
+					"uid": "4db422ea-a137-4480-b3d8-9dd742b922c1",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Wenner, Jann. "
+						},
+						{
+							"text": "Lennon Remembers",
+							"italic": true
+						},
+						{
+							"text": ". 1971. Rev. ed. New York: Verso, 2000."
+						}
+					],
+					"type": "p",
+					"uid": "17b46e8a-e1e0-438a-a5df-5ca44369c0de",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Wilson, Carl. \u0022The Beatles: Get Back Is an Eight-Hour Love Story.\u0022 "
+						},
+						{
+							"text": "Slate",
+							"italic": true
+						},
+						{
+							"text": ", 30 Nov. 2021, slate.com/culture/2021/11/get-back-beatles-documentary-review-disney-plus.html. Accessed 17 Dec. 2021."
+						}
+					],
+					"type": "p",
+					"uid": "07a9bda4-7f0b-4e7a-9351-19a7f84a1682",
+					"attrs": {
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "1dec94c3-6a87-4118-b704-4e0c87a82698"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"George Harrison",
+			"Rolling Stones",
+			"Peter Jackson",
+			"psychedelic rock",
+			"the Who",
+			"Elvis Presley",
+			"Sgt. Pepper’s Lonely Hearts Club Band",
+			"England",
+			"Paul McCartney",
+			"sitar",
+			"psychedelic drugs",
+			"Kinks",
+			"North America",
+			"Arts",
+			"Yoko Ono",
+			"British invasion",
+			"Biography",
+			"A Hard Day’s Night",
+			"The Ed Sullivan Show",
+			"Elizabeth II",
+			"Maharishi Mahesh Yogi",
+			"Western Civilization/European History",
+			"Popular Culture, Trends, Fads",
+			"Phil Spector",
+			"Europe",
+			"Liverpool, England",
+			"revolutionized popular music",
+			"Michael Jackson",
+			"Lennon's assassination",
+			"George Martin"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "The Beatles helped to popularize rock and roll in the early 1960s and became not only the major exponent of British rock around the world but also one of the best-selling and most influential music groups in history.",
+							"italic": true
+						}
+					],
+					"type": "p",
+					"uid": "4034d5d7-bb3c-43b0-abe7-ce83bc7a0846",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Early Lives"
+						}
+					],
+					"type": "h1",
+					"uid": "f096df5c-d172-453c-8f5a-8bbdeee2b4b4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "John Lennon was born the only son of Freddie and Julia (Stanley) Lennon, in "
+						},
+						{
+							"children": [
+								{
+									"text": "Liverpool, England"
+								}
+							],
+							"type": "a",
+							"uid": "68e2f177-c3a3-4c5b-84af-95757d14d789",
+							"attrs": {
+								"url": "87323434"
+							}
+						},
+						{
+							"text": ". After being deserted by his father and having a mother who could not properly care for him, Lennon was reared by his maternal aunt, Mimi. He was a bright, precocious boy who was given to countless acts of rebellion. As a teenager he found an outlet for his high spirits by forming a musical group called the Quarrymen."
+						}
+					],
+					"type": "p",
+					"uid": "6ff4c2e7-811e-4e43-9b8c-3d9fc8de0129",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "While playing at a garden festival in 1955, Lennon met and befriended another teenager, "
+						},
+						{
+							"children": [
+								{
+									"text": "Paul McCartney"
+								}
+							],
+							"type": "a",
+							"uid": "79def406-11cd-4a5e-8e80-ef696dd86ad9",
+							"attrs": {
+								"url": "89407167"
+							}
+						},
+						{
+							"text": ", who soon joined his band. McCartney, born to James and Mary (Mohin) McCartney in Liverpool, could not have been more different from Lennon: McCartney was quiet and gave his widowed father little trouble. In the next year, "
+						},
+						{
+							"children": [
+								{
+									"text": "George Harrison"
+								}
+							],
+							"type": "a",
+							"uid": "67da2036-334b-47a4-b0f0-7ef626289a63",
+							"attrs": {
+								"url": "89872105"
+							}
+						},
+						{
+							"text": ", born to Harry and Louise Harrison, also in Liverpool, became the band’s lead guitarist, thus inaugurating what would become the world’s most celebrated rock and pop band."
+						}
+					],
+					"type": "p",
+					"uid": "f9e66290-aa53-422a-af7f-de64f886c103",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In the group’s early years, Stuart Sutcliffe, a gifted college friend of Lennon, played bass for the group before leaving to pursue a career as an artist. A series of drummers came and went until Peter Best joined the group on the eve of their departure to play in Hamburg, West Germany, in 1960. Through a series of four trips extending over two years, the Beatles (as they now called themselves) played a grueling schedule in various Hamburg clubs and developed into a cohesive unit with a large repertoire of songs, many of which they would record later, on consecutive albums. "
+						}
+					],
+					"type": "p",
+					"uid": "31bfe647-f07e-4258-91fd-8e8639121684",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "While in Hamburg, the group was recorded as a backup band to singer Tony Sheridan, and the single “My Bonnie” became a cult favorite among Liverpool teenagers. After a number of fans requested copies of the song from a local record store, the store manager, Brian Epstein, was surprised to learn that members of the band lived and played nearby. A curious Epstein attended one of the band’s concerts and impulsively asked to act as their manager. He then began a systematic campaign to polish their scruffy appearance and secure a recording contract."
+						}
+					],
+					"type": "p",
+					"uid": "07a48a91-e725-4953-a668-f6dbbb99a6c4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Consistently rebuffed, the Beatles auditioned in 1962 for "
+						},
+						{
+							"children": [
+								{
+									"text": "George Martin"
+								}
+							],
+							"type": "a",
+							"uid": "c345f8aa-2192-4a48-bd06-d746076f5e15",
+							"attrs": {
+								"url": "115298599"
+							}
+						},
+						{
+							"text": ", a classically trained musician who had recorded comedy acts for a small record label. Martin was impressed with the group’s musicianship and vocals, but he was especially taken because they already had a considerable catalogue of original songs. Martin told Epstein that Best, however, was inadequate as a drummer and could not appear on recordings. Armed with the excuse for which they had been searching, the band replaced Best with another Liverpool acquaintance, Ringo Starr (born Richard Starkey to Richard and Elsie Starkey), and the group was now solidified."
+						}
+					],
+					"type": "p",
+					"uid": "556b6e24-aef9-4d32-9c3b-9e793fcafb4d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Lives’ Work"
+						}
+					],
+					"type": "h1",
+					"uid": "c4d27364-b9ca-4c2a-8cad-0ab237679c8a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In October 1962, the Beatles released their first single record, “Love Me Do,” which was only moderately successful. However, their second release, “Please, Please Me,” immediately went to the top of the charts, beginning a string of Beatles hits and a rise in national popularity. In April 1963, they recorded their first album, "
+						},
+						{
+							"text": "Please, Please Me",
+							"italic": true
+						},
+						{
+							"text": " , a combination of original material and songs from their stage shows. They continued playing concerts throughout England. By August, the Beatles were so popular that they were invited to appear at the Royal Command Performance, a variety show given in honor of the royal family and broadcast over national television in the United Kingdom."
+						}
+					],
+					"type": "p",
+					"uid": "62649b8a-9323-49ed-a758-7c0f96e5f12b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "While the band had captivated England, its record company could not persuade its American subsidiary to release any of the group's records in the United States. "
+						},
+						{
+							"text": "With the Beatles",
+							"italic": true
+						},
+						{
+							"text": " appeared in England in November 1963 and was immediately popular, and the success of the song “I Want to Hold Your Hand” convinced the American subsidiary to release the song in the United States in January 1964. A massive advertising campaign helped the song become an instant success, which was unprecedented for an English band. The group soon was invited to appear on "
+						},
+						{
+							"children": [
+								{
+									"text": "The Ed Sullivan Show",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "c39633a4-e025-4f03-8510-560b09e3972b",
+							"attrs": {
+								"url": "89311931"
+							}
+						},
+						{
+							"text": ", a Sunday-night institution on American television. The small live audience at their performance was so frenzied that the term “Beatlemania” was coined to describe the hysteria that accompanied the group’s appearance. Beatlemania would become the group’s legacy as they "
+						},
+						{
+							"children": [
+								{
+									"text": "revolutionized popular music"
+								}
+							],
+							"type": "a",
+							"uid": "2b8db434-3fb2-404c-8c83-3307781da08f",
+							"attrs": {
+								"url": "89313870"
+							}
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "cf8a8632-669d-40e9-ac38-86811359141d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "For the next three years, the band toured almost nonstop, crossing the globe numerous times as it kept to a mind-numbing, wearying schedule. Remarkably, the band not only continued to record, but Lennon and McCartney also developed into an extraordinarily talented and prolific songwriting team. In June 1964, England’s Queen "
+						},
+						{
+							"children": [
+								{
+									"text": "Elizabeth II"
+								}
+							],
+							"type": "a",
+							"uid": "1403e25a-395d-4017-be83-524c2028f35b",
+							"attrs": {
+								"url": "90669614"
+							}
+						},
+						{
+							"text": " named the Beatles members of the Order of the British Empire."
+						}
+					],
+					"type": "p",
+					"uid": "949d1532-43f9-44a9-bdbe-9778771d1503",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In July, "
+						},
+						{
+							"children": [
+								{
+									"text": "A Hard Day’s Night",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "31a1441c-024b-4955-baab-20149c7cbd39",
+							"attrs": {
+								"url": "89402927"
+							}
+						},
+						{
+							"text": " was released as a film and album and was an international success. The fictional film attempted to chronicle the chaos that surrounded the lives of the otherwise patient and accepting musicians. The plot was episodic, but the heart of the film was the personalities of the Beatles themselves, and it was their wit and charm that captivated audiences and critics."
+						}
+					],
+					"type": "p",
+					"uid": "7861edac-af86-4b32-8722-171e6ede9ade",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "On their fourth album, "
+						},
+						{
+							"text": "Beatles for Sale",
+							"italic": true
+						},
+						{
+							"text": ", the band, exhausted from touring and the demands of popularity, revealed a more somber mood. With their next album, "
+						},
+						{
+							"text": "Help!",
+							"italic": true
+						},
+						{
+							"text": " , the band continued a pattern begun with "
+						},
+						{
+							"text": "Beatles for Sale",
+							"italic": true
+						},
+						{
+							"text": ". The film of the same name was also a popular success."
+						}
+					],
+					"type": "p",
+					"uid": "f4ceef56-e5e4-4c62-a4c2-debc0c32b63d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The album "
+						},
+						{
+							"text": "Rubber Soul",
+							"italic": true
+						},
+						{
+							"text": " was released in December 1965 and, like each previous album, was an instant success. However, "
+						},
+						{
+							"text": "Rubber Soul",
+							"italic": true
+						},
+						{
+							"text": " was anything but another Beatles album, as the band explored new territory. Everything from the jacket cover to the songs’ lyrics and the musical compositions suggested a new level of sophistication and a rising maturity. Quite simply, the Beatles were now making music unlike anything heard before, and it was music that they were finding increasingly difficult to duplicate on stage. The song “Norwegian Wood,” for example, epitomizes some of the changes. For the first time, a Western pop record included the music of a "
+						},
+						{
+							"children": [
+								{
+									"text": "sitar"
+								}
+							],
+							"type": "a",
+							"uid": "57edd308-80ea-4d2c-ad55-bfaa73f9f35d",
+							"attrs": {
+								"url": "87324889"
+							}
+						},
+						{
+							"text": " (An Indian stringed instrument). The album’s foggy, obscure lyrics by Lennon were intentionally evasive in describing an extramarital affair he did not want discovered by his wife, Cynthia."
+						}
+					],
+					"type": "p",
+					"uid": "0d999b10-0cde-4b6d-8c43-d97170fd9dfa",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The ongoing musical evolution signaled by "
+						},
+						{
+							"text": "Rubber Soul",
+							"italic": true
+						},
+						{
+							"text": " continued with the release of "
+						},
+						{
+							"text": "Revolver",
+							"italic": true
+						},
+						{
+							"text": " in 1966. Here, the influence of the group’s use of "
+						},
+						{
+							"children": [
+								{
+									"text": "psychedelic drugs"
+								}
+							],
+							"type": "a",
+							"uid": "90312036-e8c3-457b-ab45-cad6e397d456",
+							"attrs": {
+								"url": "89145015"
+							}
+						},
+						{
+							"text": " becomes far more pronounced, the melodies are more densely textured, and the lyrics are controlled and evocative. The songs “She Said She Said” and “Tomorrow Never Knows” are particularly experimental in their exotic lyrics and unique use of tape loops, helping to usher in the style of "
+						},
+						{
+							"children": [
+								{
+									"text": "psychedelic rock"
+								}
+							],
+							"type": "a",
+							"uid": "5c0ddd6c-6eb7-4182-a293-35a4efbc7ab5",
+							"attrs": {
+								"url": "87325813"
+							}
+						},
+						{
+							"text": " that would arguably reach its pinnacle with the band's next album."
+						}
+					],
+					"type": "p",
+					"uid": "9424e352-d9a8-4cfd-b6cb-7e3f9bdf01da",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "As these albums reveal, the Beatles, by the end of 1966, had become a studio band. They performed their last concert that year in San Francisco, California. For their next album, they planned an aural scrapbook of their lives in Liverpool and recorded three songs. When their record company insisted on a single, they released “Penny Lane” and “Strawberry Fields Forever” and gradually changed the conception of the album to one of a song cycle performed by a fictional band."
+						}
+					],
+					"type": "p",
+					"uid": "c218765b-cb6d-44fa-a50a-54a5cbe1b11d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "With the release of "
+						},
+						{
+							"children": [
+								{
+									"text": "Sgt. Pepper’s Lonely Hearts Club Band",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "05b92b8a-383e-49ab-8b6c-43bacb09ae8b",
+							"attrs": {
+								"url": "89313869"
+							}
+						},
+						{
+							"text": " in June 1967, the Beatles took their most daringly experimental step. Although working with the still-primitive recording equipment of the late 1960s, the band managed to produce an intricate aural paean to psychedelia. Songs were no longer three-minute ditties (in fact, the longest track, “A Day in the Life,” stands as a definite masterpiece), and the album sleeve featured song lyrics and an elaborate cover photograph that commented on the change in artistic direction the group was taking."
+						}
+					],
+					"type": "p",
+					"uid": "beb87cd7-9ccf-4af9-a490-69860aff5301",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Two months later, on August 27, 1967, Epstein died of a drug overdose. Following Epstein's death, the band temporarily focused themselves on learning transcendental meditation in India with "
+						},
+						{
+							"children": [
+								{
+									"text": "Maharishi Mahesh Yogi"
+								}
+							],
+							"type": "a",
+							"uid": "e0b8d7e6-b83e-4261-8557-7b2e5f01c7e4",
+							"attrs": {
+								"url": "94415937"
+							}
+						},
+						{
+							"text": ". They emerged to produce their own television film, "
+						},
+						{
+							"text": "Magical Mystery Tour",
+							"italic": true
+						},
+						{
+							"text": " . While the album of the same name was popular, the film was a disaster, and for the first time critics panned the Beatles. Early in 1968, Lennon and McCartney announced the formation of Apple Records, their own record company and business enterprise."
+						}
+					],
+					"type": "p",
+					"uid": "d7b78d93-f8fd-4cf5-976a-10ddbbcb5ca2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In November 1968, the group released "
+						},
+						{
+							"text": "The Beatles",
+							"italic": true
+						},
+						{
+							"text": " (popularly known as the "
+						},
+						{
+							"text": "White Album",
+							"italic": true
+						},
+						{
+							"text": " for its plain white jacket), a two-record album of diverse songs. By now the songwriting team of Lennon and McCartney had effectively dissolved, and each member contributed his own distinctive pieces to the production. Though uneven in spots, the album stands as a wild burst of creative energy from a band suffering from much dissension and confusion. During this period, Lennon’s experiments with drugs developed into an addiction to heroin, which led to paranoia and lethargy. As he retreated into his relationship with avant-garde artist "
+						},
+						{
+							"children": [
+								{
+									"text": "Yoko Ono"
+								}
+							],
+							"type": "a",
+							"uid": "3ddfaa0d-e5fa-474b-9c5a-cd8a354b7128",
+							"attrs": {
+								"url": "89407734"
+							}
+						},
+						{
+							"text": ", the band foundered and tensions were further exacerbated. In December 1968, "
+						},
+						{
+							"text": "Yellow Submarine",
+							"italic": true
+						},
+						{
+							"text": ", a cartoon film with four new Beatles songs, was released to laudatory reviews."
+						}
+					],
+					"type": "p",
+					"uid": "b5f0bd47-2115-43b8-badf-286fac33dc5b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Sensing their dissolution, the Beatles decided to return to their musical roots and record their next album as a film crew recorded the event. A return to live performance was also planned, though grand ambitions were scaled down to an unannounced performance on the roof of the Apple Records studio in late January 1969, which was cut short by police intervention. The often acrimonious recording sessions produced thirty hours of tape that no one could face editing. Producer "
+						},
+						{
+							"children": [
+								{
+									"text": "Phil Spector"
+								}
+							],
+							"type": "a",
+							"uid": "e8265331-db40-4e00-a466-24b1a49e1315",
+							"attrs": {
+								"url": "89408947"
+							}
+						},
+						{
+							"text": " was hired by the group, and "
+						},
+						{
+							"text": "Let It Be",
+							"italic": true
+						},
+						{
+							"text": " was released in May 1970, as the band’s final album. It was met with mixed reviews, while the film of the same name was largely poorly received by contemporary critics (though it would win an Academy Award for best original song score) and would not be made widely available over the next decades."
+						}
+					],
+					"type": "p",
+					"uid": "659e7bde-e38e-40de-a65f-4368d0daf8e4",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The actual swan song for the Beatles came in the fall of 1969, however, with the release of "
+						},
+						{
+							"text": "Abbey Road",
+							"italic": true
+						},
+						{
+							"text": ", a gorgeous collection of disparate pieces of magically blending harmony. With "
+						},
+						{
+							"text": "Abbey Road",
+							"italic": true
+						},
+						{
+							"text": ", the Beatles returned to the high production values that had been associated with their best work, and one side of the record is a collage of songs that emerge as nothing short of an artistic triumph. Still, in April 1970, the group disbanded in anger and frustration, and Lennon, McCartney, Harrison, and Starr each pursued solo careers that sporadically produced further acclaimed music."
+						}
+					],
+					"type": "p",
+					"uid": "9135d144-946e-40fb-b16b-6b94707f3c29",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Lennon was fatally shot by Mark David Chapman on December 8, 1980. Even after "
+						},
+						{
+							"children": [
+								{
+									"text": "Lennon's assassination"
+								}
+							],
+							"type": "a",
+							"uid": "9a9bfee0-f0d8-45d7-8f5e-bb3277084b86",
+							"attrs": {
+								"url": "89313770"
+							}
+						},
+						{
+							"text": ", the Beatles' output continued with a series of releases that revealed not only their astounding creativity but the range of their accomplishments. In 1995, the three surviving Beatles and producer George Martin collaborated on a television special, "
+						},
+						{
+							"text": "The Beatles Anthology",
+							"italic": true
+						},
+						{
+							"text": ", in which they reminisced about their years together and returned to the studio to complete two scraps of songs Lennon had composed years earlier. The film and ensuing DVD were supported by a collection of three CDs presenting alternate takes, a few new songs, and demos of Beatles standards. Arguably the highlight of the anthology is the two early versions of “Strawberry Fields Forever,” which were blended and reconfigured into the widely recognized version of the song. In 2000, Capitol Records released "
+						},
+						{
+							"text": "Beatles 1",
+							"italic": true
+						},
+						{
+							"text": ", a collection of the band’s number one hits, which reminded audiences how remarkable the group had been over a mere seven-year period in the 1960s."
+						}
+					],
+					"type": "p",
+					"uid": "efa6f1a2-7d33-4b47-8ecc-c818249050db",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Live at the BBC",
+							"italic": true
+						},
+						{
+							"text": " was released in 2001, featuring live studio performances from the early 1960s and Beatles originals as well as cover versions of previously unreleased songs. The year 2001 also saw the death of a second member of the Fab Four: George Harrison died of lung cancer on November 29 in Los Angeles, California. In 2003 McCartney helped release the album "
+						},
+						{
+							"text": "Let It Be . . . Naked",
+							"italic": true
+						},
+						{
+							"text": ", showcasing songs from the "
+						},
+						{
+							"text": "Let It Be",
+							"italic": true
+						},
+						{
+							"text": " sessions without Spector's edits."
+						}
+					],
+					"type": "p",
+					"uid": "7bfb3520-e840-48ce-b34d-399ea557e337",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "An inventive and unexpected release came in 2006 with "
+						},
+						{
+							"text": "Love",
+							"italic": true
+						},
+						{
+							"text": ", a remixed and reordered collection of at least twenty Beatles songs into aural collage. Martin and his son, Giles, produced the collection as a soundtrack for shows by the entertainment giant Cirque de Soleil, but the highly polished collection also stands on its own."
+						}
+					],
+					"type": "p",
+					"uid": "a8753483-fc96-485b-803a-bb87542e1175",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Due to various legal disputes, the Beatles' music was for a long time not legally available through online music retailers. In particular, a longstanding dispute between the band's Apple Corps corporation and the computer company Apple Inc. meant that the Beatles' back catalog was not available on Apple Inc.'s iTunes music service until 2010."
+						}
+					],
+					"type": "p",
+					"uid": "963b8ed0-d39d-4ba8-9a08-5e52d882464d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 2021 the three-part, almost eight-hour-long documentary "
+						},
+						{
+							"text": "The Beatles: Get Back",
+							"italic": true
+						},
+						{
+							"text": " was released by director "
+						},
+						{
+							"children": [
+								{
+									"text": "Peter Jackson"
+								}
+							],
+							"type": "a",
+							"uid": "d43df84d-f6fc-4490-a7db-b1736d432cef",
+							"attrs": {
+								"url": "150079747"
+							}
+						},
+						{
+							"text": ". The project painstakingly drew from the many hours of footage taken during the development of the "
+						},
+						{
+							"text": "Let It Be",
+							"italic": true
+						},
+						{
+							"text": " film, much of which had not been widely seen. It was hailed by many critics for providing new insight into the dynamics of the late-period Beatles, especially showing that the "
+						},
+						{
+							"text": "Let It Be",
+							"italic": true
+						},
+						{
+							"text": " recording sessions had had plenty of positive moments along with the tensions."
+						}
+					],
+					"type": "p",
+					"uid": "25f89280-3ad7-46f4-ad6e-fc27e96035c6",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Significance"
+						}
+					],
+					"type": "h1",
+					"uid": "e4507a2d-0521-4b32-9ef2-9a8dd81d4d01",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "To understand the Beatles and their work, one must consider them as a 1960s phenomenon, for they mirrored and epitomized so much that has come to be associated with that dramatic decade. It was, therefore, oddly appropriate that as a new decade dawned, the leading musical group of the 1960s dissolved."
+						}
+					],
+					"type": "p",
+					"uid": "8bbc8529-2fd3-4e33-9710-78c3befc6ff0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Beatles were unique in many ways but no more so than in their legacy and collective influence. For British audiences, they represented something largely unprecedented in the twentieth century. When these northern boys, speaking in their distinctive accents, emerged from the backwaters of Liverpool, they demonstrated that English culture was not confined to the United Kingdom. They furthermore revealed, to a rigidly class-conscious society, that anyone with talent could command national attention and succeed professionally. Further, the Beatles triggered the \u0022"
+						},
+						{
+							"children": [
+								{
+									"text": "British invasion"
+								}
+							],
+							"type": "a",
+							"uid": "841ef52a-7574-459b-aab2-26f4a666b43b",
+							"attrs": {
+								"url": "89311737"
+							}
+						},
+						{
+							"text": "\u0022 of the United States, paving the way for such bands as the "
+						},
+						{
+							"children": [
+								{
+									"text": "Rolling Stones"
+								}
+							],
+							"type": "a",
+							"uid": "8260807d-9d8c-4eda-b25e-e0ae93d0429e",
+							"attrs": {
+								"url": "89311893"
+							}
+						},
+						{
+							"text": ", "
+						},
+						{
+							"children": [
+								{
+									"text": "the Who"
+								}
+							],
+							"type": "a",
+							"uid": "7def7942-74fc-4506-8ab2-60943a0fa5e4",
+							"attrs": {
+								"url": "89111062"
+							}
+						},
+						{
+							"text": ", and the "
+						},
+						{
+							"children": [
+								{
+									"text": "Kinks"
+								}
+							],
+							"type": "a",
+							"uid": "7c03a148-d72a-4c0d-87d8-b4636e540c39",
+							"attrs": {
+								"url": "89402463"
+							}
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "2e037b6e-776d-48cc-9e52-0b5b2d64c4dc",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Worldwide, the Beatles had a significant and lasting influence on music, fashion, and popular culture. World music changed dramatically as songs grew longer and more reflective, as production experiments and new recording technology proliferated, and as record packaging suddenly became an art form of its own. Decades after the band dissolved, the Beatles remain among the best-selling recording artists of all time, ranked alongside such musical greats as "
+						},
+						{
+							"children": [
+								{
+									"text": "Elvis Presley"
+								}
+							],
+							"type": "a",
+							"uid": "05fb7c9c-c6ac-407b-8576-046991d20231",
+							"attrs": {
+								"url": "88829506"
+							}
+						},
+						{
+							"text": " and "
+						},
+						{
+							"children": [
+								{
+									"text": "Michael Jackson"
+								}
+							],
+							"type": "a",
+							"uid": "9831c902-1eff-424e-9552-e8c390cbe738",
+							"attrs": {
+								"url": "89098600"
+							}
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "2302a5a8-8d74-4a34-b59a-df3a50388109",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Beatles Discography"
+						}
+					],
+					"type": "h1",
+					"uid": "082e58e5-eee9-4abc-9569-d3f130310bab",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Please Please Me",
+							"bold": true
+						},
+						{
+							"text": " (1963) "
+						},
+						{
+							"text": "With the Beatles",
+							"bold": true
+						},
+						{
+							"text": " (1963) "
+						},
+						{
+							"text": "Introducing…the Beatles",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "Meet the Beatles!",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "The Beatles’ Second Album",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "A Hard Day’s Night",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "Something New",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "Beatles for Sale",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "Beatles ’65",
+							"bold": true
+						},
+						{
+							"text": " (1964) "
+						},
+						{
+							"text": "Beatles VI",
+							"bold": true
+						},
+						{
+							"text": " (1965) "
+						},
+						{
+							"text": "Help!",
+							"bold": true
+						},
+						{
+							"text": " (1965) "
+						},
+						{
+							"text": "Rubber Soul",
+							"bold": true
+						},
+						{
+							"text": " (1965) "
+						},
+						{
+							"text": "Yesterday…and Today",
+							"bold": true
+						},
+						{
+							"text": " (1966) "
+						},
+						{
+							"text": "Revolver",
+							"bold": true
+						},
+						{
+							"text": " (1966) "
+						},
+						{
+							"text": "Sgt. Pepper’s Lonely Hearts Club Band",
+							"bold": true
+						},
+						{
+							"text": " (1967) "
+						},
+						{
+							"text": "Magical Mystery Tour",
+							"bold": true
+						},
+						{
+							"text": " (1967) "
+						},
+						{
+							"text": "The Beatles (White Album)",
+							"bold": true
+						},
+						{
+							"text": " (1968) "
+						},
+						{
+							"text": "Yellow Submarine",
+							"bold": true
+						},
+						{
+							"text": " (1969) "
+						},
+						{
+							"text": "Abbey Road",
+							"bold": true
+						},
+						{
+							"text": " (1969) "
+						},
+						{
+							"text": "Let It Be",
+							"bold": true
+						},
+						{
+							"text": " (1970) "
+						},
+						{
+							"text": "In the Beginning: The Early Tapes",
+							"bold": true
+						},
+						{
+							"text": " (1970) "
+						},
+						{
+							"text": "Live at the Hollywood Bowl",
+							"bold": true
+						},
+						{
+							"text": " (1977) "
+						},
+						{
+							"text": "Live at the Star Club (2 vols.)",
+							"bold": true
+						},
+						{
+							"text": " (1977) "
+						},
+						{
+							"text": "The Beatles Box Set",
+							"bold": true
+						},
+						{
+							"text": " (1988) "
+						},
+						{
+							"text": "Anthology 1",
+							"bold": true
+						},
+						{
+							"text": " (1995) "
+						},
+						{
+							"text": "Anthology 2",
+							"bold": true
+						},
+						{
+							"text": " (1996) "
+						},
+						{
+							"text": "Anthology 3",
+							"bold": true
+						},
+						{
+							"text": " (1996) "
+						},
+						{
+							"text": "Let It Be . . . Naked",
+							"bold": true
+						},
+						{
+							"text": " (2003) "
+						},
+						{
+							"text": "Love",
+							"bold": true
+						},
+						{
+							"text": " (2006) "
+						}
+					],
+					"type": "p",
+					"uid": "18d05b74-7d8e-475e-98ae-9c438f8568da",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "23290e07-d733-49cc-8806-19fa6cfa1d00"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "British rock band. The Beatles helped to popularize rock and roll in the early 1960s and became not only the major exponent of British rock around the world but also one of the best-selling and most influential music groups in history. "
+						}
+					],
+					"type": "p",
+					"uid": "d43507f8-6584-45a8-a66d-aa43a17ff020",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "f76d35f7-9d04-4118-b921-3f58779eedcf"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": null,
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ancw_sp_ency_bio</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>8</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="ancw_sp_ency_bio.10.3331.113772"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ancw_rs_113772</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>Medieval History/Middle Ages</subject>
+                     <subject>British History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Ancient History</subject>
+                  <subj-group>
+                     <subject>British History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Government, Politics</subject>
+                  <subj-group>
+                     <subject>Government, Politics</subject>
+                     <subject>Generals, Military Officers, Soldiers</subject>
+                     <subject>Kings, Queens, Kingdoms, Monarchy</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Military History</subject>
+                  <subj-group>
+                     <subject>Military History</subject>
+                     <subject>Generals, Military Officers, Soldiers</subject>
+                     <subject>Kings, Queens, Kingdoms, Monarchy</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Edwin</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Alexander M.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Bruce</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3145130"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>Northumbrian king. Son of King Ælle of Deira, Edwin found himself in exile as a youth after his kingdom was conquered and annexed by Æthelfrith of Northumbria. Edwin, after some time of moving about, was ultimately taken in by King Rædwald of East Anglia; with his aid, Edwin fought and defeated Æthelfrith in 616 c.e. and assumed the throne of Northumbria.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>A biographical essay about Edwin.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3145130-Edwin</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Root AN</meta-name>
+                  <meta-value>4611371011</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/AncW_12994611371011</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>794</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>Northumbrian king</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN3145130" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>Sixth century</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Northern England</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>October 12, 0632</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Hatfield Chase, England</p>
+                  </list-item>
+               </list>
+               <p>
+                     <bold>
+                        <sc>Related civilizations:</sc>
+                     </bold> England, Anglo-Saxon</p>
+               <p>
+                     <bold>
+                        <sc>Major role/position:</sc>
+                     </bold> Military leader and statesman</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Life</title>
+               <p>Son of King Ælle of Deira, Edwin found himself in exile as a youth after his kingdom was conquered and annexed by Æthelfrith of Northumbria. Edwin, after some time of moving about, was ultimately taken in by King Rædwald of East Anglia; with his aid, Edwin fought and defeated Æthelfrith in 616 <sc>c.e.</sc> and assumed the throne of Northumbria.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Edwin - John Speed.JPG</title>
+                     <p>Edwin of Northumbria</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89404949-112368.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>John Speed [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Saint King Edwin of Northumbria.jpg</title>
+                     <p>Saint King Edwin of Northumbria, St Mary, Sledmere, East Riding of Yorkshire, England.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89404949-112367.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By DaveWebster14 (flickr.com) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>As king, Edwin expanded both north and far to the south and even somewhat into Wales. By forging alliances, he extended his influence throughout most of England, becoming overlord of the most extensive political organization to date. For his political achievements, he was included by the eighth century <sc>c.e.</sc> historian Bede among the seven most powerful kings (or <italic>bretwaldas</italic>) to have held power in England. Importantly, Edwin converted to Christianity in 627 <sc>c.e.</sc> and encouraged the spread of the faith within Northumbria and elsewhere. Edwin died in battle against a Welsh force in 632 <sc>c.e.</sc>
+                  </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Influence</title>
+               <p>With Edwin’s death, both the kingdom of Northumbria and Christianity struggled—but only briefly, as the political structures Edwin put into place managed to provide cohesion. Soon Northumbria would rise as a center for learning and the arts in the late seventh through early eighth centuries (the age of Bede).</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Blair, Peter Hunter. <italic>An Introduction to Anglo-Saxon England</italic>. 2d ed. Cambridge, England: Cambridge University Press, 1995.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Campbell, James, ed. <italic>The Anglo-Saxons</italic>. New York: Penguin Books, 1982.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Stenton, Frank. <italic>Anglo-Saxon England</italic>. 3d ed. Oxford, England: Clarendon Press, 1971.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Edwin</article-title>
+                           <italic>Encyclopedia of the Ancient World</italic>
+                           <year>2001</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

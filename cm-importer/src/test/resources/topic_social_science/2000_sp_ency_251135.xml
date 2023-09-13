@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">2000_sp_ency</book-id>
+      <book-id pub-id-type="eis-mid">G96A</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4S</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>May</month>
+         <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>31</day>
+         <month>October</month>
+         <year>2021</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="Twothusand_sp_ency.10.3331.251135"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">2000_sp_ency_251135</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Technology, Inventions, Inventors</subject>
+                  <subj-group>
+                     <subject>Technology, Inventions, Inventors</subject>
+                     <subject>Communications</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>iPhone</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Kerry</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Skemp</surname>
+                  </name>
+                  <x xml:space="preserve">, </x>
+                  <degrees>MA</degrees>
+                  <x xml:space="preserve">, </x>
+                  <aff>San Francisco, California</aff>
+                  <x xml:space="preserve"/>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The iPhone transformed wireless communications and brought smartphone usage to the mainstream, all while securing record profits for Apple. In many ways, the iPhone set industry standards for smartphones.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The iPhone transformed wireless communications and brought smartphone usage to the mainstream, all while securing record profits for Apple. In many ways, the iPhone set industry standards for smartphones. </p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/2000_0199</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1096</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <sc>
+                     <bold>Definition:</bold>
+                  </sc> A popular smartphone designed by Apple that offers internet access and the ability to download mobile applications developed by users</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>
+                  <italic>The iPhone transformed wireless communications and brought smartphone usage to the mainstream, all while securing record profits for Apple. In many ways, the iPhone set industry standards for smartphones. </italic>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>iPhone 7 Plus.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="2000-sp-ency-251135-152923.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Kārlis Dambrāns, CC BY 2.0 (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Sir Jonathan Paul Ive, senior vice president of industrial design at Apple Inc..</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="2000-sp-ency-251135-152924.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Marcus Dawes, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+               <p>The iPhone was announced by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89138900"
+                                   xlink:type="simple">Apple</related-article> in January 2007 and made available for sale in June of that year. Its appealing design, aggressive marketing, and ease of use made the iPhone the first <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323231"
+                                   xlink:type="simple">smartphone</related-article> to gain widespread consumer adoption. The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87322952"
+                                   xlink:type="simple">iPod</related-article>, an MP3 player released by Apple in 2001, had already attracted many consumers to use Apple products, setting the stage for the iPhone’s popularity. After a failed collaboration with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89402532"
+                                   xlink:type="simple">Motorola</related-article> on the ROKR E1 music phone in 2005, Apple decided to design its own phone internally. The project started in 2005 and reportedly cost $150 million to develop.</p>
+               <p>Notable iPhone features included a glass touch screen (most phones at the time had plastic screens), unprecedented support for multitouch interactions and gestures, aluminum backing, 2.0-megapixel camera, an accelerometer to adjust orientation, web browsing, visual voicemail, and a music player that integrated with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87322814"
+                                   xlink:type="simple">iTunes</related-article>, Apple’s online music store. The iPhone was billed as a phone, web browser, and iPod all in one. The first iPhone offered GSM/EDGE cellular network access, Bluetooth wireless connectivity, and Wi-Fi, and could initially be purchased with 4 or 8 gigabytes of memory for $499 or $599 respectively (a pricier 16-gigabyte model was added later). </p>
+               <p>The iPhone was initially available only on the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87994087"
+                                   xlink:type="simple">AT&amp;T</related-article> cellular network, frustrating consumers under contract with other providers. Apple arranged a revenue-sharing agreement with AT&amp;T for a cut of every customer’s monthly plan, and the iPhone’s popularity empowered cell phone manufacturers in negotiating deals with wireless carriers. The original iPhone was an immediate and sustained success. Consumers waited in long lines on release day, and the phone sold rapidly, moving nearly two million units by the end of 2007. By the fourth quarter of 2008, Apple was selling nearly seven million iPhones each quarter, and twenty-one million iPhones had been sold internationally by the end of 2009. </p>
+               <p>The iPhone 3G was released in June 2008 with 3G, third generation telecommunications technology, and assisted <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94981831"
+                                   xlink:type="simple">global positioning system</related-article> (A-GPS) capabilities. The iPhone 3GS came out in June 2009, adding a compass, 3.2-megapixel video camera, and improved processing speeds. In 2010, the rectangular iPhone 4 was released followed by the iPhone 4s in 2011, which included new features such as the iCloud, iMessage, and intelligent personal assistant, Siri.</p>
+               <p>Thinner and lighter than its predecessors, the iPhone 5 was released in 2012. The following year, Apple released the iPhone 5c, a replica of the well-received iPhone 5 but in a more colorful case. The iPhones 6 and 6s were released in 2015, featuring pressure-sensitive 3D Touch technology and an improved 12MP camera. The iPhone 7 was released in September 2016, along with the larger-format 7 Plus. These models included some new features, such as water resistance and the lack of a traditional 3.5 millimeter headphone jack. Some have criticized Apple for building “<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474361"
+                                   xlink:type="simple">planned obsolescence</related-article>” into devices with its frequent new releases. Apple also drew criticism after several companies that manufactured iPhone components, most notably Foxconn in China, were investigated for deplorable working conditions.</p>
+               <p>In late 2017, the iPhone 8 and 8 Plus were announced, offering relatively minor feature improvements. At the same time the iPhone X was announced, though it was released slightly later and in initially limited numbers. Promoted as the most radical update of the iPhone yet, the premium iPhone X included features such as a facial recognition system and wireless charging capability. It also pushed the iPhone to a new price point, debuting at $999. Still making adjustments to compete with other smartphone software such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="121772986"
+                                   xlink:type="simple">Android</related-article>, by 2018 Apple had begun selling its iPhone Xs and iPhone Xs Max models, boasting further advancements such as an A12 Bionic chip for even faster processing. That same year saw the launch of the iPhone XR, a model slightly less expensive than the Xs and Xs Max, that went on to become one of 2019's most popular and best-selling smartphones. Apple's 2019 iPhone generation products, the iPhone 11 and its Pro versions, were followed by 2020's iPhone 12 and 2021's iPhone 13 along with their respective mini and Pro versions. Throughout these generations, alterations and improvements largely centered around battery life, camera system advancements, and processing power. At the same time, some reviewers noted that Apple's upgrades had tended to become increasingly more incremental by that time, as was typically the case with other makers of smartphones.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>The iPhone transformed consumer expectations regarding mobile communications devices, disrupted the wireless industry, and opened up mobile application development. With features like the App Store, which brought access to well-designed apps that can be easily acquired, and Siri, the intelligent personal assistant, Apple proved its leadership in smartphone technology.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Alpe, Lauren, and Kat Hayes. “The Evolution of the iPhone.”  <italic>The Telegraph</italic>, 9 Jan. 2017, www.telegraph.co.uk/technology/2016/03/21/video-the-evolution-of-the-iphone/. Accessed 23 Jan. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Edson, John. <italic>Design Like Apple: Seven Principles For Creating Insanely Great Products, Services, and Experiences</italic>. Hoboken: Wiley, 2012. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Levy, Steven. "Apple is Defying History with Its Pricey iPhone x." <italic>Wired</italic>, 12 Sept. 2017, www.wired.com/story/apple-is-defying-history-with-its-pricey-iphone-x/. Accessed 9 Nov. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Montgomery, April, and Ken Mingis. "The Evolution of Apple's iPhone." <italic>Computerworld</italic>, 23 Sept. 2021, www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html. Accessed 5 Oct. 2021.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Pogue, David. <italic>iPhone: The Missing Manual.</italic> Sebastopol: O’Reilly, 2012. Print. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Wooldridge, Dave, and Michael Schneider. <italic>The Business of iPhone and iPad App Development: Making and Marketing Apps that Succeed</italic>. New York: Apress, 2011. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>iPhone</article-title>
+                           <italic>The 2000s in America</italic>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Craig</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Belanger</surname>
+                           </name>
+                        </person-group>
+                           <year>2013</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

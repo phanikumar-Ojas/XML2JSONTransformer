@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rscountries</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">FYOH</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Great Neck Publishing</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>30</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>1</day>
+      <month>February</month>
+      <year>2013</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>30</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <copyright-statement>Copyright of Our World: Yemen is the property of Great Neck Publishing and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.</copyright-statement>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="our_world_481.10.3331.250237"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rscountries_4143</book-part-id>
+        <title-group>
+          <title>Yemen</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Christina</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Healey</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Yemen is a mountainous country in the southwest region of the Arabian Peninsula. Officially known as the Republic of Yemen, the country was formed on May 22, 1990, when the Yemen Arab Republic, or North Yemen, joined with the People's Democratic Republic of Yemen, or South Yemen.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value>17624129</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front/>
+      <body>
+        <sec sec-type="bodytext | intro" indexed="true">
+          <title/>
+          <p>Yemen is a mountainous country in the southwest region of the Arabian Peninsula. Officially known as the Republic of Yemen, the country was formed on May 22, 1990, when the Yemen Arab Republic, or North Yemen, joined with the People's Democratic Republic of Yemen, or South Yemen.</p>
+          <media xmlns:xlink="http://www.w3.org/1999/xlink"
+                 position="margin"
+                 mimetype="audio"
+                 mime-subtype="mp3"
+                 xlink:href="88391221-98985.mp3"
+                 xlink:type="simple">
+            <caption>
+              <p>Yemen National Anthem: "al-qumhuriyatu l-muttahida" (United Republic)</p>
+            </caption>
+            <copyright-statement>(CIA World Factbook)</copyright-statement>
+          </media>
+          <p>Yemen has a few important natural resources, including mineral springs and oil. Because of its strategic location on the Arabian Peninsula and its valuable port city of Aden, Yemen has been of geopolitical and economic interest to a number of major foreign powers, including the United States, Great Britain, and Russia. It has also been involved in political and border disputes with its neighbors, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88391151"
+                             xlink:type="simple">Oman</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88391175"
+                             xlink:type="simple">Saudi Arabia</related-article>. Domestic tensions have also frequently erupted, including a major political crisis beginning in 2011 that led to civil war by 2014 and escalated into a humanitarian disaster . Apart from the political conflicts that have affected the country, Yemen also occasionally experiences devastating earthquakes. A quake in 1982 killed thousands of people and caused extensive damage. </p>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <p>Map of Yemen</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="88391221-75286.gif"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>EBSCO</copyright-statement>
+            </permissions>
+          </fig>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <p>Flag of Yemen</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="88391221-75285.gif"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>EBSCO</copyright-statement>
+            </permissions>
+          </fig>
+        </sec>
+        <sec sec-type="bodytext | gen-info" indexed="true">
+          <title>General Information</title>
+          <list list-type="simple" list-content="demographics">
+            <list-item>
+              <p>
+                <bold>Full name of country: </bold>Republic of Yemen</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Former name(s): </bold>Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Region: </bold>Middle East</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Nationality: </bold>Yemeni(s) (noun), Yemeni (adjective)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Official language: </bold>Arabic</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Population: </bold>30,984,689 (2022 est.)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Population growth: </bold>1.88% (2022 est.)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Currency (money): </bold>Yemeni rial</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Land area: </bold>527,968 sq km (203,850 sq miles)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Time zone: </bold>UTC +3</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Capital: </bold>Sanaa</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Flag: </bold>Yemen’s flag is a horizontal tricolor of red, white, and black, the colors of Arab unity. The red (top) symbolizes the blood of martyrs, white (middle) symbolizes the country’s bright future, and black (bottom) symbolizes the country’s dark past.</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Independence: </bold>May 22, 1990 (Republic of Yemen was established with the merger of the Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and the Marxist-dominated People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]); note - previously North Yemen became independent in November 1918 (from the Ottoman Empire) and became a republic with the overthrow of the theocratic Imamate in 1962; South Yemen became independent on November 30, 1967 (from the UK)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Government type: </bold>republic</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Suffrage: </bold>universal for those eighteen years of age and older</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Legal system: </bold>mixed system based on Islamic law, Napoleonic law, English common law, and customary law</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>National anthem: </bold>"al-qumhuriyatu l-muttahida" (United Republic), by Abdullah Abdulwahab Noa'Man/Ayyoab Tarish Absi</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>National holiday: </bold>Unification Day, May 22 (1990)</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec sec-type="bodytext | culture" indexed="true">
+          <title>People and Culture</title>
+          <p>
+            <bold>Population:</bold> The majority of people living in Yemen are Arabs, although there are some non-Arab minority groups living in the south. These groups include Pakistanis, Somalis, and Indians. Arabic is the country's official language and also the most widely spoken. Yemen has for the most part a rural and agricultural society. Most Yemenis live in small towns and villages across the country.</p>
+          <p>A large number of the male population of Yemen has traditionally worked abroad in other oil-rich Arab countries in the petroleum industry.</p>
+          <p>Social and cultural values in Yemen require that women live in seclusion, and education of women is often discouraged or frowned upon. Many women marry at a young age and are responsible for managing their husbands' households. Most women who work outside the home are employed in the agricultural industry. Women living in the south and in the Tihama region tend to experience more freedom than women who live in towns in the northern part of the country.</p>
+          <p>
+            <bold>Indigenous People:</bold> Yemen was the home of a number of ancient civilizations, including the Minaeans, Sabaeans, Himyarites, as well as the Ethiopian, Persian, and Ottoman empires. The Zaydi and Sunni branches of Islam were established there in the seventh century.</p>
+          <p>The modern Yemeni people are descended from tribes of Semitic Arabs. While Yemeni society tends to be centered on village and town life, a nomadic people called the Bedouin dwell in the northeastern region of the country.</p>
+          <p>Most people in Yemen practice Islam, and are part of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="110642454"
+                             xlink:type="simple">Sunni Muslim</related-article> sect. A smaller percentage of the population are <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="110642442"
+                             xlink:type="simple">Shia</related-article> or Zaydi Muslims. Religious minorities in the country include Christians and Hindus; nearly all of the Yemeni Jewish population immigrated to Israel after that country was founded in 1948.</p>
+          <p>
+            <bold>Education:</bold> Nominally, the Ministry of Education oversees Yemen's educational system, though this system has been greatly disrupted by conflict. Each governorate in the country is responsible for managing its own district offices, and those offices manage schools within their districts. The governorates report directly to the Ministry of Education. The ministry has a great deal of control over school affairs, including curriculum, textbooks, and teacher training and hiring.</p>
+          <p>Literacy has long been a problem in Yemen, particularly among women. A 2015 estimate by the World Factbook stated that 55 percent of adult women could read and write, compared to 85 percent of men. In 2016, 83.09 percent of children of primary school ages were enrolled  in school. The urban male population is the best educated, followed by the rural male population. Urban women are in general better educated than rural women, although women lag far behind men in education. This is due in part to cultural attitudes toward women in the country. Students in Yemen obtain their religious education alongside basic education.</p>
+          <p>
+            <bold>Health Care:</bold> The Ministry of Public Health oversees the health care system in Yemen. Primary health care is provided by the government, which also has a referral system for other health services. Some primary health services include emergency care, family planning, and immunization. As with other services, health care has been deeply disrupted by periods of conflict. Famine and disease have been rampant, including a major cholera outbreak in 2017.</p>
+          <p>Physicians and paramedics work in health clinics in towns and villages, and the country has a number of hospitals in its urban areas. Private health services are only available to people who can afford them. Yemen ranked 179th out of 189 countries on the 2020 <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89185802"
+                             xlink:type="simple">United Nations Human Development Index</related-article>.</p>
+          <p>
+            <bold>Food:</bold> Yemen is known for its coffee and tea. Some coffees that are native to the region include Yemen Mocha, Hirazi coffees, and Sana'ani, or coffee that is grown near the capital of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94740426"
+                             xlink:type="simple">Sanaa</related-article>. As in other Arab countries, tea-drinking is a traditional social activity in Yemen. In many parts of the country, tea is prepared with milk, sugar, and a spice called cardamom. Much of the tea consumed in Yemen is imported from countries such as Sri Lanka, India, and Kenya.</p>
+          <p>Traditional dishes of Yemen include saltah, which is traditionally eaten at lunchtime. Saltah is made from fenugreek, meat, onions, tomatoes, eggs, and potatoes. Hilbeh is a sauce made from coriander, peppercorn, tomatoes, and other herbs and spices. A popular Yemeni dessert is bint al sahn, a honey cake that is served hot with melted butter and warm honey.</p>
+          <p>Fish, chicken, beef, eggplant, dates, and olives are typical ingredients in Yemeni cooking. When chewed, the herb known as qat is a stimulant and produces feelings of well-being in the user. This drug is an important part of social life in Yemen.</p>
+          <p>
+            <bold>Arts &amp; Entertainment:</bold> Traditional Yemeni music features instruments like lutes, drums, and flutes. One of the oldest types of flute used in Yemen is the khallool; this instrument is made from a piece of wood roughly one meter long, with two holes in the far end. It is used to create music for dances such as the Camel Dance and the Yemeni Sword dance, or "Al-Saif Al-Yamani."</p>
+          <p>Much of Yemeni singing is associated with poetry; the two art forms are often considered indistinguishable. Poetry and song are important parts of many social occasions and rituals, such as weddings and tribal meetings. Yafiee, a type of sung poetry, was popularized by the early twentieth-century poet Yahya Omer Al Yafiee. Contemporary singers who have been influenced by this style include Mohammed Murshid Naji and Mohammed Saad Abdullah.</p>
+          <p>Waddah al-Yaman lived during the seventh century and is considered one of the greatest Yemeni poets. One of the most famous contemporary Yemeni musicians is Ahmad Fathi, a lute player deeply influenced by traditional Yemeni music.</p>
+          <p>
+            <bold>Holidays:</bold> Since the majority of the population in Yemen is Muslim, the country celebrates all major Islamic holidays, including Islamic New Year on January 31. Yemen celebrates its unification on Unity Day, which is held on May 22.</p>
+        </sec>
+        <sec sec-type="bodytext | geography" indexed="true">
+          <title>Environment and Geography</title>
+          <p>
+            <bold>Topography:</bold> The Red Sea lies to the west of Yemen, and the Arabian Sea and the Gulf of Aden form the southern border. Neighboring countries include Saudi Arabia to the north and Oman, which lies to the east. Yemen also includes three islands: Kamaran, Perim, and Socotra.</p>
+          <p>The highest point in Yemen is the peak of Jabal an Nabi Shu'ayb, at an elevation of 3,666 meters (12,028 feet). While much of the landscape in northern Yemen is made up of desert, arid hills, or mountainous country, it also includes a small coastal area known as the Tihama. The Tihama region is only 25 to 65 kilometers (15 to 40 miles) wide, and often experiences over 85 percent humidity.</p>
+          <p>The southern part of Yemen features large spans of desert known as the Empty Quarter, or "Rub'al Khali," and occasional fertile valleys. The western portion of the desert averages around 900 to 1,200 meters (3,000 to 4,000 feet) in elevation. The southern coastal plain is narrower than the Tihama, measuring from 5 to 65 kilometers (3 to 40 miles) wide.</p>
+          <p>Yemen is a dry country, with no permanent rivers or lakes. However, it does have wadis, or watercourses where flash floods may pass through after rainfall. These wadis tend to be dry for most of the year. Many wadis can be found at higher elevations in the western highlands of Yemen.</p>
+          <p>
+            <bold>Natural Resources:</bold> First discovered in 1985 in the eastern highlands, oil is Yemen's most important and profitable natural resource. Foreign oil companies from the United States and other countries have set up refineries and pipelines to export the oil.</p>
+          <p>The country has limited veins of coal, iron ore, and copper, which are not commercially valuable. Natural gas, fish and seafood, and rock salt are among Yemen's less important resources.</p>
+          <p>
+            <bold>Plants &amp; Animals:</bold> The most biologically diverse region of Yemen is the western highlands, where there tends to be more water available. Plants like cacti, the tamarisk, and other flowering tropical plants are found in the tropical habitats of the Tihama. Yemen has been mostly deforested by people who use wood for fuel and construction.</p>
+          <p>Domestic animals, such as sheep, goats, and camels, are the most common animals found in Yemen. Hyenas are found primarily in lower-lying areas in the southern part of the country.</p>
+          <p>In general, the people of Yemen are not environmentally aware, and there are few measures in place to protect the environment. There is a high level of air and water pollution in the country.</p>
+          <p>
+            <bold>Climate:</bold> Most of Yemen experiences an arid, desert climate, with variable temperatures. The country's coastal areas have a hot and humid climate and little precipitation, particularly in the eastern portion of the country. Temperatures in the humid coastal Tihama region can reach around 45° Celsius (113° Fahrenheit), with the humidity ranging from 85 to 98 percent. The region receives only 150 to 400 millimeters (6 to 16 inches) of precipitation per year.</p>
+          <p>In the western part of the country, the higher elevations tend to experience cooler temperatures and more regular rainfall, although areas in the north are subject to droughts. The highest areas of Yemen receive an average of 1,000 millimeters (40 inches) of precipitation per year, and sometimes experience frost. Yemen's central plateau experiences hot summers, with temperatures around 33° Celsius (91° Fahrenheit), and cold winters with freezing temperatures.</p>
+        </sec>
+        <sec sec-type="bodytext | economy" indexed="true">
+          <title>Economy</title>
+          <p>Yemen is a poor nation with few natural resources, little water, and little arable land. Before unification, both North and South Yemen faced economic problems. In the north, droughts hurt the agricultural industries, while shipping was harmed by the closure of the Suez Canal in the south in 1967. The city of Aden, which is located in the south, has been an important port since the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89160928"
+                             xlink:type="simple">opening of the canal</related-article> in 1869.</p>
+          <p>Much of the country is in need of economic investment and development. Prior to the conflict that began in 2014, the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89402715"
+                             xlink:type="simple">World Bank</related-article> and the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322737"
+                             xlink:type="simple">International Monetary Fund (IMF)</related-article> were working to help the country lower its debt.</p>
+          <p>Oil provides the most significant source of revenue for Yemen. In 2017, the estimated gross domestic product (GDP, purchasing power parity) was around US$73.63 billion. The per capita GDP for the same period was US$2,500. The country's unemployment rate was 27 percent in 2014.</p>
+          <p>
+            <bold>Industry:</bold> Industry in Yemen accounts for around 11.8 percent of GDP (2017 estimate). Petroleum refining makes up a major part of the industrial sector. International companies from the United States and France have invested in the extraction of Yemen's petroleum resources, though the Yemeni government was trying to diversify the economy away from oil and gas before the 2014 conflict.</p>
+          <p>Other important industries in Yemen include telecommunication, mining, the wholesale and retail trade, transportation, manufacturing, and construction.</p>
+          <p>
+            <bold>Agriculture:</bold> Around 2 percent of the land in Yemen is arable, with .6 percent of the land as permanent crops and 41.7 percent of the land as permanent pasture (2018 estimates). Farmers have employed various methods of irrigation, including the use of diesel-powered pumps, wells, and dams, to water their crops. Major agricultural products include qat, coffee, cotton, fruits, vegetables, cereals, livestock, and poultry.</p>
+          <p>The best agricultural land in the southern portion of Yemen is found in the west near Aden, and in the Wadi Hadhramawt valley in the east. In the Tihama, farmers raise tropical fruits and vegetables such as bananas, citrus fruits, tomatoes, and papayas. Cotton is also raised there. At higher elevations, cereal crops such as millet and oats, nuts, figs, and melons are grown.</p>
+          <p>Many farmers in Yemen practice terrace farming in valleys with elevations of around 1,500 meters (4,900 feet). Throughout these terraces farmers plant crops such as the qat shrub, coffee, apples, pears, and grapes. Corn, wheat, and sorghum can also be found on terrace farms.</p>
+          <p>
+            <bold>Tourism:</bold> Although never a major part of Yemen's economy, tourism was becoming more important for the country before the 2014 civil war essentially halted tourism altogether. Yemen's former tourism infrastructure included guided tour operations and several hotels. It was also tied to growth in the food service industry, with thousands of restaurants throughout the country.</p>
+          <p>Most tourists tend to visit the major cities, including Sanaa. Even before the major nationwide conflict began in 2014, parts of Yemen were considered dangerous for tourists because of tribal conflicts.</p>
+        </sec>
+        <sec sec-type="bodytext | government" indexed="true">
+          <title>Government</title>
+          <p>Prior to 1990, Yemen was comprised of two separate countries: North Yemen and the People's Democratic Republic of Yemen (PDRY). North Yemen had been an absolute monarchy headed by Islamic religious leaders. In 1962, reformers took over the country and formed the Yemen Arab Republic, which continued to experience <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96777104"
+                             xlink:type="simple">conflict with supporters of the deposed monarchy</related-article>.</p>
+          <p>From 1839, South Yemen was a British protectorate and colony. It became a republic in 1967. The PDRY was officially established in 1970; however, its independence was compromised by civil war and political violence, mainly between socialist factions that had sprung up after a 1978 coup.</p>
+          <p>On May 22, 1990, the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89315425"
+                             xlink:type="simple">country of Yemen was created</related-article>. The unification process involved bringing the institutions, laws, and political systems of the two countries into agreement with each other. Islamic law became the basis of the new country's legal system. In 1994, a civil war broke out due to conflicts between former northern and southern leaders; during this war, the former southern leaders tried to secede and form their own country.</p>
+          <p>In the twenty-first century, Yemen has been a republic; its constitution was ratified in May 1991. The president, prime minister, and cabinet form the executive branch of government. The Yemeni legislature includes two houses: the Shura Council, which has 111 members, and the House of Representatives, with 301 members. The judicial branch of government is headed by a Supreme Court and includes a separate system of commercial courts.</p>
+          <p>Yemen consists of twenty-one governorates. Suffrage is universal for adults aged eighteen and older. The largest political parties include the General People's Congress (GPC), Yemeni Grouping for Reform (Islah), and the Yemeni Socialist Party (YSP).</p>
+          <p>However, the political state of Yemen has been in turmoil and transition since 2014, when the Houthis, a Shiite rebel group, took over the capital and demanded greater representation in the new constitution, eventually storming the palace. President Abd Rabbuh Mansur Hadi and his government were forced to resign, and he fled while still maintaining that he held legitimate power as president. The Houthis, allied with former president Ali Abdullah Saleh (also spelled Salih), then put an interim government in place in Sanaa, opposed by Hadi's government based first in Aden and then in exile. The power struggle turned into outright war when Saudi Arabia led a military coalition of other Arab states in an effort to restore Hadi to power. The civil war caused a major humanitarian crisis, with widespread famine due to halted food imports. In April 2019, Yemen's parliament met in Seiyoun to elect a speaker and vice speakers for the first time since conflict broke out. In November 2019 Hadi's government signed an agreement with the Southern Transition Council to end fighting that had broken out between the two groups earlier in the year, but fighting continued into 2022. The UN was able to negotiate a ceasefire agreement later that year.</p>
+        </sec>
+        <sec sec-type="bodytext | trivia" indexed="true">
+          <title>Interesting Facts</title>
+          <list list-type="bullet">
+            <list-item>
+              <p> The Arabic word "yemen" can mean "the right hand" and "prosperous" or "happy" in English.</p>
+            </list-item>
+            <list-item>
+              <p> The ruins of the Ma'rib Dam, which was built in the sixth century BCE and lasted until 575, can still be seen today in the northern part of the country.</p>
+            </list-item>
+            <list-item>
+              <p> The temple of the Queen of Sheba, a famous mythical queen, is thought to be located in Yemen.</p>
+            </list-item>
+            <list-item>
+              <p>Yemeni journalist Tawakkol Karman was awarded the Nobel Peace Prize in 2011 for her nonviolent work toward promoting women's rights in the country.</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Human Development Insights." <italic>Human Development Reports</italic>, United Nations Development Programme, 2022, hdr.undp.org/data-center/country-insights#/ranks. Accessed 8 Aug. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Lapidus, Ira Marvin. <italic>A History of the Middle East</italic>. Cambridge UP, 2014. </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Lewis, Alexandra. <italic>Security Clans and Tribes: Unstable Clans in Somaliland, Yemen and the Gulf of Aden</italic>. Palgrave Macmillan, 2015. </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Yemen." <italic>The World Bank</italic>, 2022, data.worldbank.org/country/yemen-rep. Accessed 8 Aug. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Yemen." <italic>The World Factbook</italic>, Central Intelligence Agency, 2 Aug. 2022, www.cia.gov/the-world-factbook/countries/yemen/. Accessed 8 Aug. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">"Yemen Country Profile." <italic>BBC News</italic>, 24 Apr. 2018, www.bbc.com/news/world-middle-east-14704852. Accessed 27 July 2018.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Yemen." <italic>Human Development Reports</italic>, United Nations Development Programme, 2019, hdr.undp.org/en/content/2019-human-development-index-ranking. Accessed 30 Oct. 2020.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="au_note" indexed="true">
+          <title/>
+          <p>By Christina Healey</p>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>
+<?oxy_options track_changes="on"?>

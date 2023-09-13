@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">cancer_rs</book-id>
+    <book-id pub-id-type="eis-mid">GYF8</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Health</book-title>
+      <alt-title alt-title-type="mid">GY3N</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>14</day>
+      <month>January</month>
+      <year>2014</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="Cancer_RS.10.3331.89303"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">cancer_rs_89303</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="subject">
+            <subject>Anatomy &amp; Physiology</subject>
+            <subj-group>
+              <subject>Ears, Nose, &amp; Throat</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Diseases, Disorders, &amp; Symptoms</subject>
+            <subj-group>
+              <subject>Ear, Nose, &amp; Throat Disorders</subject>
+              <subject>Symptoms</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Laryngeal nerve palsy</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Anita</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Nagypál</surname>
+              <x xml:space="preserve">, </x>
+            </name>
+            <degrees>PhD</degrees>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Related conditions: Intrathoracic diseases, neurolaryngological lesion</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>The paralysis of the laryngeal nerve.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/Cancer_1468</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <bold>
+              <sc>Also known as:</sc>
+            </bold> Recurrent laryngeal nerve damage, paralysis of the laryngeal nerve, paralysis of the larnyx</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>
+            <bold>
+              <sc>Related conditions:</sc>
+            </bold> Intrathoracic diseases, neurolaryngological lesion</p>
+          <p>
+            <bold>
+              <sc>Definition:</sc>
+            </bold> Laryngeal nerve palsy is the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89093507"
+                             xlink:type="simple">paralysis</related-article> of the laryngeal nerve.</p>
+          <p>
+            <bold>Risk factors:</bold> Damage to the laryngeal nerve can result from tumors in the neck and chest or from intrathoracic diseases such as tumor or <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86193889"
+                             xlink:type="simple">aneurysm</related-article> of the arch of the aorta or of the left atrium of the heart. Tumors and aneurysms may press on the nerve, causing nerve damage. Damage to the recurrent laryngeal nerve may also occur during surgery on the thyroid gland.</p>
+          <p>
+            <bold>Etiology and the disease process:</bold> The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87690419"
+                             xlink:type="simple">vagus nerve</related-article> is one of twelve cranial nerves. It originates in the brain stem and reaches to the large intestine. In the neck, the vagus nerve branches off a paired nerve called the recurrent laryngeal nerve. When the laryngeal nerve separates from the vagus nerve, it reaches into the chest and loops back up to the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87323184"
+                             xlink:type="simple">larynx</related-article> (voice box). The recurrent laryngeal nerves extend along either side of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87690414"
+                             xlink:type="simple">trachea</related-article> (windpipe) between the trachea and the thyroid gland, and they control movement of the larynx. The larynx is located where the throat divides into the esophagus and the trachea. The larynx is where the voice is produced, and it controls the flow of air into the lungs. It houses the vocal cords and the muscles and ligaments that move the vocal cords. Damage to the laryngeal nerve itself causes laryngeal palsy on the affected side. Less commonly, laryngeal palsy, or paralysis of the larynx, can be the result of damage to the vagus nerve before the recurrent laryngeal nerve branches off. A damaged laryngeal nerve results in reduced movements of the larynx, causing voice weakness, hoarseness, or the complete loss of voice. Although rare, life-threatening cases may occur if the larynx is paralyzed to the extent that air cannot enter the lungs. Damage can occur to either one or both branches of the nerve, and paralysis of the laryngeal nerve may be temporary or permanent.</p>
+          <p>
+            <bold>Incidence:</bold> Recurrent laryngeal nerve injury, without injury to the superior laryngeal nerve, is the most common traumatic neurolaryngological lesion. Laryngeal nerve palsy is an uncommon side effect of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87690642"
+                             xlink:type="simple">thyroidectomy</related-article>. It occurs in 1 to 2 percent of complete thyroidectomies performed to treat cancer, and less often when only part of the thyroid is removed. Most often patients experience only transient laryngeal nerve palsy and within a few weeks spontaneously recover their normal voice.</p>
+          <p>
+            <bold>Symptoms:</bold> The effects of laryngeal nerve damage are flaccidity of the ipsilateral vocal fold, loss of adduction (movement of a limb), severe dysphonia or laryngeal <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322224"
+                             xlink:type="simple">dystonia</related-article> (involuntary movements of the muscles of the larynx), complete paralytic aphonia (inability to speak), and frequently <xref ref-type="glossary" id="cancer.gloss.1057">aspiration</xref> of food and drink into the trachea.</p>
+          <p>
+            <bold>Screening and diagnosis:</bold> Diagnosis and treatment of the immobile or hypomobile vocal fold are challenging. True paralysis and paresis (impaired movement) result from vocal-fold denervation secondary to injury to the laryngeal or vagus nerve. Location of the vocal-fold paralysis and paresis may be unilateral or bilateral and central or peripheral. Paralysis may involve the recurrent laryngeal nerve, the superior laryngeal nerve, or both. It is important to confirm that the laryngeal impairment is not caused by arytenoid cartilage subluxation (dislocation of small cartilages in the back of the larynx), cricoarytenoid arthritis or ankylosis (stiffness of a joint), neoplasm, or other mechanical causes. The most common diagnostic tools are strobovideolaryngoscopy, endoscopy, radiologic and laboratory studies, and electromyography (EMG).</p>
+          <p>
+            <bold>Treatment and therapy:</bold> Once the recurrent laryngeal nerve is damaged, there is no specific treatment to heal it. Common treatments for laryngeal nerve damage are <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87996921"
+                             xlink:type="simple">polytetrafluoroethylene</related-article> (trademark Teflon) injection; medialization thyroplasty, a surgical procedure in which an implant is inserted into the paralyzed vocal cord; arytenoid adduction procedures; or reinnervation by nerve transfer. With time, most cases of recurrent laryngeal palsy improve spontaneously. In some cases, the larynx may be paralyzed so that air cannot flow past it into the lungs, and an emergency tracheotomy needs to be performed. A tracheotomy is a surgical procedure to make an artificial opening in the trachea, which allows air to bypass the larynx and to enter the lungs. If the paralysis is temporary, the tracheotomy hole can be surgically closed. There are no alternative or complementary therapies to heal laryngeal nerve palsy. When loss of speech is permanent, artificial speech devices exist to produce tone.</p>
+          <p>
+            <bold>Prognosis, prevention, and outcomes:</bold> Muscle function can be assessed by observing the movements of the structures or by recording the electrical activity of the muscles via electromyography. Although electromyography is an invasive technique, it may be helpful in patients with voice problems of suspected neurological or neuromuscular etiology. Electromyography recordings are helpful in differentiating vocal-fold paralysis from arytenoid dislocation. Electromyography is useful for the diagnosis to establish a reliable prognosis and treatment plan and to monitor muscle denervation and reinnervation. Following acute denervation, the subsequent progression is either chronic denervation or laryngeal nerve regeneration.<index-term>
+              <primary>Laryngeal nerve palsy</primary>
+            </index-term>
+          </p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Calò, Pietro Giorgio, et al. "Role of Intraoperative Neuromonitoring of Recurrent Laryngeal Nerves in the Outcomes of Surgery for Thyroid Cancer." Supp. to <italic>International Journal of Surgery</italic> 12.S1 (2014): S213–17. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Crumley, Roger L. “Unilateral Recurrent Laryngeal Nerve Paralysis.” <italic>Journal of Voice</italic> 8.1 (1994): 79–83. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Hartl, Dana M., and Daniel F. Brasnu. “Recurrent Laryngeal Nerve Paralysis: Current Concepts and Treatment; Part II—Causes, Diagnosis, and Management.” <italic>ENT: Ear, Nose &amp; Throat Journal</italic> 79.12 (2000): 918–28. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Landerholm, Kalle, Anna-Maria Wasner, and Johannes Järhult. "Incidence and Risk Factors for Injuries to the Recurrent Laryngeal Nerve during Neck Surgery in the Moderate-Volume Setting." <italic>Langenbeck's Archives of Surgery</italic> 399.4 (2014): 509–15. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Randolph, Gregory W., ed. <italic>Surgery of the Thyroid and Parathyroid Glands</italic>. 2nd ed. Philadelphia: Saunders, 2013. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Rubin, Adam D., and Robert T. Sataloff. “Vocal Fold Paresis and Paralysis.” <italic>Otolaryngologic Clinics of North America</italic> 40.5 (2007): 1109–31. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Woodson, G. “Evolving Concepts of Laryngeal Paralysis.” <italic>Journal of Laryngology &amp; Otology</italic> 122.5 (2008): 437–41. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ysunza, Antonio, et al. “The Role of Laryngeal Electromyography in the Diagnosis of Vocal Fold Immobility in Children.” <italic>International Journal of Pediatric Otorhinolaryngology</italic> 71.6 (2007): 949–58. Print.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

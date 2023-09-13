@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsdiseases</book-id>
+      <book-id pub-id-type="eis-mid">FV1S</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Health</book-title>
+         <alt-title alt-title-type="mid">GYF8</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>31</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="RSDISEASES.10.3331.118520"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rsdiseases_118520</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject/>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Blood banks</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Walter</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Appleton</surname>
+                  </name>
+                  <x xml:space="preserve">; updated by </x>
+               </contrib>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Andrea</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sarchi</surname>
+                  </name>
+                  <x xml:space="preserve">, </x>
+                  <degrees>OMS-IV</degrees>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>For centuries, blood was thought to be a simple liquid, but it is actually a bodily tissue. The cells, instead of being joined together as in solid bodily tissues, are suspended in a fluid called plasma, which comprises more than half of blood composition. The cellular portion of blood is largely red blood cells, with smaller numbers of white blood cells and platelets also present. Blood itself is the final functioning tool of the circulatory system, which helps to transport the blood to where it is needed in the body. Blood is an extremely complicated substance, and more things are being learned about it every year.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>For centuries, blood was thought to be a simple liquid, but it is actually a bodily tissue. The cells, instead of being joined together as in solid bodily tissues, are suspended in a fluid called plasma, which comprises more than half of blood composition. The cellular portion of blood is largely red blood cells, with smaller numbers of white blood cells and platelets also present. Blood itself is the final functioning tool of the circulatory system, which helps to transport the blood to where it is needed in the body. Blood is an extremely complicated substance, and more things are being learned about it every year.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/mmg2014_0150</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>758</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title>Organizations</title>
+               <p>
+                     <bold>Definition:</bold> Temporary storehouses of blood, kept at reduced temperatures, for transfusions into persons needing an additional supply; such transfers are vital in surgery and in unexpected emergency procedures.</p>
+               <p>
+                     <bold>Key terms:</bold>
+                  </p>
+               <p>
+                     <italic>antigens:</italic> proteins, carbohydrates, or other substances on the surface of cells that bind to their respective antibodies</p>
+               <p>
+                     <italic>cardiology:</italic> the study of the heart and its action, as well as the diagnosis and treatment of its diseases</p>
+               <p>
+                     <italic>cardiovascular:</italic> relating to or involving the heart and blood vessels</p>
+               <p>
+                     <italic>corpuscle:</italic> a minute particle; a protoplasmic cell floating free in the blood</p>
+               <p>
+                     <italic>erythrocyte:</italic> a red blood cell</p>
+               <p>
+                     <italic>hematosis:</italic> the formation of blood</p>
+               <p>
+                     <italic>hemophilia:</italic> a tendency (usually hereditary) to profuse bleeding, even from slight cuts</p>
+               <p>
+                     <italic>leukocyte:</italic> a white or colorless blood corpuscle</p>
+               <p>
+                     <italic>phagocyte:</italic> any leukocyte active in ingesting and destroying waste and harmful material</p>
+               <p>
+                     <italic>phlebotomy:</italic> the act or practice of opening a vein for letting blood</p>
+               <p>
+                     <italic>serology:</italic> the science of serums, their reactions, preparation, and use</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Study of Blood Throughout History</title>
+               <p>For centuries, blood was thought to be a simple liquid, but it is actually a bodily tissue. The cells, instead of being joined together as in solid bodily tissues, are suspended in a fluid called <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87690382"
+                                   xlink:type="simple">plasma</related-article>, which comprises more than half of blood composition. The cellular portion of blood is largely red blood cells, with smaller numbers of white blood cells and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87324384"
+                                   xlink:type="simple">platelets</related-article> also present. Blood itself is the final functioning tool of the circulatory system, which helps to transport the blood to where it is needed in the body. Blood is an extremely complicated substance, and more things are being learned about it every year.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Blood Donation at ITESM CCM</title>
+                     <p>College student in a blood donation campaign.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="87321192-107637.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Albaraac (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Poster asking for blood donors Wellcome L0041572</title>
+                     <p>Poster for blood donors.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="87321192-107636.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>See page for author [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>Some ancient civilizations, such as that of the Greeks, recognized that blood was an important fluid in the body, but they thought that it was motionless in certain areas. Between 300 and 250 BCE, some Egyptians were studying the anatomy of corpses. About 300 BCE, the Greek physician Praxagoras showed that there were tubes connected to the heart. Some were filled with blood; others were empty, filled with air. One of the physician's students, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88258763"
+                                   xlink:type="simple">Herophilus</related-article>, found that arteries gave a beat or pulse. When dissection was outlawed in Egypt and the library of Alexandria was burned, progress in learning about blood was stopped for a thousand years.</p>
+               <p>Galen, the Greek physician who served five Roman emperors over thirty years to 200 CE, believed that the arteries originated in the heart and pumped blood. Contrary to later Egyptian medical thought, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88258743"
+                                   xlink:type="simple">Galen</related-article> theorized that the heart was one pump, not two. Around 1300, doctors in Italy began to dissect bodies again-in 1316, Mondino de Luzzi wrote the first book dealing entirely with anatomy, in which he supported Galen's teachings. In 1543, Belgian anatomist <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88367355"
+                                   xlink:type="simple">Andreas Vesalius</related-article> wrote a much-improved book on anatomy. However, it did not improve upon Galen's theories about the heart.</p>
+               <p>In 1242, a Syrian surgeon named Ibn an-NafIs had written a book in which he theorized about how blood moved from the right ventricle to the left and that a double pump was involved in moving it. Ironically, Europeans did not discover his writings until 1924.</p>
+               <p>Meanwhile, Spanish physician <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88367553"
+                                   xlink:type="simple">Michael Servetus</related-article> published a treatise in 1553 describing how circulation of blood to the lungs and back (often called the lesser circulation) might occur. Unfortunately, because he also included religious views, all copies of his writings that could be found were destroyed, and he was burned at the stake. Eventually, in 1694, a copy of his book was found, and it showed that his circulation theory matched later findings.</p>
+               <p>In 1559, an Italian anatomist, Realdo Colombo, also thought of lesser circulation and published a book on it. Colombo's work was so widely read that he is credited with discovering lesser circulation. In 1574, another Italian, Girolamo Fabrici, observed little valves on veins that opened in only one direction. The importance of this discovery was deduced by a student of Fabrici, the English doctor <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88070414"
+                                   xlink:type="simple">William Harvey</related-article>, when Harvey determined that blood in the leg veins could move only to the heart. His laboratory work proved that the heart pumped blood into the arteries and that the blood returned by way of the veins. Furthermore, Harvey showed that the blood had a double circulation, returning to both ventricles. His continued experimentation showed that the same blood had to circulate and be used repeatedly.</p>
+               <p>All these medical pioneers were hampered by the inability to see more than the human eye would permit, until the development of lenses and microscopes. In 1661, Italian anatomist <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88070285"
+                                   xlink:type="simple">Marcello Malpighi</related-article> was able to see, with the aid of a microscope, very fine blood vessels that connected the smallest arteries and veins: capillaries. With the discovery of capillaries, the concept of the circulation of blood was complete. In the eighteenth century, the English scientist Stephen Hales was the first to measure blood pressure.</p>
+               <p>The microscope also enabled scientists to observe the components of blood. Malpighi saw reddish objects in a clear, faintly yellow fluid. Dutch scientist Jan Swammerdam, with the aid of a microscope, was able to describe them further. In 1674, the renowned Dutch scientist Antoni van Leeuwenhoek, using the best of these early microscopes, was able to describe the red cells as flat disks with depressions in the center. He even tried to measure them-in 1852, his calculations were refined by German scientist Karl Vierordt. Leeuwenhoek was able to study the path of red blood cells in tadpoles, frogs, and other animals and determined that, without doubt, blood traveled in an entirely closed circle, proving Harvey's contention. Soon, in 1669, English doctor Richard Lower noted that blood coming through arteries was red and that blood flowing toward the heart in veins was bluish.</p>
+               <p>English chemist Joseph Priestley <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158762"
+                                   xlink:type="simple">discovered</related-article> the gas oxygen in 1774, and French chemist Antoine-Laurent Lavoisier was able to show in 1778 that air consisted (mainly) of two gases, oxygen (one-fifth) and nitrogen (four-fifths). A German chemist, Julius Lothar Meyer, showed in 1857 that oxygen did not generally mix with the liquid part of the blood, combining instead with red blood cells.</p>
+               <p>The scientific detective work on blood continued with the aid of improved microscopes. It was learned that the cells of the body contained complicated substances called proteins, each of which was made up of groups of atoms called molecules. German scientists were among the first to examine the composition of blood. Otto Funke obtained a protein from red blood cells in 1851. Then Felix Hoppe-Seyler purified it, studied it, and named it hemoglobin (“blood protein”). The secrets of this precious commodity continued to unfold. In 1747, Italian chemist Vincenzo Antonio Menghini found that there was a small quantity of iron in blood, apparently stored in red blood cells.</p>
+               <p>Gradually, these findings led to the transfusion of blood from one person to another. In the seventeenth century, blood transfusions were attempted between animals. In 1666, Richard Lower unsuccessfully tried to transfuse blood from an animal to a human being. Sometimes the operation helped, but occasionally people died after such a transfusion, so doctors largely abandoned the practice. Then, in 1818, James Blundell, an English physician who theorized that the blood of a particular kind of animal would help only that particular kind, transfused blood from healthy human beings to other human beings who needed blood. While often successful, the procedure sometimes caused agglutination, a process in which red blood cells clumped together and would not function properly.</p>
+               <p>In 1901, an Austrian doctor named <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88832696"
+                                   xlink:type="simple">Karl Landsteiner</related-article> solved the problem by observing that there were four kinds of blood cells. Depending on the chemical content, the blood was named as types A, B, AB, and O. Continuing practice showed that not all blood types worked well with one another; some tended to agglutinate when introduced to the wrong type.</p>
+               <p>Although red blood cells are by far the most numerous objects that float in the bloodstream, they are not the only ones. In 1850, French physician Casimir-Joseph Davaine noticed cells, pale and uneven in shape, that were much larger than red blood cells. By 1869, he noticed that these cells would absorb bits of foreign matter in the blood. In 1875, German doctor Paul Ehrlich, interested in using dyes on these white cells, found that he was able to classify them into different types.</p>
+               <p>In the late nineteenth century, Russian scientist Élie Metchnikoff (also known as Ilya Ilich Mechnikov), while studying bacteria, noticed that whenever there was a cut, white cells were carried to it in great numbers by the blood. So much blood went to the injured part that it grew red and inflamed and was painful from the pressure exerted by the blood on the vessel walls. Metchnikoff called the bacteria-eating cells phagocytes. He had become interested in the study of bacteria following the pioneering work of France's Louis Pasteur in the 1860s.</p>
+               <p>The clotting of wounds became more interesting to the medical community. In 1842, French scientist Alfred Donne had reported a new type of object floating in the bloodstream. An Italian physician, Giulio Cesare Bizzozero, concluded that the foreign objects had something to do with clotting. He called them platelets because their shape resembled tiny plates. What was to be learned about them much later is that they have a life span of about nine days and that they break down when exposed to air after bleeding starts. As they begin to break down, platelets release a substance that starts a long chain of chemical changes that ends in clotting.</p>
+               <p>While many scientists were concentrating on the study of red blood cells, white blood cells, and platelets, attention was also being paid to plasma, the colorless liquid that serves as a transport mechanism for objects floating in it. Eventually, it was learned that plasma carries red blood cells to the lungs to take up oxygen and then to the rest of the body to deliver the oxygen. Plasma carries white blood cells to any part of the body where they are needed to fight bacteria. It also carries platelets to any part of the body where blood loss must be stopped. Furthermore, the watery plasma absorbs heat at the liver and delivers it to the skin so that the body stays warm.</p>
+               <p>More recent studies show that about 8 percent of plasma is composed of dissolved substances that are important in keeping conditions in the body even. Some chemicals in the plasma neutralize acids and bases, which could threaten cells. The plasma also carries glucose molecules and fatty acids to specific destinations in order to produce energy in the body. Furthermore, it dissolves wastes such as carbon dioxide and delivers urea to the kidneys for disposal. Hormones, which were first discovered in 1902, are also carried by the plasma to any part of the body where they are needed.</p>
+               <p>More than half the weight of substances dissolved in plasma are proteins. Proteins fall into two groups, albumins and globulins. Some proteins combine easily with substances that the body needs in small amounts. Gammaglobulins have the capacity to neutralize foreign substances, such as viruses or the poisonous toxins produced by bacteria, by combining with them. Gammaglobulins that act in this way are called antibodies.</p>
+               <p>All these discoveries and many others (such as the existence of fibrinogen, fibrin, the Rh factor, and enzymes) have combined to improve the procedures for storing and transfusing blood. Safeguarding blood for transfusion has always been a problem. The precious liquid is unstable, and a fresh supply has always been needed in any emergency.</p>
+               <p>In the late 1930s, Russian scientists discovered that citrated blood can be stored if refrigerated at a temperature of about 4.5 degrees Celsius (40 degrees Fahrenheit). Then, in 1936, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89129360"
+                                   xlink:type="simple">blood banks began</related-article> with a Canadian doctor, Norman Bethune, made large-scale use of a blood bank with antifascist forces during the Spanish Civil War. During World War II, the noted American blood bank pioneer Charles Drew, who had made a special study of ways to store and ship blood plasma, organized a nationwide “Blood for Britain” campaign in which thousands of lives were saved.</p>
+               <p>Before blood banks could evolve, a number of additional discoveries had to be made. Before the discovery of agglutinins and blood typing, blood was transfused directly from donor to patient. The two lay side by side, and the blood flowed from the artery of the donor to the vein of the recipient. There was no way of measuring the amount of blood being transfused. It became dangerous for the donor if he or she changed from rosy-colored and talkative to pale or unconscious. There was also the danger that a blood clot in the tube might enter the patient's blood vessels. In addition, the blood might be flowing too fast and overload the patient's heart.</p>
+               <p>A new tube to facilitate blood transfusion more safely was developed in 1909. Then, in 1914, Argentine doctor Luis Agote discovered that sodium citrate could stop the clotting of blood, permitting blood to be kept in a bottle while it was slowly directed into a patient's vein. Physicians could finally control the quantity and speed of transfusions.</p>
+               <p>The use of stored blood began in 1918 by Oswald H. Robertson, a World War I physician, who found it could be kept virtually intact for several days by storing it at low temperatures, from 2 to 4 degrees Celsius. The first large blood bank was established at the Cook County Hospital in Chicago in 1937.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Role of Blood Banks</title>
+               <p>A blood bank is an organizational unit responsible for collecting, processing, and storing blood to be used for transfusion and other purposes. It is usually a subdivision of a laboratory in a hospital and is often charged with the responsibility for all serologic testing. Although blood can be withdrawn from one person and transfused directly into another, the usual practice is for hospitals and authorized agencies to select donors, draw blood (phlebotomy), screen the specimens, arrange them into blood groups, and store the blood until it is needed.</p>
+               <p>Each unit of donated blood, referred to as whole blood, is approximately 1 pint. After it is drawn, the blood separated into its constituent parts, which consist primarily of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87322009"
+                                   xlink:type="simple">red blood cells</related-article>, plasma, and platelets. The components can then be transfused to different patients depending on their individual needs.</p>
+               <p>The storage of blood was once short-lived because of clotting and inadequately low temperature levels. A blood bank can now store blood for much longer periods of time, sometimes a year or two. It is stored with an <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89403360"
+                                   xlink:type="simple">anticoagulant</related-article>, generally an acid-citrate-dextrose (ACD) solution composed of trisodisum citrate, citric acid, dextrose, and sterile water. Red blood cells from blood stored in an ACD solution will survive in the recipient for one hundred days. All chemical changes in blood are slowed by cold temperatures. Red blood cells can be stored for a maximum of 42 days via refrigeration. Platelets, on the other hand, are stored at room temperature and can only be stored for a maximum of five days. It has been found that more prolonged storage of blood can be achieved by freezing and maintaining it at extremely low temperatures-below –70 degrees Celsius (–94 degrees Fahrenheit). While freezing and thawing of whole blood does not harm plasma, it can damage red blood cells unless glycerol or dimethyl sulfoxide solutions are used to minimize the damage and permit red cells to be maintained in a frozen state for months without significant injury. Red blood cells may be frozen for up to ten years, while plasma can only be frozen for one year.</p>
+               <p>After Karl Landsteiner discovered that blood could be classified into four major blood groups, safer transfusions could be attempted. Landsteiner also worked with the American pathologist Alexander S. Wiener to discover another system of blood grouping known as the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89145120"
+                                   xlink:type="simple">Rh system</related-article>. The name was derived from the rhesus monkeys with which the scientists experimented.</p>
+               <p>It was found that a person with type A blood (having “A” antigens in the red blood cells and “b” antibodies in the blood plasma) cannot successfully give blood to a person with type B blood (having “B” antigens and “a” antibodies) because the clumping of blood cells would occur.</p>
+               <p>Successful blood transfusions depend on the type of antigens in the donor's red blood cells, not on the type of antibodies in the plasma, because the recipient's blood cells greatly outnumber the antibodies in the donor's blood, and serious clumping could not occur. A donor's red blood cells, however, are few enough in number that all of them can be agglutinated by the recipient's antibodies. These clumps could then plug the capillaries, reducing and eventually cutting off the flow of blood. This reaction is serious and can cause death.</p>
+               <p>A person with type AB blood, who has both “A” and “B” antigens in the red blood cells and no agglutinins in the plasma, can receive the red blood cells of any other group. A type O person (a universal donor) has no antigens and can donate blood to any person but can receive only type O blood. Therefore, type O is the most requested blood type by hospitals.</p>
+               <p>The ABO system of grouping blood types has led to further refinements. Ten major and minor blood groupings have been identified from the variety of proteins also found in blood cells. The most important is the Rh system. There are two Rh blood types: Rh positive and Rh negative. A person with the Rh-positive factor has the protein, while a person with Rh-negative blood does not have the protein. Infusing an Rh-negative person with Rh-positive blood causes special antibodies to be formed in the blood of the recipient. A later transfusion of Rh-positive blood would result in the agglutination of the red blood cells received.</p>
+               <p>This reaction is especially important when incompatibility occurs between the blood of a pregnant woman and her baby. This happens only if the mother has Rh-negative blood and the baby has Rh-positive blood because it has inherited <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94416675"
+                                   xlink:type="simple">Rh-positive genes </related-article>from the father. When such a baby is born, some of the baby's blood enters the mother's circulatory system, causing her body to produce antibodies to combat the “foreign material.” Since this intrusion of blood almost always happens as a delayed reaction after the baby is born, the first baby is probably unharmed. However, a subsequent baby could be the victim of these antibodies, which the mother's body continues to produce. Such a developing baby could suffer the destruction of its red blood cells if it has Rh-positive blood, unless preventive steps such as a blood transfusion for the baby are taken. Another medical development is a medicine known as Rho(D) immune globulin, which provides protective immunization and has almost eliminated the dangers of Rh incompatibility. Blood transfusions are regularly used in crises such as accidents or life-threatening illnesses. Most commonly, they are used to restore the volume of circulating blood lost by acute hemorrhaging. They are also used to restore the large volume of plasma that is often lost after severe burns. In acute or chronic anemia cases, such as with acquired immunodeficiency syndrome (AIDS) or leukemia, they are used to maintain hemoglobin and red blood cells at adequate levels. Transfusions are also used to provide platelets for coagulation in order to counteract various bleeding disorders or acute hemorrhaging.</p>
+               <boxed-text position="float">
+                  <title>In the News: Blood Banks and Antigerm Screening</title>
+                  <p>Blood banks in the early twenty-first century faced growing challenges as new diseases threatened the purity of their blood supplies. In response to such threats, researchers attempted to design improved methods for blood banks to screen donors and blood for protection against contamination.</p>
+                  <p>West Nile virus, a mosquito-borne disease, was first identified in the United States in 1999. In the fall of 2002, health officials discovered that organ transplant recipients had become infected with the virus through blood transfusions. The majority of West Nile victims displayed no visible symptoms and had unintentionally donated contaminated blood. In November of that year, the Food and Drug Administration (FDA) called for the development of a test before the outbreak of the 2003 mosquito season. Although some experts doubted that a screening method could be produced so quickly, two tests that detected minute fragments of the West Nile virus genes were in use by July 1. The tests also revealed the presence of viruses responsible for Japanese, St. Louis, and Murray encephalitis, permitting blood banks to reject blood contaminated with these diseases as well.</p>
+                  <p>Although no conclusive evidence proved that either Creutzfeldt-Jakob disease (the human form of mad cow disease) or severe acute respiratory syndrome (SARS) were in fact transmissible through blood transfusions, blood banks used verbal screening of potential donors to defend against these recent disease outbreaks. FDA guidelines mandated rejection or deferral of blood donations from people who might have been exposed to either disease.</p>
+                  <p>In 2002, the FDA approved nucleic acid amplification tests (NAT) for the hepatitis C virus (HCV) and the human immunodeficiency virus 1 (HIV-1). Unlike existing tests for the presence of antibodies, which do not develop in the earliest stages of a disease, the NAT reacts to small fragments of virus deoxyribonucleic acid (DNA) and can detect infections before the appearance of symptoms. The West Nile virus tests use similar methods.</p>
+                  <p>Ongoing research into improved techniques for detecting bacteria and other blood pathogens, and into ways of using physical or chemical methods to destroy these organisms, may further improve blood supply safety.</p>
+                  <sig-block>
+                        <sig>
+                           <italic>—Milton Berman, Ph.D.</italic>
+                        </sig>
+                     </sig-block>
+               </boxed-text>
+               <p>Blood transfusions are being used more extensively-and more safely-than ever before. Many more surgeries are possible with transfusions including organ implants, heart repair, limb reconstruction, grafting for severe burn cases, and bone grafts.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Perspective and Prospects</title>
+               <p>Five million patients a year receive blood, largely in emergency cases. Many are in need of emergency surgery for an internal disorder, but many others are victims of social violence, earthquakes, and hurricanes. Large-scale devastation often comes close to depleting the blood supply in an area. New and repeat donors, therefore, are always in demand. New ways of storing blood safely and for longer periods of time are constantly being researched. In the United States, the work of blood banks comes under the ultimate supervision of the Food and Drug Administration (FDA) and federal agencies, as well as the Oversight and Investigations Subcommittee of the House Energy and Commerce Committee. Also interested in their function are the congressionally funded Public Health Service and the Centers for Disease Control (CDC). The largest United States blood bank is that of the Red Cross, which provides, through its local affiliates, about half of the 16 million units of blood donated each year in the United States. The Red Cross, as well as individual nonprofit and commercial agencies, is striving for improved health and safety procedures in blood donation.</p>
+               <p>The American Association of Blood Banks gathers and interprets data each year. It has found that there have been relatively few transfusion-induced cases of viral infection. Almost all the transfusion-related AIDS cases, for example, developed in 1985, before tighter screening of donors, safer procedures, and strict AIDS antibody screening were instituted. Only fifteen cases of AIDS from blood transfusion were reported between 1985 and 1992. This contrasts with the pre-1985 figure of 3,425 transfusion-associated cases of AIDS reported to the Centers for Disease Control. As of 2014, the rate of presence of the HIV antibody in blood donor population fell to .5 per 10,000 donations from 3.5 per 10,000 donations in the early 1990s.</p>
+               <p>Concern about other viral infections transmitted through blood transfusions has increased vigilance against blood impurities and has improved sanitary procedures. Governmental agencies, the Red Cross, and private corporations have intensified their efforts to protect the quality of the blood supply. The International Society of Blood Transfusion continues to examine new threats.</p>
+               <p>Steps are continually reviewed to improve record keeping, blood collection, tracking, and distribution by all organizations. The FDA has a comprehensive inspection program that focuses on all phases of the collection-dispersal program of all blood banks, as well as on their training of workers and updating of procedures. It looks closely at procedures for donor screening, the testing for hepatitis and AIDS virus antibodies, and the quarantine and destruction of unsuitable blood products.</p>
+               <p>The American Red Cross complies with these regulations and works with the FDA to create the safest blood supply possible. It has a state-of-the-art computerized information system. It keeps track of all its donors and retains files on all persons disqualified from giving blood. This information is available throughout the United States. The computerized program is also being expanded internationally because there is a growing import-export business between countries in need of new supplies. The American Red Cross database lists would-be donors, types and quantities of blood in storage, location of hospitals and distribution centers, and other information vital to the prompt, efficient, and safe distribution of blood.</p>
+               <p>In 2010, the CDC launched a national public health surveillance known as the Hemovigilance Module. Its purpose is to monitor and record adverse reactions resulting from blood transfusions. By collecting a large pool of data in a national system, the CDC will be able to amass this information and develop new methods to prevent the adverse incidents that can come with transfusion.</p>
+               <p>Blood safety begins with screening. Only healthy individuals are allowed to give blood. Blood samples undergo extensive screening designed to detect any blood-borne infectious agent. Some collection agencies are developing lists of unwanted donors, including persons with a high risk of having been exposed to the AIDS virus or to other dangerous viruses or bacteria, such as those that cause hepatitis or syphilis. The goal is to reduce the chance of obtaining infectious blood as much as possible.</p>
+               <p>According to the CDC in 2013, there are  seven infectious disease pathogens that all donated blood must be screened for. These include bacterial contamination, Hepatitis B and C viruses, Human Immunodeficiency Virus (HIV) types 1 and 2, Human T-Lymphotropic Virus (HTLV) types I and II, Treponema pallidum (syphilis), and West Nile Virus. Cytomegalovirus and Trypanosoma cruzi (Chagas disease) are often tested by blood centers but are not among the required tests. The various pathogens are tested through different means including cultures and antibody detection. It is an expensive set of procedures, and hospitals, clinics, and other medical institutions are working on how to reduce these costs.</p>
+               <p>Many viruses are elusive, including HIV, which takes time to develop. To hasten its identification, scientists have developed the technique of “pooling” by combining blood known to contain infected cells with samples of blood with uninfected normal lymphocytes in an effort to stimulate HIV replication and make the HIV come to light faster. It has been found that the most reliable mix is a pool of fifty donors. The concept of pooling is scientifically valid and economically feasible.</p>
+               <p>While the risk of acquiring a transfusion-related infection is extremely low, there is still concern among the public that individuals might be susceptible to specific blood diseases.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">"Blood Donor Screening: Laboratory Testing." <italic>UpToDate</italic>. UpToDate, 18 Nov. 2014. Web. 30 Nov. 2015. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">"Blood Safety Basics." <italic>CDC</italic>. Centers for Disease Control and Prevention, 31 Jan. 2013. Web. 30 Nov. 2015.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Hillier, Christopher D., et al., eds. <italic>Blood Banking and Transfusion Medicine: Basic Principles and Practice.</italic> 2nd ed. Philadelphia: Churchill Livingstone/Elsevier, 2007. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">"Infectious Disease Testing." <italic>Red Cross Blood</italic>. American National Red Cross, n.d. Web. 30 Nov. 2015.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">McCullough, Jeffrey. <italic>Transfusion Medicine.</italic> 2nd ed. Philadelphia: Churchill Livingstone/Elsevier, 2005. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Schaub Di Lorenzo, Marjorie, and Susan Strasinger. <italic>Blood Collection: A Short Course.</italic> 2nd ed. Philadelphia: F.A. Davis, 2009. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Starr, Douglas P. <italic>Blood: An Epic History of Medicine and Commerce.</italic> New York: Perennial, 2002. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Wailoo, Keith. <italic>Drawing Blood: Technology and Disease Identity in Twentieth-century America.</italic> Baltimore: Johns Hopkins UP, 1999. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Blood banks</article-title>
+                           <italic>Magill's Medical Guide, Seventh Edition</italic>
+                           <year>2014</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rssalemprimaryencyc</book-id>
+      <book-id pub-id-type="eis-mid">HDMJ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Primary Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">HDMJ</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>1</day>
+         <month>October</month>
+         <year>2014</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="RSSALEMPRIMARYENCYC.10.3331.136419"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rssalemprimaryencyc_136419</book-part-id>
+            <title-group>
+               <title>Amazon River</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Amy</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Weber</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>. The Amazon River is the largest river by volume and the second longest in the world. The Amazon region covers most of Brazil and Peru. The Amazon rain forest, the world’s largest tropical rain forest, is part of the Amazon River basin. Spanish explorer Francisco de Orellana named the river in 1541.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Lexile</meta-name>
+                  <meta-value>1000L</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>98915876</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>465</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p/>
+            </sec>
+            
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The Amazon River is the largest river by volume and the second longest in the world. The Amazon region covers most of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="99251739"
+                                   xlink:type="simple">Brazil</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="99251863"
+                                   xlink:type="simple">Peru</related-article>. The Amazon rain forest, the world’s largest tropical rain forest, is part of the Amazon River basin. Spanish explorer Francisco de Orellana named the river in 1541.</p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Amazonas - Encontre das Aguas.jpg</title>
+                     <p>Amazonas River, Encontre das Aguas (meeting of the waters) near Manaus, Brazil</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="98915876-88966.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By User:Wutzofant (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC-BY-SA-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Manaus-Amazon-NASA.jpg</title>
+                     <p>Amazon river near Manaus from satellite</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="98915876-88967.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Public domain, via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Geography and Climate</title>
+               <p>The source of the Amazon River lies in the Andes Mountains in Peru. Yet the river’s course is measured from the Ucayali River, where it meets the Maranon River. The Amazon flows in a northerly and then an easterly direction across South America. It empties 4,000 miles from its source into the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="98915910"
+                                   xlink:type="simple">Atlantic Ocean</related-article>. Over 1,000 smaller rivers or streams, called tributaries, flow into the Amazon. The climate of the Amazon is tropical. The air is warm and humid and rainfall is abundant. Rainfall reaches 60 to 120 inches or more each year.</p>
+               <p>Annual flooding of the Amazon happens between June and October. Flooding can make the river 20 miles wide and 300 feet deep. The floodwaters make the soil rich with nutrients, which support the biodiversity of the ecosystem.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Biodiversity</title>
+               <p>As the largest river basin in the world, the Amazon basin’s 2,700,000 square miles hold thousands of plant and animal species. Millions of insect species can be found in this ecosystem. Animals include monkeys, pink dolphins, jaguars, piranhas, sloths, anteaters, anacondas, macaws, parrots, toucans, large rodents, and armadillos.</p>
+               <p>The Amazon region holds about half of Earth’s tropical forests. The rainforest is a lifeline for our planet because of the amount of carbon it has. It is estimated that more than 100 billion metric tons of carbon lie within the rainforest. As people have cleared the land for economic activities, much of this carbon could be lost.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>People and Economy</title>
+               <p>Thousands of native peoples once lived in the Amazon region for centuries. Many were forced into slavery after the Europeans arrived in the 1500s. Some were forced to remove many of the abundant resources that the region has such as minerals and rubber. Many native peoples moved inland to escape. Today, only about 2,000 native people still live in the Amazon region. They live in remote areas and practice the ways of life of their ancestors. Although the native peoples speak Arawak and Carib languages, there are still many languages that are undiscovered as there are groups of native peoples.</p>
+               <p>Human activities such as mining, farming, and logging have harmed the ecosystem. The clearing of land for these activities and for resources has been the greatest challenge to the livelihood of the native population. The changes to the land have forced the native peoples to adapt how they live.</p>
+               <p>Conservationists have worked to protect the Amazon River and basin to protect the massive number of species who make this area their home. Brazil’s government has also set aside land for the native peoples so that they can maintain their traditional ways of life.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <title>Books</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Smith, Nigel J.A. <italic>The Amazon River Forest: A Natural history of Plants, Animals, and People.</italic> New York: Oxford University Press, 1999.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Neely, Paula. "South America’s Mighty Amazon." <italic>Calliope.</italic> Oct. 2012.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon Basin Facts." Smithsonian National Zoological Park.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">http://nationalzoo.si.edu/animals/amazonia/facts/basinfacts.cfm</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon River." <italic>Compton’s by Britannica</italic>. <italic>Britannica Online for Kids</italic>. Encyclopædia Britannica, Inc., 2014. &lt;http://kids.britannica.com/comptons/article-9272828/Amazon-River&gt;</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon River." Encyclopædia Britannica. Encyclopædia Britannica Online. Encyclopædia Britannica Inc., 2014. &lt;http://www.britannica.com/EBchecked/topic/18722/Amazon-River&gt;.</citation>
+                  </ref>
+               </ref-list>
+               <ref-list>
+                  <title>Periodicals</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Neely, Paula. "South America’s Mighty Amazon." <italic>Calliope.</italic> Oct. 2012.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon Basin Facts." Smithsonian National Zoological Park.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">http://nationalzoo.si.edu/animals/amazonia/facts/basinfacts.cfm</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon River." <italic>Compton’s by Britannica</italic>. <italic>Britannica Online for Kids</italic>. Encyclopædia Britannica, Inc., 2014. &lt;http://kids.britannica.com/comptons/article-9272828/Amazon-River&gt;</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon River." Encyclopædia Britannica. Encyclopædia Britannica Online. Encyclopædia Britannica Inc., 2014. &lt;http://www.britannica.com/EBchecked/topic/18722/Amazon-River&gt;.</citation>
+                  </ref>
+               </ref-list>
+               <ref-list>
+                  <title>Websites</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon Basin Facts." Smithsonian National Zoological Park.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">http://nationalzoo.si.edu/animals/amazonia/facts/basinfacts.cfm</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon River." <italic>Compton’s by Britannica</italic>. <italic>Britannica Online for Kids</italic>. Encyclopædia Britannica, Inc., 2014. &lt;http://kids.britannica.com/comptons/article-9272828/Amazon-River&gt;</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Amazon River." Encyclopædia Britannica. Encyclopædia Britannica Online. Encyclopædia Britannica Inc., 2014. &lt;http://www.britannica.com/EBchecked/topic/18722/Amazon-River&gt;.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

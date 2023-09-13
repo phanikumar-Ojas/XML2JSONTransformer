@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="2.3" xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsbiomes</book-id>
+      
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Science</book-title>
+         <alt-title alt-title-type="mid">H50B</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+     <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>October</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>6</day>
+         <month>March</month>
+         <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>30</day>
+         <month>September</month>
+         <year>2021</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part id="RSBIOMES.10.3331.92590" indexed="true" book-part-type="chapter" xlink:type="simple" xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rsbiomes_92590</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject/>
+               </subj-group>
+               <subj-group subj-group-type="subjectscience">
+                  <subject/>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Amazon River</title>
+            </title-group>
+            <contrib-group>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Bill</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kte'pi</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The Amazon is the largest river by flow volume in the world, accounting for one-fifth of the world's total river flow. Accordingly, it has the largest drainage basin—about 2.7 million square miles (6,992,968 square kilometers) in area. It is so large that if accounted independently, two of its 1,000 tributaries—the Rio Negro and the Madeira River—would be among the 10 largest rivers in the world. Nearly one-sixth of all the freshwater that drains into an ocean passes through the Amazon. Its width varies from one to six miles (two to 10 kilometers) when the river is low, expanding beyond 30 miles (48 kilometers) in the wet season.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The Amazon is the largest river by flow volume in the world, accounting for one-fifth of the world's total river flow. Accordingly, it has the largest drainage basin—about 2.7 million square miles (6,992,968 square kilometers) in area. It is so large that if accounted independently, two of its 1,000 tributaries—the Rio Negro and the Madeira River—would be among the 10 largest rivers in the world. Nearly one-sixth of all the freshwater that drains into an ocean passes through the Amazon. Its width varies from one to six miles (two to 10 kilometers) when the river is low, expanding beyond 30 miles (48 kilometers) in the wet season.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/BIOMESECO_101536901075</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <bold>Category:</bold> Inland Aquatic Biomes.</p>
+               <p>
+                     <bold>Geographic Location:</bold> South America.</p>
+               <p>
+                     <bold>Summary:</bold> The world's largest river is a diverse ecosystem providing a home to numerous species found nowhere else.</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The Amazon is the largest river by flow volume in the world, accounting for one-fifth of the world's total river flow. Accordingly, it has the largest drainage basin—about 2.7 million square miles (6,992,968 square kilometers) in area. It is so large that if accounted independently, two of its 1,000 tributaries—the Rio Negro and the Madeira River—would be among the 10 largest rivers in the world. Nearly one-sixth of all the freshwater that drains into an ocean passes through the Amazon. Its width varies from one to six miles (two to 10 kilometers) when the river is low, expanding beyond 30 miles (48 kilometers) in the wet season.</p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Amazon alluvium deposit - autazes</title>
+                     <p>Alluvial river deposits on the Amazon Basin, near Autazes, AM - Brazil. The seasonal deposits are extremely fertile, and crucial to subsistence farming in the Amazon Basin along the river banks.</p>
+                  </caption>
+                  <ext-link xlink:href="94981205-89100.jpg" ext-link-type="db-image" xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Ramesh Thadani (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Amazon-river-NASA</title>
+                     <p>A satellite image of a part of the Amazon River.</p>
+                  </caption>
+                  <ext-link xlink:href="94981205-89099.jpg" ext-link-type="db-image" xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By NASA [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>The Amazon begins in the <related-article related-article-type="rs" xlink:href="88802501" xlink:type="simple">Andes Mountains</related-article> and flows for about
+                  4,000 miles (6,437 kilometers) through South America before entering the
+                     <related-article related-article-type="rs" xlink:href="88952979" xlink:type="simple">Atlantic
+                     Ocean</related-article> in an estuary some 150 miles (241 kilometers) wide.
+                  Interestingly, at no point is the Amazon crossed by a bridge—not because of its
+                  width, which has been traversable by modern engineering for a century, but because
+                  so much of the Amazon passes through rainforest that there is little demand for a
+                  crossing. The river is about 11 million years old and has had its current shape
+                  for about 2.4 million years, according to a 2009 study of sediment columns.</p>
+               <p>The Amazon's size leads to habitats found nowhere else. The Piramutaba catfish,
+                  for example, one of the larger catfishes in the Amazon, migrates more than 2,000
+                  miles (3,219 kilometers) from its nursery in the Guianan–Amazon mangroves to its
+                  upper-Amazon spawning grounds. The <related-article related-article-type="rs" xlink:href="88952973" xlink:type="simple">Amazon Basin</related-article> is home to as many as 25
+                  percent of the world's terrestrial species, and its flora accounts for about 15
+                  percent of the world's land-based photosynthesis activity. Massive numbers of
+                  species remain unidentified. For a long time, the idea persisted that the
+                  white-water rivers of the Amazon were plentiful with fish, whereas the darker
+                  waters like the Rio Negro were “hunger rivers,” void of most life. It has become
+                  clear that this is an oversimplification and that the black rivers are home to
+                  significant turtle populations, in addition to supporting fisheries.</p>
+               <p>Temperature, rainfall, and climate vary throughout the large region, but it is generally warm and humid. Because the wave and tidal energy of the massive river is sufficient to carry most of its sediments to sea, it doesn't form a true delta. Instead, it empties directly into the turbulent Atlantic Ocean, which rapidly carries the silt away.</p>
+               <p>The Amazon is joined to the Orinoco River basin by the Casiquiare canal. The Casiquiare is a distributary of the Orinoco and flows into the Rio Negro, one of the Amazon's tributaries.</p>
+               <p>In 2016, an article published in the journal <italic>Science</italic> revealed that since 2012, scientists had been exploring a massive coral reef that they had discovered at the mouth of the Amazon River, which stretches for approximately 600 miles (1,000 kilometers). This find came as an especially large shock to both the researchers themselves and the scientific community as a whole because the river is so murky and filled with mud and sediment that it was believed, according to experience and the existence of other coral reefs, that such life could not possibly exist in its waters. However, when a Brazilian scientist on an expedition to the river's plume suggested that they look for a reef due to a 1977 paper that had described researchers catching fish in the area, he and his fellow scientists began dredging near the shelf, eventually pulling up unexpected animals that included sea fans, stars, sponges, yellow tubes, and several species of fish. Further research and exploration conducted by Brazilian scientists and Greenpeace in 2019 have indicated that the reef is much larger than originally thought. It is 22,000 square miles (56,000) square kilometers and can be seen from space. The reef is mainly in darkness; its lowest areas are more than 656 feet (200 meters) below the twilight zone, a layer of water that is 650 to 3,3,300 feet (200 to 1,000 meters) deep. The reef is threatened by Brazilian oil exploration. Total, a French oil company, had plans to drill near the reef. However, the group Amazon Reef Defenders succeeded in stopping the oil giant.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Surrounding Forests</title>
+               <p>Terrestrial ecosystems in the region include the moist broadleaf forests of the
+                  Rio Negro Campinarana, Iquitos Varzea, Gurupa Varzea, Marajo Varzea, Purus Varzea,
+                  and Monte Alegre Varzea, all of which are classified as threatened or endangered.
+                  Dramatic topographical variations have led to a rich diversity of Amazonian life,
+                  and for a long time, public discussion of <related-article related-article-type="rs" xlink:href="88833150" xlink:type="simple">biodiversity</related-article>
+                  and conservation implicitly or explicitly centered on the Amazon. In the south, a
+                  dearth of human settlement and roads have kept the habitat intact. In the north,
+                  logging, mining, and increased settlement have posed hazards. The south has the
+                  greatest endemic richness, with 11 endemic mammal species (of about 250) and 17
+                  endemic bird species (of nearly 800).</p>
+               <p>The forests are full of plants that have significant commercial value, including mahogany (<italic>Swietenia macrophylla</italic>), balsam (<italic>Myroxylon balsamum</italic>), rubber (<italic>Hevea brasiliensis</italic>), strychnine (<italic>Strychnos asperula</italic>), and tagua nut (<italic>Phytelephas microcarpa</italic>). The south has the greatest number of palm species.</p>
+               <p>Widespread Amazonian fauna include tapirs (<italic>Tapirus terrestris</italic>), jaguars (<italic>Panthera onca</italic>), capybaras (<italic>Hydrochoeris hydrochaeris</italic>), and kinkajous (<italic>Potos flavus</italic>), as well as the endangered woolly monkey (<italic>Lagothrix lagotricha</italic>), giant otter (<italic>Pteronura brasiliensis</italic>), giant anteater (<italic>Myrmecophaga tridactyla</italic>), and ocelot (<italic>Leopardus pardalis</italic>). The giant otter was once common throughout most of South America, but its population has declined to as little as 2,000, primarily in the protected areas of the Amazon Basin, as a result of being hunted for its fur.</p>
+               <p>
+                  <related-article related-article-type="rs" xlink:href="89475478" xlink:type="simple">Amazonian deforestation</related-article> has been a concern for centuries. The Amazonian rubber boom contributed substantially to deforestation in the late nineteenth century and throughout the twentieth century, due to the introduction of the pneumatic tire and the many commercial uses for rubber. Today, cattle ranchers are responsible for much of the deforestation, as demand for beef began a swift rise in the mid-twentieth century (principally due to the growing worldwide middle class—an important customer base—and to improvements in refrigeration and transport that expanded beef markets) and has stayed steady ever since.</p>
+               <p>The increasing demand for biofuel and other soy products has also increased deforestation by soybean farmers; in some areas, other livestock farmers and miners are the primary threats to the forest. Highway construction and land speculation, especially in the Brazilian stretch of the Amazon, are certainly factors, but outside Brazil, the problem of deforestation is thornier in its social and economic implications, because the laborers responsible for it are so often poor and deeply dependent on whatever work has displaced the forest. Each of these deforestation vectors has seen acceleration in recent decades—yielding an increasing stress level on the essential biology of the Amazon rainforest and other riverine ecosystems.</p>
+               <p>Even apart from the destruction of forest habitats and the various pollutants
+                  introduced by the purpose to which the deforested land is put, deforestation
+                  affects the greater ecosystem by impacts on the water cycle. The conversion of
+                  forest to pasture or farmland leads to water running off into the river without
+                  being recycled through the trees; deforestation contributes to drought and
+                     <related-article related-article-type="rs" xlink:href="89474529" xlink:type="simple">wildfires</related-article>, and reduces the rainfall that is critical to the
+                  water supply of the heavily populated parts of Brazil and Argentina. These direct
+                  effects of deforestation are seen in turn to contribute to global warming—both by
+                  the increased emanation of greenhouse gases from the industrial activities and
+                  more fires, and by depleting the carbon-absorbing power of the forest base. The
+                  feedback loop is completed when higher global air temperature and dislocation of
+                  normal precipitation patterns contribute to drought and drives up the spread of
+                  wildfires.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Upper Amazon Rivers and Streams</title>
+               <p>The major aquatic habitats of the Amazon are located in the Upper Amazon Rivers and Streams ecoregion, consisting of the muddy white-water tributaries in the west of the basin and the more-nutrient-poor black rivers of the Guiana Highlands. Hundreds of endemic (uniquely evolved to fit a locally biome niche) fish species can be found in this zone of the nearly 1,500 total fish species found throughout the Amazon. They include many ostariophysan fishes, including species from the siluroid catfish (<italic>Siluridae</italic>), minnow (<italic>Cyprinidae</italic>), and charcin (<italic>Characidae</italic>) families. Ostariophysan fishes are noteworthy for the way their gas-filled swim bladders amplify sound waves in water and transmit them to interear vertebrae, enhancing their sense of hearing.</p>
+               <p>Other fish species in the region include piranhas, electric eels, and
+                  Loricariid catfish. The Napo River alone is home to more than 500 species of fish.
+                  The <related-article related-article-type="rs" xlink:href="87996889" xlink:type="simple">piranha</related-article> is perhaps the most famous Amazonian fish, and the
+                  razor-sharp teeth responsible for that fame have been used as cutting tools by
+                  Amazonian tribes for millennia. Less famous is their importance to the ecosystem,
+                  as they eat both dead fish and dead animals whose decomposition would otherwise
+                  pollute the river. Only five of the river's 20 piranha species are dangerous to
+                  humans. The shallow waters are home to the <related-article related-article-type="rs" xlink:href="87325256" xlink:type="simple">anaconda</related-article>, one
+                  of the largest snake species, which remains low in the water, with just its
+                  nostrils above the surface.</p>
+               <p>The Upper Amazon is one of the most jeopardized regions of the Amazon. The introduction of hydroelectric dams, while providing a relatively green source of power, has modified river flow and altered the movements of migratory fish species. Deforestation during construction has increased erosion of riverbanks, and when the cleared land is converted to pasture or farmland, it may contribute contaminants to the water in the form of fertilizer, pesticide, animal feces, detergents, and other pollutants.</p>
+               <p>A more recent threat is the Andes gold rush. Once the base of the Andes, where
+                  the Amazon begins, was a pristine environment even as other parts of the
+                  rainforest were threatened by deforestation. Now humans have dug thousands of
+                  mines there in search of gold. Though ranching and logging account for a greater
+                  amount of deforestation, gold miners—who have destroyed perhaps 100,000 acres
+                  (40,469 hectares) of rainforest in Peru so far—burn the forest in which they work,
+                  including trees more than a millennium old, and strip away the Earth's surface to
+                  a depth of 50 feet (15 meters). This damage is much harder to recover from than
+                  that of <related-article related-article-type="rs" xlink:href="89474437" xlink:type="simple">slash-and-burn agriculture</related-article>. The mercury used in recovering
+                  gold from silt leaches into the watershed and is eventually taken up by Amazonian
+                  fish.</p>
+               <p>Most of the gold mines in Peru (as many as 98 percent) are illegal, making regulation a difficult remedy to apply. On a typical day, let alone a lucky one, a barely skilled laborer–turned–gold miner can earn twice as much as he or she would make in a month at his or her old job. The skyrocketing cost of gold has led many people to leave their old jobs and join into informal bands of miners who divide their findings among themselves. Other mine workers are teenagers, sold into servitude by their impoverished parents. Legal, commercial operations are larger in scale, with a typical mine removing 16 dump-truck loads of rock and soil every hour, 18 hours a day. Though legal operations are required to pay environmental remediation fees, the fees do nothing to stop the changes to, and destruction of, the local Amazonian ecosystem.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Amazonian Flooded Forests</title>
+               <p>The Amazon's cycle of flooding leads to the most extensive system of
+                     <related-article related-article-type="rs" xlink:href="87322158" xlink:type="simple">floodplain</related-article> habitats in the world, as the river rises more
+                  than 30 feet (nine meters) during the wet season. The flooded forested areas of
+                  north-central South America encompass an area about twice the size of California.
+                  These areas are home to a large number of freshwater fish, reptiles, and other
+                  aquatic fauna that migrate into the newly flooded area, including two species of
+                  the freshwater dolphins characteristic of the Amazon. Floodplain lakes and
+                  floating meadows are replenished, and freshwater fish feed on fruit dropping from
+                  the trees of the flooded forests. Indeed, the reproduction cycle of many
+                  floodplain trees depends on their fruit being eaten, and seeds dispersed, by these
+                  fish.</p>
+               <p>Floodplain fish include the tambaqui (a fruit eater), arawana, pirarucu,
+                  arapaima, dourada catfish, tucunare, and <italic>Lepidosiren paradoxa,</italic>
+                  one of the few lungfish to evade extinction. Four species of the threatened uakari
+                  monkey (genus <italic>Cacajao</italic>) are among the floodplain mammals, as well
+                  as the pink and gray <related-article related-article-type="rs" xlink:href="87998476" xlink:type="simple">river dolphins</related-article> and the manatee. The
+                  black caiman (<italic>Melanosuchus niger</italic>) is a local member of the
+                  alligator family; once nearly extinct due to hunting, the species has partially
+                  recovered its population, and it is classified as Conservation Dependent. The
+                  caiman depends primarily on fish for its diet, but larger adults will feed on
+                  mammals like tapirs and deer that come to the riverbank to drink. Jaguars prey on
+                  the juveniles.</p>
+               <p>The endangered Arrau turtle (<italic>Podocnemis expansa</italic>), the largest side-neck turtle, also migrates into the flooded forests, feeding on plants. In the dry season, the turtles travel in large numbers to find nesting areas, laying clutches of eggs in sandbanks. Most of the young are consumed almost immediately by predators; the survivors migrate to the floodplains once more.</p>
+               <p>The annual action of waters flowing into and then out of the floodplains contributes some of the Amazon River's trace mineral content. A 2004 study of the mineral content of the river, lakes, and leaves of the Ilha de Marchantaria forest affirmed that concentrations of manganese and copper could not be explained by tributary mixing or in-stream processes, and were likely the result of sediment–water and plant–water interfaces. Though the results were less clear, the same could be true for concentrations of iron, aluminum, and rubidium. </p>
+<p>However, reports published in 2021 indicated that the chemical content of the river had been altered by human activities. <italic>Murky Waters</italic>, produced by InfoAmazonia, concluded that mining, deforestation, agriculture, livestock, dams, and pollution from cities had altered the chemical composition of the Amazon Rivers as well as many other rivers throughout the world. </p>
+               <p>Lateral exchange with the floodplain also has significant effects on the carbon abundance and oxidation of the mainstream. The rate of respiration in the river is high, supported by organic material. Carbon-processing exchanges are most active at the places where floodplain waters interact with the mainstream water, which have a carbon and water mass balance anomaly. Most respiratory carbon dioxide (CO<sub>2</sub>) is lost to the atmosphere, as is common in riverine ecosystems.</p>
+               <p>The flooded forests are jeopardized by logging of the virola (also known as epena, patricia, and cumala), used by tribes in the Amazon and Orinoco Basins for its resin, which includes hallucinogenic alkaloids such as the most potent forms of DMT. Another threat is logging of the kapok (<italic>Ceiba pentandra</italic>), the seed pods of which produce large amounts of lignin- and cellulose-rich fiber with numerous commercial applications.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Bayley, Peter B. “Understanding Large River-Floodplain Ecosystems.” <italic>BioScience</italic> 45.3 (1995). Print.</citation>
+                  </ref>
+<ref><citation citation-type="journal" xlink:type="simple">Bourscheit, Aldem. "Chemical Products and Deforestation Modify Amazon River Water." <italic>InfoAmazonia</italic>, 20 Oct. 2021, infoamazonia.org/en/2021/10/20/chemical-products-and-deforestation-modify-amazon-river-water/. Accessed 17 Jul. 2022.</citation></ref>
+<ref><citation citation-type="journal" xlink:type="simple">Cailloce, Laure. "Revealing the Amazing Amazon Reef." <italic>CNRS News</italic>, 20 Jan. 2020, news.cnrs.fr/articles/revealing-the-amazing-amazon-reef. Accessed 17 Jul. 2022. </citation></ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Eisenberg, J. F. and K. H. Redford, eds. <italic>Mammals of the Neotropics: The Central Neotropics</italic>. Chicago: U of Chicago P, 1999. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Foley, Jonathan A., et al. “Amazonia Revealed: Forest Degradation and Loss of Ecosystem Goods and Services in the Amazon Basin.” <italic>Frontiers in Ecology and the Environment</italic> 5.1 (2007). Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Godar, Javier, Emilio Jorge Tizado, and Benno Pokorny. “Who is Responsible for Deforestation in the Amazon? A Spatially Explicit Analysis Along the Transamazon Highway in Brazil.” <italic>Forest Ecology and Management</italic> 267.58 (2012). Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Henderson, A. <italic>The Palms of the Amazon</italic>. New York: Oxford UP, 1995. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Meyer, Robinson. "Scientists Have Discovered a 600-Mile Coral Reef." <italic>Atlantic</italic>. Atlantic Monthly Group, 21 Apr. 2016. Web. 2 June 2016.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Richey, Jeffrey E., et al. “Biogeochemistry of Carbon in the Amazon River.” <italic>Limnology and Oceanography</italic> 35.2 (1990). Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Smith, Nigel J. J. <italic>Amazon Sweet Sea: Land, Life, and Water at the River's Mouth.</italic> Austin: U of Texas P, 2002. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Thorp, James H. “The Riverine Productivity Model: An Heuristic View of Carbon Sources and Organic Processing in Large River Ecosystems.” <italic>Oikos</italic> 70.2 (1994). Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Viers, Jerome, et al. “The Influence of the Amazonian Floodplain Ecosystems on the Trace Element Dynamics of the Amazon River Mainstem.” <italic>Science of the Total Environment</italic> 339.1–3 (2005). Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="journal" xlink:type="simple">Welch, Craig. "Surprising, Vibrant Reef Discovered in the Muddy Amazon." <italic>National Geographic</italic>. Natl. Geographic Soc., 22 Apr. 2016. Web. 2 June 2016.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="original" xlink:type="simple">
+                           <article-title>Amazon River</article-title>
+                           <italic>Biomes and Ecosystems</italic>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Robert Warren</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Howarth</surname>
+                           </name>
+                        </person-group>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Jacqueline E.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Mohan</surname>
+                           </name>
+                        </person-group>
+                           <year>2013</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

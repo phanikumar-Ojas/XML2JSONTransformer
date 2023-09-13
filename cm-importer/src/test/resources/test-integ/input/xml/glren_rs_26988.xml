@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">glren_rs</book-id>
+    <book-id pub-id-type="eis-mid">FYMT</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">FYMT</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>9</day>
+      <month>May</month>
+      <year>2013</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="GLREN_RS.10.3331.26988"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">glren_rs_26988</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Western Civilization/European History</subject>
+            <subj-group>
+              <subject>Renaissance History</subject>
+              <subject>Italian/Mediterranean History</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Women’s History</subject>
+            <subj-group>
+              <subject>Renaissance History</subject>
+              <subject>Italian/Mediterranean History</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Arts</subject>
+            <subj-group>
+              <subject>Artists, Artisans, the Arts</subject>
+              <subject>Acting, Actors, Performers</subject>
+              <subject>Drama, Theater, Plays, Playwrights</subject>
+              <subject>Music, Musicians, Singers</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Literature, Publishing</subject>
+            <subj-group>
+              <subject>Authors, Writers</subject>
+              <subject>Literature, Publishing</subject>
+              <subject>Drama, Theater, Plays, Playwrights</subject>
+              <subject>Poetry, Poets</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Women’s Issues</subject>
+            <subj-group>
+              <subject>Women’s Issues</subject>
+              <subject>Family, Marriage</subject>
+              <subject>Feminism, Feminists, Women’s Rights</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>Europe</subject>
+            <subj-group>
+              <subject>Europe</subject>
+              <subject>Italy</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Isabella Andreini</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Alice</given-names>
+              <x xml:space="preserve">
+</x>
+              <surname>Myers</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN3122770"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Italian actor, poet, and playwright. Little is known about the childhood of Isabella Andreini (ee-zah-BEHL-lah ahn-dray-EE-nee). The main source about her life is a 1782 biography by Francesco Saverio Bartoli. According to Bartoli’s account, Isabella Canali was born to a Venetian family in Padua. Although the Canali family was poor, Isabella received a complete classical education. She was especially interested in literary culture and became fluent in several languages.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Isabella Andreini was the leading lady of the Gelosi, the traveling professional troupe of actors renowned for commedia dell’arte, or improvised comedy. She wrote songs, sonnets, letters, and La Mirtilla, the first pastoral drama known to be written by a woman.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>3122770-Isabella Andreini</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/GLREN_3631201511</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>Italian actor, poet, and playwright</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="36693807" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>1562</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Padua, Republic of Venice (now in Italy)</p>
+            </list-item>
+            <list-item>
+              <label>Died: </label>
+              <p>July 10, 1604</p>
+            </list-item>
+            <list-item>
+              <label>Place of death: </label>
+              <p>Lyon, France</p>
+            </list-item>
+          </list>
+          <p>
+            <italic>Isabella Andreini was the leading lady of the Gelosi, the traveling professional troupe of actors renowned for commedia dell’arte, or improvised comedy. She wrote songs, sonnets, letters, and La Mirtilla, the first pastoral drama known to be written by a woman.</italic>
+          </p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>Little is known about the childhood of Isabella Andreini (ee-zah-BEHL-lah ahn-dray-EE-nee). The main source about her life is a 1782 biography by Francesco Saverio Bartoli. According to Bartoli’s account, Isabella Canali was born to a Venetian family in Padua. Although the Canali family was poor, Isabella received a complete classical education. She was especially interested in literary culture and became fluent in several languages.
+               </p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>IsabellaAndreini</title>
+              <p> 
+Isabella Andreini (1562-1604), Italian actress and writer
+
+Date 16th-Century</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="88367474-62786.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>See page for author [Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>In 1576, at the age of fourteen, she joined the traveling theatrical troupe, the Gelosi (Compagnia dei Comici Gelosi) and thus began her stage career. She was invited into the troupe by its director, Flaminio Scala, a nobleman, theatrical manager, and scenario writer. The Gelosi was a well-established theatrical company of professional actors who performed both fully scripted plays and <italic>commedia dell’arte</italic>
+                   (comedy marked by a combination of improvisation and prepared scripts). <italic>Commedia dell’arte</italic> was popular for more than three centuries in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="88391103"
+                             xlink:type="simple">Italy</related-article>
+                  .</p>
+          <p>With the Gelosi, Isabella would play the lead female role of <italic>prima donna inamorata</italic> (romantic prima donna) or <italic>inamorata</italic> (woman beloved and in love.) In 1578, at the age of sixteen, Isabella Canali married thirty-year-old Francesco Andreini, a fellow <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89550122"
+                             xlink:type="simple">actor</related-article> in the troupe. They had four daughters and three sons.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Life’s Work</title>
+          <p>Isabella and Francesco often performed on stage together, with Francesco playing the leading male role of <italic>inamorato</italic> (man in love), and later, the role of the Spanish captain, Capitan Spavento. Eventually, the couple became codirectors of the Gelosi and then toured Italy and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="88391083"
+                             xlink:type="simple">France</related-article>. Isabella would create a new kind of <italic>inamorata</italic>, who was educated, eloquent, and beautiful, and she enjoyed great success acting in the title role in a series of plays: <italic>Lucky Isabella</italic>, <italic>Isabella’s Pranks</italic>, <italic>Isabella the Astrologer</italic>, and <italic>Jealous Isabella</italic>.</p>
+          <p>She was also a published writer,
+whose sonnets were included in Italian anthologies by the mid-1580’s. In 1588, Andreini published <italic>La Mirtilla</italic>
+                   (English translation, 2002), a pastoral play in verse, modeled after <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88367647"
+                             xlink:type="simple">Torquato Tasso</related-article>’s <italic>Aminta</italic> (1573; English translation, 1591), which the Gelosi company had performed in 1573. Tasso was the greatest Italian poet of the late Renaissance and a personal role <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89550365"
+                             xlink:type="simple">model</related-article> for Andreini. Unlike <italic>Aminta</italic>, however, <italic>La Mirtilla</italic> reverses <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89185493"
+                             xlink:type="simple">gender roles</related-article> in favor of the female, often humorously. In act 3, Satiro, for example, a satyr (half man and half goat) is attracted to the nymph Filli and plans to capture and ravish her if she does not accept his attention. Filli, though, flatters Satiro into releasing her and then tricks him into being tied to a tree. He begs to be untied, but she just mocks him and leaves him crying out to her.</p>
+          <p>
+            <disp-quote>
+              <speech>
+                <speaker>Satiro:</speaker>
+                <p>Filli, Filli, where are you going? Stop, listen,</p>
+                <p>at least untie me so that I do not become</p>
+                <p>a joke, a tale, and a game</p>
+                <p>for other pitiless nymphs like you!</p>
+                <p>Oh me, what can’t a woman do</p>
+                <p>when she is resolved to deceive?</p>
+              </speech>
+            </disp-quote>
+          </p>
+          <p>
+            <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89103157"
+                             xlink:type="simple">The play</related-article> was tremendously successful and it was published in numerous editions.</p>
+          <p>On May 13, 1589, in Florence, Andreini performed her most famous piece, <italic>La Pazzia d’Isabella</italic> (the madness of Isabella), at the wedding festivities of Ferdinand de’ Medicis and the French princess, Christine of Lorraine. In 1599, they performed before <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88367453"
+                             xlink:type="simple">Henry IV</related-article>
+                   of France and his new Italian wife, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87996305"
+                             xlink:type="simple">Marie de Médicis</related-article>.</p>
+          <p>In 1601, Isabella was accepted as a member of the prestigious Accademia degli Intenti of Pavia. It was unusual for women to be accepted into academies, but her literary work earned her this great honor. Accesa became her pseudonym. Later that year, she published a collection of poems called <italic>Rime</italic>
+                   (partial English translation, 1997), which included madrigals, eclogues, sonnets, and other poetic forms. She had also collected 148 fictional epistles or letters to be published under the title of <italic>Lettere</italic>
+                  
+(partial English translation, 1997). A French translation of <italic>Rime</italic> was published and received critical acclaim.</p>
+          <p>In 1602, the Gelosi traveled in northern Italy. In 1603-1604, the troupe was in France performing for the court of Henry IV and Queen Marie de’ Medici, who praised Isabella’s acting. On their return trip, Andreini miscarried her eighth child and died in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87323570"
+                             xlink:type="simple">Lyon, France</related-article>, on July 10, 1604. She was forty-two years old. In Lyon, there was a great public funeral, where she was deeply mourned by the public. A commemorative medallion was created and inscribed with the Latin words <italic>aeterna fama</italic> (eternal fame).</p>
+          <p>Her grieving husband disbanded the Gelosi, retired from acting, and moved to Mantua, where he worked on editing and publishing Isabella’s remaining works. In 1605, he published <italic>Rime . . . Parte seconda</italic>
+                  
+(rime, part two). This book included poetry written by Isabella after 1600, poems written about her, and some pastoral poems, monologues, and dialogues from her comedies. In 1606, one of their sons, Giambattista Andreini, a prolific playwright, dedicated a collection of poems to his mother.</p>
+          <p>In 1607, Francesco Andreini published Isabella’s <italic>Lettere</italic>. These fictional epistles were not dated nor did they indicate the place written or the addressee. They were reflections on various subjects, such as love and moral or social issues. The value of virtue and propriety, which characterized Isabella’s public image, was a pervasive theme of the epistles. The most famous is the eloquent defense of women called “Del nascimento della donna” (on the birth of women), addressed to a father who was disappointed that his newborn was a daughter and not a son.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Significance</title>
+          <p>Isabella Andreini was the most celebrated <italic>comica</italic> (dramatic actress) of her time. A great beauty who could speak and act in several languages, she was one of the greatest <italic>inamorati</italic> in the history of Italian comedy. She was the only female actor of the time to write and publish her own compositions.</p>
+          <p>As both a famous actress and paragon of virtue, she showed that it was possible to have a family and to be successful as an actor. Such theatrical families became more common after Isabella’s time.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Andreini, Isabella. <italic>La Mirtilla: A Pastoral</italic>. Translated by Julie D. Campbell. Tempe: Arizona Center for Medieval and Renaissance Studies, 2002. This is the first English translation of <italic>La Mirtilla</italic>, including complete biographical information and a discussion of the work. Illustrated.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Hunningher, Benjamin. <italic>Essays on Drama and Theatre</italic>. Amsterdam: Baarn Moussault, 1973. Includes Robert Erenstein’s essay “Isabella Andreini: A Lady of Virtue and High Renown.” Illustrated, with bibliography.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">MacNeil, Anne. <italic>Music and Women of the Commedia dell’Arte in the Late Sixteenth Century</italic>. New York: Oxford University Press, 2003. Scholarly analysis of musical settings of Andreini’s poems, the original Italian and English translations of twelve poems from <italic>Rime</italic>, and the singing contest from <italic>La Mirtilla</italic>. Illustrated, with music, bibliography, and an index.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Panizza, Letizia, ed. <italic>A History of Women’s Writing in Italy</italic>. New York: Cambridge University Press, 2000. The section on the Renaissance, the Counter-Reformation, and the seventeenth century includes discussions of Andreini’s letter writing, lyric poetry, and fiction writing. Bibliography.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Panizza, Letizia, ed. <italic>Women in Italian Renaissance Culture and Society</italic>. New York: Oxford University Press, 2000. Chapter 18, “Isabella Andreini and Others: Women on Stage in the Late Cinquecento,” is a scholarly account of Andreini’s life and contributions to the Italian Renaissance. Extensive footnotes.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Russell, Rinaldinia, ed. <italic>Italian Women Writers: A Bio-Bibliographical Sourcebook</italic>. Westport, Conn.: Greenwood Press, 1994. The chapter on Andreini includes biographical information, an analysis of recurring themes in her works, a survey of criticism, and a lengthy bibliography.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Stortoni, Laura Anna, ed. <italic>Women Poets of the Italian Renaissance: Courtly Ladies and Courtesans</italic>. Translated by Laura Anna Stortoni and Mary Prentice Lillie. New York: Italica Press, 1997. A section on Andreini presents a biography and selected pieces from <italic>La Mirtilla</italic>, <italic>Rime</italic>, and <italic>Lettere</italic>, in Italian and in English; with useful footnotes. Map, comprehensive bibliography.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Isabella Andreini</article-title>
+                <italic>Great Lives from History: Renaissance &amp; Early Modern Era, 1454-1600</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Christina J.</given-names>
+                    <x xml:space="preserve">
+</x>
+                    <surname>Moose</surname>
+                  </name>
+                </person-group>
+                <year>2005</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

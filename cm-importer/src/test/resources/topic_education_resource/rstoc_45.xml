@@ -1,0 +1,114 @@
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">rstoc</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rstoc</book-id>
+         <book-id pub-id-type="eis-mid">GBJI</book-id>
+         <book-title-group>
+            <book-title>Marriage and Divorce: Research Starters Topic</book-title>
+            <alt-title alt-title-type="mid">GBJI</alt-title>
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+         <day>1</day>
+         <month>April</month>
+         <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>April</month>
+         <year>2021</year>
+      </pub-date>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink" book-part-type="chapter" id="rstoc.10.3331.85259" indexed="true" xml:lang="EN" xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">rstoc_45</book-part-id>
+               <title-group>
+                  <title>Marriage and Divorce: Research Starters Topic</title>
+               </title-group>
+            </book-part-meta>
+            <body>
+               <sec sec-type="bodytext">
+                  <title>Marriage and Divorce: Research Starters Topic</title>
+                  <p>Marriage is a social agreement between two or more persons that is sanctioned by religious law, civil law, or social norms, while divorce can be defined as an action or an instance of dissolving a marriage. The occurrence of divorce is inextricably linked to marriage practices in a given culture or society. There are numerous Research Starter articles related to this topic. The list below includes the most relevant Research Starter items.</p>
+               </sec>
+               <sec sec-type="bodytext">
+                  <title>Related Research Starters</title>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="93871747">Adult issues with separation and divorce</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89677518">Arranged marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="98402248">Children of divorced parents</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="93871834">Children's issues with separation and divorce</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="87995013">Common-Law Marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89112517">Defense of Marriage Act of 1996</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="87321839">Divorce</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="100551289">Divorce in Literature</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="109057017">Forced Marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89551385">Intermarriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89311815">Interracial Marriage Laws</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="96397427">Interracial and interethnic marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89407079">Marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89185574">Marriage Patterns</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="95330058">Marriage and the Supreme Court</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89551423">Marriage in American immigration policy and practice</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89551424">Marriages of convenience</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="94981884">Mathematically modeling marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="94982008">Predicting divorce</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89139027">Same-sex marriage</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89158304">Same-sex marriage debate</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="89185743">Sociological Aspects of Divorce</related-article>
+                  </p>
+                  <p>
+                     <related-article related-article-type="rs" xlink:href="115297573">Understanding marriage</related-article>
+                  </p>
+               </sec>
+            </body>
+         </book-part>
+      </body>
+   </book>

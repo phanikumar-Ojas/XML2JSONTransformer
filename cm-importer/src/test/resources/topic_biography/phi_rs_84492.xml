@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">phi_sp_ency_bio</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>8</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="phi_sp_ency_bio.10.3331.84492"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">phi_rs_84492</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>D. T. Suzuki</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Wesley</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Britton</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN0764000"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>Author. Raised in a region of Japan and by a family steeped in Shin Buddhism, in 1875 Teitaro Suzuki (who later added the Buddhist name of Daisetz to become Daisetz Teitaro Suzuki) entered primary school shortly before the death of his physician father. In 1883, he entered middle school but was forced to temporarily abandon his formal studies in 1889 when he began teaching English first at Noto Peninsula and at Ishikawa in 1890 when his mother died.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Through his teaching, lectures, writings, and translations, Suzuki is credited with bringing Buddhism to the Western world. Emphasizing the unity of spiritual thought and synthesizing Eastern and Western religions, he defined the nature of Buddhism in Western philosophy and widened the influence of Zen Buddhism internationally.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>0764000-D. T. Suzuki</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Root AN</meta-name>
+                  <meta-value>0110000207</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>XRef</meta-name>
+                  <meta-value>A076400011</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/PHI_12060110000207</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>794</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>Author</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN0764000" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>October 18, 1870</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Kanazawa, Japan</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>July 12, 1966</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Kamakura, Japan</p>
+                  </list-item>
+               </list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Early Life</title>
+               <p>Raised in a region of Japan and by a family steeped in Shin Buddhism, in 1875 Teitaro Suzuki (who later added the Buddhist name of Daisetz to become Daisetz Teitaro Suzuki) entered primary school shortly before the death of his physician father. In 1883, he entered middle school but was forced to temporarily abandon his formal studies in 1889 when he began teaching English first at Noto Peninsula and at Ishikawa in 1890 when his mother died.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Daisetz T. Suzuki</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="89408789-112461.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Library of Congress</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>In 1891, he entered Tokyo Senmon Gakko (Waseda University), and later he studied at Tokyo Imperial University. There he began his formal studies in Buddhism under the mentorship of Imagita Kosen Roshi, who died in 1892. Suzuki continued his Buddhist studies under Soyen Shaku and American publisher Paul Carus, who took Suzuki with him to La Salle, Illinois, in 1897, where Suzuki acted as translator for Shaku. Suzuki translated works on Eastern religion for Open Court Publishing. Fluent in English, German, French, Chinese and Japanese, trained in religious philosophy, and skilled in oral and written communications, Suzuki was uniquely prepared to become an important spokesperson for Eastern thought in the twentieth century.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Life’s Work</title>
+               <p>From the first publication of his essays on Zen Buddhism in 1927 until his death in 1966, Suzuki was known as one of the most knowledgeable exponents of Zen, although from the outset of his writing career, he clearly wanted to demonstrate the unity of all spiritual thought, including Mahayana, Shin, Tibetan, and Zen Buddhism, Daoism, Confucianism, and Western mystical Christianity. This desire to link modern religious faiths was first revealed in 1907, when he delivered a series of lectures in Maine that resulted in the publication of the first of his 125 books and articles in English, <italic>Outlines of Mahayana Buddhism</italic>. However, his name became closely associated with Japanese Zen because of the popularity of his three-part series, <italic>Essays in Zen Buddhism</italic>.</p>
+               <p>Suzuki’s career was motivated by his determination to synthesize what he saw as single spiritual truths in the Buddhist state of satori. Satori, as described by Siddhārtha Gautama (known as the first Buddha), is one moment of heightened opening of consciousness, an awareness of the essential spirit of all religions and philosophies that comes to enlightened seekers. Suzuki believed that spiritual longing could be addressed beyond the limitations of logic and reason. He repeatedly wrote that spiritual matters cannot be dissected by the intellect, claiming Western reliance on empirical science can be equated with using standardized fishing nets that will catch only what fits into preestablished, inflexible systems of thought.</p>
+               <p>For both Western and Eastern audiences, Suzuki defined the notion of Buddhist Prajna intuition, a metaphysical state in which one can perceive things as they actually are rather than distorted in the mental layers of personal and cultural experience that yield unhealthy attachments for earthly matters. He taught the Buddhist principle that enlightenment is a final psychic fact that takes place when religious consciousness is expanded to extremity. This Buddha-conscious state clarifies thought and ends self-centered mental illusions created by subject-verb-object distinctions of duality or polarity.</p>
+               <p>Believing in the elements of “truth, progress, and life,” which he championed despite the negative influences of the two world wars, Suzuki claimed progress began with one single significant intuitive moment that must follow a period of inner anguish. This moment is rekindled over and over in a person’s life as the individual responds to life’s demands in a state of moment-to-moment awareness of what is actually happening. Suzuki defined this day-to-day practice of “mindfulness” as “suchness” or “as-it-is-ness.” Restating the ancient teachings of Buddhism, Suzuki wrote and spoke of affirming life primarily through the Great Compassion, or Oya-sama, for all living things.</p>
+               <p>Although none of these ideas was originated by Suzuki, he was the first to convey them to the Western world in understandable language, and he was the first Eastern spiritual leader to devote his life to successfully spreading these essentials of Buddhist thought to a largely non-Eastern audience. In this endeavor, Suzuki was aided by his studies in Western thought, notably his reading of the works of the American philosopher and innovator in psychology, William James. Because of the breadth of his scholarship and his appreciation for varying approaches to spirituality, Suzuki was more than a spokesperson for his primary religion. By encompassing the long history of Buddhist thought and his synthesis of international religious schools, he was the one of the important interpreters of Buddhism in modern times and largely shaped how Buddhism would be received in the West.</p>
+               <p>Suzuki’s long involvement in academic, religious, and cultural projects focused on three major tasks. First, he set out to introduce Mahayana Buddhism to the Western world using Zen teachings as a tool to open understanding. Second, he sought to unify and ally the various schools of Buddhism in Japan, ending the sectarian divisions in Buddhism. Third, he sought to uncover the essential aspects of religion as a whole, believing that both Buddhism and Christianity contained aspects of one central truth and that these religions were variations of one central faith deeply imbedded in the human soul.</p>
+               <p>Suzuki’s expansive and inclusive studies in religious philosophy were lifelong and literally global. In 1908, he left the United States to tour Europe, where he was invited by the Society of Emanuel Swedenborg to translate one of works of the Swedish philosopher, scientist, and mystic into Japanese. In 1910, he was appointed professor at Gakushuin in Tokyo, where he taught until 1921 before returning to the United States to begin lecturing at a number of prominent universities. In 1911, Suzuki was married to Beatrice Erskine Lane, an American kindred spirit who supported Suzuki’s work. With his wife, who died in 1939, Suzuki founded an animal shelter in Kita Kamakura, Japan, in 1929. In 1914, he took a class of students on a tour of China resulting in that year’s <italic>A Brief History of Early Chinese Philosophy</italic>. In 1921, Suzuki began editing the magazine <italic>Eastern Buddhist</italic>. In 1934, he toured Korea, Manchuria, and China. In 1936, he attended the World Congress of Faiths in London, England, and lectured at Oxford, Cambridge, Durham, Edinburgh, and London universities. In 1946, he began editing the magazine <italic>The Cultural East</italic> (1946).</p>
+               <p>He received a number of awards and medals, including the Cultural Medal in Japan (1949), the Asahi Cultural Award (1955), and the Rabindranath Tagore Birth-Centenary Medal (1964). Suzuki gave a lecture on Buddhism before the emperor of Japan in 1947 and was elected to the Japanese Academy in 1949. He received an Honorary Doctorate of Law from the University of Hawaii in 1959. Suzuki was an important leader at the second East/West Philosopher’s Conference in Honolulu in 1949, the third in 1959, and the fourth in 1964.</p>
+               <p>During the 1950’s, Suzuki was part of the faculty at Columbia University in New York, where he published his signature book, <italic>Mysticism: Christian and Buddhist</italic>. In that work, he stated that the two religions are mirrors of each other, comparing the Christian doctrine of the Holy Ghost with the writings of Zen master Zhuangzi. In 1957, in Cuernavaca, Mexico, he joined forces with the influential American psychologist and writer, Erich Fromm, noted for his work on the individual versus society, to explore linkages between Zen and psychoanalysis. Their conversations resulted in the work <italic>Zen Buddhism and Psychoanalysis</italic>. Throughout the decade, he lectured in Paris, London, Zurich, Munich, Rome, Stuttgart, Vienna, Brussels, and Mexico City. He moved to Cambridge, Massachusetts, in 1957 to work with Shin’ichi Hisamatsu on a series of lectures at Harvard, the Massachusetts Institute of Technology (MIT), Wellesley, Brandeis, Radcliffe, and Amherst universities.</p>
+               <p>During celebrations of his ninetieth birthday in 1960, Suzuki spent four weeks in India, and in 1961, he wrote <italic>Sengai</italic>, a commentary on the artist’s drawing for a traveling exhibit. In 1964, he met with Father Thomas Merton, the noted Catholic theologian and author of a series of books on Buddhism from the Christian perspective.</p>
+               <p>On July 13, 1966, one day after his death, Suzuki’s ashes were placed behind the Tokei Temple. In recognition of his achievements, the senior grade of the third court rank was posthumously bestowed on him by the imperial household of Japan. A number of works were published posthumously, including <italic>Sengai, the Zen Master</italic>, which states that Zen masters should neither affirm nor negate but speak and act with the simple power of awareness. The <italic>Collected Writings on Shin Buddhism</italic> was published in 1973, and a series of transcriptions of Suzuki’s lectures appeared in the 1980’s in the <italic>Eastern Buddhist</italic>. In 1997, <italic>Buddha of the Infinite Light</italic> was published by the American Buddhist Academy, a revised edition of a talk by Suzuki explaining the philosophy of “Purer Land” Buddhism.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Influence</title>
+               <p>The 1927 publication of <italic>Essays in Zen Buddhism</italic> (first series) is considered a significant landmark in philosophical history, equated with the first European-language translations of <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/PHI_10100110000009"
+                            xlink:type="simple">Aristotle</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/PHI_11680110000169"
+                            xlink:type="simple">Plato</ext-link>. Before Suzuki, Western writers influenced by Eastern thought such as <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/CSP_16240160000263"
+                            xlink:type="simple">Henry David Thoreau</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="xrefmolp"
+                            xlink:href="10.3331/PHI_10660110000065"
+                            xlink:type="simple">Ralph Waldo Emerson</ext-link> could not distinguish between Buddhism, Hinduism, and other Eastern systems of thought largely because few publications were available in Western languages. The popularity of Suzuki’s books elevated Western interest in Buddhism to a level equivalent to the interest shown in Daoism and Confucianism by nineteenth century Western writers. Suzuki’s translations of both religious scriptures and verse made available many texts previously unknown outside their country of origin.</p>
+               <p>Suzuki, aided by twentieth century literary movements interested in Eastern poetics such as the Imagists and Beats as well as the post-World War II influx of Asian immigrants and return of soldiers who had been stationed in Asia, made Buddhism a prominent influence in postwar Western cultural thought. His significant participation in the growing milieu of multiculturalism also helped expand interest in Eastern art and culture as a whole. In the 1950’s, he was acknowledged as one of the foremost leading living experts on Zen and was championed by writers such as Alan Watts, whose 1957 <italic>The Way of Zen</italic> spoke highly of Suzuki. Interest in Eastern philosophy in the 1960’s and 1970’s, particularly among the young, can be traced largely to Suzuki’s presence, and his books remained in print and continued to have a wide readership long after his death.</p>
+               <p>Suzuki was not an inventor of systems or philosophy but rather a figure who gave universality to Zen and extended the audience for Buddhist thought. His doctrine of unifying the separate schools of Buddhism helped redefine the importance of Zen in Japan and created the climate for unity later favored by Tibet’s spiritual leader the Dalai Lama. Before Suzuki, Zen was a narrowly structured school of thought; after him, it became synonymous with enlightenment, awareness, and spiritual awakening.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Additional Reading</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Abe, Masao, ed. <italic>A Zen Life: D. T. Suzuki Remembered</italic>. New York: Weatherhill, 1986. This indispensable anthology contains a bibliography of D. T. Suzuki’s complete works and biographical accounts published through the copyright date. Many insights into Suzuki’s life and works appear in more than twenty articles by Japanese and Western writers with an emphasis on Suzuki’s literature about Shin Buddhism.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">
+                           <italic>Eastern Buddhist</italic> New Series, no. 2. (August, 1967). This memorial issue of the magazine Suzuki founded contains accounts of various phases of Suzuki’s life by friends and fellow masters.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Fields, Rick. <italic>How the Swans Came to the Lake: A Narrative History of Buddhism in America</italic>. Boulder: Shambhala, 1981. This account of how Buddhism came to the West includes numerous lengthy passages on Suzuki and his family, particularly on his youth, motivations, training, and his early days in La Salle, Illinois, while he worked for Open Court Publishing. Fields also recounts anecdotes about Suzuki’s lectures in New York City. Includes photographs of Suzuki and friends. This study is highly recommended as the best, most readily available full-length text on Suzuki.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Merton, Thomas. <italic>Mystics and Zen Masters</italic>. New York: Farrar, Strauss, and Giroux, 1961. Immersing himself in the study of Zen from the perspective of a Catholic Trappist monk, Father Merton relies heavily on Suzuki and refers to him frequently. In this work, Merton compares Suzuki with Greek philosophers and discusses Suzuki’s comments on the training of Zen monks and monasticism.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Merton, Thomas. <italic>Zen and the Birds of Appetite</italic>. New York: New Directions, 1968. In this work, Trappist monk Merton devotes one chapter to Suzuki, discussing personal conversations between the two religious leaders, including twenty pages of letters.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Snelling, John. <italic>The Buddhist Handbook: A Complete Guide to Buddhist Schools, Teaching, Practice, and History</italic>. Rochester: Inner Traditions International, 1991. Throughout this comprehensive study of Buddhist history and practice, Snelling points to Suzuki’s connections to and interpretations of a number of Buddhist schools of thought and Suzuki’s influence on psychotherapy. Snelling praises Suzuki for making Buddhist scriptures available in the West and recounts anecdotes of Suzuki’s public appearances.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Switzer, Irwin. <italic>D. T. Suzuki: A Biography</italic>. London: The Buddhist Society, 1985. This first account of Suzuki’s life is short but authoritative. Contains a useful chronology and was compiled from a manuscript left by the author with Christmas Humphreys, president of the Buddhist Society and a personal friend of Suzuki. The text was augmented with material from Peter Fields’s <italic>How the Swans Came to the Lake</italic>.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Wu, John C. H. <italic>The Golden Age of Zen</italic>. New York: Doubleday, 1996. Strongly influenced by Suzuki’s writings and letters as well as a personal acquaintance with Suzuki, Wu discusses Suzuki’s teachings on parallels between mystical Catholicism and Buddhism, summarizing and noting the key points in Suzuki’s <italic>Mysticism: Christianity and Buddhism</italic>. Wu discusses Suzuki’s opinions on Confucianism and Daoism. Includes anecdotes and reminiscences of Suzuki and reprints of letters between Wu and Suzuki.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>D. T. Suzuki</article-title>
+                           <italic>World Philosophers &amp; Their Works</italic>
+                           <year>2000</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">gll_sp_ency_bio</book-id>
+    <book-id pub-id-type="eis-mid">GY4Q</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">GY4Q</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>7</day>
+      <month>December</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="GLL_sp_ency_bio.10.3331.222933"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">gll_rs_222933</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>American History</subject>
+            <subj-group>
+              <subject>Latino History</subject>
+              <subject>US History 1901-1950</subject>
+              <subject>US History 1951-present</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Women's History</subject>
+            <subj-group>
+              <subject>Latino History</subject>
+              <subject>US History 1901-1950</subject>
+              <subject>US History 1951-present</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Arts</subject>
+            <subj-group>
+              <subject>Arts</subject>
+              <subject>Acting, Actors, Performers</subject>
+              <subject>Dance, Dancers, Dancing</subject>
+              <subject>Drama, Theater, Plays, Playwrights</subject>
+              <subject>Films, Movies, Motion Pictures</subject>
+              <subject>Television, Radio, Broadcasting</subject>
+              <subject>Music, Musicians, Singers</subject>
+              <subject>Latinos, Hispanics, Chicanos</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>North America</subject>
+            <subj-group>
+              <subject>North America</subject>
+              <subject>United States</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Chita Rivera</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Jan</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Statman</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN3192450"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Actress. Chita Rivera Chita Rivera was born Dolores Conchita Figueroa del Rivero on January 23, 1933, to Pedro Julio Figueroa del Rivero and Katherine Anderson del Rivero. Her Puerto Rican father was a musician who played clarinet and saxophone for the United States Navy band. He died when Rivera was only seven years old, and her widowed mother took a job with the Pentagon.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Rivera is a dancer, singer, and actor whose stellar career includes national and international stage performances and touring shows, film and television productions, and several albums. Her extraordinary talent and dedication led the 2009 Presidential Medal of Freedom honoree to be considered a legend of Broadway and American theater.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>3192450-Chita Rivera</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Root AN</meta-name>
+            <meta-value>324005120</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/GLL_10013240051201001</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>793</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>Actress</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="AN3192450" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>January 23, 1933</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Washington, D.C.</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>
+              <sc>American dancer, actor, and singer</sc>
+            </bold>
+          </p>
+          <p>
+            <italic>Rivera is a dancer, singer, and actor whose stellar career includes national and international stage performances and touring shows, film and television productions, and several albums. Her extraordinary talent and dedication led the 2009 Presidential Medal of Freedom honoree to be considered a legend of Broadway and American theater.</italic>
+          </p>
+          <p>
+            <bold>
+              <sc>Areas of achievement:</sc>
+            </bold> Dance; theater; music</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>
+            <index-term role="personages">
+              <primary>Chita Rivera</primary>
+            </index-term>Chita Rivera was born Dolores Conchita Figueroa del Rivero on January 23, 1933, to Pedro Julio Figueroa del Rivero and Katherine Anderson del Rivero. Her Puerto Rican father was a musician who played clarinet and saxophone for the United States Navy band. He died when Rivera was only seven years old, and her widowed mother took a job with the Pentagon.</p>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <title>Chita Rivera</title>
+              <p>Chita Rivera</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="89408299-113791.jpg"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By Sarah_Ackerman (Flickr) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <title>Chita Rivera 2008</title>
+              <p>Chita Rivera in her solo cabaret show, 2008</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="89408299-113790.jpg"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By FA2 (Own work) [Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Rivera’s mother enrolled her in the Jones Haywood School of Ballet with the hope that she would learn discipline and poise. She was allowed to take classes three times a week. Doris Jones and Claire Haywood founded their school of dance expressly to serve minority children because they believed all children deserved the opportunity to benefit from classical dance instruction. Rivera always expressed appreciation to Jones and Haywood.</p>
+          <p>In 1950, a teacher from George Balanchine’s School of American Ballet in New York visited the Jones Haywood studio. Fifteen-year-old Rivera was one of two students selected to audition for <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88825475"
+                             xlink:type="simple">Balanchine</related-article> in New York City. In an action that has become legendary, Balanchine realized that the determined young ballerina was dancing even though her foot was bleeding through her toe shoe. He stopped the audition to bandage her foot himself. Rivera was accepted to Balanchine’s School of American Ballet and given a scholarship, making it possible for her to study with such major twentieth-century American ballet dancers as Allegra Kent, Edward Villella, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="90669675"
+                             xlink:type="simple">Maria Tallchief</related-article>. Two years later, intending only to encourage a friend’s ambition, she attended the auditions for the national tour of <italic>Call Me Madam</italic> (1950) starring Elaine Stritch. She won the part, beating out her friend. This marked the end of her ballet aspirations and the beginning of her musical theater career. Rivera made her Broadway debut in 1950 as a dancer in the musical <italic>Guys and Dolls</italic>. In 1952, she danced in <italic>Call Me Madam</italic>, and in 1953, in <italic>Can-Can</italic>. In 1957, she was cast in her most famous role, that of fiery Anita in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89183555"
+                             xlink:type="simple">
+              <italic>West Side Story</italic>
+            </related-article>.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Life’s Work</title>
+          <p>In 1957, Rivera’s dancing ability helped choreographer <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88828561"
+                             xlink:type="simple">Jerome Robbins</related-article> realize his groundbreaking vision for <italic>West Side Story</italic>. Playing her first major supporting role, that of the Puerto Rican sweetheart of the Shark gang leader, Rivera was introduced to an entirely new dimension of performing. She married Tony Mordente, a dancer in the <italic>West Side Story</italic> cast, in 1957, and continued to appear in the show on Broadway until 1959. By 1958, her presence had become so important to the show that when she made her London debut, the producers postponed the production until her daughter, Lisa, was born. She starred as Rosie Alvarez in <italic>Bye Bye Birdie</italic> on Broadway in 1960 and in the London production the following year. She played Anyanka in the play <italic>Bajour</italic> from 1964 to 1965. Rivera and Mordente were divorced in 1966. Whether she was performing on Broadway or touring the nation, Rivera consistently energized audiences. She starred in <italic>Born Yesterday</italic> (1946), <italic>Flower Drum Song</italic> (1958), <italic>The Rose Tattoo</italic> (1951), <italic>Threepenny Opera</italic> (1928), <italic>Sweet Charity</italic> (1966), and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89315811"
+                             xlink:type="simple">
+              <italic>Kiss Me, Kate</italic>
+            </related-article> (1948). She traveled to Japan with the Radio City Music Hall Rockettes in an international tour of <italic>Can-Can</italic>. She performed in the 1973 revue <italic>Sondheim: A Musical Tribute</italic>. In 1975, she appeared as Velma Kelly in the original cast of <italic>Chicago</italic>. Rivera also made appearances on such television variety shows as <italic>The Arthur Godfrey Show</italic>, <italic>The Sid Caesar Show</italic>, <italic>The Dinah Shore Show</italic>, <italic>The Judy Garland Show</italic>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89311931"
+                             xlink:type="simple">
+              <italic>The Ed Sullivan Show</italic>
+            </related-article>, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89111036"
+                             xlink:type="simple">
+              <italic>The Carol Burnett Show</italic>
+            </related-article>. She played Nickie in the film version of <italic>Sweet Charity</italic> (1969) with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89407201"
+                             xlink:type="simple">Shirley MacLaine</related-article>, and she played Fastrada for the 1981 television version of the musical <italic>Pippin</italic> (1972).</p>
+          <p>Disaster struck at the height of Rivera’s career in 1986, when an automobile accident in New York broke her left leg in twelve places. Determined to prevail, she endured painful rehabilitation and returned to the stage in 1987, appearing in <italic>Happy Birthday, Mr. Abbott! or Night of 100 Years.</italic> In 1988, she appeared in <italic>Can-Can</italic>. Also in 1988, she and novelist Daniel Simone opened Chita’s, a popular Forty-Second Street restaurant. In 1993, Rivera won a Tony Award for best leading actress in a musical for her performance in <italic>Kiss of the Spider Woman</italic>, which ran in Toronto and New York City.</p>
+          <p>Rivera also is a recipient of the prestigious Kennedy Center Honor. She has won two Tony Awards as best leading actress in a musical, received eight Tony nominations, and was honored with the 2009 <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87323327"
+                             xlink:type="simple">Presidential Medal of Freedom</related-article>. She starred in the 2006 Broadway biographical production <italic>Chita Rivera: The Dancer’s Life</italic>, which told her life story, and for which she was nominated for a Tony Award. In 2015 Rivera starred as Claire Zachannassian in the Broadway musical <italic>The Visit</italic>. For her performance, she was nominated for a Tony Award for best leading actress in a musical and for a Drama Desk Award for outstanding actress in a musical. Rivera was also honored with a 2015 Theatre World John Willis Award for Lifetime Achievement. </p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Significance</title>
+          <p>Rivera’s remarkable dancing ability combined with her spectacular singing and acting skills made her a Broadway legend. Rivera was not limited to the stage but also performed in film and television productions. Her voice is heard on several original Broadway cast recordings. Her dedication and perseverance brought her countless awards and nominations. She was the first Hispanic recipient of a Kennedy Center honor, given in recognition of unique and valuable contributions to the cultural life of our nation.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Barnes, Scott. “Still Flying after All These Years.” <italic>Opera News</italic> 77.5 (2012): 30+. <italic>MasterFILE Complete</italic>. Web. 25 Mar. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">“Chita Rivera.” <italic>IBDB: Internet Broadway Database</italic>. Broadway League, 2001–16. Web. 25 Mar. 2016. </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Gold, Sylviane. “On Broadway: What Becomes a Legend Most? Chita Rivera’s New Show Revisits Her Struggles and Triumphs.” <italic>Dance</italic> 79.12 (2005): 108+. <italic>General OneFile</italic>. Web. 25 Mar. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Rivera, Chita. “Chita Rivera.” Interview by Wendy Perron. <italic>Dance</italic> 81.4 (2007): 16. <italic>General OneFile</italic>. Web. 25 Mar. 2016.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Rivera, Chita. “<italic>West Side Story</italic>.” Interview by Robert Viagas. <italic>Sondheim Review</italic> 9.3 (2003): n. pag. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Trescott, Jacqueline. “For Chita Rivera, a Career with Legs,” <italic>Washington Post</italic> 8 Dec. 2002: G1–G10. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Viagas, Robert. <italic>I’m the Greatest Star: Broadway’s Top Musical Legends from 1900 to Today</italic>. New York: Applause, 2009. Print.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Chita Rivera</article-title>
+                <source>Great Lives from History: Latinos</source>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Carmen</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Tafolla</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Martha P.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Cotera</surname>
+                  </name>
+                </person-group>
+                <year>2012</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

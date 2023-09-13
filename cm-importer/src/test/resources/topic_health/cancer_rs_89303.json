@@ -1,0 +1,33 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Health",
+		"tags": [
+			"Anatomy & Physiology",
+			"Diseases, Disorders, & Symptoms",
+			"paralysis",
+			"aneurysm",
+			"vagus nerve",
+			"larynx",
+			"trachea",
+			"thyroidectomy",
+			"dystonia",
+			"polytetrafluoroethylene",
+			"Laryngeal nerve palsy"
+		],
+		"category": [
+			"Anatomy & Physiology",
+			"Diseases, Disorders, & Symptoms"
+		],
+		"definitions": null,
+		"anatomy_or_systems_affected": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Recurrent laryngeal nerve damage, paralysis of the laryngeal nerve, paralysis of the larnyx"
+				}
+			],
+			"type": "doc",
+			"uid": "6f7b01f2-49dd-4edf-85bd-2294ef8a383f"
+		}
+	}
+}

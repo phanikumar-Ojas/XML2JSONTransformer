@@ -1,0 +1,73 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"Biography",
+			"American History",
+			"Government, Politics",
+			"Military History",
+			"mock brstCategory",
+			"Kiowas",
+			"Indian Territory",
+			"Treaty of Medicine Lodge",
+			"Stumbling Bear",
+			"Kicking Bird"
+		],
+		"category": [
+			"Government, Politics",
+			"Military History"
+		],
+		"gender": null,
+		"race": [
+			"American Indian"
+		],
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Politicians, Diplomats",
+			"Native Americans, American Indians, First Nations",
+			"Tribes, Indigenous Peoples, Aborigines",
+			"Land Acquisition, Expansion, Territory Redistribution"
+		],
+		"curriculum_american_history": [
+			"American Indian History",
+			"US Civil War & Reconstruction Era (1856-1877)",
+			"US History 1816-1855"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": null,
+		"birth_month": null,
+		"birth_year": null,
+		"non_numeric_birth_date": "c. 1835",
+		"place_of_birth": "Present-day Oklahoma",
+		"death_day": 5,
+		"death_month": "May",
+		"death_year": 1875,
+		"non_numeric_death_date": "May 5, 1875",
+		"place_of_death": "Cache Creek, Indian Territory (now in Oklahoma)",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3166170-Kicking Bird"
+		]
+	}
+}

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsdiseases</book-id>
+      <book-id pub-id-type="eis-mid">FV1S</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Health</book-title>
+         <alt-title alt-title-type="mid">GYF8</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>31</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="RSDISEASES.10.3331.119513"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rsdiseases_119513</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject/>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Varicose veins</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Steven R.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Talbot</surname>
+                  </name>
+                  <x xml:space="preserve">, </x>
+                  <degrees>R.V.T.</degrees>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The main task of normal leg veins is to return blood to the heart and lungs. This is difficult because the blood must be pushed upward, against the constant force of gravity. The force that propels the blood up the leg comes from the contraction of the calf muscles surrounding the deep veins that occurs during the act of walking. This forward momentum is quickly lost as gravity pulls the blood back down; however, one-way valves attached to the inside of the vein wall allow blood to pass up the leg freely, then close before the blood can be pulled back down. With each step taken, the column of blood moves up the leg until it eventually reaches the heart.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>The main task of normal leg veins is to return blood to the heart and lungs. This is difficult because the blood must be pushed upward, against the constant force of gravity. The force that propels the blood up the leg comes from the contraction of the calf muscles surrounding the deep veins that occurs during the act of walking. This forward momentum is quickly lost as gravity pulls the blood back down; however, one-way valves attached to the inside of the vein wall allow blood to pass up the leg freely, then close before the blood can be pulled back down. With each step taken, the column of blood moves up the leg until it eventually reaches the heart.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/mmg2014_1272</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>758</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title>Disease/Disorder</title>
+               <p>
+                     <bold>Anatomy or system affected:</bold> Blood vessels, circulatory system</p>
+               <p>
+                     <bold>Definition:</bold> The distension of superficial veins, usually affecting the legs and causing the appearance of twisted, swollen, blue veins, especially on the backs of the calves.</p>
+            </sec>
+            <sec sec-type="sidebar" indexed="true">
+               <title>Information on Varicose Veins</title>
+               <p>
+                     <bold>Causes:</bold> Aging process; damage from venous thrombosis; long periods of standing, sitting, or straining; pregnancy; congenital valve or vessel defects; obesity</p>
+               <p>
+                     <bold>Symptoms:</bold> Twisted, swollen, blue, or bulging veins; achiness or heaviness in legs; swollen feet and legs</p>
+               <p>
+                     <bold>Duration:</bold> Short-term to chronic</p>
+               <p>
+                     <bold>Treatments:</bold> Compression stockings, surgery, sclerotherapy</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Causes and Symptoms</title>
+               <p>The main task of normal leg <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87997890"
+                                   xlink:type="simple">veins</related-article> is to return blood to the heart and lungs. This is difficult because the blood must be pushed upward, against the constant force of gravity. The force that propels the blood up the leg comes from the contraction of the calf muscles surrounding the deep veins that occurs during the act of walking. This forward momentum is quickly lost as gravity pulls the blood back down; however, one-way valves attached to the inside of the vein wall allow blood to pass up the leg freely, then close before the blood can be pulled back down. With each step taken, the column of blood moves up the leg until it eventually reaches the heart.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Leg Before 1</title>
+                     <p>Varicose veins in a 49 year-old male.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="87997882-107710.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By self (self) [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Varicose veins</title>
+                     <p>How a varicose vein forms in a leg.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="87997882-107709.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By National Heart Lung and Blood Institute. (Varicous veins.) [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>The system works well until one of the valves fails. Valves may fail because of congenital defect or because of damage from venous <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="86196394"
+                                   xlink:type="simple">thrombosis</related-article> (blood clots in the veins of the leg). As one ages, long periods of sitting or straining eventually cause even normal veins to become stretched and dilated, causing the valve leaflets to close improperly. When a vein valve does not close correctly, blood leaks backward, placing extra pressure on the valve beneath it. This increased pressure causes the vein to become dilated and twisted. Such veins are said to be “varicose.” If this vein is near the skin, it will bulge out and become visible. These unsightly veins become more pronounced while standing and disappear or become less noticeable when lying down.</p>
+               <p>Once damaged, the valve cannot repair itself. The increased pressure continues to damage valve after valve until the small bump eventually becomes a large, bluish rope. Varicose veins are frequently accompanied by an aching sensation or a feeling of heaviness in the legs. These symptoms are aggravated by sitting or standing. People who must be on their feet all day usually experience severe discomfort. As the condition worsens, the legs and feet swell. These symptoms, which are often absent upon arising from bed in the morning, usually become more severe as the day progresses.</p>
+               <p>Although varicose veins are sometimes painful, they are not always a serious condition. Most people experience only minor inconvenience from them. If allowed to progress, however, varicose veins lead to more serious conditions. One of the most common—and most serious—of these complications is a blood clot within the varicose vein. As long as blood is moving quickly in a vessel, it is very difficult for it to clot. When a vein becomes varicose, the dilated portion of the vein allows blood to pool. If blood stagnates, it can become a solid mass of blood called a thrombus, or a blood clot. This blood clot may continue to grow up the vein. It can fill the entire vein from the foot to the groin and enter the deep veins of the leg. </p>
+               <p>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="86194044"
+                                   xlink:type="simple">Deep vein thrombosis</related-article>, a clot in a deep vein is a potentially life-threatening condition, as it may break loose, pass through the heart, and lodge in the arteries that take blood to the lungs. This condition is referred to as a pulmonary <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="86194082"
+                                   xlink:type="simple">embolism</related-article>. If this happens, and the blood clot is small, the patient experiences shortness of breath and chest pain. If the clot that breaks loose is big and lodges in a larger lung artery, it can result in sudden death. Blood clots limited to the superficial veins (near the skin) are far less likely to break loose and result in a major pulmonary embolism. The symptoms of clot in the superficial veins are pain and redness directly over the vein involved. The varicose vein may also become hard. This is called a superficial cord. As the clot grows, the redness, pain, and cord move up the leg. This is a serious condition and requires immediate medical attention.</p>
+               <p>Other complications associated with varicose veins relate to the impact of having increased venous pressure in the legs over a long period of time. When the valves are working, the pressure in the tissue at the ankle is kept at a low level. When varicose veins are severe, the pressure in the tissue becomes so high that blood flow to the skin decreases. If this occurs over a long period of time, the skin becomes discolored and hardens. Ultimately, the skin breaks down, and venous ulcers occur. These open, weeping sores can become infected and become a chronic problem.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Treatment and Therapy</title>
+               <p>Minor varicose veins are managed quite effectively—if caught early—with well-fitting elastic compression stockings. These place pressure over the superficial veins, giving them support and preventing additional damage to them. This also forces blood into the deep veins. Assuming the deep veins have functioning valves in them, this provides relief and slows progression of the problem. Another popular approach is to surgically remove the damaged vein. This operation, called stripping, removes the veins with damaged valves, forcing blood to go through healthy veins. This can resolve the symptoms of varicose veins altogether. However, other veins may eventually become varicose.</p>
+               <p>Another <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87690654"
+                                   xlink:type="simple">varicose vein removal</related-article> intervention is injection therapy, or sclerotherapy, in which the patient is injected with a material that irritates the varicose vein, causing a clot to form in it. The clot is carefully controlled so that it stays only in the vein being treated. The clot attaches to the vein wall, causing the vein to shrink. This shrinking of the vein makes it seem to disappear. Sclerotherapy is not appropriate in more serious cases of varicose veins.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Perspective and Prospects</title>
+               <p>Although varicose veins can occur at any time, they are particularly predominant among the elderly; 50 percent of all individuals can expect to develop varicose veins by the age of fifty.</p>
+               <p>Nothing can be done to change congenital or inherited factors that cause varicose veins. Simple measures, however, can prevent the development of varicose veins before they occur or can slow their progression once they have developed. These preventive measures all have a common theme: avoiding long periods of sitting or standing and keeping the calf muscle active. Doctors advise people who must sit or stand for any length of time to flex and relax their calf muscles by pulling their feet up and pushing them back down. This keeps the blood moving and keeps it from pooling. Other measures include breaking up long periods of inactivity by walking a few minutes every hour, elevating the legs from time to time, wearing loose clothing that does not restrict blood flow, and avoiding high-heeled shoes. Some doctors also recommend eating a high-fiber diet since some varicose vein problems result from straining during difficult bowel movements. Patients with varicose veins who are overweight or <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89093493"
+                                   xlink:type="simple">obese</related-article> will ease the symptoms of the varicose veins with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87690424"
+                                   xlink:type="simple">weight loss</related-article>. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="100259361"
+                                   xlink:type="simple">Strength-training</related-article> exercises for the muscles of the leg, especially the calf, can also help to relieve some of the symptoms of varicose veins.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Baron, Howard C., and Barbara A. Ross. <italic>Varicose Veins: A Guide to Prevention and Treatment</italic>. New York: Facts On File, 1997.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Goldman, Lee, and Andrew I. Schafer, eds. <italic>Cecil Textbook of Medicine</italic>. 24th ed. Philadelphia: Saunders/Elsevier, 2011.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="journal"
+                               xlink:type="simple">“How Are Varicose Veins Treated?” <italic>National Heart, Lung, and Blood Institute</italic>, February 1, 2011.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Kumar, Vinay, et al., eds. <italic>Robbins Basic Pathology</italic>. 8th ed. Philadelphia: Saunders/Elsevier, 2007.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Narins, Rhoda, and Paul Jarrod Frank. <italic>Turn Back the Clock Without Losing Time: Everything You Need to Know About Simple Cosmetic Procedures</italic>. New York: Three Rivers Press, 2002.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="journal"
+                               xlink:type="simple">Nath, Ronald L. “Treatment of Varicose Veins of the Leg.” <italic>Health Library</italic>, September 24, 2012.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Townsend, Courtney M., Jr., et al., eds. <italic>Sabiston Textbook of Surgery</italic>. 19th ed. Philadelphia: Saunders/Elsevier, 2012. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="journal"
+                               xlink:type="simple">“Varicose Veins.” <italic>Mayo Clinic</italic>. Mayo Clinic, January 31, 2013. Web. 2014.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">“Varicose Veins.” <italic>MedlinePlus</italic>. US Natl. Lib. of Medicine, 4 Sept. 2015. Web. 30 Nov. 2015.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Weiss, Robert A., Craig Feied, and Margaret A. Weiss, eds. <italic>Vein Diagnosis and Treatment: A Comprehensive Approach</italic>. New York: McGraw-Hill, 2001. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Varicose veins</article-title>
+                           <italic>Magill's Medical Guide, Seventh Edition</italic>
+                           <year>2014</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

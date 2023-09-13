@@ -1,0 +1,2918 @@
+{
+	"_version": 18,
+	"locale": "en-us",
+	"uid": "blt228515c473b13332",
+	"_in_progress": false,
+	"abstract": {
+		"uid": "1d161901d5e64078a43fa76df22d14c5",
+		"attrs": {
+			
+		},
+		"children": [
+			{
+				"type": "p",
+				"attrs": {
+					
+				},
+				"uid": "52992b3f50d046abb231edd7802abd5b",
+				"children": [
+					{
+						"text": ""
+					}
+				]
+			}
+		],
+		"type": "doc",
+		"_version": 18
+	},
+	"art_spec_summary": "",
+	"art_topic": "Debate/POV/US",
+	"article_an": "103331povus2015248767",
+	"article_definitions": [
+		{
+			"uid": "blt9699197f4b56fd7e",
+			"_content_type_uid": "article_product_definition"
+		}
+	],
+	"article_id": "pov_us_2015_248767",
+	"article_work_type": "update",
+	"assigned_to": "unassigned",
+	"associated_images": null,
+	"audience": null,
+	"author_note": {
+		"uid": "4d87bc6d87e34be0b0bad3765d78e907",
+		"attrs": {
+			
+		},
+		"children": [
+			{
+				"type": "p",
+				"attrs": {
+					
+				},
+				"uid": "4c488e5fb188457dab0abb39bb5ed5cf",
+				"children": [
+					{
+						"text": ""
+					}
+				]
+			}
+		],
+		"type": "doc",
+		"_version": 18
+	},
+	"automatic_image_placement": null,
+	"bulk_project_image_placement": "",
+	"citations": {
+		"uid": "f4bcfcae571944b98e32b123c26f5e47",
+		"attrs": {
+			
+		},
+		"children": [
+			{
+				"uid": "043ce9f13b004d0d9613eed290f56d5c",
+				"type": "p",
+				"children": [
+					{
+						"text": ""
+					}
+				],
+				"attrs": {
+					
+				}
+			}
+		],
+		"type": "doc",
+		"_version": 18
+	},
+	"collection_debate_category": "Censorship",
+	"collection_topic": "Debate",
+	"collections": [
+		{
+			"uid": "blte57b64fa4cd77317",
+			"_content_type_uid": "collection"
+		}
+	],
+	"contributors": [
+		{
+			"uid": "blt06307e15665d9381",
+			"_content_type_uid": "contributor"
+		}
+	],
+	"copied_to_build": "2022-10-14",
+	"created_at": "2022-11-07T16:45:16.270Z",
+	"created_by": "blt814e7c162ef42f1c",
+	"current_project": [
+		{
+			"uid": "bltd8769d753ff10879",
+			"_content_type_uid": "project"
+		}
+	],
+	"current_update_type": null,
+	"custom_pdf_only_no_full_text_": false,
+	"data_pulls": [],
+	"data_type": "xml salem",
+	"date_added": "2016-05-05",
+	"date_created": "2016-03-01",
+	"date_in_repository": "2016-05-05",
+	"date_in_repository_updated": "2022-10-14",
+	"do_not_use": false,
+	"editor_due_date": null,
+	"editor_notes": "",
+	"image_status": null,
+	"indexed_by_a_i": null,
+	"last_update_type": [
+		"0"
+	],
+	"last_updated_date": "2022-09-30",
+	"lexile": 1300,
+	"main_body": {
+		"uid": "1f0ad1c7701d45f9a60b64b5e21a378d",
+		"attrs": {
+			
+		},
+		"children": [
+			{
+				"type": "p",
+				"attrs": {
+					
+				},
+				"uid": "5a7a143a02ce4f3fa53a6d2fb4e07086",
+				"children": [
+					{
+						"text": "This guide is intended to help you evaluate the topics presented in EBSCO Information Services’ "
+					},
+					{
+						"text": "Points of View Reference Center™",
+						"italic": true
+					},
+					{
+						"text": ". Using this analysis will enhance your ability to read critically, develop your own perspective on the issue of Censorship and Democracy, and make an effective argument on the topic, in writing or in a debate."
+					},
+					{
+						"uid": "3c54b464093448cebd4665b4b05e312c",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"uid": "8ab901655b69427eb0bcc71876e7323c",
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "db440c390f774a35b20a09be0dccd5a8",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "Before You Read"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "e3156d05ecac46398fbf779ad8a7f9dd",
+				"type": "ul",
+				"children": [
+					{
+						"type": "li",
+						"attrs": {
+							
+						},
+						"uid": "d715527ae24f449cbdd0e0689a3beaf7",
+						"children": [
+							{
+								"text": "In a single sentence, state what you currently think is/are the argument(s) in the Censorship and Democracy debate."
+							}
+						]
+					}
+				],
+				"id": "186df5d28fff4ae6aeb56a5003ff6efd",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "611a7c2e8dc84bc7a7293424d5d5e38e",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "8f67874d67f74ba28ecf924292e68ab9",
+						"type": "li",
+						"children": [
+							{
+								"text": "On the Points of View home page, under Browse by Category, go to “Censorship,” and then click on “Censorship and Democracy.”"
+							}
+						],
+						"attrs": {
+							
+						}
+					}
+				],
+				"id": "ab7146b424dd4b30b999f272098dece6",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "99c98c86844044a988ad6f0322e23da7",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "5cc0803b99624555be50484f989f38c0",
+						"type": "li",
+						"children": [
+							{
+								"text": "Each topic in "
+							},
+							{
+								"text": "Points of View Reference Center™",
+								"italic": true
+							},
+							{
+								"text": " has three main Points of View sections. While there may be many opinions on the issue, these sections are designed to provide a base from which you may engage in further analysis. The Overview provides general background information on the issue. The Point and Counterpoint present opposing perspectives on the issue, with talking points that support those positions."
+							}
+						],
+						"attrs": {
+							
+						}
+					}
+				],
+				"id": "b1ad9b9705954c778d4a1721db92d5fa",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "b00d72b63b924afd9176979bef69832b",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "401399b6e52c43f59b16896048ada55e",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "As You Read"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "1eeb28598831423baa1a31197b0f4ed3",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "8c796c4b7a0348bc9ac8de0e889c226d",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "",
+								"bold": true
+							},
+							{
+								"uid": "20cdef249aa546cabcbb870bdb329804",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "Read the Overview, Point, and Counterpoint sections",
+										"bold": true
+									},
+									{
+										"text": ". Reading all three will enable you to better understand the controversy, providing a foundation from which you can broaden your knowledge of the topic."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "76296529dc924c4182cf2d43315288df",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "",
+								"bold": true
+							},
+							{
+								"uid": "88a621df4a544e62957a2f5163f9b316",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "T",
+										"bold": true
+									}
+								]
+							},
+							{
+								"text": "",
+								"bold": true
+							},
+							{
+								"uid": "256f0481502e4935aa254faf0c99747e",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "ake notes",
+										"bold": true
+									},
+									{
+										"text": " on the main ideas. Use the online Notes tool to make notes about the article and save them for later. To find it, see the Tools column to the right of the article on your screen. Look for the Create Note icon on the list. Or, print out the essay and highlight the main ideas. Circle key words."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "62281360afbe424e82606d39c5c4c777",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "",
+								"bold": true
+							},
+							{
+								"uid": "bb44cfa886d5449b94d5223eca4714e7",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "R",
+										"bold": true
+									}
+								]
+							},
+							{
+								"text": "",
+								"bold": true
+							},
+							{
+								"uid": "9610ca8bd5784cb7a6663f52e85c8b70",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "eview the terms",
+										"bold": true
+									},
+									{
+										"text": " in the Understanding the Discussion section of the Overview."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "f899a54a205946ee93ffed5825edd436",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "e2e23809bc9b405094c45b86cbb836a5",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "O",
+										"bold": true
+									}
+								]
+							},
+							{
+								"text": "",
+								"bold": true
+							},
+							{
+								"uid": "3d757eb13c3545259be7d75763e1aa40",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "rganize your ideas",
+										"bold": true
+									},
+									{
+										"text": ". Go to the Research Guide “Visual Ways to Organize Your Ideas.” You can access it from the Research Guides link in the Reference Shelf section on the home page. Use one of the graphic organizer templates provided to break the essay down into its main points. Bottom line: use the approach that suits you best."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "a434d0c122534b948ae34b231c110074",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "39464f1d2380484e8e5dcabec93e6550",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "J"
+					},
+					{
+						"uid": "694efc990a6941198ad545d88ca8f40e",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "udge Fact and Opinion"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "77a3a7198cad49328000b8d35b9aed62",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "R"
+					},
+					{
+						"uid": "e51f5f0af73c4e4a84e594fc939f6e14",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "eview the Research Guide article titled “Judging Fact vs. Opinion.”"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "bf67bdf990a8414189dbd45d0cb2a11e",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "F"
+					},
+					{
+						"uid": "61e5880afd27497ba648fb3b76875006",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "ACTS"
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "a549af6700d947238e47ee03bfaa1318",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "fc83e234b6004d258cb31551640e5136",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "296f5c6e41e741389fb64576653bf0b9",
+						"type": "li",
+						"children": [
+							{
+								"text": "Facts are statements that can be proved true or false."
+							}
+						],
+						"attrs": {
+							
+						}
+					}
+				],
+				"id": "9aa65f6a0bbb4cb990704044a5429c82",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "a70020f74adf477c8e25304fe9c1a795",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "2b9c80403cd049c88a586cd6637fe470",
+						"type": "li",
+						"children": [
+							{
+								"text": "Facts tell what actually happened."
+							}
+						],
+						"attrs": {
+							
+						}
+					},
+					{
+						"uid": "f58b07ffb52e401faf3cbc2100dc7bc3",
+						"type": "li",
+						"children": [
+							{
+								"text": "Facts tell what is happening now."
+							}
+						],
+						"attrs": {
+							
+						}
+					},
+					{
+						"uid": "e0accfb1708d4d75ae4a3cd8e643ffa2",
+						"type": "li",
+						"children": [
+							{
+								"text": "Facts state something that can be observed or verified."
+							}
+						],
+						"attrs": {
+							
+						}
+					}
+				],
+				"id": "6e80f1e1b2a045058123b6bc7b6186e9",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "4f602c85df6f4b36aec53a0c0b9b6b07",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "db1b222a41584518a25d5e1e343b65ae",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "OPINIONS"
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "878444f2832d4fe88d7f296c9984236e",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "3ae5f7af414745b5909cf68fe652fe79",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "1f3105cc8f1542a39428e49bbd8e29ec",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "dc57379431414d37afc6a7796cfbfd4f",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "Op"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "c16c436cfb2641d89ba2fe5a1c920aff",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "inions are statements that cannot be proved true or false because they express a person’s thoughts, beliefs, feelings, or estimates."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "7aaf86c375ab4c65bdad2a47db35a9d5",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "87b2efe4586b4d079aaf434719742341",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "O"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "2546dd926d01461aa05dfbadb73a52fb",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "pinions express worth or value."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "40dd772f44244784818e4ec07d89a4ff",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "O"
+							},
+							{
+								"uid": "d82ed5c6565e465791371fafc8eb81e3",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "pinions express what the author or speaker thinks should or should not be thought or done."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "c7437dbb691c4cb2ab417f61e202aa21",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "O"
+							},
+							{
+								"uid": "db573a3665ca42dba71f2736940caf11",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "pinions are based on what seems true or probable."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "3f48ac23185948598f668874522915f6",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "6aeb875910634bf8a2c0be8339a4a263",
+				"type": "h1",
+				"children": [
+					{
+						"text": "E"
+					},
+					{
+						"uid": "2aa8a11141964ad39aead57738095def",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "xample 1"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				],
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "b49b4f1d03ce4360bfa695cc3ae326f5",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "F",
+						"bold": true
+					},
+					{
+						"uid": "930a5b99ca0d497c8b80ae470b8ec3d4",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "act:",
+								"bold": true
+							},
+							{
+								"text": " Facebook algorithms labeled part of the Declaration of Independence as hate speech."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "cfcd1ed2ce014182896b48fa74b5ad7f",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "09fefc850a1943e39bd6d10a164c3c5a",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "O",
+								"bold": true
+							}
+						]
+					},
+					{
+						"text": "",
+						"bold": true
+					},
+					{
+						"uid": "5ef8abe261df4998af6bc63fe9dc8bd6",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "pinion:",
+								"bold": true
+							},
+							{
+								"text": " Social media companies are responsible for the downfall of democracy."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "4b54eb66973e4a67b1ebc27efce96b31",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "4422635ed934451e97a6474b5943fa07",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "557bf1b6be25429c85f5ca754f769a0d",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "I"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "a72689b2794e4ccf9a697de3dc7df8a6",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "n this example, the opinion cannot be proved. The claim is exaggerated and assumes that all social media companies are the same."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "f8d928b7f4b24bebb9a50cf7c3d8cb5e",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "2660249c433b48c4895b5326e25caea5",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "E"
+					},
+					{
+						"uid": "ff6b1e6ec6d24a73a00e6fd5b4fe7946",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "xample 2"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "10f774050584485d998f195a2c829e1b",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "F",
+						"bold": true
+					},
+					{
+						"uid": "42e0d1fb06f140f590a34d8535e2191a",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "act:",
+								"bold": true
+							},
+							{
+								"text": " During the COVID-19 crisis, social media platforms labeled some content as misinformation that later proved to be true."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "c9a7d41300a543d884b6c71707304144",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "e51e316ab04347ab96ccd9ba069b7e7a",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "O",
+								"bold": true
+							}
+						]
+					},
+					{
+						"text": "",
+						"bold": true
+					},
+					{
+						"uid": "e77bb9957f7d429fbe7c5f8771cca4ca",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "pinion: ",
+								"bold": true
+							},
+							{
+								"text": "Social media is the only way to find out the truth. Politicians have too much to hide to allow social media to continue and will shut it down."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "d0e00f5178c24e36969b292a5894f775",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "58991cfe3f144ede8aa3eff6e59051dd",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "7fd5927807f74390b63b21a1b340b5e6",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "I"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "b1fc133de9dd484b88347b3e87f10800",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "n this example, the opinion exaggerates, expresses personal belief without supporting evidence, and predicts a future outcome."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "ccca50a8b5654a949c8348e00395feb0",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "4a9b0c4c6b7645ee8ee614aaf8709c49",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "0f6db5a3afe5416fa2f90e28c218afc2",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "E"
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "a15cb8ff01c640128b3d2921878b1630",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "xample 3"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "127afdf1e7e341b987160c1caa73bce3",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "F",
+						"bold": true
+					},
+					{
+						"uid": "f1dba62a7e8a401aaf6f6b09f75858c5",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "act:",
+								"bold": true
+							},
+							{
+								"text": " Most social media platforms suspended Trump after the January 6 attack, noting that his posts continued to spread the false claim of a “stolen” election that had incited the violence and risked provoking further incidents."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "74b3c677565741fdbb5b983b012ce8d4",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "0aabc39b155148d4bf354fceb7db9fd3",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "O",
+								"bold": true
+							}
+						]
+					},
+					{
+						"text": "",
+						"bold": true
+					},
+					{
+						"uid": "1b93bbd9be6a4fabaade7f077b8e212f",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "pinion:",
+								"bold": true
+							},
+							{
+								"text": " Trump should be prosecuted for spreading the false claim of a stolen election."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "d1fd7442b9bf422bbbb202c19dfce193",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "36fb6583c4fc4692ac3e12ed06795578",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "5d85e1b1fe0e4a85997e21f6ccd1eeb4",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "I"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "713331e5c0ea4458a99e2831a08011ee",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "n this example of an opinion, the opinion expresses what the speaker thinks should be done."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "89a79f44196643948b4499bffac5b33b",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "ddd59de1a1704089a134cbba56a60207",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "dec300af257d48c192100ca9af348139",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "E"
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "f2ef0e34a59b4742a50b6bd40b9ef773",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "xample 4"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "61999a9a1a1b44c2b6ad8a3e49e360f2",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "Fact:",
+						"bold": true
+					},
+					{
+						"text": " Some argued, like Jack Goldsmith and Andrew Keane Woods in the April 2020 "
+					},
+					{
+						"text": "Atlantic Monthly",
+						"italic": true
+					},
+					{
+						"text": " article, \"Internet Speech Will Never Go Back to Normal,\" that “we live—and for several years, we have been living—in a world of serious and growing harms resulting from digital speech.” "
+					}
+				]
+			},
+			{
+				"uid": "9b0182c1ddb54dc1a23a37aaff088e27",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "O",
+						"bold": true
+					},
+					{
+						"uid": "3f043b232e3147a09c65f90007136f17",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "pinion:",
+								"bold": true
+							},
+							{
+								"text": " Internet speech will never go back to normal. We live—and for several years, we have been living—in a world of serious and growing harms resulting from digital speech."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "3446769512a74a399a07d6cff6c03740",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "36e0a28bc0a743339dcec58c489ffd29",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "e63658f0449840be9d185ec417dd5cda",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "I"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "5f77a7fd888741eb9cdb8283933ebe7d",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "n this example, the fact attributes a statement about a belief to particular individuals, the details of which can be proven or disproven. The opinion statement is a generalization that cannot be proved and expresses the speaker’s subjective beliefs, and predicts a future outcome."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "47eb70b7442241d48468ef0f5b4630ba",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "c94b419d87b1491bb075cf03a5650a4c",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "594a9af2b156435f9a9c9b4e8538add0",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "2f4acb3ab1b34224a5c98bb34634c9ed",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "Based on the criteria listed above, select:"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "55c1d4f449f7498dbf2281fd30effa7d",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "d7809b2f2cfa46f38e42223521c4c382",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "e44d198f6c9a4f8192c97b4c111ad4f0",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "T"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "590ecd0fca2a4fc483cac22ce9b068a7",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "hree fact statements from the Overview, Point, or Counterpoint sections, or one of the bibliographic sources within the essay on censorship and democracy."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "8021d27217a248ac8baeab3577523bda",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "99101ed89550485780856d7c54d40e67",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "T"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "e756b72ae27a4d2c8b2b701c8e3393f9",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "hree opinion statements from the Overview, Point, or Counterpoint sections, or one of the bibliographic sources within the essay on censorship and democracy."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "2ebb4dd4840e40f88a6e9a58b8f294b0",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "5c651f0086754e62b2b1ee365a8d401a",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "I"
+					},
+					{
+						"uid": "b02a88c722e8432c997b8d4f844c465b",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "n Depth"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "c0e74a73f7964849bd89203709c82f73",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "Us"
+					},
+					{
+						"uid": "c8ee40fd989140f796f6e8ba9166f0e9",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "e the “Search” box at the top of the page to look up articles about your topic. The Result List you get will offer many kinds of related information from various sources, such as magazines, journals, blogs, newspapers, reference books, and images."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "2e4b5d848f5a4c91a6705f450b1bb4ae",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "adbeb347a4594950a296970415bc44df",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "8970ba1e3cc94038b90ab211c076be62",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "Select one or two to explore."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "ebb30a0bafa242bfb163614887534240",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "4d41efd1892841ee978b7cbcd8b85105",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "58501911cb0840dabd7b6598d0a64366",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "W"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "aed2b9c1c8544f7fa9551fba9ac30fbe",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "hat source did you use and what is one benefit of using this type of source?"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "8c19632281ce4c42a1d949ea675b4b2e",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "07c76d8ff9ce472aa48f1704fc734f70",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "33acdda6c0c748caa8a3f3b37672843b",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "What is one drawback?"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "5fe50d93c4dd4ea0859f7742ab1397f0",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "fb297b7d478140a88b15eb788ddbc66e",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "1c4c594317534c999ad9fa0f7274552f",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "What new information did you learn from reading this article?"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "35bae275971b4f74ba8997403d242ed2",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "22cfbdd5f81c4d67aa5bf30cd97fae4e",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "1ef81862528443e49fede93a6603a236",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "35b8f71396bd4b1c88c15dac6e89b68d",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "00bfa6b457654b4c9551c7e17be773cb",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "7558010782ab432095adfe666393d727",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "Y"
+							}
+						]
+					},
+					{
+						"text": ""
+					},
+					{
+						"uid": "2e9e5b94991540f8a08c9b6dfca55bda",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "ou Decide"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "8d1ac0917ced4b9789a90794c429ff9e",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "B"
+					},
+					{
+						"uid": "b9cfcdce940343238bb399bb8bd47515",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "ased on the readings and review of the Related Items offered, consider the Point and Counterpoint commentary in light of your own set of personal values and understanding of the topic."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "93be8490e4dd4334b3c334997a0bba09",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "9889cc0e6b2345f3b58ed75dc5fc852c",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "7c8ea2b3fb034b1b8ade69471bdb4ca2",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "R"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "8a7dcf05aef44aaf8ba6b6843a2d1e84",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "eflect on which arguments about censorship and democracy you accept, those outlined in the Point, Counterpoint, or a completely different argument. For you, what is the single most compelling argument regarding censorship and democracy, and why?"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "ff1a8331b70948e8843445a013782cad",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "b1de4103cef944bf944013edfa08a51a",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": ""
+					},
+					{
+						"uid": "aafb0092dfcd47f5b72b56f7d591de79",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "Write an 800- to 1,000-word essay response to the question above; include a thesis statement and two or three supporting arguments. See “Writing a Thesis Statement” and “Writing a Persuasive Essay” Research Guides for tips on how to write your essay."
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "4fbdeb2bf30648369aa0f8b784dad3c7",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "a1d40fda985241d887ce49057f48dedd",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "616b5c85df9f40348f34552c29e47abe",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "U"
+									}
+								]
+							},
+							{
+								"text": "se facts from other resources found in "
+							},
+							{
+								"text": "Points of View Reference Center™",
+								"italic": true
+							},
+							{
+								"text": ", other than the Overview, Point, and Counterpoint information. See “Judging Fact vs. Opinion” in the Research Guide section to help determine the value of the information you find."
+							}
+						]
+					},
+					{
+						"uid": "45c2568702a64809bb42ba532c886139",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "I"
+							},
+							{
+								"uid": "5b6aa4d9d9c0437a88ce8afe249d7f33",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "nvestigate some of the sources cited in the Bibliography at the end of each Point of View essay to review the kinds of sources those authors consulted."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "e610171dd59b40a5a0ff27ab24fe9629",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "bf83c8567ad64c6085f68789fdbee8db",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "F"
+									}
+								]
+							},
+							{
+								"text": "o"
+							},
+							{
+								"uid": "6df7dc9643ca4b3888e5ec74ac29d7e9",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "r website information, first review the Research Guide article titled “Evaluating a Website.” Use the information you find there to guide your decisions on which sites provide the most credible information and would add value to your essay."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "704731d0bb59473daf408775acd16997",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "814fa25d8b544be6973ece6380fc5358",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "3381f1f6d141487484a5f06aa5c98e13",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "ab9360015fa94abf91d40a5e08b0d068",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "S"
+									}
+								]
+							},
+							{
+								"text": "uggest ways in which the controversy surrounding censorship and democracy could be resolved"
+							},
+							{
+								"text": ".",
+								"italic": true
+							},
+							{
+								"text": "\n"
+							}
+						]
+					}
+				],
+				"id": "6243b1fdf12d47ce98361f4aa952d010",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "b29a169ae978403c9b608a251c50fa5f",
+				"type": "p",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "See these other "
+					},
+					{
+						"text": "Points of View Reference Center™ ",
+						"italic": true
+					},
+					{
+						"text": "“how to” topics for additional help. They can be found using the Research Guides link on the home page."
+					}
+				]
+			},
+			{
+				"uid": "8a0c5730dde14db28dd2feb1f5758c3c",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "1cc40880c1754456a7f747456cded864",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "W"
+							},
+							{
+								"uid": "156f1a78f75743c6bb49dcb7abbab14b",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "riting a Topic Sentence"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "28cd3742b1b74e1e941cb43fd38db336",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "7764b7a2bf0b4d4390f99ddb516df2c5",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "T"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "b79abecd588845ee8377697f518b21e9",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "aking Good Notes"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "ea70f7f07a284e7dac384e23a06dc605",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "1467a7eadb4f4f6cbd08be01bc7ff3d9",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "F"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "4bf2087b53094bbfb4a72a59656a0b2a",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "rom Notes to Outline"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "275bb59690dd403d85f02cb3feae12d5",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "b400405d798a48b194f5a9296104b12c",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "V"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "0150d16630d14f379b9bfb0809cfda05",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "isual Ways to Organize Your Ideas"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "b24ef52e870c4a5a9ffba838bcf7bab2",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "2a02bc0844804283bde8b8bfaf3cebc4",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "W"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "07615779f3864b12aec6ed8c079fbfc0",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "riting a Conclusion"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "f407ec7f56ab4c20b3279498215cb05e",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "559ecfde4515478baad0be94acad7c29",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "C"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "b3186be96c4547b389f57fb0d0d68921",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "iting Sources"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "ea4b056d69ab413dadbb074ac748bd57",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "7b529d544a3a4b888dafe019187af83b",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "C"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "bd0de591fe744271a1ab132946ad8acd",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "reating a Bibliography"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "ac085dc159db4890b3e5170eb6a30126",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "837e750ede984cab83049395f1019076",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "W"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "1358f9ff4b1144a2a7bf2e2e2481d5da",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "riting a Research Paper"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "fa6829b44dd945179a4e08d79bdbf260",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "3e4497e9e6b24910be1f9caa9f45b37f",
+				"attrs": {
+					
+				}
+			},
+			{
+				"uid": "fb0b4b8b11e34df7b944326f7b30e18a",
+				"type": "h1",
+				"attrs": {
+					
+				},
+				"children": [
+					{
+						"text": "D"
+					},
+					{
+						"uid": "92fb73a5741f4508b5032d327024ff16",
+						"type": "span",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "ebate It"
+							}
+						]
+					},
+					{
+						"text": ""
+					}
+				]
+			},
+			{
+				"uid": "8ffaeec4b3964332ae4bcd4175ec4255",
+				"type": "ul",
+				"children": [
+					{
+						"uid": "92ab6cf11331417eaeebd52a3aed8cca",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": "D"
+							},
+							{
+								"uid": "a3056d86957d4d5faad4616fc2052ed6",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "ebate the issue. To create an effective debate, refer to the tips offered in the Research Guides—“Debate Strategies,” “Giving an Oral Presentation,” and “Starting a Debate Club.”"
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "e8339da6174b4c0eae698ab64993ab29",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "0007fcf7cceb494d91ac66a7421c8170",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "Se"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "8e29170ed9d64b43b26d547f9edd7c0d",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "lect someone else to read an excerpt from a bibliographic source in either the Point of View essay or a related article. The excerpt should clearly support an argument for one side or the other of the discussion. As you listen, make note of the points (contentions) you would make to oppose the arguments."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "81555a8421c54223a365fab88d88c4e4",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "911da2df213e47d48e5b7431239a22c6",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "R"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "bd03e7d65d6149b582e1b7eca1d914f5",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "espond to the arguments presented with opposing arguments (rebuttals), pointing out any contradictions you have heard."
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"uid": "c874920cdc534859bb113cc5d0242518",
+						"type": "li",
+						"attrs": {
+							
+						},
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"uid": "4518f548c5a7454892806b9868a4bc40",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "C"
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "b1b65a665b634bc493b9c33827392792",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": "reate a video or slide presentation that illustrates the essence of the debate. Include the issue at hand, your viewpoint, and evidence to support it."
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "4d6ea43473424e05a03fead2ece30721",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "b975594dab00407a81a1375b1628c593",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": "\n\n"
+							},
+							{
+								"uid": "e59466799a6747c1b2f576c3d1acbb04",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "fcd102b6493c442087e0037acbce3b52",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "5c39ea118f704e638f1c936bbf9c7855",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "60e21c9301994141b37ea92efed08d68",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "befb1665007e458db6834bb4db0da41c",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							},
+							{
+								"uid": "031d72e8b9ec4904a3c37a92957c5798",
+								"type": "span",
+								"attrs": {
+									
+								},
+								"children": [
+									{
+										"text": ""
+									}
+								]
+							},
+							{
+								"text": ""
+							}
+						]
+					}
+				],
+				"id": "e1d30d466fe5480d80c5ec884c912bce",
+				"attrs": {
+					
+				}
+			}
+		],
+		"type": "doc",
+		"_version": 18
+	},
+	"name_record_created_date": null,
+	"original_requested_word_count": null,
+	"parent_article_id": "",
+	"past_projects": [],
+	"po_notes": "",
+	"primary_article": "",
+	"products": [
+		{
+			"uid": "bltb0b4dead143e9e2f",
+			"_content_type_uid": "product"
+		}
+	],
+	"region": "US",
+	"reserach_starter_links_applied": false,
+	"reused": "",
+	"review_date": "2022-09-30",
+	"rights": "",
+	"rs_title": "",
+	"search_term_set": [],
+	"search_title": "Censorship and Democracy: Guide to Critical Analysis",
+	"source_note": "",
+	"status": "",
+	"table_in_main_body": false,
+	"tags": [],
+	"task_hours": 0,
+	"title": "Censorship and Democracy: Guide to Critical Analysis",
+	"topic": [
+		{
+			"uid": "bltdb6f46fe6f084a27",
+			"_content_type_uid": "topic_debate"
+		}
+	],
+	"update_cycle": null,
+	"updated_at": "2023-03-02T15:17:49.550Z",
+	"updated_build": "2022-10-14",
+	"updated_by": "blt814e7c162ef42f1c",
+	"urgent": false,
+	"url": "/blt228515c473b13332",
+	"usage_note": "",
+	"word_count": 1368,
+	"writer_due_date": null,
+	"xml_version_ui": ""
+}

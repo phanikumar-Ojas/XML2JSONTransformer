@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">musc_rs</book-id>
+      <book-id pub-id-type="eis-mid">GC6C</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GC6C</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>22</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="Musc_RS.10.3331.79605"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">musc_rs_79605</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>20th &amp; 21st Century European History</subject>
+                     <subject>British History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Arts</subject>
+                  <subj-group>
+                     <subject>Artists, Artisans, the Arts</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Popular Culture, Trends, Fads</subject>
+                  <subj-group>
+                     <subject>Popular Culture, Trends, Fads</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Europe</subject>
+                  <subj-group>
+                     <subject>Europe</subject>
+                     <subject>United Kingdom</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geo-keyword">
+                  <subject>England</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>George Harrison</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Thomas</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>MacFarlane</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3156170"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>English rock guitarist, singer, and songwriter. George Harold Harrison was born in Liverpool, England, on February 25, 1943. At an early age, he exhibited a keen interest in popular music, and soon he began to study guitar. At the Liverpool Institute for Boys, he met Paul McCartney, a student who shared his passionate interest in rock and roll. At McCartney’s insistence, Harrison was invited to join the Quarrymen, a musical group led by John Lennon. This group later evolved into the Beatles, and it achieved global success in the 1960’s. In the group, Harrison was lead guitarist and occasional vocalist. Soon he developed a distinctive compositional style informed by his burgeoning interest in the music of India. He later collaborated with diverse artists such as Delaney and Bonnie, the Band, and Bob Dylan, and he also experimented with electronic music. By the time the Beatles disbanded in 1970, Harrison was widely recognized as a composer and musician of the first rank.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>As a member of the Beatles and as a solo artist, Harrison produced popular songs of distinction, and he experimented with a variety of non-Western musical sources.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3156170-George Harrison</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/Musc_1232</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>English rock guitarist, singer, and songwriter</p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="36756648" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>February 25, 1943</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Liverpool, England</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>November 29, 2001</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Los Angeles, California</p>
+                  </list-item>
+               </list>
+               <p>
+                  <italic>As a member of the Beatles and as a solo artist, Harrison produced popular songs of distinction, and he experimented with a variety of non-Western musical sources.</italic>
+               </p>
+               <p>
+                  <bold>
+                     <sc>Member of</sc>
+                  </bold> The Beatles; the Traveling Wilburys</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Life</title>
+               <p>George Harold Harrison was born in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323434"
+                                   xlink:type="simple">Liverpool, England</related-article>, on February 25, 1943. At an early age, he exhibited a keen interest in popular music, and soon he began to study guitar. At the Liverpool Institute for Boys, he met 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89407167"
+                                   xlink:type="simple">Paul McCartney</related-article>, a student who shared his passionate interest in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89183492"
+                                   xlink:type="simple">rock and roll</related-article>. At McCartney’s insistence, Harrison was invited to join the Quarrymen, a musical group led by 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88828591"
+                                   xlink:type="simple">John Lennon</related-article>. This group later evolved into the Beatles, and it achieved global success in the 1960’s. In the group, Harrison was lead guitarist and occasional vocalist. Soon he developed a distinctive compositional style informed by his burgeoning interest in the music of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391098"
+                                   xlink:type="simple">India</related-article>. He later collaborated with diverse artists such as Delaney and Bonnie, the Band, and Bob Dylan, and he also experimented with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89112537"
+                                   xlink:type="simple">electronic music</related-article>. By the time the Beatles disbanded in 1970, Harrison was widely recognized as a composer and musician of the first rank.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>George Harrison 1974 edited</title>
+                     <p> George Harrison in the Oval Office during the Ford administration.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="89872105-78859.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>David Hume Kennerly [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>Harrison flourished in the wake of the Beatles’ breakup. Although he had only been allotted one or two tracks on the group’s albums, he had been steadily composing for seven years, and he had a selection of songs from which to choose for his solo debut. The album, <italic>All Things Must Pass</italic>, was a three-record set that featured the hit singles “What Is Life?” and “My Sweet Lord.” In August, 1971, Harrison organized an all-star benefit concert at <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88112650"
+                                   xlink:type="simple">New York</related-article>’s Madison Square Garden that brought attention to the plight of refugees in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391033"
+                                   xlink:type="simple">Bangladesh</related-article>. A recording of this event, <italic>The Concert for Bangladesh</italic>, became a million-seller, with all proceeds going to charity. His solo success continued in 1973 with <italic>Living in the Material World</italic>, an album that featured the songs “Give Me Love” and “Sue Me, Sue You Blues.” Personal turmoil surfaced in 1974, when Harrison became estranged from his wife of eight years, Patti Boyd. Their breakup soured the mood of <italic>Dark Horse</italic>, an album further hindered by the poor condition of the singer’s vocal cords. His troubles continued on a North American solo tour, which demonstrated that he was losing touch with the mainstream audience. He received another setback in 1976 when he lost a copyright-infringement suit brought against him regarding the song “My Sweet Lord.” During a three-year hiatus from recording, Harrison married Olivia Arias and celebrated the birth of a son, Dhani. He also began a career as a film producer. His company, Handmade Films, financed the hit comedy <italic>Monty Python’s Life of Brian</italic>, and it went on to produce many successful films throughout the 1980’s.</p>
+               <p>He returned in 1979 with <italic>George Harrison</italic>, an album that initiated a period in which the singer worked increasingly from his home studio. This was quickly followed by <italic>Somewhere in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="no"
+                                      xlink:href="88391074"
+                                      xlink:type="simple">England</related-article>
+                  </italic>, which featured the hit single “All Those Years Ago.” The lackluster response to his next album, <italic>Gone Troppo</italic>, caused Harrison to withdraw once again from the limelight. He returned in 1987 with <italic>Cloud Nine</italic>, a remarkable tour de force that successfully highlighted his strengths as a singer, songwriter, and guitarist. He next teamed with veteran rockers Jeff Lynne, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89408215"
+                                   xlink:type="simple">Tom Petty</related-article>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88827251"
+                                   xlink:type="simple">Roy Orbison</related-article>, and Bob Dylan to form the Traveling Wilburys.</p>
+               <p>In the 1990’s, Harrison worked sporadically, but he was heavily involved in <italic>The Beatles Anthology</italic> project with former bandmates Ringo Starr and Paul McCartney. He also prepared tracks for a new solo album. In 1999, he was assaulted by an intruder in his home, and he suffered multiple stab wounds. He recovered from this attack, but he succumbed to cancer on November 29, 2001.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Music</title>
+               <p>As the junior composer in the Beatles, Harrison labored in the shadow of Lennon and McCartney. Gradually, he developed a distinctive compositional style characterized by a fascination with unusual modal structures. He also explored exotic instrumentation as a result of his interest in the music of India. His lyrics tended to address the spiritual aspirations that lay at the heart of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89311757"
+                                   xlink:type="simple">counterculture</related-article>, though in a forthright fashion. He continued to develop these elements during his solo career, and he also began to incorporate harmonic structures derived from American jazz.</p>
+               <p>
+                  <bold>The Beatles.</bold> During his time with the Beatles, Harrison composed works with remarkably exotic harmonic structures. “Don’t Bother Me” employs a Dorian progression that provides an appropriate setting for the song’s dour lyrical content. This quality was also evident on his contributions to the albums <italic>Help!</italic> and <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="no"
+                                      xlink:href="89551827"
+                                      xlink:type="simple">Rubber</related-article> Soul</italic>. For <italic>Revolver</italic>, Harrison incorporated gestures derived from Indian music (“Love You To,” “Taxman”), and on <italic>Sgt. Pepper’s Lonely Hearts Club Band</italic>, he successfully integrated Eastern and Western styles in “Within You, Without You,” a song that features an authentic Indian ensemble (sitar, dilruba, tabla, swarmandal, and tambura), combined with Western classical instruments (violin, cello). On <italic>The Beatles</italic>, Harrison returned to a more traditional rock-and-roll approach (“Savoy Truffle,” “While My Guitar Gently Weeps”), but the Indian influence was still evident on “Long, Long, Long.” Harrison finally came into his own on the Beatles’ swan song, <italic>Abbey Road</italic>, which featured “Here Comes the Sun” and the hit single “Something.” <bold>Solo Work.</bold> The backlog of songs Harrison had accrued while a member of the Beatles formed the basis of his first solo release, <italic>All Things Must Pass</italic>, a sprawling three-record set that featured the hits “What Is Life” and “My Sweet Lord.” In 1973 he recorded <italic>Living in the Material World</italic>, an album that continued to explore the wall-of-sound textures of <italic>All Things Must Pass</italic>, but with an increased focus on spiritual themes. It also showcased his newly developed <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87999009"
+                                   xlink:type="simple">slide guitar</related-article> technique. The breakup of his marriage to Patti dominated <italic>Dark Horse</italic>, which nonetheless contained such interesting musical hybrids as “Maya Love,” and “It Is ’He’ (Jai Sri Krishna).” On his next two releases, <italic>Extra Texture</italic> and <italic>Thirty Three and One Third</italic>, Harrison rebounded from his personal troubles, although with diminishing commercial success.</p>
+               <p>
+                  <bold>Later Works.</bold> The new songs from <italic>George Harrison</italic> exhibited a more relaxed approach than shown on the singer’s earlier albums. In 1981 he released <italic>Somewhere in England</italic>, which contained the hit single“All Those Years Ago,” an exploration of Harrison’s feelings regarding the death of former bandmate Lennon. <italic>Gone Troppo</italic> was a commercial and critical disappointment, but Harrison rebounded in 1987 with 
+                  <italic>Cloud Nine</italic>, an album that yielded the hits “When We Was Fab” and “Got My Mind Set on You.” He subsequently joined forces with Lynne, Petty, Orbison, and Dylan to record as the Traveling Wilburys. During the 1990’s, Harrison continued to record and tour sporadically. His final album, <italic>Brainwashed</italic>, was released posthumously in 2002.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Musical Legacy</title>
+               <p>As solo artists, each member of the Beatles struggled to live up to the group’s early success. However, Harrison’s time with the group can be viewed as an apprenticeship during which he developed his diverse influences into a highly original musical style. His songs, which once seemed exotic to Western ears, now sound increasingly like <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89409664"
+                                   xlink:type="simple">world music</related-article>. In that sense, Harrison’s works may have presaged the cross-cultural influences that would characterize the music that followed.</p>
+            </sec>
+            <sec sec-type="keyterm" indexed="true">
+               <title>Principal Recordings</title>
+               <p>
+                  <sc>albums</sc> (solo): <italic>Wonderwall Music</italic>, 1968; <italic>Electronic Sound</italic>, 1969; <italic>All Things Must Pass</italic>, 1970; <italic>Living in the Material World</italic>, 1973; <italic>Dark Horse</italic>, 1974; <italic>Extra Texture</italic>, 1975; <italic>Thirty Three and One Third</italic>, 1976; <italic>George Harrison</italic>, 1979; <italic>Somewhere in England</italic>, 1981; <italic>Gone Troppo</italic>, 1982; <italic>Cloud Nine</italic>, 1987; <italic>Chant and Be Happy: Indian Devotional Songs</italic>, 1991; <italic>Brainwashed</italic>, 2002.</p>
+               <p>
+                  <sc>albums</sc> (with the Beatles): <italic>Please Please Me</italic>, 1963; <italic>With the Beatles</italic>, 1963; <italic>Beatles for Sale</italic>, 1964; <italic>The Beatles’ Second Album</italic>, 1964; <italic>Beatles ’65</italic>, 1964; <italic>The Beatles’ Story</italic>, 1964; <italic>A Hard Day’s Night</italic>, 1964; <italic>Introducing the Beatles</italic>, 1964; <italic>Meet the Beatles</italic>, 1964; <italic>Something New</italic>, 1964; <italic>Beatles VI</italic>, 1965; <italic>Help!</italic>, 1965; <italic>Rubber Soul</italic>, 1965; <italic>Revolver</italic>, 1966; <italic>Yesterday…and Today</italic>, 1966; <italic>Magical Mystery Tour</italic>, 1967; <italic>Sgt. Pepper’s Lonely Hearts Club Band</italic>, 1967; <italic>The Beatles</italic>, 1968 (<italic>The White Album</italic>); <italic>Abbey Road</italic>, 1969; <italic>Yellow Submarine</italic>, 1969; <italic>Let It Be</italic>, 1970.</p>
+               <p>
+                  <sc>albums</sc> (with the Traveling Wilburys): <italic>Traveling Wilburys, Vol. 1</italic>, 1988; <italic>Traveling Wilburys, Vol. 3</italic>, 1990. </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Giuliano, Geoffrey. <italic>Dark Horse: The Life and Art of George Harrison</italic>. New York: Da Capo Press, 1997. This work provides an overview of Harrison’s career.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Harrison, George. <italic>I Me Mine</italic>. New York: Simon &amp; Schuster, 1980. This personal memoir provides valuable insights into the creation of Harrison’s works with the Beatles and his development as a solo artist.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Leng, Simon. <italic>While My Guitar Gently Weeps: The Music of George Harrison</italic>. Milwaukee, Wis.: Hal Leonard, 2006. This work presents a remarkably detailed analysis of Harrison’s entire catalog.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Lewisohn, Mark. <italic>The Beatles Recording Sessions</italic>. New York: Harmony Books, 1988. This seminal work provides detailed descriptions of all the Beatles’ recorded works.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">_______. <italic>The Complete Beatles Chronicle</italic>. New York: Harmony Books, 1992. This work expands on <italic>The Beatles Recording Sessions</italic> by including detailed descriptions for all of the group’s documented activities between 1957 and 1970.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>George Harrison</article-title>
+                        <italic>Musicians and Composers of the Twentieth Century</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Alfred W.</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Cramer</surname>
+                           </name>
+                        </person-group>
+                        <year>2009</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

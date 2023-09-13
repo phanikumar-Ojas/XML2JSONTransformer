@@ -1,0 +1,724 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "7aefc233-46d9-4ed1-a107-fa8e9f48fb72",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u002220 Questions with . . . Alan Dale.\u0022 "
+						},
+						{
+							"text": "What’s On Stage",
+							"italic": true
+						},
+						{
+							"text": ". WhatsOnStage.com, 10 Mar. 2008. Web. 9 June 2014."
+						}
+					],
+					"type": "p",
+					"uid": "94c02e53-0376-443a-a88d-7ae734a1b8a6",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Barnett, Laura. \u0022Portrait of the Artist: Alan Dale, Actor.\u0022 "
+						},
+						{
+							"text": "Guardian",
+							"italic": true
+						},
+						{
+							"text": ". Guardian Media Group, 25 Feb. 2008. Web. 9 June 2014."
+						}
+					],
+					"type": "p",
+					"uid": "41928d97-095a-4e90-9906-5853c10eefb8",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Dessau, Bruce. \u0022Alan Dale: The Journey from Neighbours to King of Spamalot.\u0022 "
+						},
+						{
+							"text": "Times",
+							"italic": true
+						},
+						{
+							"text": ".Times Newspapers, 8 Mar. 2008. Web. 9 June 2014."
+						}
+					],
+					"type": "p",
+					"uid": "1f10aaa5-4f5b-415f-b37e-4de6ae914f98",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hill, Rebecca Barry Hill. \u0022Alan Dale Shares His Hollywood Highs and Heartbreak.\u0022 "
+						},
+						{
+							"text": "New Zealand Herald",
+							"italic": true
+						},
+						{
+							"text": ". APN New Zealand, 15 Feb. 2007. Web. 9 June 2014."
+						}
+					],
+					"type": "p",
+					"uid": "5a4afab8-5fc3-43a4-beea-6fef760cee82",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Shenton, Mark. \u0022London "
+						},
+						{
+							"text": "Spamalot",
+							"italic": true
+						},
+						{
+							"text": " Will Welcome New King in June and Close in January 2009.\u0022 "
+						},
+						{
+							"text": "Playbill",
+							"italic": true
+						},
+						{
+							"text": ". Playbill, 2 June 2008. Web. 9 June 2014."
+						}
+					],
+					"type": "p",
+					"uid": "5397b269-bea2-4cf9-ab12-e4c106b82137",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "1ae62f7c-fd46-4d34-9632-39abcf04a167"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"The X-Files",
+			"ER"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Background"
+						}
+					],
+					"type": "h1",
+					"uid": "dfceb473-5c25-4287-9fcc-e5fd32e91635",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Alan Hugh Dale was born on May 6, 1947, in the city of Dunedin in Otago, New Zealand. Having developed an interest in playing rugby and performing in the theater, Dale left school at a young age. Dale’s parents, who were theatrical performers, built a small venue where they organized performances for the local community. A young Dale would assist in these productions, working both backstage and onstage. Prior to beginning his career as an actor, Dale worked as a milkman, car salesman, and real estate agent. His first professional theatrical role was in a production of "
+						},
+						{
+							"text": "The Royal Hunt of the Sun",
+							"italic": true
+						},
+						{
+							"text": " at Auckland, New Zealand’s Grafton Theatre."
+						}
+					],
+					"type": "p",
+					"uid": "c1e15d8a-337a-402f-91cd-66426d9184c6",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "f07cf2fc-fc73-4519-89b4-14fcec209bda",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Alan Dale (aka Jim). Alan Dale, BAFTA Awards, London, 2008. By Martinra1966 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "Alan Dale (aka Jim). Alan Dale, BAFTA Awards, London, 2008. By Martinra1966 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Alan Dale (aka Jim). Alan Dale, BAFTA Awards, London, 2008. By Martinra1966 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons",
+						"asset-name": "110955615-110143.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "79bda2a9-85fb-464b-aefa-1d8f9a7d1e9a",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Alan DaleRev3. Actor Alan Dale, 2009. By USANA Health Sciences (Flickr: Actor Alan Dale from \u0022Lost\u0022 holding a Rev3) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "Alan DaleRev3. Actor Alan Dale, 2009. By USANA Health Sciences (Flickr: Actor Alan Dale from \u0022Lost\u0022 holding a Rev3) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Alan DaleRev3. Actor Alan Dale, 2009. By USANA Health Sciences (Flickr: Actor Alan Dale from \u0022Lost\u0022 holding a Rev3) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+						"asset-name": "110955615-110320.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "During the early years of Dale’s acting career, television was an emerging medium. His first television role was on a New Zealand series called "
+						},
+						{
+							"text": "Radio Waves",
+							"italic": true
+						},
+						{
+							"text": ". In the late 1970s, Dale’s work on "
+						},
+						{
+							"text": "Radio Waves",
+							"italic": true
+						},
+						{
+							"text": " and his theatrical performances helped him land a television job in Australia, where he appeared on the television show "
+						},
+						{
+							"text": "The Young Doctors",
+							"italic": true
+						},
+						{
+							"text": ". Although he applied to the National Institute of Dramatic Art in Sydney, Australia, in his early thirties, he was denied entry. Nevertheless, Dale persevered, earning a role on the Australian soap opera "
+						},
+						{
+							"text": "Neighbours",
+							"italic": true
+						},
+						{
+							"text": " in 1985. Dale continued to play the role of Jim Robinson on the soap opera until 1993. His work on "
+						},
+						{
+							"text": "Neighbours",
+							"italic": true
+						},
+						{
+							"text": " made him a familiar face to television audiences in New Zealand, Australia, and the United Kingdom. However, the popularity of the character made it difficult for him to find additional acting work after leaving the show."
+						}
+					],
+					"type": "p",
+					"uid": "5203df6c-8e8d-4674-8e6e-e3be4faf87c7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Revitalized Career"
+						}
+					],
+					"type": "h1",
+					"uid": "60de68fd-0de8-4def-a2e1-78ac75057883",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Following his work in "
+						},
+						{
+							"text": "Neighbours",
+							"italic": true
+						},
+						{
+							"text": ", Dale worked as a voiceover artist but struggled finding other acting roles. He became involved in several business ventures, including a children’s magazine, but none of them proved successful. In 2000, Dale moved his family to Los Angeles, where he began taking acting classes. Given that he was in his early fifties, Dale understood that his odds of revitalizing his career as a working actor were low, but he continued to pursue his craft."
+						}
+					],
+					"type": "p",
+					"uid": "ef106ed0-8401-4614-b83c-e492bc98cf70",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "After appearing in the television movies "
+						},
+						{
+							"text": "Alien Cargo",
+							"italic": true
+						},
+						{
+							"text": " and "
+						},
+						{
+							"text": "First Daughter",
+							"italic": true
+						},
+						{
+							"text": " in 1999, Dale earned a recurring role in the television series "
+						},
+						{
+							"children": [
+								{
+									"text": "ER",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "dbeb5e1a-2708-46a2-b1a3-4dae8c29631e",
+							"attrs": {
+								"url": "89112539"
+							}
+						},
+						{
+							"text": " in 2000. The popularity of "
+						},
+						{
+							"text": "ER",
+							"italic": true
+						},
+						{
+							"text": " helped to generate a variety of other acting opportunities for Dale. Through hard work and determination, he experienced a career renaissance throughout the 2000s, earning roles on such popular television series as "
+						},
+						{
+							"children": [
+								{
+									"text": "The X-Files",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "d91d23ff-93e8-4300-97dd-4038620df2a9",
+							"attrs": {
+								"url": "89112769"
+							}
+						},
+						{
+							"text": " (2002), "
+						},
+						{
+							"text": "American Dreams",
+							"italic": true
+						},
+						{
+							"text": " (2002), and "
+						},
+						{
+							"text": "JAG",
+							"italic": true
+						},
+						{
+							"text": " (2003). During the early 2000s, he also appeared on "
+						},
+						{
+							"text": "The West Wing",
+							"italic": true
+						},
+						{
+							"text": " (2002–3), "
+						},
+						{
+							"text": "CSI: Miami",
+							"italic": true
+						},
+						{
+							"text": "(2003), and "
+						},
+						{
+							"text": "Crossing Jordan",
+							"italic": true
+						},
+						{
+							"text": " (2004)."
+						}
+					],
+					"type": "p",
+					"uid": "bb2a1c07-a064-4f4d-bad3-5fe4b08da39b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Dale portrayed Vice President Jim Prescott in the television series "
+						},
+						{
+							"text": "24",
+							"italic": true
+						},
+						{
+							"text": " from 2003 to 2004. The action series, which stars Kiefer Sutherland, earned over 20 million viewers in 2003–4. During this same period, Dale played Caleb Nichol on "
+						},
+						{
+							"text": "The O.C.",
+							"italic": true
+						},
+						{
+							"text": " From 2006 to 2007, Dale played Bradford Meade in the television series "
+						},
+						{
+							"text": "Ugly Betty",
+							"italic": true
+						},
+						{
+							"text": ", starring America Ferrera. The series was awarded a Golden Globe for best television series in the musical or comedy category in 2007."
+						}
+					],
+					"type": "p",
+					"uid": "3ae1d63c-4fba-476d-bb09-d2fe5f717496",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "From 2006 to 2010, Dale appeared as Charles Widmore in the popular television series "
+						},
+						{
+							"text": "Lost",
+							"italic": true
+						},
+						{
+							"text": ". He appeared as John Ellis in the HBO television series "
+						},
+						{
+							"text": "Entourage",
+							"italic": true
+						},
+						{
+							"text": " from 2008 to 2011 and as Lloyd Alan Philips Jr. in the Showtime series "
+						},
+						{
+							"text": "Californication",
+							"italic": true
+						},
+						{
+							"text": " in 2011. From 2003 to 2013, Dale played the role of Tom Morrow in "
+						},
+						{
+							"text": "NCIS",
+							"italic": true
+						},
+						{
+							"text": ". His success on American television helped him earn film roles through the 2000s and 2010s, appearing in films such as "
+						},
+						{
+							"text": "Star Trek: Nemesis",
+							"italic": true
+						},
+						{
+							"text": " (2002), "
+						},
+						{
+							"text": "Indiana Jones and the Kingdom of the Crystal Skull",
+							"italic": true
+						},
+						{
+							"text": " (2008), "
+						},
+						{
+							"text": "The Girl with the Dragon Tattoo",
+							"italic": true
+						},
+						{
+							"text": " (2011), and "
+						},
+						{
+							"text": "Captain America: The Winter Soldier",
+							"italic": true
+						},
+						{
+							"text": " (2014)."
+						}
+					],
+					"type": "p",
+					"uid": "603c4d15-996d-466c-af7c-57c6b0c61e42",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Beyond his work as a television and film actor, Dale has lent his voice to several video game titles, including"
+						},
+						{
+							"text": "X-Men: Next Dimension",
+							"italic": true
+						},
+						{
+							"text": " (2002), "
+						},
+						{
+							"text": "24: The Game",
+							"italic": true
+						},
+						{
+							"text": " (2006), "
+						},
+						{
+							"text": "Mass Effect 3",
+							"italic": true
+						},
+						{
+							"text": " (2013), and "
+						},
+						{
+							"text": "The Bureau: XCOM Declassified",
+							"italic": true
+						},
+						{
+							"text": " (2013). Dale performed as King Arthur in the 2008 theatrical production of "
+						},
+						{
+							"text": "Spamalot",
+							"italic": true
+						},
+						{
+							"text": " on London’s West End. He appeared in a recurring role as a senator in the serial crime drama "
+						},
+						{
+							"text": "The Killing",
+							"italic": true
+						},
+						{
+							"text": " (2011–12). In 2013, he appeared on the television series "
+						},
+						{
+							"text": "The Mindy Project",
+							"italic": true
+						},
+						{
+							"text": ", "
+						},
+						{
+							"text": "Hot in Cleveland",
+							"italic": true
+						},
+						{
+							"text": ", "
+						},
+						{
+							"text": "Body of Proof",
+							"italic": true
+						},
+						{
+							"text": ", and "
+						},
+						{
+							"text": "Dominion",
+							"italic": true
+						},
+						{
+							"text": ". Since 2017 he has appeared in the reboot of "
+						},
+						{
+							"text": "Dynasty",
+							"italic": true
+						},
+						{
+							"text": ", playing Joseph Anders. Dale has also worked as a radio host."
+						}
+					],
+					"type": "p",
+					"uid": "65b55667-598d-499f-b025-289752cea76a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Impact"
+						}
+					],
+					"type": "h1",
+					"uid": "b67d4d83-d750-473e-ba96-92833227aa3e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Despite his inauspicious beginnings in New Zealand theater, Dale has leveraged his late-career success to become one of the most widely recognized television actors in the entertainment industry. The length of Dale’s acting career and the variety of roles he has inhabited led Ben Rawson-Jones of "
+						},
+						{
+							"text": "Digital Spy",
+							"italic": true
+						},
+						{
+							"text": " to described him as an \u0022institution\u0022 in 2009."
+						}
+					],
+					"type": "p",
+					"uid": "778fc44f-82c8-4714-9dbe-3ef9ee32bf44",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "8dbe61af-3d67-4e24-98c8-35d482882595"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Actor. Alan Hugh Dale was born on May 6, 1947, in the city of Dunedin in Otago, New Zealand. Having developed an interest in playing rugby and performing in the theater, Dale left school at a young age. Dale’s parents, who were theatrical performers, built a small venue where they organized performances for the local community. A young Dale would assist in these productions, working both backstage and onstage. Prior to beginning his career as an actor, Dale worked as a milkman, car salesman, and real estate agent. His first professional theatrical role was in a production of The Royal Hunt of the Sun at Auckland, New Zealand’s Grafton Theatre."
+						}
+					],
+					"type": "p",
+					"uid": "2883093e-2595-4ac6-bff4-30b788da1131",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "46535a83-d63f-4206-9852-7f0f9744228f"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

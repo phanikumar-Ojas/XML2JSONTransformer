@@ -1,0 +1,87 @@
+{
+	"entry": {
+		"title": "George Harrison",
+		"tags": [
+			"Biography",
+			"Western Civilization/European History",
+			"Arts",
+			"Popular Culture, Trends, Fads",
+			"Europe",
+			"England",
+			"mock brstCategory",
+			"Liverpool, England",
+			"Paul McCartney",
+			"rock and roll",
+			"John Lennon",
+			"India",
+			"electronic music",
+			"New York",
+			"Bangladesh",
+			"Tom Petty",
+			"Roy Orbison",
+			"counterculture",
+			"Rubber",
+			"slide guitar",
+			"world music"
+		],
+		"category": [
+			"Arts",
+			"Popular Culture, Trends, Fads"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Artists, Artisans, the Arts",
+			"Music, Musicians, Singers"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": [
+			"20th & 21st Century European History",
+			"British History"
+		],
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"Europe"
+		],
+		"sub_geographical_category": [
+			"United Kingdom"
+		],
+		"geo_keyword": [
+			"England"
+		],
+		"birth_day": 25,
+		"birth_month": "February",
+		"birth_year": 1943,
+		"non_numeric_birth_date": "February 25, 1943",
+		"place_of_birth": "Liverpool, England",
+		"death_day": 29,
+		"death_month": "November",
+		"death_year": 2001,
+		"non_numeric_death_date": "November 29, 2001",
+		"place_of_death": "Los Angeles, California",
+		"main_occupation_or_related_field": [
+			"English rock guitarist, singer, and songwriter"
+		],
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3156170-George Harrison"
+		]
+	}
+}

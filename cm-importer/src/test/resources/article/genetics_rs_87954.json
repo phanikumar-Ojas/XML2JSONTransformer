@@ -1,0 +1,1101 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "dcbd78c7-03c2-41e7-8c50-76a4ce6b3a93",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Brantl, S. “Antisense-RNA Regulation and RNA Interference.” "
+						},
+						{
+							"text": "Biochimica et Biophysica Acta",
+							"italic": true
+						},
+						{
+							"text": " 1575 (2002): 15–25. Print."
+						}
+					],
+					"type": "p",
+					"uid": "868b9db3-2444-4771-8703-803f328e338d",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Clark, David P., and Nanette J. Pazdernik. \u0022RNA-Based Technologies.\u0022 "
+						},
+						{
+							"text": "Biotechnology",
+							"italic": true
+						},
+						{
+							"text": ". Burlington: Academic/Elsevier, 2012. 126–72. Print."
+						}
+					],
+					"type": "p",
+					"uid": "9d487d32-ed09-4d9f-bd4b-75006f12d51d",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Krebs, Jocelyn E., Elliott S. Goldstein, and Stephen T. Kilpatrick. \u0022Regulatory RNA.\u0022 "
+						},
+						{
+							"text": "Lewin's Essential Genes",
+							"italic": true
+						},
+						{
+							"text": ". 3rd ed. Burlington: Jones & Bartlett Learning, 2013. Print."
+						}
+					],
+					"type": "p",
+					"uid": "c1a536c8-29b7-4baf-8c95-40362ef24f43",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Naqvi, A. R., M. N. Islam, N. R. Choudhury, and Q. M. R. Haq. “The Fascinating World of RNA Interference.” "
+						},
+						{
+							"text": "International Journal of Biological Sciences",
+							"italic": true
+						},
+						{
+							"text": " 5 (2009): 97–117. Print."
+						}
+					],
+					"type": "p",
+					"uid": "366e3073-582d-42b9-8750-5bbc3c650421",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Rayburn, E. R., and R. Zhang. “Antisense, RNAi, and Gene Silencing Strategies for Therapy: Mission Possible or Impossible?” "
+						},
+						{
+							"text": "Drug Discovery Today",
+							"italic": true
+						},
+						{
+							"text": " 13 (2008): 513–21. Print."
+						}
+					],
+					"type": "p",
+					"uid": "1cfd0b01-2696-4bc2-b584-8e3585525f73",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Shuey, D. J., D. E. McCallus, and T. Giordano. “RNAi: Gene Silencing in Therapeutic Intervention.” "
+						},
+						{
+							"text": "Drug Discovery Today",
+							"italic": true
+						},
+						{
+							"text": " 7 (2002): 1040–46. Print."
+						}
+					],
+					"type": "p",
+					"uid": "7b980f25-3d0c-467e-a7df-0ec915de6846",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Thomason, Maureen Kiley, and Gisela Storz. \u0022Bacterial Antisense RNAs: How Many Are There and What Are They Doing?\u0022 "
+						},
+						{
+							"text": "Annual Review of Genetics",
+							"italic": true
+						},
+						{
+							"text": " 44 (2010): 167–88. Web. 17 July 2014."
+						}
+					],
+					"type": "p",
+					"uid": "e3aa11c3-78f0-4235-9cd8-863fe19dc5df",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "journal"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "c8f24419-4dc3-46b6-9082-c9409ebdd870"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"RNA",
+			"[p]Fire, Andrew",
+			"Antisense RNA",
+			"plasmids",
+			"Caenorhabditis elegans",
+			"RNA interference (RNAi)",
+			"[p]Mello, Craig",
+			"Anatomy & Physiology",
+			"Plasmids",
+			"Specialties & Health Care Providers",
+			"messenger RNA (mRNA)",
+			"Bacteria",
+			"[c]Molecular Genetics;Antisense RNA",
+			"Cancer"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "SIGNIFICANCE:",
+							"bold": true
+						},
+						{
+							"text": " Antisense RNA and RNA interference are powerful modifiers of gene expression that act via RNA-RNA binding through complementary base pairing. This provides a flexible mechanism for specific gene regulation and has great potential for experimental studies and therapeutic action. RNA interference, a specialized form of antisense RNA, even mimics the immune system, for example, targeting RNA viruses within a cell. Processes involving antisense RNA appear in eukaryotes, eubacteria, and archaea."
+						}
+					],
+					"type": "p",
+					"uid": "94169689-9025-4547-91c9-717376b4164c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Discovery"
+						}
+					],
+					"type": "h1",
+					"uid": "510bf7e6-710d-4398-898f-6c4282bed385",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "There are many kinds of "
+						},
+						{
+							"children": [
+								{
+									"text": "RNA"
+								}
+							],
+							"type": "a",
+							"uid": "0d033dc4-f44f-4861-ad06-7e97723d5a8e",
+							"attrs": {
+								"url": "87324670"
+							}
+						},
+						{
+							"text": " molecules in addition to the three main types of "
+						},
+						{
+							"children": [
+								{
+									"text": "messenger RNA (mRNA)"
+								}
+							],
+							"type": "a",
+							"uid": "17836915-ae14-46fb-b7c2-f2e58f6aab43",
+							"attrs": {
+								"url": "89144449"
+							}
+						},
+						{
+							"text": ", transfer RNA (tRNA), and ribosomal RNA (rRNA). Some have an effect on "
+						},
+						{
+							"children": [
+								{
+									"text": "mRNA"
+								}
+							],
+							"type": "span",
+							"uid": "e807b755-bb68-4984-ba70-a3924eb97be3",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " molecules through complementary binding. When this type of RNA binds to an mRNA, it effectively blocks translation of the mRNA and can therefore be described as having an antisense action—that is, it blocks the expression of the message in the mRNA. Antisense RNA was discovered in 1981 as a mechanism regulating copy number of bacterial plasmids. Some RNAs, such as small nuclear and small nucleolar RNAs (snRNA and snoRNA), splice and edit other RNAs, guided by complementary base pairing. "
+						}
+					],
+					"type": "p",
+					"uid": "e257ec27-cbc1-4ddd-9961-7e32cf56d675",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "2d11b44c-27a0-4f76-8f95-64c37345a59c",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "DNA transcription. simple DNA transcription diagram featuring the sense and antisense strands of DNA and the production of messenger RNA via RNA polymerase. By Dovelike (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "DNA transcription. simple DNA transcription diagram featuring the sense and antisense strands of DNA and the production of messenger RNA via RNA polymerase. By Dovelike (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "DNA transcription. simple DNA transcription diagram featuring the sense and antisense strands of DNA and the production of messenger RNA via RNA polymerase. By Dovelike (Own work) [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+						"asset-name": "94416358-88990.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "2b64b1b5-59a9-46b9-adbd-a61785e31069",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "MiRNA-biogenesis. Overview of microRNA processing in animals, from transcription to the formation of the effector complex. There are two pathways, one for microRNAs from independent genes and one for intronic microRNAs. Enzymes in the picture: Drosha, Pasha (pri-miRNA → p. Narayanese at English Wikipedia [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "MiRNA-biogenesis. Overview of microRNA processing in animals, from transcription to the formation of the effector complex. There are two pathways, one for microRNAs from independent genes and one for intronic microRNAs. Enzymes in the picture: Drosha, Pasha (pri-miRNA → p. Narayanese at English Wikipedia [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "MiRNA-biogenesis. Overview of microRNA processing in animals, from transcription to the formation of the effector complex. There are two pathways, one for microRNAs from independent genes and one for intronic microRNAs. Enzymes in the picture: Drosha, Pasha (pri-miRNA → p. Narayanese at English Wikipedia [CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+						"asset-name": "94416358-88991.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Various forms of gene "
+						},
+						{
+							"children": [
+								{
+									"text": "down-regulation"
+								}
+							],
+							"type": "span",
+							"uid": "4fe7fb5a-171b-4870-9585-63d143cea9e6",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " were discovered throughout the 1990s, including post-transcriptional "
+						},
+						{
+							"children": [
+								{
+									"text": "gene silencing"
+								}
+							],
+							"type": "span",
+							"uid": "78b41cc0-8347-44b9-a24a-580f6c356410",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " (prevention of mRNA translation) in plants, gene silencing (prevention of gene transcription) in fungi, and RNA interference in the nematode "
+						},
+						{
+							"children": [
+								{
+									"text": "Caenorhabditis elegans",
+									"italic": true
+								}
+							],
+							"type": "a",
+							"uid": "62ae1011-41fe-4ae1-8a4f-c6bb8b00f052",
+							"attrs": {
+								"url": "94416393"
+							}
+						},
+						{
+							"text": ". The importance of noncoding RNA molecules, including antisense RNA, is becoming clear. They add a previously unknown level of genetic complexity, and the extent of their influence is yet to be determined fully."
+						}
+					],
+					"type": "p",
+					"uid": "316bf989-19f6-4148-9200-4aa9b10fdcc9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Natural Function"
+						}
+					],
+					"type": "h1",
+					"uid": "8a879efa-62f3-48ae-b7f9-97a1c038a2eb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Antisense RNA is utilized in a number of ways by bacterial plasmids. Replication of ColE1 plasmids requires an RNA preprimer, called RNA II, that interacts with the origin of "
+						},
+						{
+							"children": [
+								{
+									"text": "replication"
+								}
+							],
+							"type": "span",
+							"uid": "40de67d7-15ad-4032-8061-7488c604a445",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and forms a particular secondary structure. This allows an "
+						},
+						{
+							"children": [
+								{
+									"text": "enzyme"
+								}
+							],
+							"type": "span",
+							"uid": "4a45915a-481b-415f-a73e-5b3c36705db5",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " to cut and form the mature "
+						},
+						{
+							"children": [
+								{
+									"text": "primer"
+								}
+							],
+							"type": "span",
+							"uid": "766413e7-ce73-4963-9ad8-e2b4fb94bce3",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " needed for DNA replication. Antisense RNA I can bind to RNA II, preventing the formation of the necessary structure. In the R1 plasmid, the CopA antisense RNA can bind and prevent the translation of the RNA transcript for replication initiation protein RepA. Thus, change in "
+						},
+						{
+							"children": [
+								{
+									"text": "plasmid"
+								}
+							],
+							"type": "span",
+							"uid": "9be6df7c-1f62-4247-86ee-10f4abafb49f",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " number is controlled by changing levels of antisense RNA, modifying the ability of plasmids to replicate."
+						}
+					],
+					"type": "p",
+					"uid": "5e60387e-ad60-4983-9780-aa2d0da0bcfd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Many "
+						},
+						{
+							"children": [
+								{
+									"text": "plasmids"
+								}
+							],
+							"type": "a",
+							"uid": "1d29090a-2c87-470d-9261-5fad9dd67fde",
+							"attrs": {
+								"url": "87324381"
+							}
+						},
+						{
+							"text": " use antisense RNA to ensure their maintenance within bacteria. The R1 plasmid transcribes Hok toxin mRNA, but interaction with antisense Sok RNA prevents its translation. Sok RNA is less stable than Hok RNA, so plasmid loss leads to Sok degradation but leaves some Hok transcripts. These transcripts are translated into a toxin that kills the cell in an elegant mechanism of selection for plasmid propagation. Antisense regulation has also been found in association with transposons and bacteriophages."
+						}
+					],
+					"type": "p",
+					"uid": "f58e7d96-ee12-4115-87c7-6adcc5b03a71",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Bacteria use antisense RNA to regulate particular genes. Such RNA is often encoded in a region different from that of the target and may affect multiple genes. For example, the OxyS RNA, induced by oxidative stress, inhibits translation of fhlA mRNA, involved in formate metabolism. In conjunction with the protein Hfq, OxyS RNA binds near the ribosome-binding site in fhlA mRNA, preventing translation. MicF RNA is induced under cellular stress and binds to the mRNA of membrane pore protein ompF to prevent its translation."
+						}
+					],
+					"type": "p",
+					"uid": "1bc20d0a-82fd-4fa2-a679-12a5a4519216",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "One of the first examples of antisense regulatory mechanisms in eukaryotes came from the nematode "
+						},
+						{
+							"text": "C. elegans",
+							"italic": true
+						},
+						{
+							"text": ". Small antisense RNA molecules lin-4 and let-7 show imperfect base-pairing to the 3′ untranslated region of their target gene mRNAs. This results in translational inhibition and is important for normal development. These small antisense RNAs are members of the microRNA (miRNA) class of small, single-stranded molecules found throughout eukaryotes. They are produced by cleavage of longer molecules containing partial self-complementarity that produces a hairpin structure."
+						}
+					],
+					"type": "p",
+					"uid": "157288cf-febd-4453-90b5-d9341591b194",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Antisense RNA has been implicated in other processes. Imprinted genes are often associated with antisense transcripts from the same locus, and double-stranded RNA may be capable of affecting DNA "
+						},
+						{
+							"children": [
+								{
+									"text": "chromatin"
+								}
+							],
+							"type": "span",
+							"uid": "f1b0cbef-326d-4047-b487-7be23e62117c",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " structure through "
+						},
+						{
+							"children": [
+								{
+									"text": "methylation"
+								}
+							],
+							"type": "span",
+							"uid": "fa3d5ceb-ba17-4d61-b5f7-60f41516d090",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " of "
+						},
+						{
+							"children": [
+								{
+									"text": "homologous"
+								}
+							],
+							"type": "span",
+							"uid": "cc3e5e74-98ab-4d04-a560-a2163fb06205",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " sequences."
+						}
+					],
+					"type": "p",
+					"uid": "e14683e6-5adb-46b9-b8e4-d44c89329751",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "RNA Interference"
+						}
+					],
+					"type": "h1",
+					"uid": "fc982e02-caf9-476c-b21b-3a06b7bdb1e1",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "RNA interference (RNAi) causes sequence-specific gene silencing in response to the presence of double-stranded RNA. The pioneers of RNAi research, Andrew Fire and Craig Mello, were awarded the 2006 Nobel Prize in Physiology or Medicine for their work involving the injection of sense/antisense RNA pairs into "
+						},
+						{
+							"text": "C. elegans",
+							"italic": true
+						},
+						{
+							"text": " and observation of the resulting phenotypes. They found that injection of double-stranded RNA led to efficient loss of targeted homologous mRNA by a post-transcriptional mechanism. The process of gene silencing by RNAi is proposed to have evolved as a mechanism of avoiding viral infection and limiting replication of transposable elements and repeat sequences, as all of these can involve double-stranded RNA and are recognized by the RNAi system as foreign "
+						},
+						{
+							"children": [
+								{
+									"text": "nucleic acid"
+								}
+							],
+							"type": "span",
+							"uid": "3e7e3e1c-c86d-4adc-821a-82b34d12895a",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " molecules. RNA silencing by mechanisms involving RNAi is therefore part of the immune defense of many organisms, including plants, worms, and flies. The relevance of RNAi in vertebrate defense against viruses and transposable elements is less clear."
+						}
+					],
+					"type": "p",
+					"uid": "3018fed4-2d41-42cd-bccc-ab8e0dcabcaa",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The mechanism of RNA silencing by RNAi is present in a wide variety of eukaryotes (including mice and humans), and the steps involved are likely to be similar. The process begins with the recognition of a long double-stranded RNA molecule by the conserved "
+						},
+						{
+							"children": [
+								{
+									"text": "RNase"
+								}
+							],
+							"type": "span",
+							"uid": "19f49414-6b50-4e77-832d-502b6bee5695",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " III-type "
+						},
+						{
+							"children": [
+								{
+									"text": "endonuclease"
+								}
+							],
+							"type": "span",
+							"uid": "8757379f-d66a-450c-a189-1e875629f783",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " enzymes Drosha and Dicer, which cut the long RNA to produce a double-stranded RNA about twenty-two nucleotides long with overhanging 3′ ends). This molecule is unwound by the "
+						},
+						{
+							"children": [
+								{
+									"text": "helicase"
+								}
+							],
+							"type": "span",
+							"uid": "bccdb5be-0d50-4e95-b4bb-7b829dcdaa3b",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " activity of Argonaute proteins recruited by Dicer. The mature, single-stranded small interfering RNA (siRNA), produced by these actions acts as a guide molecule for the RNA-induced silencing complex (RISC), which contains multiple nucleases and uses the antisense strand of the siRNA to recognize complementary RNA sequences. These sequences are then either translationally repressed or cleaved and degraded. Some organisms, including plants, fungi, and "
+						},
+						{
+							"text": "C. elegans",
+							"italic": true
+						},
+						{
+							"text": ", use an RNA-dependent "
+						},
+						{
+							"children": [
+								{
+									"text": "RNA polymerase"
+								}
+							],
+							"type": "span",
+							"uid": "2a6f452d-0bdf-41c4-825b-78bf4608d599",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " (RdRP) to amplify the siRNA signal by producing secondary siRNAs to be processed by Dicer. "
+						},
+						{
+							"text": "C. elegans",
+							"italic": true
+						},
+						{
+							"text": " and plants show evidence of a systemic response, whereby initial silencing in one cell spreads to other cells by transport of siRNA (occurring via phloem in plants)."
+						}
+					],
+					"type": "p",
+					"uid": "4920c300-21f0-4c22-8637-6847462f37ea",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Several different types of RNAi, including siRNA and miRNA, have been discovered, and all take advantage of the properties of complementary antisense RNA by binding target RNA, particularly mRNA, via noncovalent base pairing. For siRNA, binding of target sequences is governed by a critical region in the siRNA sequence called the “seed region,” the ribonucleotides encompassing positions 2 through 7. It is this region that gives siRNA its target specificity and allows RISC to bind, leading to target cleavage or repression. While the seed region is important in target recognition, complementarity in other regions is critical for target cleavage. "
+						}
+					],
+					"type": "p",
+					"uid": "79208171-6184-427b-a6dd-8b822b32466e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Impact"
+						}
+					],
+					"type": "h1",
+					"uid": "9c378e7e-d9dc-4357-881a-cc9d29a8f041",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Many disease states are a result of abnormal "
+						},
+						{
+							"children": [
+								{
+									"text": "gene expression"
+								}
+							],
+							"type": "span",
+							"uid": "7af12a14-f8f8-4b33-948f-efa470405ff7",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and are therefore potential targets for gene therapy. One therapeutic approach involves the use of antisense RNA or RNAi. Antisense oligonucleotides containing CpG sequences, for example, have been shown to be immunostimulatory and have been studied in clinical trials for various cancers, asthma, and allergies, and as vaccine adjuvants. Their potential use in treating atopic eczema, ulcerative colitis, atrial fibrillation, atheroschlerosis, Crohn's disease, and Duchenne muscular dystrophy is under investigation."
+						}
+					],
+					"type": "p",
+					"uid": "21272fd0-a331-42b1-a86a-de18cd94cd15",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Cancer cells often show overexpression of genes involved in growth and proliferation. These genes, as well as mutated genes, can be targeted using antisense RNA to decrease expression of proteins encoded by these genes to prevent tumor growth. mRNA from a mutant allele may be targeted for degradation in a "
+						},
+						{
+							"children": [
+								{
+									"text": "heterozygous"
+								}
+							],
+							"type": "span",
+							"uid": "0871a23a-a27c-4678-b167-e7da2220b097",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " patient, allowing expression of the correct protein from only the "
+						},
+						{
+							"children": [
+								{
+									"text": "wild-type"
+								}
+							],
+							"type": "span",
+							"uid": "f32c5ef9-aade-45fb-97bd-586ca92a8628",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " allele. Several RNAi molecules have been evaluated in clinical trials for cancer and other diseases. Antisense techniques are being studied for the targeting of viruses and prevention of their replication and could eventually be used to correct aberrant splicing of gene transcripts. Many of these potential uses have been successfully demonstrated in experimental systems, including "
+						},
+						{
+							"children": [
+								{
+									"text": "cell culture"
+								}
+							],
+							"type": "span",
+							"uid": "0b4c68a3-3fb9-4389-a650-ad2855e90509",
+							"attrs": {
+								
+							}
+						},
+						{
+							"text": " and mouse models."
+						}
+					],
+					"type": "p",
+					"uid": "5fb78655-f4f8-43fc-b0c6-22896d4b3a8e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Many issues remain to be addressed before antisense RNA therapeutics are truly feasible. Effective delivery systems are needed to produce sustained effects in appropriate cell types. The systemic transport of RNAi in some organisms may facilitate therapeutic applications. The safety of such approaches remains to be established, but overall, therapeutic uses of antisense RNA are promising."
+						}
+					],
+					"type": "p",
+					"uid": "f5be6785-952d-45fc-b851-d351a5106bdd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Key Terms"
+						}
+					],
+					"type": "h1",
+					"uid": "c78039cb-de95-4da8-b4d9-c8f53a601dff",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"text": "antisense",
+									"bold": true,
+									"italic": true
+								},
+								{
+									"children": [
+										{
+											"text": ": "
+										}
+									],
+									"type": "span",
+									"uid": "3578cb2c-bd6a-4a7c-b673-b58f5575fcfe",
+									"attrs": {
+										
+									}
+								},
+								{
+									"text": " a term referring to any strand of DNA or RNA that is complementary to a coding or regulatory sequence; for example, the strand opposite the coding strand (the sense strand) in DNA is called the antisense strand "
+								}
+							],
+							"type": "li",
+							"uid": "5cc35443-0e9c-40c6-a7a1-d27658430f77",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"text": "down-regulation",
+									"bold": true,
+									"italic": true
+								},
+								{
+									"children": [
+										{
+											"text": ": "
+										}
+									],
+									"type": "span",
+									"uid": "284384fa-784a-456a-887a-040b841114a9",
+									"attrs": {
+										
+									}
+								},
+								{
+									"text": " a process of gene expression in which the amount that a gene is transcribed and/or translated is reduced "
+								}
+							],
+							"type": "li",
+							"uid": "2e385dba-408d-4855-a71c-f91b55dccf1e",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"text": "gene silencing",
+									"bold": true,
+									"italic": true
+								},
+								{
+									"children": [
+										{
+											"text": ": "
+										}
+									],
+									"type": "span",
+									"uid": "ea1b308b-e545-45a2-aca6-ef62e8c01588",
+									"attrs": {
+										
+									}
+								},
+								{
+									"text": " any form of genetic regulation in which the expression of a gene is completely repressed, either by preventing transcription (pre-transcriptional gene silencing) or after a messenger RNA (mRNA) has been transcribed (post-transcriptional gene silencing "
+								}
+							],
+							"type": "li",
+							"uid": "73a53408-551c-450e-8e90-f77075fa23e8",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"text": "RNA interference (RNAi)",
+									"bold": true,
+									"italic": true
+								},
+								{
+									"children": [
+										{
+											"text": ": "
+										}
+									],
+									"type": "span",
+									"uid": "2fa70a34-bd3b-41f6-90fe-44e367ec5176",
+									"attrs": {
+										
+									}
+								},
+								{
+									"text": " sequence-specific degradation of messenger RNA (mRNA) caused by complementary double-stranded RNA "
+								}
+							],
+							"type": "li",
+							"uid": "a9ffb0c6-ed1a-4425-a574-c04e698ad198",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"text": "up-regulation",
+									"bold": true,
+									"italic": true
+								},
+								{
+									"children": [
+										{
+											"text": ": "
+										}
+									],
+									"type": "span",
+									"uid": "7cc1cfe3-a60e-4c7f-ab52-98df19a78729",
+									"attrs": {
+										
+									}
+								},
+								{
+									"text": " a process of gene expression in which the amount that a gene is transcribed and/or translated is increased "
+								}
+							],
+							"type": "li",
+							"uid": "9f0a6e05-1786-49f2-9c94-e8c65c703196",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "ul",
+					"uid": "60d957ae-cfb7-4b1b-ac74-19c6c26bb211",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "cafc00ba-bf5a-4fe3-94ec-4ba3d62b6864"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "There are many kinds of RNA molecules in addition to the three main types of messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA). Some have an effect on mRNA molecules through complementary binding. When this type of RNA binds to an mRNA, it effectively blocks translation of the mRNA and can therefore be described as having an antisense action—that is, it blocks the expression of the message in the mRNA. Antisense RNA was discovered in 1981 as a mechanism regulating copy number of bacterial plasmids. Some RNAs, such as small nuclear and small nucleolar RNAs (snRNA and snoRNA), splice and edit other RNAs, guided by complementary base pairing."
+						}
+					],
+					"type": "p",
+					"uid": "ba2ae630-25a4-4db2-b265-6dadfeb23d9d",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "70aa68b7-a37a-45d5-9ffe-3194278b2ae6"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

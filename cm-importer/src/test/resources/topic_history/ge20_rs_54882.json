@@ -1,0 +1,76 @@
+{
+	"entry": {
+		"title": "Mock Title Topic History",
+		"tags": [
+			"History/Event",
+			"Western Civilization/European History",
+			"Literature, Publishing",
+			"Europe",
+			"mock brstCategory",
+			"Cosmopolitanism",
+			"revolutions of 1848",
+			"nation-state",
+			"positivism",
+			"Leopold von Ranke",
+			"causes of social change",
+			"Confederation",
+			"nationalism",
+			"point of view",
+			"extinction",
+			"globalization",
+			"human rights",
+			"the natural",
+			"Georg Wilhelm Friedrich Hegel",
+			"Johann Gottlieb Fichte",
+			"Germany",
+			"Otto von Bismarck",
+			"World War I",
+			"welfare",
+			"international political economy"
+		],
+		"category": [
+			"Literature, Publishing"
+		],
+		"date": "1907",
+		"location": "Germany",
+		"quotes": null,
+		"secondary_category": [
+			"Authors, Writers",
+			"Historians",
+			"Philosophy, Philosophers"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": [
+			"20th & 21st Century European History",
+			"German History"
+		],
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"geographical_category": [
+			"Europe"
+		],
+		"sub_geographical_category": [
+			"Germany"
+		],
+		"geo_keyword": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Weltburgertum und Nationalstaat",
+					"italic": true
+				},
+				{
+					"text": "; "
+				},
+				{
+					"text": "Cosmopolitanism and the National State",
+					"italic": true
+				}
+			],
+			"type": "doc",
+			"uid": "2fe23ae1-e299-463f-8c8a-0395c5f562a9"
+		},
+		"defining_moment": null
+	}
+}

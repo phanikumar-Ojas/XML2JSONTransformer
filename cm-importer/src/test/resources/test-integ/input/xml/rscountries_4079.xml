@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book dtd-version="2.3" xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rscountries</book-id>
+      <book-id pub-id-type="eis-mid">FYOH</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">FYOH</alt-title>
+         
+         
+      </book-title-group>
+      <publisher>
+         <publisher-name>Great Neck</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>31</day>
+         <month>July</month>
+         <year>2017</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>1</day>
+         <month>February</month>
+         <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>31</day>
+         <month>July</month>
+         <year>2017</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 id="CRC_COUNTRIES_RS.10.3331.4079"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rscountries_4079</book-part-id>
+            <title-group>
+               <title>Papua New Guinea</title>
+            </title-group>
+            <contrib-group>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Simone Isadora</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Flynn</surname>
+                  </name>
+               </contrib>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <x xml:space="preserve"> and </x>
+                  <name name-style="western">
+                     <given-names>Roberta</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Baxter</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The Independent State of Papua New Guinea (PNG) is located in the South Pacific Ocean, roughly 200 kilometers (124 miles) north of Australia. The country occupies the eastern part of the island of New Guinea, the second largest noncontinental island in the world. It also encompasses the islands of the Bismarck Archipelago, some of the Solomon Islands, and other small islands.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta>
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>88391156</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>CRC_COUNTRIES_140</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>country id</meta-name>
+                  <meta-value>pp</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The Independent State of Papua New <related-article related-article-type="rs" xlink:href="88391092">Guinea</related-article> (PNG) is located in the South <related-article related-article-type="rs" xlink:href="88953044">Pacific Ocean</related-article>, roughly 200 kilometers (124 miles) north of <related-article related-article-type="rs" xlink:href="88391028">Australia</related-article>. The country occupies the eastern part of the island of New Guinea, the second largest noncontinental island in the world. It<italic> </italic>also encompasses the islands of the Bismarck Archipelago, some of the <related-article related-article-type="rs" xlink:href="88391184">Solomon Islands</related-article>, and other small islands. </p>
+               <media position="margin"
+                      mimetype="audio"
+                      mime-subtype="mp3"
+                      xlink:href="88391156-98934.mp3">
+                  <caption>
+                     <p>Papua New Guinea National Anthem: "O Arise All You Sons"</p>
+                  </caption>
+                  <copyright-statement>(CIA World Factbook)</copyright-statement>
+               </media>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>pp-lgflag</title>
+                     <p>Flag of Papua New Guinea </p>
+                  </caption>
+                  <ext-link xlink:href="88391156-75170.gif" ext-link-type="db-image"/>
+                  <permissions>
+                     <copyright-statement>EBSCO</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>pp-map</title>
+                     <p>Map of Papua New Guinea </p>
+                  </caption>
+                  <ext-link xlink:href="88391156-75171.gif" ext-link-type="db-image"/>
+                  <permissions>
+                     <copyright-statement>EBSCO</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>Papua New Guinea is renowned for the abundant diversity of its indigenous cultures, languages, and animal life. There are more than eight hundred spoken dialects, and perhaps an even greater number of ethnic groups. Nearly two hundred species of <related-article related-article-type="rs" xlink:href="88802575">mammals</related-article> have been discovered one the islands, and still much of the mountainous tropical terrain is unexplored.</p>
+            </sec>
+            <sec sec-type="bullet-list" indexed="true">
+               <title>General Information</title>
+               <list list-type="simple" list-content="demographics">
+                  <list-item>
+                     <p>
+                        <bold>Full name of country: </bold>Independent State of Papua New Guinea</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Former name(s): </bold>Territory of Papua and New GuineaPNG</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Region: </bold>East &amp; Southeast Asia</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Nationality: </bold>Papua New Guinean(s) (noun), Papua New Guinean (adjective)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Official language: </bold>Tok Pisin, English, Hiri Motu</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Population: </bold>6,552,730 (2014 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Population growth: </bold>1.84% (2014 est.)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Currency (money): </bold>Papua New Guinean kina</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Land area: </bold>452,860 sq km (174,850 sq miles)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Water area: </bold>9,980 sq km (3,853 sq miles)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Time zone: </bold>UTC +10</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Capital: </bold>Port Moresby</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Flag: </bold>The flag of Papua New Guinea is divided diagonally from the top hoist (or left) side. The
+      bottom triangle is black, and features the Southern Cross constellation, consisting of five
+      white stars. The top triangle, occupying the upper fly side, is red and features a yellow bird
+      of paradise design. The flag’s design symbolizes the country’s emergence into
+      nationhood.</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Independence: </bold>September 16, 1975 (from the Australian-administered UN
+      trusteeship)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Government type: </bold>constitutional parliamentary democracy and a Commonwealth
+      realm</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Suffrage: </bold>18 years of age; universal</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Legal system: </bold>mixed legal system of English common law and customary law</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>National anthem: </bold>"O Arise All You Sons", by Thomas Shacklady</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>National holiday: </bold>Independence Day, September 16 (1975)</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec sec-type="bullet-list" indexed="true">
+               <title>Principal Cities by Population (2000)</title>
+               <list>
+                  <list-item>
+                     <p>Port Moresby (254,158)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Lae (123,398)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Madang (32,318)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Mount Hagen (27,877)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Wewak (27,031) </p>
+                  </list-item>
+                  <list-item>
+                     <p>Goroka (19,523)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Kimbe (14,184)</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Topography</title>
+               <p>Papua New Guinea shares its western border with the Irian Jaya province of <related-article related-article-type="rs" xlink:href="88391099">Indonesia</related-article>, its neighbor on the island of New Guinea. Hundreds of offshore islands, including the Bismarck Archipelago, Manus, Buka, Bougainville, the Louisiade Archipelago, and others, account for roughly 15 percent of the country’s total land area.</p>
+               <p>The interior mainland of Papua New Guinea is dominated by the Bismarck, Victor Emanuel, and Owen Stanley mountain ranges. The porous <related-article related-article-type="rs" xlink:href="88806515">limestone</related-article> rock absorbs rainwater, so there are no streams in this part of the country. The country’s highest point is at the peak of Mount Wilhelm, 4,509 meters (14,793 feet) above <related-article related-article-type="rs" xlink:href="88953059">sea level</related-article>.</p>
+               <p>Between the mountain ranges are the highland valleys, where most of the population is concentrated. The southern region is characterized by its many rivers, as well as Milne Bay. Major rivers include the Fly, Kikori, Markham, and the Ramu. The Fly River is 1,127 kilometers (700 miles) long; roughly 70 percent of its length is navigable.</p>
+               <p>The southwest coast is one of the largest swamp areas in the world, draining into the Gulf of Papua. Rising 61 meters (200 feet) above the swamp is the area of grassland known as the Oriomo Plateau.</p>
+               <p>Because of its location along the Pacific “<related-article related-article-type="rs" xlink:href="88802611">Ring of Fire</related-article>,” Papua New Guinea experiences frequent <related-article related-article-type="rs" xlink:href="88806722">earthquakes</related-article> and mudslides, and its islands have active volcanoes. Some of the smallest islands are <related-article related-article-type="no" xlink:href="88833179">coral</related-article> atolls.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Cultural Sites &amp; Landmarks</title>
+               <p>In 2008, the United Nations Educational, Scientific and Cultural Organization (UNESCO) recognized the Kuk Early Agricultural Site as a cultural <related-article related-article-type="rs" xlink:href="87325532">World Heritage Site</related-article>. It is a protected area of 116 hectares (286 acres) of swamp in western New Guinea. Archaeological excavation has shown that the ancient site has been inhabited by humans for nearly ten thousand years. The Kuk Early Agricultural Site represents and illustrates the transition that humans in the area made from plant gathering to agrarian efforts, such as farming bananas, taro, and yam. It contains evidence of cultivation mounds, drainage ditches, and wooden farming tools, and also shows changes in agricultural practices over time. </p>
+               <p>Papua New Guinea is also renowned for its undeveloped, diverse terrain, and for abundant tribal cultures. UNESCO is considering many of these culturally and environmentally important sites for inclusion on the World Heritage List. These include the Kikori River Basin and the Great Papuan Plateau, which covers 6 percent of the nation’s landmass, and the rugged Kokoda Track (also known as the Kokoda Trail) and Owen Stanley Ranges. Both of these are proposed as mixed sites distinguished for their <related-article related-article-type="rs" xlink:href="88833150">biodiversity</related-article> and geographical importance, as well as for their cultural landscapes. The latter was the site of a famous <related-article related-article-type="rs" xlink:href="89116550">World War II</related-article> battle between the Australians and the Japanese in 1942. Other proposed sites include the Milne Bay Seascape, which incorporates uninhabited coral atolls and islands; the Sublime Karsts of Papua New Guinea, which feature distinct landscapes and sparse human activity; and the Upper Sepik River Basin, recognized for its diverse habitats and tribal cultures. </p>
+               <p>Port Moresby is home to the National Museum and Art Gallery, which features one of the world’s most renowned collections of indigenous art, as well as extensive anthropological, archeological, and natural science exhibits. The National Museum encompasses the Department of Modern History Museum, which is dedicated to twentieth-century events in Papua New Guinea. The museum also features significant collections of World War II and other military artifacts. It also contains an extensive <related-article related-article-type="no" xlink:href="89250551">photography</related-article> collection documenting the islands’ wartime experience. The Port Moresby (Bomana) War Cemetery also reflects the toll of the war on the island, as it contains the remains of nearly four thousand British <related-article related-article-type="rs" xlink:href="88390977">Commonwealth</related-article> fighters who were casualties of the Allied effort to defend the territory from Japanese invasion.</p>
+               <p>In addition, the Port Moresby’s National Botanical Gardens houses one of the world’s largest orchid collections. Originally affiliated with the adjoining University of Papua New Guinea, the gardens contain a wide <related-article related-article-type="no" xlink:href="89185687">sampling</related-article> of tropical vegetation indigenous to the region. Other attractions in the capital include the National Parliament building, which combines elements of traditional design within a modern architectural framework. It was built in 1984 in the style of a traditional haus tambaran or “spirit house” (an ancestral place of worship). In small villages, the spirit house is an elaborately decorated ceremonial structure around which tribal life revolves. </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Government Structure</title>
+               <p>Today, Papua New Guinea is a constitutional parliamentary <related-article related-article-type="rs" xlink:href="88390982">democracy</related-article> and a Commonwealth realm. The chief of state is the British monarch, represented in the country by a governor-general. The <related-article related-article-type="rs" xlink:href="87324472">prime minister</related-article>, usually the leader of the majority party, is the head of the government. Officials of the cabinet, or National Executive Council, are appointed by the governor-general on the recommendation of the prime minister.</p>
+               <p>The unicameral National Parliament is the country’s legislature. Its 109 members are elected to five-year terms. For administrative purposes, the country is divided into a national capital district, one autonomous region, and twenty provinces.</p>
+               <p>Papua New Guinea is a member of the Commonwealth of Nations, the United Nations, the <related-article related-article-type="rs" xlink:href="89402715">World Bank</related-article>, the Asian <related-article related-article-type="rs" xlink:href="87995226">Development Bank</related-article>, the Non-Aligned Movement (NAM), and occupies an observer position in the Association of South East Asian Nations (ASEAN).</p>
+            </sec>
+            <sec sec-type="bullet-list" indexed="true">
+               <title>Fascinating Facts</title>
+               <list>
+                  <list-item>
+                     <p>The island of New Guinea was discovered by Portuguese explorer Jorge de Meneses in 1526.</p>
+                  </list-item>
+                  <list-item>
+                     <p>The Panguna Copper Mine is twice as wide as San Francisco’s Golden Gate Bridge.</p>
+                  </list-item>
+                  <list-item>
+                     <p>In the centuries predating the arrival of Europeans in the Port Moresby area, Port Moresby’s arid climate and poor soil prevented the local Motu people from raising sufficient crops. As a result, the Motu became expert sailors, who bartered clay pots and other implements for food grown by the villages with which they traded. The Motu canoe fleets, called hiri, were commonly manned by several hundred men. As many as twenty thousand clay pots might be traded in the course of a single trading expedition.</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">St. Louis, Regis, et al. <italic>Lonely Planet Papua New Guinea &amp; Solomon Islands</italic>. Footscray: Lonely Planet, 2012. Print. </citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Gewertz, Deborah, and Frederick Errington. “Why We Return to Papua New Guinea.” <italic>Anthropological Quarterly</italic> 70.3 (1997): 127–36. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Gibson, John. “The Papua New Guinea Household Survey.” <italic>Australian Economic Rev.</italic> 33.4 (2000): 377. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Ingram, Derek. “Papua New Guinea.” <italic>Round Table</italic> (1998): 21. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Koczberski, Gina, and George N. Curry. “Divided Communities and Contested Landscapes: Mobility, Development and Shifting Identities in Migrant Destination Sites in Papua New Guinea.” <italic>Asia</italic>
+                        <italic>Pacific Viewpoint</italic> 45.3 (2004): 357–71. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">McPherson, Naomi M. “Faces of the Spirits: The Sulka People of Papua New Guinea.” <italic>Contemporary Pacific</italic> 15.1 (2003): 229–31. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">“Papua New Guinea: Country Forecast: Forecast Scenarios.” <italic>Political Risk Yearbook: Papua New Guinea Country Forecast</italic> (2006): 15–26. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Wood, Mike. “Rimbunan Hijau versus the World Bank and Australian Miners: Print Media Representations of Forestry.” <italic>Australian Jour. of Anthropology</italic> 10.2 (1999): 175. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

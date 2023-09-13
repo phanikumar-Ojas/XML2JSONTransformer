@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">cam_rs</book-id>
+      <book-id pub-id-type="eis-mid">GY3M</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Health</book-title>
+         <alt-title alt-title-type="mid">GY3M</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>15</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>19</day>
+         <month>March</month>
+         <year>2014</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="CAM_RS.10.3331.66152"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">cam_rs_66152</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="subject">
+                  <subject>Prevention &amp; Lifestyle</subject>
+                  <subj-group>
+                     <subject>Alternative &amp; Complementary Medicine</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="subject">
+                  <subject>Specialties &amp; Health Care Providers</subject>
+                  <subj-group>
+                     <subject>Alternative &amp; Complementary Medicine</subject>
+                     <subject>Pharmacology</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="subject">
+                  <subject>Treatment &amp; Therapy</subject>
+                  <subj-group>
+                     <subject>Alternative &amp; Complementary Therapies</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Aminoglycosides (drug interactions)</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>EBSCO CAM Review Board</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname/>
+                  </name>
+                  <x xml:space="preserve"> </x>
+                  <degrees/>
+                  <x xml:space="preserve"/>
+               </contrib>
+            </contrib-group>
+            
+            <abstract abstract-type="placard">
+               <p>Antibiotics given intravenously to treat certain infections.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/CAM_0022</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <bold>
+                        <sc>Definition:</sc>
+                     </bold> Antibiotics given intravenously to treat certain infections.</p>
+               <p>
+                     <bold>
+                        <sc>Interactions:</sc>
+                     </bold> Calcium, ginkgo, magnesium, N-acetylcysteine, vitamin B<sub>12</sub>
+                  </p>
+               <p>
+                     <bold>
+                        <sc>Trade names:</sc>
+                     </bold>Amikacin, Gentamycin, Tobramycin</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Ginkgo</title>
+               <p>
+                     <italic>Effect:</italic> Possible Harmful Interaction</p>
+               <p>The herb ginkgo is thought to increase circulation and protect nerve cells from
+                  damage. On this basis, it has been proposed as a possible treatment to help
+                  protect the auditory nerve from damage caused by aminoglycosides. However, the one
+                  animal study performed to evaluate this potential benefit found instead that the
+                  herb increased damage to the auditory nerve. Based on this finding, persons using
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94416767"
+                                   xlink:type="simple">aminoglycoside
+                     drugs</related-article> should avoid ginkgo.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Minerals: Magnesium and Calcium</title>
+               <p>
+                     <italic>Effect:</italic> Possible Harmful Interaction</p>
+               <p>Weak evidence from animal studies hints that the use of gentamicin may reduce
+                  levels of magnesium and calcium. Supplementation may therefore be helpful on
+                  general principles if gentamicin treatment is used for an extended time. One
+                  animal study suggests that calcium supplements in particular might help prevent
+                  gentamicin-induced kidney damage.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Vitamin B<sub>12</sub>
+                  </title>
+               <p>
+                     <italic>Effect:</italic> Supplementation Possibly Helpful</p>
+               <p>One animal study weakly hints that <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="93788291"
+                                   xlink:type="simple">vitamin B</related-article>
+                  <sub>12</sub> might help
+                  prevent hearing damage caused by gentamicin.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>N-acetylcysteine</title>
+               <p>
+                     <italic>Effect:</italic> May Decrease Effectiveness of the Drug</p>
+               <p>One exceedingly preliminary animal study suggests that N-acetylcysteine might
+                  help protect the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323026"
+                                   xlink:type="simple">kidneys</related-article> from damage caused by gentamicin.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Jin, X., and X. Sheng. “Methylcobalamin as Antagonist to Transient Ototoxic Action of Gentamicin.” <italic>Acta-Oto-Laryngologica</italic> 121 (2001): 351-354.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Kes, P., and Z. Reiner. “Symptomatic Hypomagnesemia Associated with Gentamicin Therapy.” <italic>Magnesium and Trace Elements</italic> 9 (1990): 54-60.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Miman, M. C., et al. “Amikacin Ototoxicity Enhanced by <italic>Ginkgo biloba</italic> Extract (EGb 761).” <italic>Hearing Research</italic> 169 (2002): 121-129.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Aminoglycosides</article-title>
+                           <source>Complementary &amp; Alternative Medicine</source>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Richard P.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Capriccioso</surname>
+                           </name>
+                        </person-group>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Paul</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Moglia</surname>
+                           </name>
+                        </person-group>
+                           <year>2012</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

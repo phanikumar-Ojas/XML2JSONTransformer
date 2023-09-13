@@ -1,0 +1,317 @@
+{
+	"created_at": "2022-11-23T20:08:17.153Z",
+	"updated_at": "2022-11-23T20:08:28.699Z",
+	"title": "Contributor",
+	"uid": "contributor",
+	"_version": 2,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Title",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "First Name",
+			"uid": "first_name",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Middle Name",
+			"uid": "middle_name",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Last Name",
+			"uid": "last_name",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Full Name",
+			"uid": "full_name",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Preferred Byline",
+			"uid": "preferred_byline",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Degrees",
+			"uid": "degrees",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Short Biography",
+			"uid": "short_biography",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Related fields",
+			"uid": "related_fields",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "json",
+			"display_name": "Long Biography",
+			"uid": "long_biography",
+			"field_metadata": {
+				"allow_json_rte": true,
+				"embed_entry": false,
+				"description": "",
+				"default_value": "",
+				"multiline": false,
+				"rich_text_type": "advanced",
+				"options": []
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"reference_to": [
+				"sys_assets"
+			],
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false,
+			"mandatory": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Contributor Line",
+			"uid": "contributor_line",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"mandatory": false,
+			"multiple": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "Contributor",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			},
+			{
+				"uid": "blt45f597cc5c42bf37",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltf31aa1f732cbc4a1",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"create": true,
+					"update": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "blt79fd4f70e1025b76",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true
+				}
+			},
+			{
+				"uid": "blt3f3e9c6d2b51cc34",
+				"read": true,
+				"sub_acl": {
+					"read": true,
+					"update": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

@@ -1,0 +1,1086 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "a21398ab-31e7-4fa6-9671-3e27cd6a24ec",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Giuliano, Geoffrey. "
+						},
+						{
+							"text": "Dark Horse: The Life and Art of George Harrison",
+							"italic": true
+						},
+						{
+							"text": ". New York: Da Capo Press, 1997. This work provides an overview of Harrison’s career."
+						}
+					],
+					"type": "p",
+					"uid": "4ddae1d9-5a14-4cdb-bdcf-6ea8d25aa7f9",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Harrison, George. "
+						},
+						{
+							"text": "I Me Mine",
+							"italic": true
+						},
+						{
+							"text": ". New York: Simon & Schuster, 1980. This personal memoir provides valuable insights into the creation of Harrison’s works with the Beatles and his development as a solo artist."
+						}
+					],
+					"type": "p",
+					"uid": "35b3163a-a6da-4737-a039-8aff1d6d8c30",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Leng, Simon. "
+						},
+						{
+							"text": "While My Guitar Gently Weeps: The Music of George Harrison",
+							"italic": true
+						},
+						{
+							"text": ". Milwaukee, Wis.: Hal Leonard, 2006. This work presents a remarkably detailed analysis of Harrison’s entire catalog."
+						}
+					],
+					"type": "p",
+					"uid": "7e988133-b3d0-4eb9-85cb-c660d6e29367",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Lewisohn, Mark. "
+						},
+						{
+							"text": "The Beatles Recording Sessions",
+							"italic": true
+						},
+						{
+							"text": ". New York: Harmony Books, 1988. This seminal work provides detailed descriptions of all the Beatles’ recorded works."
+						}
+					],
+					"type": "p",
+					"uid": "6327c8b2-0b77-46ca-b16c-b918110b7816",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "_______. "
+						},
+						{
+							"text": "The Complete Beatles Chronicle",
+							"italic": true
+						},
+						{
+							"text": ". New York: Harmony Books, 1992. This work expands on "
+						},
+						{
+							"text": "The Beatles Recording Sessions",
+							"italic": true
+						},
+						{
+							"text": " by including detailed descriptions for all of the group’s documented activities between 1957 and 1970."
+						}
+					],
+					"type": "p",
+					"uid": "e9ca1317-bad5-4529-b495-9d8712f22f23",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "3be90e29-d004-4907-b2a1-f2f389a50fe3"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"Western Civilization/European History",
+			"New York",
+			"Popular Culture, Trends, Fads",
+			"Europe",
+			"Tom Petty",
+			"Roy Orbison",
+			"Liverpool, England",
+			"England",
+			"Paul McCartney",
+			"rock and roll",
+			"Arts",
+			"India",
+			"John Lennon",
+			"Bangladesh",
+			"electronic music",
+			"world music",
+			"Biography",
+			"Rubber",
+			"counterculture",
+			"slide guitar"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "As a member of the Beatles and as a solo artist, Harrison produced popular songs of distinction, and he experimented with a variety of non-Western musical sources.",
+							"italic": true
+						}
+					],
+					"type": "p",
+					"uid": "a6b3fd95-b878-468c-9f13-511642cdcbb1",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "MEMBER OF",
+							"bold": true
+						},
+						{
+							"text": " The Beatles; the Traveling Wilburys"
+						}
+					],
+					"type": "p",
+					"uid": "58c0a616-88aa-4916-9ef4-f25578c46bc9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Life"
+						}
+					],
+					"type": "h1",
+					"uid": "3b2799b5-3c69-4272-bef2-fd0b19cad914",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "George Harold Harrison was born in "
+						},
+						{
+							"children": [
+								{
+									"text": "Liverpool, England"
+								}
+							],
+							"type": "a",
+							"uid": "e491563c-eedf-40e6-8d5d-b39823869751",
+							"attrs": {
+								"url": "87323434"
+							}
+						},
+						{
+							"text": ", on February 25, 1943. At an early age, he exhibited a keen interest in popular music, and soon he began to study guitar. At the Liverpool Institute for Boys, he met "
+						},
+						{
+							"children": [
+								{
+									"text": "Paul McCartney"
+								}
+							],
+							"type": "a",
+							"uid": "f9cd2df7-4a56-42cf-8877-fa8256bd8c44",
+							"attrs": {
+								"url": "89407167"
+							}
+						},
+						{
+							"text": ", a student who shared his passionate interest in "
+						},
+						{
+							"children": [
+								{
+									"text": "rock and roll"
+								}
+							],
+							"type": "a",
+							"uid": "0513fa68-d161-4e58-b4dc-5e3976c4e777",
+							"attrs": {
+								"url": "89183492"
+							}
+						},
+						{
+							"text": ". At McCartney’s insistence, Harrison was invited to join the Quarrymen, a musical group led by "
+						},
+						{
+							"children": [
+								{
+									"text": "John Lennon"
+								}
+							],
+							"type": "a",
+							"uid": "55fffa50-c83a-478c-b4c9-af146844c662",
+							"attrs": {
+								"url": "88828591"
+							}
+						},
+						{
+							"text": ". This group later evolved into the Beatles, and it achieved global success in the 1960’s. In the group, Harrison was lead guitarist and occasional vocalist. Soon he developed a distinctive compositional style informed by his burgeoning interest in the music of India. He later collaborated with diverse artists such as Delaney and Bonnie, the Band, and Bob Dylan, and he also experimented with "
+						},
+						{
+							"children": [
+								{
+									"text": "electronic music"
+								}
+							],
+							"type": "a",
+							"uid": "ada64507-445f-437b-a4aa-043313a18811",
+							"attrs": {
+								"url": "89112537"
+							}
+						},
+						{
+							"text": ". By the time the Beatles disbanded in 1970, Harrison was widely recognized as a composer and musician of the first rank. "
+						}
+					],
+					"type": "p",
+					"uid": "0f1fc7dc-7117-47eb-9623-02c95b1c4a2e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "b5bbb27f-060b-48f8-b6c5-8b3bb31b76a5",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "George Harrison 1974 edited. George Harrison in the Oval Office during the Ford administration. David Hume Kennerly [Public domain], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "George Harrison 1974 edited. George Harrison in the Oval Office during the Ford administration. David Hume Kennerly [Public domain], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "George Harrison 1974 edited. George Harrison in the Oval Office during the Ford administration. David Hume Kennerly [Public domain], via Wikimedia Commons",
+						"asset-name": "89872105-78859.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Harrison flourished in the wake of the Beatles’ breakup. Although he had only been allotted one or two tracks on the group’s albums, he had been steadily composing for seven years, and he had a selection of songs from which to choose for his solo debut. The album, "
+						},
+						{
+							"text": "All Things Must Pass",
+							"italic": true
+						},
+						{
+							"text": ", was a three-record set that featured the hit singles “What Is Life?” and “My Sweet Lord.” In August, 1971, Harrison organized an all-star benefit concert at New York’s Madison Square Garden that brought attention to the plight of refugees in Bangladesh. A recording of this event, "
+						},
+						{
+							"text": "The Concert for Bangladesh",
+							"italic": true
+						},
+						{
+							"text": ", became a million-seller, with all proceeds going to charity. His solo success continued in 1973 with "
+						},
+						{
+							"text": "Living in the Material World",
+							"italic": true
+						},
+						{
+							"text": ", an album that featured the songs “Give Me Love” and “Sue Me, Sue You Blues.” Personal turmoil surfaced in 1974, when Harrison became estranged from his wife of eight years, Patti Boyd. Their breakup soured the mood of "
+						},
+						{
+							"text": "Dark Horse",
+							"italic": true
+						},
+						{
+							"text": ", an album further hindered by the poor condition of the singer’s vocal cords. His troubles continued on a North American solo tour, which demonstrated that he was losing touch with the mainstream audience. He received another setback in 1976 when he lost a copyright-infringement suit brought against him regarding the song “My Sweet Lord.” During a three-year hiatus from recording, Harrison married Olivia Arias and celebrated the birth of a son, Dhani. He also began a career as a film producer. His company, Handmade Films, financed the hit comedy "
+						},
+						{
+							"text": "Monty Python’s Life of Brian",
+							"italic": true
+						},
+						{
+							"text": ", and it went on to produce many successful films throughout the 1980’s."
+						}
+					],
+					"type": "p",
+					"uid": "48942870-6f1d-4508-ab07-50dc07d5fc28",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "He returned in 1979 with "
+						},
+						{
+							"text": "George Harrison",
+							"italic": true
+						},
+						{
+							"text": ", an album that initiated a period in which the singer worked increasingly from his home studio. This was quickly followed by "
+						},
+						{
+							"text": "Somewhere in England",
+							"italic": true
+						},
+						{
+							"text": ", which featured the hit single “All Those Years Ago.” The lackluster response to his next album, "
+						},
+						{
+							"text": "Gone Troppo",
+							"italic": true
+						},
+						{
+							"text": ", caused Harrison to withdraw once again from the limelight. He returned in 1987 with "
+						},
+						{
+							"text": "Cloud Nine",
+							"italic": true
+						},
+						{
+							"text": ", a remarkable tour de force that successfully highlighted his strengths as a singer, songwriter, and guitarist. He next teamed with veteran rockers Jeff Lynne, "
+						},
+						{
+							"children": [
+								{
+									"text": "Tom Petty"
+								}
+							],
+							"type": "a",
+							"uid": "8640942f-9ef6-45f7-9b4a-b0e8cc24dcdb",
+							"attrs": {
+								"url": "89408215"
+							}
+						},
+						{
+							"text": ", "
+						},
+						{
+							"children": [
+								{
+									"text": "Roy Orbison"
+								}
+							],
+							"type": "a",
+							"uid": "1670864c-1510-4e18-b8c3-49e9b2c467d1",
+							"attrs": {
+								"url": "88827251"
+							}
+						},
+						{
+							"text": ", and Bob Dylan to form the Traveling Wilburys."
+						}
+					],
+					"type": "p",
+					"uid": "18e8a364-5f55-42ed-9798-f40c242d35d0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In the 1990’s, Harrison worked sporadically, but he was heavily involved in "
+						},
+						{
+							"text": "The Beatles Anthology",
+							"italic": true
+						},
+						{
+							"text": " project with former bandmates Ringo Starr and Paul McCartney. He also prepared tracks for a new solo album. In 1999, he was assaulted by an intruder in his home, and he suffered multiple stab wounds. He recovered from this attack, but he succumbed to cancer on November 29, 2001."
+						}
+					],
+					"type": "p",
+					"uid": "df7acdca-29e2-4d35-a56c-866143c59412",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Music"
+						}
+					],
+					"type": "h1",
+					"uid": "50e29597-b768-438d-9c9c-9e3c33f3be41",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "As the junior composer in the Beatles, Harrison labored in the shadow of Lennon and McCartney. Gradually, he developed a distinctive compositional style characterized by a fascination with unusual modal structures. He also explored exotic instrumentation as a result of his interest in the music of India. His lyrics tended to address the spiritual aspirations that lay at the heart of the counterculture, though in a forthright fashion. He continued to develop these elements during his solo career, and he also began to incorporate harmonic structures derived from American jazz."
+						}
+					],
+					"type": "p",
+					"uid": "aeee4505-219e-4b24-ad3b-27243d400ece",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Beatles.",
+							"bold": true
+						},
+						{
+							"text": " During his time with the Beatles, Harrison composed works with remarkably exotic harmonic structures. “Don’t Bother Me” employs a Dorian progression that provides an appropriate setting for the song’s dour lyrical content. This quality was also evident on his contributions to the albums "
+						},
+						{
+							"text": "Help!",
+							"italic": true
+						},
+						{
+							"text": " and "
+						},
+						{
+							"text": "Rubber Soul",
+							"italic": true
+						},
+						{
+							"text": ". For "
+						},
+						{
+							"text": "Revolver",
+							"italic": true
+						},
+						{
+							"text": ", Harrison incorporated gestures derived from Indian music (“Love You To,” “Taxman”), and on "
+						},
+						{
+							"text": "Sgt. Pepper’s Lonely Hearts Club Band",
+							"italic": true
+						},
+						{
+							"text": ", he successfully integrated Eastern and Western styles in “Within You, Without You,” a song that features an authentic Indian ensemble (sitar, dilruba, tabla, swarmandal, and tambura), combined with Western classical instruments (violin, cello). On "
+						},
+						{
+							"text": "The Beatles",
+							"italic": true
+						},
+						{
+							"text": ", Harrison returned to a more traditional rock-and-roll approach (“Savoy Truffle,” “While My Guitar Gently Weeps”), but the Indian influence was still evident on “Long, Long, Long.” Harrison finally came into his own on the Beatles’ swan song, "
+						},
+						{
+							"text": "Abbey Road",
+							"italic": true
+						},
+						{
+							"text": ", which featured “Here Comes the Sun” and the hit single “Something.” "
+						},
+						{
+							"text": "Solo Work.",
+							"bold": true
+						},
+						{
+							"text": " The backlog of songs Harrison had accrued while a member of the Beatles formed the basis of his first solo release, "
+						},
+						{
+							"text": "All Things Must Pass",
+							"italic": true
+						},
+						{
+							"text": ", a sprawling three-record set that featured the hits “What Is Life” and “My Sweet Lord.” In 1973 he recorded "
+						},
+						{
+							"text": "Living in the Material World",
+							"italic": true
+						},
+						{
+							"text": ", an album that continued to explore the wall-of-sound textures of "
+						},
+						{
+							"text": "All Things Must Pass",
+							"italic": true
+						},
+						{
+							"text": ", but with an increased focus on spiritual themes. It also showcased his newly developed "
+						},
+						{
+							"children": [
+								{
+									"text": "slide guitar"
+								}
+							],
+							"type": "a",
+							"uid": "3828eabd-0624-42a5-ac08-c21372bf56f3",
+							"attrs": {
+								"url": "87999009"
+							}
+						},
+						{
+							"text": " technique. The breakup of his marriage to Patti dominated "
+						},
+						{
+							"text": "Dark Horse",
+							"italic": true
+						},
+						{
+							"text": ", which nonetheless contained such interesting musical hybrids as “Maya Love,” and “It Is ’He’ (Jai Sri Krishna).” On his next two releases, "
+						},
+						{
+							"text": "Extra Texture",
+							"italic": true
+						},
+						{
+							"text": " and "
+						},
+						{
+							"text": "Thirty Three and One Third",
+							"italic": true
+						},
+						{
+							"text": ", Harrison rebounded from his personal troubles, although with diminishing commercial success."
+						}
+					],
+					"type": "p",
+					"uid": "b6302449-0682-4fcc-8a49-6bb468cdae7f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Later Works.",
+							"bold": true
+						},
+						{
+							"text": " The new songs from "
+						},
+						{
+							"text": "George Harrison",
+							"italic": true
+						},
+						{
+							"text": " exhibited a more relaxed approach than shown on the singer’s earlier albums. In 1981 he released "
+						},
+						{
+							"text": "Somewhere in England",
+							"italic": true
+						},
+						{
+							"text": ", which contained the hit single“All Those Years Ago,” an exploration of Harrison’s feelings regarding the death of former bandmate Lennon. "
+						},
+						{
+							"text": "Gone Troppo",
+							"italic": true
+						},
+						{
+							"text": " was a commercial and critical disappointment, but Harrison rebounded in 1987 with "
+						},
+						{
+							"text": "Cloud Nine",
+							"italic": true
+						},
+						{
+							"text": ", an album that yielded the hits “When We Was Fab” and “Got My Mind Set on You.” He subsequently joined forces with Lynne, Petty, Orbison, and Dylan to record as the Traveling Wilburys. During the 1990’s, Harrison continued to record and tour sporadically. His final album, "
+						},
+						{
+							"text": "Brainwashed",
+							"italic": true
+						},
+						{
+							"text": ", was released posthumously in 2002."
+						}
+					],
+					"type": "p",
+					"uid": "f13a940c-f5bc-458c-a9cc-6aba218cded7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Musical Legacy"
+						}
+					],
+					"type": "h1",
+					"uid": "342c3f02-202b-4140-882f-277e56175c93",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "As solo artists, each member of the Beatles struggled to live up to the group’s early success. However, Harrison’s time with the group can be viewed as an apprenticeship during which he developed his diverse influences into a highly original musical style. His songs, which once seemed exotic to Western ears, now sound increasingly like "
+						},
+						{
+							"children": [
+								{
+									"text": "world music"
+								}
+							],
+							"type": "a",
+							"uid": "7d514f56-eb08-41f2-8b2e-b66ac0c7c741",
+							"attrs": {
+								"url": "89409664"
+							}
+						},
+						{
+							"text": ". In that sense, Harrison’s works may have presaged the cross-cultural influences that would characterize the music that followed."
+						}
+					],
+					"type": "p",
+					"uid": "cb764f78-4761-4cb6-8f97-a1f22ca7dfdf",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Principal Recordings"
+						}
+					],
+					"type": "h1",
+					"uid": "44bcda53-9d50-4ee5-8ff7-08abf1fa855e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " ALBUMS (solo): "
+						},
+						{
+							"text": "Wonderwall Music",
+							"italic": true
+						},
+						{
+							"text": ", 1968; "
+						},
+						{
+							"text": "Electronic Sound",
+							"italic": true
+						},
+						{
+							"text": ", 1969; "
+						},
+						{
+							"text": "All Things Must Pass",
+							"italic": true
+						},
+						{
+							"text": ", 1970; "
+						},
+						{
+							"text": "Living in the Material World",
+							"italic": true
+						},
+						{
+							"text": ", 1973; "
+						},
+						{
+							"text": "Dark Horse",
+							"italic": true
+						},
+						{
+							"text": ", 1974; "
+						},
+						{
+							"text": "Extra Texture",
+							"italic": true
+						},
+						{
+							"text": ", 1975; "
+						},
+						{
+							"text": "Thirty Three and One Third",
+							"italic": true
+						},
+						{
+							"text": ", 1976; "
+						},
+						{
+							"text": "George Harrison",
+							"italic": true
+						},
+						{
+							"text": ", 1979; "
+						},
+						{
+							"text": "Somewhere in England",
+							"italic": true
+						},
+						{
+							"text": ", 1981; "
+						},
+						{
+							"text": "Gone Troppo",
+							"italic": true
+						},
+						{
+							"text": ", 1982; "
+						},
+						{
+							"text": "Cloud Nine",
+							"italic": true
+						},
+						{
+							"text": ", 1987; "
+						},
+						{
+							"text": "Chant and Be Happy: Indian Devotional Songs",
+							"italic": true
+						},
+						{
+							"text": ", 1991; "
+						},
+						{
+							"text": "Brainwashed",
+							"italic": true
+						},
+						{
+							"text": ", 2002."
+						}
+					],
+					"type": "p",
+					"uid": "3153ab5f-297b-437c-9b2e-b79df596145a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " ALBUMS (with the Beatles): "
+						},
+						{
+							"text": "Please Please Me",
+							"italic": true
+						},
+						{
+							"text": ", 1963; "
+						},
+						{
+							"text": "With the Beatles",
+							"italic": true
+						},
+						{
+							"text": ", 1963; "
+						},
+						{
+							"text": "Beatles for Sale",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "The Beatles’ Second Album",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "Beatles ’65",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "The Beatles’ Story",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "A Hard Day’s Night",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "Introducing the Beatles",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "Meet the Beatles",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "Something New",
+							"italic": true
+						},
+						{
+							"text": ", 1964; "
+						},
+						{
+							"text": "Beatles VI",
+							"italic": true
+						},
+						{
+							"text": ", 1965; "
+						},
+						{
+							"text": "Help!",
+							"italic": true
+						},
+						{
+							"text": ", 1965; "
+						},
+						{
+							"text": "Rubber Soul",
+							"italic": true
+						},
+						{
+							"text": ", 1965; "
+						},
+						{
+							"text": "Revolver",
+							"italic": true
+						},
+						{
+							"text": ", 1966; "
+						},
+						{
+							"text": "Yesterday…and Today",
+							"italic": true
+						},
+						{
+							"text": ", 1966; "
+						},
+						{
+							"text": "Magical Mystery Tour",
+							"italic": true
+						},
+						{
+							"text": ", 1967; "
+						},
+						{
+							"text": "Sgt. Pepper’s Lonely Hearts Club Band",
+							"italic": true
+						},
+						{
+							"text": ", 1967; "
+						},
+						{
+							"text": "The Beatles",
+							"italic": true
+						},
+						{
+							"text": ", 1968 ("
+						},
+						{
+							"text": "The White Album",
+							"italic": true
+						},
+						{
+							"text": "); "
+						},
+						{
+							"text": "Abbey Road",
+							"italic": true
+						},
+						{
+							"text": ", 1969; "
+						},
+						{
+							"text": "Yellow Submarine",
+							"italic": true
+						},
+						{
+							"text": ", 1969; "
+						},
+						{
+							"text": "Let It Be",
+							"italic": true
+						},
+						{
+							"text": ", 1970."
+						}
+					],
+					"type": "p",
+					"uid": "29784291-1ad7-40fb-a690-c8af3a62ac1c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": " ALBUMS (with the Traveling Wilburys): "
+						},
+						{
+							"text": "Traveling Wilburys, Vol. 1",
+							"italic": true
+						},
+						{
+							"text": ", 1988; "
+						},
+						{
+							"text": "Traveling Wilburys, Vol. 3",
+							"italic": true
+						},
+						{
+							"text": ", 1990. "
+						}
+					],
+					"type": "p",
+					"uid": "1cf8e768-a8b2-4f7b-b6d9-9c1ad1ba17c2",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "7763e9ad-0bd4-48f0-9e6a-2001da950f0e"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "English rock guitarist, singer, and songwriter. George Harold Harrison was born in Liverpool, England, on February 25, 1943. At an early age, he exhibited a keen interest in popular music, and soon he began to study guitar. At the Liverpool Institute for Boys, he met Paul McCartney, a student who shared his passionate interest in rock and roll. At McCartney’s insistence, Harrison was invited to join the Quarrymen, a musical group led by John Lennon. This group later evolved into the Beatles, and it achieved global success in the 1960’s. In the group, Harrison was lead guitarist and occasional vocalist. Soon he developed a distinctive compositional style informed by his burgeoning interest in the music of India. He later collaborated with diverse artists such as Delaney and Bonnie, the Band, and Bob Dylan, and he also experimented with electronic music. By the time the Beatles disbanded in 1970, Harrison was widely recognized as a composer and musician of the first rank."
+						}
+					],
+					"type": "p",
+					"uid": "59555f47-0149-4d91-a894-e5a4c53f15ed",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "ae125935-fee2-46be-b36e-87951b978f32"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

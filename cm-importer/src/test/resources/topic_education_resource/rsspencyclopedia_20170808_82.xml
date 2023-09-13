@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsspencyclopedia</book-id>
+      <book-id pub-id-type="eis-mid">GY4S</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4S</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>31</day>
+         <month>December</month>
+         <year>2017</year>
+      </pub-date>
+      <copyright-statement>© 2018 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="sp_ency.311022"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rsspencyclopedia_20170808_82</book-part-id>
+            <title-group>
+               <title>Credit card fraud</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Laura</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Boone</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Credit card fraud is an umbrella term used to refer to any unauthorized use of a credit card, a debit card, or other similar payment tool to illegally obtain money or property. Credit card fraud can happen in several different ways. A person can lose his or her credit card, and a thief can find it and use it. The credit card information can also be obtained through more sophisticated means, such as hacking and identity-theft schemes. The fraudulent use of credit cards impacts millions of consumers each year, with an estimated 31.8 million Americans having their cards breached in 2014 alone, the latest year for which data was available in 2017. Credit card fraud can be costly to fix, both for consumers and credit card companies. In 2014, nearly 90 percent of fraud victims received replacement credit cards, which cost companies as much as $12.75 per card to issue. Those costs are often passed back onto the consumer through higher credit card fees and interest rates. Theft is the most common method of fraud, but a person could also steal a person's credit card number and use it to by products. By Lance Cpl. Brandon R. Holgersen, Public domain, via Wikimedia Commons Visa, Mastercard, and American Express credit cards. By Petr Kratochvil, CC0, via Wikimedia Commons</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>311022</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1384</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>Credit card fraud is an umbrella term used to refer to any unauthorized use of a credit card, a debit card, or other similar payment tool to illegally obtain money or property. Credit card fraud can happen in several different ways. A person can lose his or her credit card, and a thief can find it and use it. The credit card information can also be obtained through more sophisticated means, such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="89312077">hacking</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="95342894">identity-theft</related-article> schemes. The fraudulent use of credit cards impacts millions of consumers each year, with an estimated 31.8 million Americans having their cards breached in 2014 alone, the latest year for which data was available in 2017. Credit card fraud can be costly to fix, both for consumers and credit card companies. In 2014, nearly 90 percent of fraud victims received replacement credit cards, which cost companies as much as $12.75 per card to issue. Those costs are often passed back onto the consumer through higher <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="89158091">credit card fees</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="89163774">interest rates</related-article>.<fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Theft is the most common method of fraud, but a person could also steal a person's credit card number and use it to by products. </p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="rsspencyclopedia-20170808-82-158384.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Lance Cpl. Brandon R. Holgersen, Public domain, via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Visa, Mastercard, and American Express credit cards.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="rsspencyclopedia-20170808-82-158383.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Petr Kratochvil, CC0, via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Background</title>
+               <p>The idea of the credit card first took off in the 1920s and 1930s, when department stores and oil companies started offering "courtesy cards" that customers could use to charge purchases. These cards were similar to present-day store credit cards in that they were only accepted by the merchants who issued them. The first multiuse credit card, called <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="89314354">Diners Club</related-article>, was started by Frank McNamara, a New York businessperson, in 1950. The card allowed consumers to eat out at restaurants and pay for their meal later. The idea took off and one year later, Diners Club had 42,000 members and even a few competitors. By 1953, the company became the first internationally accepted charge card. Despite the changing credit card landscape over the years, Diners Club still existed as of 2017, though it had become part of the Discover brand.</p>
+               <p>As the competition in the credit card industry increased, so too did the opportunity for criminals to steal information and use it for their personal gain. One infamous incident occurred with Bank of America's new "BankAmericard." The card, launched in 1958, was one of the first to be accepted by several different types of merchants. The company introduced its new card with a publicity stunt that became known as the "Fresno drop," which proved to be quite costly. To get its new card out to the masses, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="87994588">Bank of America</related-article> mailed 60,000 already activated credit cards to customers in Fresno, California. The mass mailing, however, resulted in widespread fraud and delinquencies as the cards fell into the wrong hands and ended up costing Bank of America millions of dollars.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Overview</title>
+               <p>The use of credit cards has continued to grow since they were first introduced, especially after the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   xlink:type="simple"
+                                   related-article-type="rs"
+                                   xlink:href="89163657">e-commerce</related-article> boom in the late 1990s and early 2000s, with more than 70 percent of Americans reporting having at least one credit card as of 2014. However, with their rise in popularity has come a rise in credit card fraud, particularly in the United States. According to research from international financial services company Barclays, the United States is responsible for 47 percent of the world's credit card fraud. One of the largest cases of credit card fraud occurred in the United States over several years before eventually being stopped in 2013. The scam involved a group of 18 criminals based in New York who stole a total of $200 million.</p>
+               <p>Credit card fraud can occur in a number of ways. Some of the more prevalent types of fraud include lost or stolen cards, account takeover, counterfeit cards, fraudulent application, and e-commerce fraud. Lost or stolen credit cards made up 14 percent of all credit card fraud in 2014, with counterfeit cards making up another 37 percent. The most common type of credit card fraud has become online or e-commerce fraud, where a criminal does not necessarily need the physical card to make an illegal purchase. Criminals can hack into the personal account of the cardholder or access the credit card information by way of a data breach, and then use that information to make fraudulent purchases.</p>
+               <p>As of 2017, companies were taking steps to reduce credit card fraud. E-commerce sites were becoming more secure through encryption in an effort to thwart potential hackers. The United States was also beginning to implement a global standard called EMV (Europay, Mastercard, Visa) to fight credit card fraud. EMV requires credit cards to have a computer chip, which authenticates credit card transactions. While implementation of EMV in the United States has been slow, in the United Kingdom, credit card fraud has decreased 70 percent between 2005 and 2013 because of the technology.</p>
+               <p>Consumers can take steps to protect themselves against credit card fraud. For starters, they should make sure they are shopping with a reputable business. If they are shopping online, they should make sure the site is secure. Web browsers often put a padlock icon next to the address of a secure website. To protect against credit card fraud if their wallet is stolen, they should carry credit cards in a different place. When paying in person, consumers should make sure their card is returned to them before leaving a store or restaurant. Consumers should also save their receipts to check against their monthly statements to be sure the purchases are all correct.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Credit card fraud." <italic>MoneyExpert</italic>, 2015, www.moneyexpert.com/credit-cards/credit-card-fraud/ Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Holmes, Tamara E. "Credit card fraud and ID theft statistics." <italic>CreditCards.com</italic>, 16 Sept. 2015, www.creditcards.com/credit-card-news/credit-card-security-id-theft-fraud-statistics-1276.php. Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Protecting against credit card fraud." <italic>Federal Trade Commission</italic>, 2012, www.consumer.ftc.gov/articles/0216-protecting-against-credit-card-fraud Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Scams and Safety: Credit Card Fraud." <italic>Federal Bureau of Investigations</italic>, 2017, www.fbi.gov/investigate/white-collar-crime/identity-theft Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Schmalbruch, Sarah. "The credit card was invented by a man who forgot his wallet at dinner." Businesses Insider, 2 Mar. 2015, www.businessinsider.com/history-of-credit-cards-2015-2 Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Tsosie, Claire. "The History of the Credit Card." <italic>Nerdwallet</italic>, 9 Feb. 2017, www.nerdwallet.com/blog/credit-cards/history-credit-card/ Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"What Is Credit Fraud?" <italic>Experian</italic>, 2017, /www.experian.com/blogs/ask-experian/credit-education/preventing-fraud/what-is-credit-fraud/ Accessed 23 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Wong, Barry. "The 8 Different Types of Card Fraud." <italic>Mastercard</italic>, 28 Oct. 2014, newsroom.mastercard.com/asia-pacific/2014/10/28/8-different-types-card-fraud/ Accessed 23 Oct. 2017.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

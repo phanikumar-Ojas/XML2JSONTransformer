@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rsdiseases</book-id>
+    <book-id pub-id-type="eis-mid">FV1S</book-id>
+    <book-title-group>
+      <book-title>Magill’s Medical Guide (Online Edition)</book-title>
+      <alt-title alt-title-type="mid">FV1S</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>24</day>
+      <month>June</month>
+      <year>2013</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="RSDISEASES.10.3331.32035"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rsdiseases_32035</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="clinicaltrialsubjects">
+            <subject>Children</subject>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Anatomy &amp; Physiology</subject>
+            <subj-group>
+              <subject>Pregnancy &amp; Childbirth</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Diseases, Disorders, &amp; Symptoms</subject>
+            <subj-group>
+              <subject>Birth Defects</subject>
+              <subject>Developmental Disorders</subject>
+              <subject>Genetic Diseases</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Mental Health</subject>
+            <subj-group>
+              <subject>Developmental Disorders</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Social Issues</subject>
+            <subj-group>
+              <subject>Children’s Health</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Specialties &amp; Health Care Providers</subject>
+            <subj-group>
+              <subject>Emergency &amp; Critical Care</subject>
+              <subject>Embryology</subject>
+              <subject>Genetics</subject>
+              <subject>Obstetrics &amp; Gynecology</subject>
+              <subject>Pediatrics</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Perinatology</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>L. Fleming</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Fallon</surname>
+              <x xml:space="preserve">, </x>
+              <suffix>Jr.</suffix>
+            </name>
+            <x xml:space="preserve">, </x>
+            <degrees>MD</degrees>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Practitioners of perinatal medicine include physicians and advanced practice nurses with a specialty in perinatology (neonatal and pediatric nurse practitioners). They then complete additional training specifically related to the perinatal period (defined variously as beginning from twenty to twenty-eight weeks of gestation and ending one to four weeks after birth). The emphasis of perinatology is on a time period rather than on a specific organ system. The principal event of the perinatal period is birth. Prior to delivery, the perinatologist is concerned with the physiological status and well-being of both mother and fetus. Immediately after delivery, the perinatologist strives to maximize the newborn’s chances for survival.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>The branch of medicine dealing with the fetus and infant during the perinatal period<?oxy_delete author="agroff" timestamp="20130909T134920-0400" content=" (from the twenty-eighth week of gestation to the twenty-eighth day after birth)"?><?oxy_delete author="agroff" timestamp="20130903T135122-0400" content="."?></p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/MMG06_18281351716</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <?oxy_insert_start author="agroff" timestamp="20130909T134101-0400"?>
+          <p>
+            <bold>
+              <sc>Also known as:</sc>
+            </bold> Maternal-fetal medicine</p>
+          <?oxy_insert_end?>
+          <p>
+            <sc>
+              <bold>Anatomy or system affected:</bold>
+            </sc> All</p>
+          <p>
+            <sc>
+              <bold>Definition:</bold>
+            </sc> The branch of medicine dealing with the fetus and infant during the perinatal period<?oxy_delete author="agroff" timestamp="20130903T135125-0400" content=" (from the twenty-eighth week of gestation to the twenty-eighth day after birth)."?></p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Science and Profession</title>
+          <p>
+                  
+                  Practitioners of perinatal medicine include physicians and advanced practice nurses with a specialty in perinatology (neonatal and <xref ref-type="glossary" id="mmg06.gloss.2601">pediatric</xref> nurse practitioners). They then complete additional training specifically related to the perinatal period<?oxy_insert_start author="agroff" timestamp="20130909T134957-0400"?> (defined variously as beginning from twenty to twenty-eight weeks of gestation and ending one to four weeks after birth)<?oxy_insert_end?>. The emphasis of perinatology is on a time period rather than on a specific organ system. The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89550434"
+                             xlink:type="simple">principal</related-article> event of the perinatal period is birth. Prior to delivery, the perinatologist is concerned with the <xref ref-type="glossary" id="mmg06.gloss.2673">physiological</xref> status and well-being of both mother and fetus. Immediately after delivery, the perinatologist strives to maximize the newborn’s chances for survival.
+                  
+               </p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Diagnostic and Treatment Techniques</title>
+          <p>Prior to the birth, several diagnostic procedures are commonly employed by the perinatologist: ultrasonography, the measurement of fetal activity, and the evaluation of fetal lung maturity. Ultrasonography uses sound waves to create images. Sound waves are transmitted from a transducer that has been placed on the skin. Waves that are sent into the body reflect off internal tissues and structures, and the reflections are received by a microphone. Sound travels through tissues with different densities at different rates, which are characteristic for each tissue. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89475054"
+                             xlink:type="simple">Computers</related-article> interpret the reflected sounds and convert them into an image that can be viewed. The images must be interpreted or read by someone with specialized training, usually a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89550450"
+                             xlink:type="simple">radiologist</related-article>. Ultrasound does not involve <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89475342"
+                             xlink:type="simple">radiation</related-article>; thus it is not harmful to the fetus. Because sound waves are longer than radiation, the image generated is not as clear as that obtained with electromagnetic waves<?oxy_delete author="agroff" timestamp="20130909T150659-0400" content=":"?><?oxy_insert_start author="agroff" timestamp="20130909T150705-0400"?> such as those from<?oxy_insert_end?> a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89250402"
+                             xlink:type="simple">computed tomography</related-article> (CT) scan or a conventional <?oxy_delete author="agroff" timestamp="20130909T150809-0400" content="radiograph"?><?oxy_insert_start author="agroff" timestamp="20130909T150809-0400"?>x-ray<?oxy_insert_end?>.</p>
+          <p>The measurement of fetal activity is important in evaluating fetal health. Fetal movement is normal; the earliest movement felt by the mother is called quickening. The diminution or cessation of fetal movement is indicative of fetal distress
+                  . Accordingly, movement is monitored by reports from the mother, <xref ref-type="glossary" id="mmg06.gloss.2570">palpation</xref> by the clinician, and ultrasound: Mothers report movements, individuals examining pregnant women can apply their hands to the <xref ref-type="glossary" id="mmg06.gloss.1002">abdomen</xref> and feel fetal movements, and <xref ref-type="glossary" id="mmg06.gloss.3227">ultrasonography</xref> can show breathing and other movements in real time using continuous video records of fetal movements.</p>
+          <p>Fetal lung maturity is assessed by measuring the relative amounts of lecithin and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89550655"
+                             xlink:type="simple">sphingomyelin</related-article> in amniotic fluid. The concentration of lecithin increases late in fetal development, while sphingomyelin decreases. A lecithin-sphingomyelin ratio that is greater than two indicates sufficient fetal lung maturity to ensure survival after birth.</p>
+          <p>Labor and delivery are the primary events of the perinatal period. Factors that can lead to difficulties include abnormalities of the 
+                  <xref ref-type="glossary" id="mmg06.gloss.2684">placenta</xref> and prematurity. The placenta can be abnormally located (placenta previa) or can separate prematurely (placenta abruptio). Normally, the placenta is located on the lateral wall of the uterus. Placenta previa is defined as a placenta located in the lower portion of the uterus. The placenta is compressed by the 
+                  <xref ref-type="glossary" id="mmg06.gloss.1786">fetus</xref> during passage through the birth canal. This compression compromises the blood <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89163995"
+                             xlink:type="simple">supply</related-article> to the fetus, which causes <xref ref-type="glossary" id="mmg06.gloss.2156">ischemia</xref> and can lead to <xref ref-type="glossary" id="mmg06.gloss.1289">brain</xref> or other tissue damage or to death. This condition is usually managed by a cesarean section. Placenta abruptio refers to a normal placenta that separates prior
+to fetal delivery. This condition is potentially life-threatening to both mother and fetus; immediate hospitalization is indicated.
+               </p>
+          <p>Prematurity is defined as delivery before the fetus is able to survive without unusual support. Premature infants are placed in incubators. A lack of body fat in the infant leads to difficulty in maintaining a normal body temperature; special heating is provided to offset th<?oxy_delete author="agroff" timestamp="20130909T151153-0400" content="e"?><?oxy_insert_start author="agroff" timestamp="20130909T151154-0400"?>is<?oxy_insert_end?> problem. Lung immaturity may require mechanical assistance from a respirator. An immature <xref ref-type="glossary" id="mmg06.gloss.2077">immune system</xref> makes <xref ref-type="glossary" id="mmg06.gloss.2731">premature</xref> infants especially susceptible to infections; strict isolation precautions and prophylactic <xref ref-type="glossary" id="mmg06.gloss.1126">antibiotic</xref> therapy address this problem.</p>
+          <p>Many factors contribute to increasing the risks normally associated with pregnancy and delivery: maternal size and age; drug, tobacco, or <xref ref-type="glossary" id="mmg06.gloss.1056">alcohol</xref> use; infection; medical conditions such as <xref ref-type="glossary" id="mmg06.gloss.1562">diabetes mellitus</xref> and hypertension; and multiple gestations. A woman with a small pelvic opening may be unable to deliver her child normally; the solution in this case is a cesarean section. The risk of genetic abnormalities increases with advancing maternal (and, to a lesser degree, paternal) age. Counseling prior to <xref ref-type="glossary" id="mmg06.gloss.1454">conception</xref> is indicated. Once an older woman becomes pregnant, <xref ref-type="glossary" id="mmg06.gloss.1087">amniotic fluid</xref> should be obtained to test for genetic abnormalities. The degree of surveillance is dependent on maternal age: The recommended frequency of medical checks increases for older women.</p>
+          <p>Alcohol intake during <xref ref-type="glossary" id="mmg06.gloss.2730">pregnancy</xref> can result in an infant who is <?oxy_delete author="agroff" timestamp="20130909T151359-0400" content="both "?>developmentally disabled<?oxy_delete author="agroff" timestamp="20130909T151402-0400" content=" and mentally retarded"?>; smoking during pregnancy frequently leads to an infant with a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89550602"
+                             xlink:type="simple">low birth weight</related-article>. Drug usage during pregnancy can lead to anatomic or mental impairment. Avoiding the use of all substances is the easiest way to eliminate problems completely; any drug should be used only under the guidance of a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89550419"
+                             xlink:type="simple">physician</related-article>. Some viral infections such as German <xref ref-type="glossary" id="mmg06.gloss.2297">measles</xref> (rubella) early in pregnancy can cause birth defects. Immunization prior to conception will avoid these problems.</p>
+          <p>Diabetes mellitus can cause abnormally large intrauterine growth and babies (frequently more than 10 pounds and referred to as macrosomic) who are too large for normal delivery. Diabetes that commonly develops during pregnancy is called gestational diabetes. Medical monitoring to detect diabetes early is prudent. Appropriate medical management of preexisting diabetes minimizes problems associated with pregnancy. A macrosomic infant must be delivered with a cesarean section. Hypertension can also develop during pregnancy. Like diabetes, it can compromise both mother and fetus. Appropriate and aggressive medical management, sometimes including complete bed rest, is needed to control high <xref ref-type="glossary" id="mmg06.gloss.1271">blood pressure</xref> during pregnancy. Multiple gestations<?oxy_insert_start author="agroff" timestamp="20130909T151556-0400"?> (such as twins or triplets)<?oxy_insert_end?>
+            <xref ref-type="glossary" id="mmg06.gloss.3054">strain</xref> the supply of maternal <xref ref-type="glossary" id="mmg06.gloss.2477">nutrients</xref> to the developing fetuses. Because space is limited, multiple fetuses are usually smaller than normal at birth.</p>
+          <p><?oxy_delete author="agroff" timestamp="20130909T152536-0400" content="Erythroblastosis fetalis"?><?oxy_insert_start author="agroff" timestamp="20130909T152536-0400"?>Rhesus disease<?oxy_insert_end?>, also known as Rh incompatibility, can complicate pregnancy. It can occur only <?oxy_insert_start author="agroff" timestamp="20130909T152813-0400"?>in the child of a father whose blood type is <?oxy_insert_end?><?oxy_delete author="agroff" timestamp="20130909T152853-0400" content="with an "?>Rh-positive <?oxy_delete author="agroff" timestamp="20130909T152904-0400" content="father "?>and <?oxy_delete author="agroff" timestamp="20130909T152907-0400" content="an "?><?oxy_insert_start author="agroff" timestamp="20130909T152907-0400"?>a mother whose blood type is <?oxy_insert_end?>Rh-negative<?oxy_delete author="agroff" timestamp="20130909T152913-0400" content=" mother"?>, and it affects the blood supply of a fetus. The treatment includes the identification of both maternal and paternal blood types and the administration of <?oxy_delete author="agroff" timestamp="20130909T153157-0400" content="pooled gamma "?><?oxy_insert_start author="agroff" timestamp="20130909T153157-0400"?>Rho(D) immune <?oxy_insert_end?>globulin to the mother at twenty-six weeks of <xref ref-type="glossary" id="mmg06.gloss.1881">gestation</xref> and again immediately after birth. An affected infant may require blood transfusions; in a severe case, transfusions may be needed during pregnancy.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Perspective and Prospects</title>
+          <p>Management of a pregnancy requires specialized skills. As the number of <xref ref-type="glossary" id="mmg06.gloss.2887">risk factors</xref> related to either mother or fetus increases, the problems associated with pregnancy also increase. The care of a pregnant woman and her fetus requires input from many individuals with specialized training. Consequently, perinatology is very much a team effort. Together, the team members can ensure a safe journey through the perinatal period for a pregnant woman and a healthy transition to life outside the womb for a newborn infant.
+               </p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bradford, Nikki. <italic>Your Premature Baby: The First Five Years</italic>. Toronto, Ont.: Firefly Books, 2003. <?oxy_delete author="agroff" timestamp="20130904T145643-0400" content="Guides the logistics of care for premature infants from birth into the preschool years and sets expectations for hospital care by describing hospital terms, procedures, treatments, and equipment."?></citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Creasy, Robert K., and Robert Resnik, eds. <italic>Maternal-Fetal Medicine: Principles and Practice</italic>. 5th ed. Philadelphia: W. B. Saunders, 2004. <?oxy_delete author="agroff" timestamp="20130904T145648-0400" content="This standard textbook covers the perinatal period in great depth. The chapters are written by experts. A layperson will probably require a dictionary to understand the technical terminology completely."?></citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Cunningham, F. Gary, et al., eds. <italic>Williams Obstetrics</italic>. 23d ed. New York: McGraw-Hill, 2010. <?oxy_delete author="agroff" timestamp="20130904T145714-0400" content="This standard textbook in obstetrics would complement a similar text in gynecology. Provides wide coverage of events related to pregnancy and childbirth. A well-written text for the serious reader who wants in-depth information."?></citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Martin, Richard J., Avroy A. Fanaroff, and Michele C. Walsh, eds. <italic>Fanaroff and Martin’s Neonatal-Perinatal Medicine: Diseases of the Fetus and Infant</italic>. 2 vols. <?oxy_delete author="agroff" timestamp="20130904T155219-0400" content="8"?><?oxy_insert_start author="agroff" timestamp="20130904T155219-0400"?>9<?oxy_insert_end?>th ed. Philadelphia: Mosby/Elsevier, 20<?oxy_insert_start author="agroff" timestamp="20130904T155224-0400"?>11<?oxy_insert_end?><?oxy_delete author="agroff" timestamp="20130904T155225-0400" content="06"?>. <?oxy_delete author="agroff" timestamp="20130904T150029-0400" content="This classic reference work is one of the most comprehensive to date and features discussions on the diverse practice of neonatal-perinatal medicine, pregnancy disorders and their impact on the fetus, delivery room care, provisions for neonatal care, and the development and disorders of organ systems."?></citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Moore, Keith L., and T. V. N. Persaud. <italic>The Developing Human</italic>. <?oxy_delete author="agroff" timestamp="20130904T155255-0400" content="8"?><?oxy_insert_start author="agroff" timestamp="20130904T155255-0400"?>9<?oxy_insert_end?>th ed. Philadelphia: Saunders/Elsevier, 20<?oxy_insert_start author="agroff" timestamp="20130904T155258-0400"?>13<?oxy_insert_end?><?oxy_delete author="agroff" timestamp="20130904T155259-0400" content="08"?>. <?oxy_delete author="agroff" timestamp="20130904T150036-0400" content="An outstanding textbook on human embryonic development, with specific information about the causes of congenital malformations and common defects occurring in each of the body’s systems."?></citation>
+            </ref>
+            <?oxy_insert_start author="agroff" timestamp="20130909T153625-0400"?>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">"Pregnancy and Perinatology Branch (PPB)." <italic>National Institute of Child Health and Human Development</italic>, November 30, 2012.</citation>
+            </ref>
+            <?oxy_insert_end?>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ruhlman, Michael. <italic>Walk on Water: Inside an Elite Pediatric Surgery Unit</italic>. New York: Viking-Penguin, 2003. <?oxy_delete author="agroff" timestamp="20130904T150043-0400" content="A fascinating foray into life in a pediatric heart center—Cleveland Clinic—specializing in neonatal open-heart surgery, focusing on the daily experiences of world-renowned surgeon Roger Mee."?></citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Sadler, T. W. <italic>Langman’s Medical Embryology</italic>. 1<?oxy_insert_start author="agroff" timestamp="20130904T155405-0400"?>2<?oxy_insert_end?><?oxy_delete author="agroff" timestamp="20130904T155405-0400" content="1"?>th ed. Philadelphia: Lippincott Williams &amp; Wilkins, 20<?oxy_insert_start author="agroff" timestamp="20130904T155411-0400"?>12<?oxy_insert_end?><?oxy_delete author="agroff" timestamp="20130904T155412-0400" content="09"?>. <?oxy_delete author="agroff" timestamp="20130904T150049-0400" content="Text that covers the fundamentals of embryology, with a chapter devoted to birth defects."?></citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Perinatology</article-title>
+                <italic>Magill’s Medical Guide, Sixth Edition</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Tracy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Irons-Georges</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Brandon P.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Brown</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>H. Bradford</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Hawley</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Margaret Trexler</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Hessen</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Nancy A.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Piotrowski</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Clair</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Kaplan</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Claire L.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Standon</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Judy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Mouchawar</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Paul</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Moglia</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <year>2010</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

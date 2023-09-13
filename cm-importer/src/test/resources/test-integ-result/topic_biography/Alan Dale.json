@@ -1,0 +1,186 @@
+{
+	"entry": {
+		"title": "Alan Dale",
+		"tags": [
+			"ER",
+			"The X-Files"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Alan Hugh Dale"
+				}
+			],
+			"type": "doc",
+			"uid": "4d895400-cdc6-4758-82b2-4a259555d320"
+		},
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 6,
+		"birth_month": "May",
+		"birth_year": 1947,
+		"non_numeric_birth_date": "May 6, 1947",
+		"place_of_birth": "Dunedin, New Zealand",
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Principal Works: Film"
+						}
+					],
+					"type": "h1",
+					"uid": "30a58ed7-1094-4b36-b484-bc09a81a43e8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"text": " "
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Star Trek: Nemesis",
+											"italic": true
+										},
+										{
+											"text": " (2002)"
+										}
+									],
+									"type": "p",
+									"uid": "3edb7bdc-89c5-4220-9a3d-8f4887708d5e",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "083e6a28-4cf6-4934-bde5-aef0259d3b90",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Indiana Jones and the Kingdom of Crystal Skull",
+											"italic": true
+										},
+										{
+											"text": " (2008)"
+										}
+									],
+									"type": "p",
+									"uid": "6d60a3e3-a323-46ef-8845-52d6a0a542ce",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "9ac67086-7a07-492f-ba98-66b82f3341db",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "The Girl with the Dragon Tattoo",
+											"italic": true
+										},
+										{
+											"text": " (2011)"
+										}
+									],
+									"type": "p",
+									"uid": "7bffafe4-8608-46b9-9f07-0356854d3880",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "9b7816af-6563-4c88-9c7c-26f989f6b0fd",
+							"attrs": {
+								
+							}
+						},
+						{
+							"children": [
+								{
+									"children": [
+										{
+											"text": "Captain America: The Winter Soldier",
+											"italic": true
+										},
+										{
+											"text": " (2014)"
+										}
+									],
+									"type": "p",
+									"uid": "d04eee83-c3c9-43fd-abab-e1e4ccfaca94",
+									"attrs": {
+										
+									}
+								}
+							],
+							"type": "li",
+							"uid": "69c71b28-89dd-4c52-9a06-481a806965be",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "ul",
+					"uid": "86df59e5-ece5-422c-aa27-1e1f98eaa6e4",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "ac33de50-aa8f-4744-aaaa-2a46d61c5991"
+		},
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": null
+	}
+}

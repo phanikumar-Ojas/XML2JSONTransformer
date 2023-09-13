@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">glaa_rs</book-id>
+    <book-id pub-id-type="eis-mid">G985</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">G985</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="revised">
+      <day>30</day>
+      <month>April</month>
+      <year>2019</year>
+    </pub-date>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>28</day>
+      <month>June</month>
+      <year>2013</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="GLAA_RS.10.3331.64186"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">glaa_rs_64186</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>American History</subject>
+            <subj-group>
+              <subject>African American History</subject>
+              <subject>US History 1951-present</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Popular Culture, Trends, Fads</subject>
+            <subj-group>
+              <subject>Popular Culture, Trends, Fads</subject>
+              <subject>Music, Musicians, Singers</subject>
+              <subject>Dance, Dancers, Dancing</subject>
+              <subject>Acting, Actors, Performers</subject>
+              <subject>Television, Radio, Broadcasting</subject>
+              <subject>Films, Movies, Motion Pictures</subject>
+              <subject>African Americans, Blacks</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Arts</subject>
+            <subj-group>
+              <subject>Artists, Artisans, the Arts</subject>
+              <subject>Composers, Songwriters</subject>
+              <subject>Music, Musicians, Singers</subject>
+              <subject>Dance, Dancers, Dancing</subject>
+              <subject>Acting, Actors, Performers</subject>
+              <subject>Television, Radio, Broadcasting</subject>
+              <subject>Films, Movies, Motion Pictures</subject>
+              <subject>African Americans, Blacks</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>North America</subject>
+            <subj-group>
+              <subject>North America</subject>
+              <subject>United States</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Michael Jackson</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Kassundra</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Miller</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN0390900"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Singer, actor, and entertainer. Michael Joseph Jackson was born August 29, 1958, to Katherine and Joseph Jackson in Gary, Indiana. Jackson’s parents were devout Jehovah’s Witnesses with an affinity for music. In 1964, Joseph decided that his sons Jackie, Tito, Jermaine, Marlon, and Michael (excluding Randy, who was only three years old) would form a musical group. He managed the group and booked them in clubs and local arenas throughout the Midwest. After being discovered by Gladys Knight during an amateur competition at the Apollo Theater in Harlem, the Jackson Five signed a recording contract with Motown Records in 1968.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Jackson paved the way for many modern recording artists. He was a musical pioneer who set records for best-selling albums and concert tours, awards, and charitable contributions. He was dubbed the King of Pop because his work could not be compared to that of any other artist.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>0390900-Michael Jackson</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Root AN</meta-name>
+            <meta-value>51932110</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>DocHistoryAN</meta-name>
+            <meta-value>51932110</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/GLAA_142151932110</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>Singer, actor, and entertainer</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="36698172" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>August 29, 1958</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Gary, Indiana</p>
+            </list-item>
+            <list-item>
+              <label>Died: </label>
+              <p>June 25, 2009</p>
+            </list-item>
+            <list-item>
+              <label>Place of death: </label>
+              <p>Los Angeles, California</p>
+            </list-item>
+          </list>
+          <p>
+            <italic>Jackson paved the way for many modern recording artists. He was a musical pioneer who set records for best-selling albums and concert tours, awards, and charitable contributions. He was dubbed the King of Pop because his work could not be compared to that of any other artist.</italic>
+          </p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>Michael Joseph Jackson was born August 29, 1958, to Katherine and Joseph Jackson in Gary, Indiana. Jackson’s parents were devout <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322784"
+                             xlink:type="simple">Jehovah’s Witnesses</related-article> with an affinity for music. In 1964, Joseph decided that his sons Jackie, Tito, Jermaine, Marlon, and Michael (excluding Randy, who was only three years old) would form a musical group. He managed the group and booked them in clubs and local arenas throughout the Midwest. After being discovered by Gladys Knight during an amateur competition at the Apollo Theater in Harlem, the Jackson Five signed a recording contract with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96397508"
+                             xlink:type="simple">Motown Records</related-article> in 1968. </p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Michael Jackson (1988)</title>
+              <p>Michael Jackson with two fans at the Kahala Hilton Hotel. Photograph by Alan Light, early February 1988</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="89098600-60001.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>photo by Alan Light [CC-BY-2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>The group moved to <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88112623"
+                             xlink:type="simple">California</related-article>. There, they stayed at the homes of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89408323"
+                             xlink:type="simple">Diana Ross</related-article> and Motown founder <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="93787668"
+                             xlink:type="simple">Berry Gordy Jr</related-article>. Gordy predicted the Jackson Five would have three consecutive number-one singles and they immediately did just that.</p>
+          <p>In November 1969, the Jackson Five’s first single, “I Want You Back,” was released. The single went to number one and sold two million copies in six weeks. “ABC,” the group’s second single, released in March 1970, achieved similar sales in only three weeks. The Jacksons’ third single, “The Love You Save,” fulfilled Gordy’s prediction: It was their third straight number-one hit. By the time the fourth single, “I’ll Be There,” was released, it was clear that the Jackson Five was making history. Other record companies began to groom young singing families. The Jackson Five toured the United States, living a sheltered life because of their early fame. Wherever the Jackson Five went, mobs of screaming girls would follow. Jackson, as the youngest of the group, was the one most affected by the loss of his childhood.</p>
+          <p>At Gordy’s request, Jackson recorded his first solo single, “Got to Be There,” in 1971. That same year, the animated television show 
+                  <italic>The Jackson Five</italic> debuted on Saturday mornings; it was on the air for two years. In 1972, the Jackson Five embarked on its first overseas tour, bringing Randy along as the bongo player. In the next two years, the Jacksons released three albums: <italic>Skywriter</italic> (1973), <italic>G.I.T.: Get It Together</italic> (1973), and <italic>Dancing Machine</italic> (1974). In 1974, the Jackson Five performed the song “Dancing Machine” on the popular rhythm-and-blues dance show 
+                  <italic>Soul Train</italic>. During that performance, Jackson did a street-style dance move called the Robot and started a nationwide craze. That year, problems with Motown developed when members of the Jackson Five told Gordy that they wanted to write and produce their own music. Their request was refused and derided. Jackson and his brothers disliked the music they were forced to sing but remained with the label long enough to record two more albums. The Jackson Five left Motown in 1976.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Life’s Work</title>
+          <p>After leaving Motown, the Jackson Five signed with record label Epic, which gave the brothers more creative freedom to write and produce their songs. Jermaine Jackson stayed at Motown as a solo recording artist and was replaced by Randy in the group, which changed its name to the Jacksons. Over the next four years, the brothers released four albums: <italic>The Jacksons</italic> (1976), <italic>Goin’ Places</italic> (1977), <italic>Destiny</italic> (1978), and <italic>Triumph</italic> (1980). Between recordings, Michael began filming his part as the Scarecrow in 
+                  <italic>The Wiz</italic> (1978) and met 
+                  
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89406660"
+                             xlink:type="simple">Quincy Jones</related-article>, who arranged the film’s musical score. Jackson revealed to Jones his interest in recording a solo album, and Jones offered to produce it.</p>
+          <p>In 1979, at the age of twenty-one, Jackson released his first collaborative album with Jones, <italic>Off the Wall</italic>. This collaboration achieved four Top 10 singles, a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89143626"
+                             xlink:type="simple">Grammy Award</related-article> for Best R&amp;B Vocal Performance, and three American Music Awards. Jackson was displeased with his lack of Grammy nominations and vowed to top himself with his next album. In 1982, Jackson’s long-awaited follow-up album, <italic>
+              <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                               related-article-type="rs"
+                               xlink:href="89316385"
+                               xlink:type="simple">Thriller</related-article>
+            </italic>, was released. <italic>Thriller</italic> made Jackson the most successful artist of the 1980s. It stayed at the top of <italic>Billboard</italic>’s sales charts for thirty-seven weeks, sold 110 million copies worldwide, and earned Jackson a record-breaking eight Grammys, including Album of the Year. In 1983, Jackson was persuaded to perform on the television special <italic>Motown 25: Yesterday, Today, Forever</italic>, marking the record label’s twenty-fifth anniversary. Organizers wanted the Jackson Five to reunite, but Jackson agreed to participate only if he could perform “Billie Jean,” the only song in the program that was not a Motown production. That performance further elevated Jackson’s fame. In 1984, all six Jackson brothers recorded the album <italic>Victory</italic> and went on tour. Jackson planned to devote some time that year to working on film ideas, but was diverted by a serious accident during the filming of a Pepsi commercial that left him with second-degree burns to his scalp. Jackson received a $1.5 million settlement from Pepsi and donated it to the Brotman Medical Center in Culver City, California. The facility named its burn center in his honor.</p>
+          <p>After his recovery, Jackson filmed a three-dimensional attraction for Disney theme parks called 
+                  <italic>Captain EO</italic> (1986), directed by 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89404531"
+                             xlink:type="simple">Francis Ford Coppola</related-article>; cowrote and produced the charity single “We Are the World” with Jones and 
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89408439"
+                             xlink:type="simple">Lionel Richie</related-article>; and recorded another solo album, 
+                  <italic>Bad</italic> (1987), which sold thirty million copies worldwide. His <italic>Bad</italic> tour broke a Guinness world record when 504,000 people attended seven sold-out shows at Wembley Stadium in London. Jackson performed 123 concerts before audiences totalling 4.4 million people, and set another Guinness world record for tour grosses, with $125 million.</p>
+          <p>In March 1988, Jackson purchased a $17 million estate in Santa Barbara County, California, and named it Neverland Ranch. In 1991, Jackson renewed his contract with Sony Records (the parent company of Epic Records) for a record $65 million and released his eighth solo album, <italic>Dangerous</italic>. In 1992, Jackson established the Heal the World Foundation, a charity that aimed to improve the condition of all mankind. Also in 1992, Jackson began his <italic>Dangerous</italic> international tour, in which he performed sixty-seven concerts for a total of 3.5 million viewers. Millions of dollars in profits from the tour went to his Heal the World Foundation.</p>
+          <p>The following year, 1993, Jackson was accused of molesting a thirteen-year-old boy who frequently visited him at Neverland. Jackson and the accuser’s family settled out of court. Jackson married Lisa Marie Presley, the daughter of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88829506"
+                             xlink:type="simple">Elvis Presley</related-article>, in 1994, but the two divorced in 1996. Later that year, Jackson married his pregnant nurse, Debbie Rowe. Jackson and Rowe’s first child, Prince Michael Jackson Jr., was born in 1997. That year, Jackson’s ninth album, <italic>Blood on the Dance Floor: HIStory in the Mix</italic>, a compilation of remixes of songs from <italic>HIStory</italic> (1995), was released. Jackson’s second child, Paris Michael Katherine Jackson, was born in 1998. In 1999, Jackson and Rowe divorced; Rowe granted Jackson full custody of their children.</p>
+          <p>The 2000 edition of <italic>The Guinness Book of World Records</italic> names Jackson as record holder for the Most Charities Supported by a Pop Star, at approximately forty organizations. <italic>Invincible</italic>, Jackson’s tenth album, was released in October 2001. In 2003, Jackson faced child molestation accusations from another thirteen-year-old boy and his family. Criminal charges were filed in Santa Barbara County and the case went to trial in January 2005. Jackson was acquitted five months later.</p>
+          <p>After years of rumors of a comeback tour, in March 2009, Jackson held a press conference and announced he would perform a series of concerts at London’s O2 Arena. Ten concerts were initially scheduled, but the number increased to fifty after record-breaking ticket sales. On June 25, 2009, less than three weeks before the initial show, dubbed <italic>This Is It</italic>, Jackson died suddenly of cardiac arrest. After being treated by paramedics at his rented home, he was <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="114324911"
+                             xlink:type="simple">pronounced dead</related-article> at Ronald Reagan Medical Center at the University of California at Los Angeles. Jackson was buried on September 3, 2009. On February 8, 2010, Jackson’s personal physician, Conrad Murray, was charged with involuntary manslaughter in the singer’s death. Murray was accused of administering the anesthetic propofol, in addition to other medications, to Jackson, who reportedly suffered from insomnia. His trial began in September 2011, and by November, he had been convicted and sentenced to four years in prison; however, he was released in 2013 after having served two years of the sentence.</p>
+          <p>While, according to reports, Jackson had been in a substantial amount of debt by the time of his death, his estate was able to pay off the debt in subsequent years due to various posthumous ventures and profits. Meanwhile, speculation about whether Jackson had engaged in acts of child <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="115297566"
+                             xlink:type="simple">sexual abuse</related-article> continued even after his death and were made especially prominent once more with the release of the documentary <italic>Leaving Neverland</italic> in 2019. After premiering at the Sundance Film Festival in January, it premiered on HBO in March, reaching a wide audience and serving as a source of discussion, often pertaining to Jackson's legacy, in the media. In the documentary, two men provide details pertaining to claims that Jackson subjected them to several instances of sexual abuse as children.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Significance</title>
+          <p>Jackson’s talent, showmanship, and creativity made him a singular entertainer. He was a trendsetter and international icon, as well as a recognized humanitarian for his promotion of civil rights and environmental causes. Posthumously, he continued to be a top-selling artist. The film <italic>This Is It</italic>, released in October of 2009, documents Jackson’s rehearsals for his <italic>This Is It</italic> concerts. The film, which debuted at number one at the box office, showcases Jackson’s artistry and work ethic, and the timeless appeal of his music. In further appreciation of his work, a touring <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89112501"
+                             xlink:type="simple">Cirque du Soliel</related-article> show premiered in October 2011 and ran through September 2014, and in 2013, Cirque du Soleil began a resident show, titled <italic>Michael Jackson: One</italic>, in Las Vegas.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bennett, Joy T. “Michael Jackson: Then and Now.” <italic>Ebony</italic>, vol. 63, no. 2, 2007, pp. 80–90. Twenty-five years after the release of his classic <italic>Thriller</italic> album, Jackson shared a rare glimpse into his creative process and upcoming projects.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="journal"
+                        xlink:type="simple">Blistein, Jon. "How 'Leaving Neverland' Has—and Hasn't—Changed Michael Jackson's Legacy." <italic>Rolling Stone</italic>, 18 Mar. 2019, www.rollingstone.com/music/music-news/michael-jackson-legacy-leaving-neverland-fallout-808813/. Accessed 4 Apr. 2019.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Grant, Adrian. <italic>Michael Jackson: A Visual Documentary, 1958-2009: The Official Tribute Edition</italic>. Omnibus Press, 2009. Presents a comprehensive time line of Jackson’s life events, concerts, awards, recordings, and appearances. Includes hundreds of photographs.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Jackson, Michael. “An Ebony Interview: Michael Jackson in His Own Words.” Interview by Bryan Monroe. <italic>Ebony</italic>, vol. 63, no. 2, 2007, pp. 94–109. Jackson discusses <italic>Thriller</italic>, MTV’s lack of African American videos, and fatherhood.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Jackson, Michael. <italic>Moonwalk</italic>. 1988. Reprint. Harmony Books, 2009. Jackson’s only autobiography, illustrated with rare photographs from family albums and the singer’s personal archives.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Taraborelli, J. Randy. <italic>Michael Jackson: The Magic, the Madness, the Whole Story, 1958-2009</italic>. Grand Central, 2009. With more than thirty years of research and exclusive interviews, this book traces the story of Jackson’s life.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Michael Jackson</article-title>
+                <italic>Great Lives from History: African Americans</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Carl L.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Bankston</surname>
+                    <x xml:space="preserve"> </x>
+                    <suffix>III</suffix>
+                  </name>
+                </person-group>
+                <year>2011</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

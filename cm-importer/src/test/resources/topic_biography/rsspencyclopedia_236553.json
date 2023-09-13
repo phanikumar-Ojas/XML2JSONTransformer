@@ -1,0 +1,168 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"mock brstCategory",
+			"anime",
+			"manga",
+			"sculptures"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "alternate name"
+				}
+			],
+			"type": "doc",
+			"uid": "86863f2f-2666-48f2-8e84-7590cac28590"
+		},
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 1,
+		"birth_month": "February",
+		"birth_year": 1962,
+		"non_numeric_birth_date": "February 1, 1962",
+		"place_of_birth": "Place of birth: Japan",
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": [
+			"Artist"
+		],
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Principal Works"
+						}
+					],
+					"type": "h1",
+					"uid": "56e67af8-fff6-4284-96d9-382a6f7b0d73",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Miss Ko2",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": ", (1997)"
+						}
+					],
+					"type": "p",
+					"uid": "81cc0470-73bf-4721-b04d-ebd260c96773",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hiropon",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": ", 1997"
+						}
+					],
+					"type": "p",
+					"uid": "733e1d9a-9f53-4003-95e4-db744d2a66cf",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "My Lonesome",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": "Cowboy",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": ", 1998"
+						}
+					],
+					"type": "p",
+					"uid": "77ebfd14-af6b-4ce3-8966-5f7e51fb31ac",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Cosmos Ball",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": ", 2000"
+						}
+					],
+					"type": "p",
+					"uid": "328adbac-b790-4785-ba32-dd11dc5c0326",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The 500 Arhats",
+							"bold": true,
+							"italic": true
+						},
+						{
+							"text": ", 2011"
+						}
+					],
+					"type": "p",
+					"uid": "5de1129a-3f04-46bd-8c84-2f64285c61b0",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "231f6508-269e-44e2-8946-9f2e716aa4e5"
+		},
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": null
+	}
+}

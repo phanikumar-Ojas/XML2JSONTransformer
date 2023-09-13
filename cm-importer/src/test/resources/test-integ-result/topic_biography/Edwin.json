@@ -1,0 +1,65 @@
+{
+	"entry": {
+		"title": "Edwin",
+		"tags": [
+			"Biography",
+			"Western Civilization/European History",
+			"Ancient History",
+			"Government, Politics",
+			"Military History"
+		],
+		"category": [
+			"Government, Politics",
+			"Military History"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": "Edwin",
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Generals, Military Officers, Soldiers",
+			"Kings, Queens, Kingdoms, Monarchy"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": [
+			"British History"
+		],
+		"curriculum_western_civilization_european_history": [
+			"Medieval History/Middle Ages",
+			"British History"
+		],
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": null,
+		"birth_month": null,
+		"birth_year": null,
+		"non_numeric_birth_date": "Sixth century",
+		"place_of_birth": "Northern England",
+		"death_day": 12,
+		"death_month": "October",
+		"death_year": 632,
+		"non_numeric_death_date": "October 12, 0632",
+		"place_of_death": "Hatfield Chase, England",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3145130-Edwin"
+		]
+	}
+}

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="2.3" xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">asa_rs</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Health</book-title>
+      <alt-title alt-title-type="mid">GY3L</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>9</day>
+      <month>November</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>29</day>
+      <month>September</month>
+      <year>2014</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>9</day>
+      <month>November</month>
+      <year>2022</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part id="ASA_RS.10.3331.139645" indexed="true" book-part-type="chapter" xlink:type="simple" xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">asa_rs_139645</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="subject">
+            <subject>Diseases, Disorders, &amp; Symptoms</subject>
+            <subj-group>
+              <subject>Health, Medicine, Disease, Illness</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Marijuana</title>
+        </title-group>
+        <contrib-group>
+          <contrib contrib-type="author" xlink:type="simple">
+            <name name-style="western">
+              <given-names>Christopher M.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Aanstoos</surname>
+            </name>
+            <x xml:space="preserve"> </x>
+            <degrees>PhD</degrees>
+            <x xml:space="preserve"/>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Marijuana is the world’s most widely used and oldest illegal drug. Archeological evidence dates its cultivation to 8,000 BCE in China, where its fibers were used to make textiles and later paper. (The type of marijuana used for such purposes is more fibrous and is called hemp.) Beginning in the first century BCE, marijuana also was used for its psychoactive effects. Marijuana also then began to be used for medicinal purposes, a use that has pervaded its history and is a significant feature of its contemporary status.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Marijuana consists of the dried, shredded leaves and flowers of the hemp plant <italic>Cannabis sativa</italic>. Its psychoactive effects derive from a substance in the resin of the plant, called delta-9-tetraydrocannabinol (also known as THC).</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/ASA_0173</meta-value>
+          </custom-meta>
+          <custom-meta xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>511</meta-value>
+          </custom-meta>
+          <custom-meta xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <sc>
+              <bold>Category</bold>
+            </sc>: Substances</p>
+          <p>
+            <sc>
+              <bold>Also known as</bold>
+            </sc>: Cannabis; dope; ganja; grass; hashish; hemp; mary jane; pot; smoke; weed</p>
+          <p>
+            <sc>
+              <bold>Definition</bold>
+            </sc>: Marijuana consists of the dried, shredded leaves and flowers of hemp plants in the genus <italic>
+              <related-article related-article-type="rs" xlink:href="93787413" xlink:type="simple">Cannabis</related-article>
+            </italic>, especially <italic>Cannabis sativa</italic>. Its psychoactive effects derive from a substance in the resin of the plant, called delta-9-tetraydrocannabinol (also known as THC).</p>
+          <p>
+            <sc>
+              <bold>Status</bold>
+            </sc>: Illegal in the United States under federal law, but legalized or decriminalized to varying degrees in certain states. Illegal or restricted in most other countries.</p>
+          <p>
+            <sc>
+              <bold>Classification</bold>
+            </sc>: Schedule I <related-article related-article-type="rs" xlink:href="94415370" xlink:type="simple">controlled substance</related-article>
+          </p>
+          <p>
+            <sc>
+              <bold>Source</bold>
+            </sc>: <italic>Cannabis sativa</italic> is a hardy annual that grows wild in almost every climactic region and condition. In hot, dry climates, the plant produces much more of the resin containing THC, the active ingredient of marijuana.</p>
+          <p>
+            <sc>
+              <bold>Transmission route</bold>
+            </sc>: Ingested nasally by smoking; ingested orally</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>History of Use</title>
+          <p>Marijuana is the world’s most widely used and oldest illegal drug. Archeological evidence dates its cultivation to 8,000 BCE in China, where its fibers were used to make textiles and later paper. (The type of marijuana used for such purposes is more fibrous and is called <related-article
+              related-article-type="rs" xlink:href="89474712" xlink:type="simple"
+              >hemp</related-article>.) Beginning in the first century BCE, marijuana also was used for its psychoactive effects. Marijuana also then began to be used for <related-article
+              related-article-type="rs" xlink:href="94415462" xlink:type="simple"
+              >medicinal purposes</related-article>, a use that has pervaded its history and is a significant feature of its contemporary status.</p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <p>Federal narcotics agents with over 400 lbs of Marijuana</p>
+            </caption>
+            <ext-link xlink:href="89407075-94170.jpg" ext-link-type="db-image" xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Library of Congress</copyright-statement>
+            </permissions>
+          </fig>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>Bodily effects of cannabis</title>
+              <p>Main short-term somatic (bodily) effects of cannabis.</p>
+            </caption>
+            <ext-link xlink:href="89407075-94162.jpg" ext-link-type="db-image" xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>By Mikael Häggström (All used images are in public domain.) [Public domain], via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>In India, the psychoactive effects of marijuana were known at least since the second millennium BCE. The <related-article
+              related-article-type="rs" xlink:href="96411731" xlink:type="simple"
+              >Vedas</related-article> state it was originally given by the god Shiva because it “releases us from anxiety.” Marijuana also was an important aspect of the practice of Tantric sex. The Persians, the Scythians, and especially the Arabs, also used marijuana for its psychoactive effects, but most cultures familiar with the plant knew it only for the quality of its fibers for rope and clothing.</p>
+          <p>Throughout European history, the economic value of marijuana continued to be its prevailing use, though medieval magicians, witches, and sorcerers used it for its psychoactive powers. Mainstream Europeans learned of such effects only when, in the seventeenth and eighteenth centuries, they colonized Asia, particularly India. By the nineteenth century, marijuana was used by leading artists and writers, especially in France and most famously at the Paris Hashish Club.</p>
+          <p>In the United States, interest in marijuana’s psychoactive properties increased in the mid-nineteenth century, especially with the 1857 publication of Fitz Hugh Ludlow’s <italic>The Hasheesh Eater</italic>. Popular magazines and books included stories of its use, and marijuana was available at local pharmacies. By the end of that century, some of the most prominent psychologists in the United States also studied the drug through personal use. Even so, by the twentieth century, marijuana was largely limited to upper-class intellectuals. Most Americans did not know anything about marijuana; their drugs of choice were <related-article
+              related-article-type="rs" xlink:href="89407626" xlink:type="simple"
+              >opium</related-article>, morphine, <related-article related-article-type="rs"
+              xlink:href="87321536" xlink:type="simple">cocaine</related-article>, and alcohol.</p>
+          <p>Racism against Chinese immigrants seen as taking jobs from Americans, combined with a desire to build commercial interests in China, led the US Congress to pass the Harrison Act in 1914, which imposed recordkeeping and taxation requirements on the sale of opium. Morphine and cocaine, other previously popular narcotic drugs, which by this time had come to be seen as having problematic addictive properties, also were included in this bill. Marijuana was included as well, simply because it was considered another narcotic, though it had no similar reputation for addiction. Five years later, the adoption of the <related-article
+              related-article-type="rs" xlink:href="87323512" xlink:type="simple"
+              >Eighteenth Amendment</related-article> to the US Constitution prohibited alcohol and began an era in which federal power had authority over matters of morality, cast in the light of the intensifying class warfare of the age as minorities and the working class fought for labor rights.</p>
+          <p>Marijuana was primarily used by Mexican immigrants in the Western United States, immigrants who had been welcomed for the inexpensive labor they supplied. They were then blamed for job losses as agribusiness reduced farm workforces during the 1910s and 1920s. During those decades every Western state passed laws to make marijuana illegal. Its criminalization was supported by alleged links between marijuana use and laziness, promiscuity, mental illness, and violence, all of which were based on the apparently greater incidence of such symptoms in the minority populations who tended to use marijuana.</p>
+          <p>As the Great Depression accelerated job losses during the 1930s, the rhetoric of violence-prone minorities fueled by marijuana next targeted African Americans in major cities. Led by Harry Anslinger, the director of the new Federal Bureau of Narcotics, public advocacy for marijuana’s criminalization as a “killer weed” convinced Congress in 1937 to prohibit its possession with the <related-article
+              related-article-type="rs" xlink:href="89129488" xlink:type="simple"
+              >Marijuana Tax Act</related-article>. Subsequent legislation, in 1951 and 1956, increased penalties.</p>
+          <p>In the 1960s, marijuana use increased dramatically and became the focus of the intense controversy that has continued to structure the national debate into the present. Marijuana, used especially by college-age youth disaffected by the dominant culture, became an expression of the youth rebellion of the times for those on both sides of that cultural divide. US president Richard M. Nixon’s <related-article
+              related-article-type="rs" xlink:href="94415583" xlink:type="simple"
+              >War on Drugs</related-article> was his attempt to curtail the rebellion. As middle-class youths became subject to arrest and incarceration, the justification for marijuana’s criminalization came into question. Even as strictures against its use were increased in 1968 and 1970, presidential commissions in 1962, 1963, 1967, and 1972 concluded that the claims against marijuana were exaggerated or false.</p>
+          <p>Trends in marijuana use continued at high levels despite mandatory penalties. Statistics for twelfth graders who have used marijuana show a peak of more than 60 percent by the late 1970s, declining to a low just under 40 percent in the early 1990s and a subsequent uneven rise. As research into the medical benefits of marijuana use, several US states began to allow medical cannabis use, beginning with California in 1996. A World Health Organization (WHO) survey in 2008 found that 42 percent of the US population, more than 100 million people, had used marijuana at least once, the highest rate in WHO’s seventeen-country study. In 2009, the National Institute on Drug Abuse reported that 28.5 million Americans age twelve years and older had used marijuana at least once in the year prior. That same year, US attorney general Eric Holder announced that the federal government would adopt new guidelines tolerating medicinal use of marijuana according to states' regulations, though the drug remained federally illegal.</p>
+          <p>In the 2010s, marijuana use in the United States increased, along with support for legalization of the drug. By October 2015 twenty-five states and the District of Columbia had legalized medical marijuana, and a 2015 poll by the Pew Research Center found that 53 percent of Americans supported fully <related-article
+              related-article-type="rs" xlink:href="89158240" xlink:type="simple"
+              >legalizing cannabis</related-article>. Additionally, in 2012 Colorado and Washington became the first states to legalize recreational use of marijuana; Alaska and Oregon followed, while others took steps to <related-article
+              related-article-type="rs" xlink:href="89138923" xlink:type="simple"
+              >decriminalize marijuana possession</related-article>. A 2021 Gallup poll found that 49 percent of Americans admitted to having tried marijuana at some point in their lives, while 12 percent claimed they currently used the drug—an increase from 7 percent in 2013. Younger Americans were found more likely to be current users.</p>
+          <p> By 2022, thirty-seven states, Washington, DC, Guam, Puerto Rico, the Northern Mariana Islands, and the US Virgin Islands had legalized medical marijuana use; twenty-seven states and Washington, DC, had decriminalized small amounts of marijuana; and twenty-one states, two territories, and Washington, DC, had legalized small amounts of marijuana for recreational use for adults. (Maryland and Missouri voted to legalize recreational marijuana in the 2022 general election, while North Dakota, South Dakota, and Arkansas voted against legalization.) In October 2022, President <related-article
+              related-article-type="rs" xlink:href="89404061"
+            >Joe Biden</related-article> announced that he was issuing a pardon for all of those who had been federally convicted of simple marijuana possession and called upon the attorney general to begin reviewing marijuana's classification as a Schedule I substance.</p>
+          <p>Worldwide, marijuana legalization remained controversial. In 2013, Uruguay became the first nation to legalize growing, selling, and consuming marijuana, although with strict regulations, followed by Canada in 2018. Mexico legalized possessing, consuming, and growing marijuana upon obtaining a permit in 2021, although buying it and selling it remained illegal. Other countries where Marijuana is allowed by law (under varying circumstances) include Malta, South Africa, Thailand, and the Netherlands (where it is famously allowed in certain coffee shops). Many other nations have legalized medical marijuana throughout the twenty-first century.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Effects and Potential Risks</title>
+          <p>Marijuana is a mild intoxicant, with aspects of both a <related-article related-article-type="rs" xlink:href="94415555" xlink:type="simple">stimulant</related-article> and a tranquilizer. When smoked, the effects of marijuana begin in minutes and can last for a couple of hours; the maximum intensity occurs within the first hour. These effects, colloquially known as getting high, vary considerably according to the potency, the dosage, the setting, and the person’s experience and attitude.</p>
+          <p>Positive short-term experiential effects include feelings of light-hearted well-being and euphoria; increased sensory sensitivity and appreciation; and greater awareness, creativity, insight, and sense of humor. Negative effects include difficulty with concentration, short-term memory, and motor performance skills; and feeling anxious, tense, socially awkward, and paranoid. At high dosages, new users may experience disorientation and panic, which account for most of the emergency room visits associated with marijuana use.</p>
+          <p>Longer-term experiential effects are more speculative. Many users report that insights remained significant and even life-changing. Negative effects also have been proposed, including amotivational syndrome and an increased tendency to later use other, more dangerous drugs (the “<related-article related-article-type="rs" xlink:href="94415421" xlink:type="simple">gateway drug</related-article>” theory). These claims continue to be asserted but have failed to withstand rigorous research, which has repeatedly disproved them.</p>
+          <p>Short-term physical effects include dilated blood vessels and increased heart rate. No damaging effects on the body have been found from occasional use of marijuana. Several such effects have been asserted, most prominently chromosomal damage, lung damage, brain damage, and depressed immune response. None of these claims has withstood further scrutiny.</p>
+          <p>Research findings on long term effects of heavy marijuana use are highly varied. First, some studies have found a correlation with psychotic or affective mental health outcomes. Whether this correlational link implicates a causal one is hotly debated, but the possibility persists that marijuana use may exacerbate preexisting mental disorders. Second, marijuana smoke contains a number of <related-article related-article-type="rs" xlink:href="94461905" xlink:type="simple">carcinogens</related-article> that can be irritants to the lungs. Third, studies on animals also indicate that the cannabinoids in marijuana may accumulate on the brain for days afterward, and it is assumed that larger and more frequent use would result in a longer period of such accumulation.</p>
+          <p>Marijuana does not cause physical dependence and so has almost no addictive potential, though claims to the contrary are asserted on the basis of long-term usage patterns. Psychological dependence has been reported, but detailed studies are lacking. Withdrawal symptoms are rare, but after prolonged heavy use may include general unease, insomnia, lethargy, boredom, a reduced experience of pleasure, and a desire to continue use. Based on studies of acute toxicity in animals, it has been determined that a lethal dose of marijuana would be roughly five thousand times a normal dose, impossible to ingest by the usual means. No human deaths directly from marijuana use have been documented.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+<ref>
+              <citation xlink:type="simple">Avery, Dan. "Marijuana Laws in All 50 States: Where Is Weed Legal after Election Day?" <italic>CNET</italic>, 9 Nov. 2022, www.cnet.com/news/politics/marijuana-laws-by-state-is-weed-legal-where-you-live/. Accessed 9 Nov. 2022.</citation>
+            </ref>            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Booth, Martin. <italic>Cannabis: A History</italic>. New York: Macmillan, 2005. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">“Deglamorizing Cannabis (Editorial).” <italic>The Lancet</italic> 346 (1995). Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Earleywine, Mitch. <italic>Understanding Marijuana</italic>. New York: Oxford UP, 2002. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Grinspoon, Lester. <italic>Marijuana Reconsidered</italic>. 2<sup>nd</sup> ed. San Francisco: Quick American Archives, 1994. Print.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Iverson, Lester. <italic>The Science of Marijuana</italic>. 2<sup>nd</sup> ed. New York: Oxford UP, 2008. Print.</citation>
+            </ref>
+            <ref>
+              <citation xlink:type="simple">Jones, Jefferey M. "Nearly Half of U.S. Adults Have Tried Marijuana." <italic>Gallup</italic>, 17 Aug. 2021, news.gallup.com/poll/353645/nearly-half-adults-tried-marijuana.aspx. Accessed 18 Jul. 2022.</citation>
+            </ref><ref>
+              <citation xlink:type="simple">Liptak, Kevin. "Biden Pardons All Federal Offenses of Simple Marijuana Possession in First Major Steps Towards Decriminalization." <italic>CNN</italic>, 6 Oct. 2022, www.cnn.com/2022/10/06/politics/marijuana-decriminalization-white-house-joe-biden/index.html. Accessed 9 Nov. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xlink:type="simple">"Marijuana Overview." <italic>National Conference of State Legislatures</italic>, 8 Apr. 2021, www.ncsl.org/research/civil-and-criminal-justice/marijuana-overview.aspx. Accessed 27 May. 2021.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="website" xlink:type="simple">McCarthy, Justin. "More Than Four in 10 Americans Say They Have Tried Marijuana." <italic>Gallup</italic>. Gallup, 22 July 2015. Web. 2 Nov. 2015.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="website" xlink:type="simple">Motel, Seth. "6 Facts About Marijuana." <italic>Pew Research Center</italic>. Pew Research Center, 14 Apr. 2015. Web. 2 Nov. 2015.</citation>
+            </ref>
+            <ref>
+              <citation xlink:type="simple">"State Medical Marijuana Laws." <italic>National Conference of State Legislatures</italic>, 17 May 2021,www.ncsl.org/research/health/state-medical-marijuana-laws.aspx. Accessed 13 Dec. 2018.</citation>
+            </ref>
+            <ref>
+              <citation citation-type="booksimple" xlink:type="simple">Zimmer, Lynn, and John Morgan. <italic>Marijuana Myths, Marijuana Facts</italic>. New York: Lindesmith Center, 1997. Print.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Websites of Interest</title>
+          <p>
+            <italic>Drug Policy Alliance</italic>
+          </p>
+          <p>
+            <ext-link ext-link-type="uri" xlink:href="http://www.drugpolicy.org" xlink:show="new" xlink:type="simple">http://www.drugpolicy.org</ext-link>
+          </p>
+          <p>
+            <italic>International Centre for Science in Drug Policy</italic>
+          </p>
+          <p>
+            <ext-link ext-link-type="uri" xlink:href="http://www.icsdp.org" xlink:show="new" xlink:type="simple">http://www.icsdp.org</ext-link>
+          </p>
+          <p>
+            <italic>MedlinePlus: Marijuana</italic>
+          </p>
+          <p>
+            <ext-link ext-link-type="uri" xlink:href="http://www.nlm.nih.gov/medlineplus/marijuana.html" xlink:show="new" xlink:type="simple">http://www.nlm.nih.gov/medlineplus/marijuana.html</ext-link>
+          </p>
+          <p>
+            <italic>National Institute on Drug Abuse</italic>
+          </p>
+          <p>
+            <ext-link ext-link-type="uri" xlink:href="http://www.drugabuse.gov" xlink:show="new" xlink:type="simple">http://www.drugabuse.gov</ext-link>
+          </p>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

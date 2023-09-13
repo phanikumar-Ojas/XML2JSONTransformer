@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ge20_rs</book-id>
+      <book-id pub-id-type="eis-mid">G97F</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">G97F</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>2</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GE20_RS.10.3331.54845"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ge20_rs_54845</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>World History</subject>
+                  <subj-group>
+                     <subject>Asian History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Royalty, Rulers, Nobility</subject>
+                  <subj-group>
+                     <subject>Royalty, Rulers, Nobility</subject>
+                     <subject>Emperors, Caesars, Khans</subject>
+                     <subject>Empires, Dynasties</subject>
+                     <subject>Politicians, Diplomats</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Government, Politics</subject>
+                  <subj-group>
+                     <subject>Government, Politics</subject>
+                     <subject>Politicians, Diplomats</subject>
+                     <subject>Royalty, Rulers, Nobility</subject>
+                     <subject>Emperors, Caesars, Khans</subject>
+                     <subject>Empires, Dynasties</subject>
+                     <subject>Social Issues, Reform</subject>
+                     <subject>Democracy</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Social Issues, Reform</subject>
+                  <subj-group>
+                     <subject>Social Issues, Reform</subject>
+                     <subject>Civil Rights, Minority Rights, Minorities</subject>
+                     <subject>Democracy</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Asia</subject>
+                  <subj-group>
+                     <subject>Asia</subject>
+                     <subject>China</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>China Allows Some Western Reforms</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Eugene</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Larson</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>In the early 1900’s, China’s Qing (Ch’ing) government initiated a series of political, economic, and social reforms in order to modernize the nation and preserve the ruling dynasty. The reform program was only reluctantly embraced by Dowager Empress Cixi, the dominant figure at court, and other Qing officials, and was a reaction to a century of disasters. In the Opium War of the 1840’s, China had been forced to open its ports to Great Britain and then to other foreign nations; it also had to grant extraterritoriality to foreigners. Beijing was captured and the Summer Palace destroyed by British and French troops in the 1860’s. Millions died during the Taiping Rebellion, which almost brought down the regime in the 1850’s. In the period 1894-1895, China was defeated by Japan, which resulted in the loss of Taiwan, and by the late 1890’s, Germany, Britain, France, Japan, and Russia had carved out “spheres of influence” in China.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Beginning in 1901, Dowager Empress Cixi authorized a series of reforms intended to modernize China and preserve the Qing Dynasty.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GE20a_1008</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <bold>
+                     <sc>Date</sc>
+                  </bold> 1901-1911</p>
+               <p>
+                  <italic>Beginning in 1901, Dowager Empress Cixi authorized a series of reforms intended to modernize China and preserve the Qing Dynasty.</italic>
+               </p>
+               <p>
+                  <bold>
+                     <sc>Locale</sc>
+                  </bold> Beijing, China</p>
+            </sec>
+            <sec sec-type="keyterm" indexed="true">
+               <title>Key Figures</title>
+               <def-list>
+                  <def-item>
+                     <term>
+                        <italic>Cixi</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1835-1908), dowager empress of China, r. 1861-1908</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Guangxu</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (Kuang-Hsü; 1871-1908), Chinese emperor, r. 1875-1908</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Zhang Zhidong</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (Chang Chih-tung; 1837-1909), viceroy of Liangjiang and minister of military affairs</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Liu Kunyi</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (Liu K’un-i; 1830-1902), major government adviser after the Taiping Rebellion</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Puyi</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (P’u-i; 1906-1967), imperial China’s last emperor, r. 1908-1912</p>
+                     </def>
+                  </def-item>
+               </def-list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Summary of Event</title>
+               <p>In the early 1900’s, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391056"
+                                   xlink:type="simple">China</related-article>’s Qing (Ch’ing) government initiated a series of political, economic, and social reforms in order to modernize the nation and preserve the ruling dynasty. The reform program was only reluctantly embraced by Dowager Empress Cixi, the dominant figure at court, and other Qing officials, and was a reaction to a century of disasters. In the Opium War of the 1840’s, China had been forced to open its ports to Great Britain and then to other foreign nations; it also had to grant extraterritoriality to foreigners. Beijing was captured and the Summer Palace destroyed by British and French troops in the 1860’s. Millions died during the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87325105"
+                                   xlink:type="simple">Taiping Rebellion</related-article>, which almost brought down the regime in the 1850’s. In the period 1894-1895, China was defeated by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391105"
+                                   xlink:type="simple">Japan</related-article>, which resulted in the loss of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391196"
+                                   xlink:type="simple">Taiwan</related-article>, and by the late 1890’s, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391086"
+                                   xlink:type="simple">Germany</related-article>, Britain, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391083"
+                                   xlink:type="simple">France</related-article>, Japan, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391167"
+                                   xlink:type="simple">Russia</related-article> had carved out “spheres of influence” in China.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               </p>
+               <p>Although the Qing had been ruling China since the seventeenth century, many Han Chinese opposed the Qing because of its foreign origins. Other Chinese traveled and studied abroad, comparing backward China with more modernized nations, and some, such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87325562"
+                                   xlink:type="simple">Yan Fu</related-article>, translated into Chinese such Western works as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88364771"
+                                   xlink:type="simple">Adam Smith</related-article>’s <italic>The Wealth of Nations</italic> (1776) and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807236"
+                                   xlink:type="simple">John Stuart Mill</related-article>’s <italic>On Liberty</italic> (1859). Some Chinese, including <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807262"
+                                   xlink:type="simple">Kang Youwei</related-article>, a leading advocate of earlier abortive reforms, were harshly critical of the reactionary Qing government. Sun Yixian (<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88802205"
+                                   xlink:type="simple">Sun Yat-sen</related-article>) had established the Hsing-chung Hui (Revive China Society), which sought to replace the Qing (also called the Manchus) with a republican form of government.</p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <p>Dowager Empress Cixi.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="89314123-49249.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>(Library of Congress)</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>Previous reform efforts had responded to the challenges facing a weakened and weakening China. In the 1870’s, the government launched a “self-strengthening” movement, which was an attempt to reform the military, improve the communications system, and further industrialization, but it was not strong enough to change China’s conservative Confucian society. In the aftermath of China’s defeat in the First <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160906"
+                                   xlink:type="simple">Sino-Japanese War</related-article> (1894-1895), in 1898 Emperor Guangxu gave his support to reforming China’s educational system, the military, and the bureaucracy, but Cixi had several of the reformers arrested and executed, and removed the emperor, her nephew, from any real power. The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160445"
+                                   xlink:type="simple">Boxer Rebellion</related-article>
+                   of 1900, in which foreigners, including Christian missionaries, were persecuted, led to another Chinese defeat and the payment of a huge monetary indemnity. As foreign troops were capturing Beijing, Cixi and Guangxu had fled west to Xi’an (Sian). They returned only in January, 1902.</p>
+               <p>Cixi, always the dominating figure, accepted the necessity of reform and modernization, but only within certain assumed parameters. She insisted that the Manchu/<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87325689"
+                                   xlink:type="simple">Qing Dynasty</related-article> be preserved and that all reforms must come from and be implemented and controlled by the central government. She also ordered senior bureaucrats to suggest ideas for reform, and so <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807549"
+                                   xlink:type="simple">Zhang Zhidong</related-article> and Liu Kunyi put forth a series of reforms under the rubric of the “new policies.” Fundamental changes in the educational system were at the center: Primary and middle schools were to be established throughout China, with a Western curriculum based in part upon recent Japanese educational reforms. Graduates would take the traditional civil service examination, which encompassed the writings of Confucius and the other ancient sages. It was not successful, because the modern curriculum was too challenging and most students chose the traditional schools. The unanticipated result was that in 1905 Cixi abolished the classical examination system, which had been in existence for almost two millennia. If education and its subject matter subsequently became more relevant to the modern industrialized urban world, they also lost the moral center of gravity that Confucianism had so long provided.</p>
+               <p>After China’s defeat in the Sino-Japanese War, the need for military reforms was obvious. The first steps were taken in 1901 in the creation of the new national and modern army in which the officers adopted Western-style khaki uniforms instead of traditional Chinese dress, but Manchus held most of the high-level positions. Independently from any government decisions, other urban and professional segments of the population were also adopting Western clothes and customs. A number of professional organizations in banking, law, education, and other venues, such as chambers of commerce, were also established. Government reformers and bureaucrats planned to subject these organizations to government control and regulation, and they issued a commercial code to this effect. At the same time, a ministry of commerce was established and placed in charge of construction of a new railroad.</p>
+               <p>The Qing government was also forced to accept the concept of constitutionalism. Mere administrative reform established through despotism, however enlightened and well-intentioned, was insufficient to modernize China. Many Chinese viewed any autocratic government as unacceptable. Japan, with its new <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88390980"
+                                   xlink:type="simple">constitutional monarchy</related-article>, had mobilized the power of the nation, defeating China and then Russia in 1904-1905. In late 1905, the Chinese government dispatched two delegations to study foreign governments and their constitutions. They visited Britain, France, Germany, Japan, and the United States, and in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="87575342"
+                                   xlink:type="simple">the fall</related-article> of 1906, Dowager Empress Cixi promised political reforms, inspired mainly by the successful Meiji reforms in Japan, that would lead to the creation of a constitutional <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88390988"
+                                   xlink:type="simple">monarchy</related-article>.</p>
+               <p>Cixi’s constitutional reforms, however, initially envisioned only an advisory popular assembly rather than a legislative body with independent authority, a measure that satisfied few. In August of 1908, she announced a nine-year program that would eventually result in the establishment of constitutional self-government and the convening of a national parliament in 1917. First, she ordered the creation of provincial assemblies, which first met in 1909 with only consultative powers. Their electors were required to meet educational and property qualifications that would eliminate the vast majority of citizens from participation: One study has estimated that only 0.4 percent of the Chinese population qualified to vote. In addition, if the government desired to modernize by centralizing power in Beijing, there were countervailing tendencies that encouraged reform on the provincial and local levels. As urbanization increased during the nineteenth century, particularly in the coastal treaty ports, many of the rural gentry, the traditional elite, had migrated to the growing cities, where new elites were also emerging. There they attempted to expand their economic possibilities and became active in politics. As a result, they were less inclined to give automatic allegiance to the Qing.</p>
+               <p>Several long-standing imperial Chinese traditions were also waning in the early twentieth century. The queue, the Manchu custom of males shaving their foreheads and braiding the remaining hair in the back, had been imposed upon the native Chinese as a symbol of Chinese inferiority when the Qing Dynasty was established in the 1640’s. By the early twentieth century, many young male Chinese were cutting off their queues, in part because of the influence of Western customs but also as an act of nationalist rebellion against the foreign Qing rule. Long before the arrival of the Manchus, it had been customary to bind the feet of young Chinese women, supposedly to make them more attractive but also to establish the superior position of Chinese males. Manchu women did not customarily bind their feet, and amid all the other changes taking place, foot binding was outlawed in 1911. Finally, in 1902, laws forbidding <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551385"
+                                   xlink:type="simple">intermarriage</related-article> between Manchus and the Han Chinese majority were rescinded.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>The Qing government’s attempts at reform and modernization in the early twentieth century were a classic example of too little, too late. Many endeavors were underfunded, and some of the administrative and educational reforms created new dissatisfied and impatient elites rather than supporters of the dynasty and government. Cixi died in November, 1908, a day after the death of the reigning (but not ruling) Emperor Guangxu. Cixi had <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="87575317"
+                                   xlink:type="simple">chosen</related-article> her three-year-old grandnephew, Puyi, as the new emperor. With his conservative father as regent, Puyi ruled for three years. In October, 1911, a rebellion broke out in China’s new army, and Puyi, the Qing Dynasty, and imperial China were quickly pushed aside. A <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88390992"
+                                   xlink:type="simple">republic</related-article> was proclaimed, but the 1911 revolution was only a partial revolution, and the new republican government faced many of the same challenges that brought down the Qing.
+                  
+               </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Cameron, Meribeth. <italic>The Reform Movement in China, 1898-1912</italic>. New York: AMS Press, 1974. First published in 1931, the work is a comprehensive study of the reform era under Cixi.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Fairbank, John King, and Merle Goldman. <italic>China: A New History</italic>. Rev. ed. Cambridge, Mass.: Harvard University Press, 1998. One of the most respected histories of China, with an excellent discussion of the post-Boxer Rebellion reforms.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Laidler, Keith. <italic>The Last Empress</italic>. New York: John Wiley &amp; Sons, 2003. A well-written biography of Cixi that discusses her responses to reform demands.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Paludan, Ann. <italic>Chronicles of the Chinese Emperors</italic>. New York: Thames and Hudson, 1998. Includes a discussion of Cixi and Emperor Guangxu.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Spence, Jonathan D. <italic>The Search for Modern China</italic>. New York: W. W. Norton, 1990. Includes a descriptive analysis of Cixi’s reforms by one of the preeminent historians of modern China.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>China Allows Some Western Reforms</article-title>
+                        <italic>Great Events from History: The Twentieth Century, 1901-1940</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Robert F.</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Gorman</surname>
+                           </name>
+                        </person-group>
+                        <year>2007</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

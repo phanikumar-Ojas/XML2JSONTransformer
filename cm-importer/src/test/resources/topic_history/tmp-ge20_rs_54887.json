@@ -1,0 +1,58 @@
+{
+	"entry": {
+		"title": "Mock Title Topic History",
+		"tags": [
+			"History/Event",
+			"World History",
+			"Medicine, Health",
+			"Social Issues, Reform",
+			"Women’s Issues",
+			"Australia and Oceania",
+			"mock brstCategory",
+			"New Zealand",
+			"water",
+			"Dunedin, New Zealand",
+			"five hundred",
+			"Japan",
+			"home visits"
+		],
+		"category": [
+			"Medicine, Health",
+			"Social Issues, Reform",
+			"Women’s Issues"
+		],
+		"date": "May 14, 1907",
+		"location": "Dunedin, New Zealand",
+		"quotes": null,
+		"secondary_category": [
+			"Doctors, Nurses, Medical Professionals",
+			"Children",
+			"Organizations, Agencies, Institutions",
+			"Family, Marriage"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": [
+			"Australian/New Zealand History"
+		],
+		"geographical_category": [
+			"Australia and Oceania"
+		],
+		"sub_geographical_category": [
+			"New Zealand"
+		],
+		"geo_keyword": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Royal New Zealand Society for the Health of Women and Children"
+				}
+			],
+			"type": "doc",
+			"uid": "132e0c43-b500-4f77-984c-0eeb7f414379"
+		},
+		"defining_moment": null
+	}
+}

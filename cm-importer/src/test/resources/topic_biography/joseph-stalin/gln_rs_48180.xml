@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">gln_rs</book-id>
+    <book-id pub-id-type="eis-mid">G97W</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">G97W</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>8</day>
+      <month>July</month>
+      <year>2013</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>31</day>
+      <month>March</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="GLN_RS.10.3331.48180"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">gln_rs_48180</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Western Civilization/European History</subject>
+            <subj-group>
+              <subject>20th &amp; 21st Century European History</subject>
+              <subject>Russian/Former Soviet States History</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Government, Politics</subject>
+            <subj-group>
+              <subject>Government, Politics</subject>
+              <subject>Politicians, Diplomats</subject>
+              <subject>Communism, Communists</subject>
+              <subject>Dictatorships, Dictators, Tyrants</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>Europe</subject>
+            <subj-group>
+              <subject>Europe</subject>
+              <subject>Russia</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geo-keyword">
+            <subject>Soviet Union</subject>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Joseph Stalin</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Thomas E.</given-names>
+              <x xml:space="preserve">
+</x>
+              <surname>Rotnem</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN3200490"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Soviet dictator (1922–1953). Joseph Stalin was born Joseph Vissarionovich Dzhugashvili. Most Soviet sources on Stalin list his birth date as December 21, 1879; however, Stalin lied about his age. He was actually born on December 18, 1878. He was the only son of a poor cobbler, Vissarion Dzhugashvili. Joseph’s mother, Yekaterina, worked as a domestic servant in order to enable young Joseph to attend the Tiflis Orthodox Theological Seminary. Though receiving high marks, he had by 1898 entered the growing revolutionary movement in the Russian Empire and was expelled from the seminary forthwith.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>As the communist dictator of the Soviet Union, General Secretary Stalin was responsible for creating a totalitarian political system and repressing or liquidating millions of people.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>3200490-Joseph Stalin</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/GLN_1555</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>Soviet dictator (1922–1953)</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="36732421" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>December 18, 1878</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Gori, Georgia, Russian Empire</p>
+            </list-item>
+            <list-item>
+              <label>Died: </label>
+              <p>March 5, 1953</p>
+            </list-item>
+            <list-item>
+              <label>Place of death: </label>
+              <p>Kuntsevo, Soviet Union</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>
+              <sc>Cause of notoriety:</sc>
+            </bold> As the communist dictator of the Soviet Union, General Secretary Stalin was responsible for creating a totalitarian political system and repressing or liquidating millions of people.</p>
+          <p>
+            <bold>
+              <sc>Active:</sc>
+            </bold> 1922–1953</p>
+          <p>
+            <bold>
+              <sc>Locale:</sc>
+            </bold> Soviet Union</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>Joseph Stalin was born Joseph Vissarionovich Dzhugashvili. Most Soviet sources on Stalin list his birth date as December 21, 1879; however, Stalin lied about his age. He was actually born on December 18, 1878. He was the only son of a poor cobbler, Vissarion Dzhugashvili. Joseph’s mother, Yekaterina, worked as a domestic servant in order to enable young Joseph to attend the Tiflis Orthodox Theological Seminary. Though receiving high marks, he had by 1898 entered the growing revolutionary movement in the Russian Empire and was expelled from the seminary forthwith. </p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <p>Full portrait of Stalin,  seated</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="89098894-59734.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Library of Congress</copyright-statement>
+            </permissions>
+          </fig>
+          <p>As a vocal supporter of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88802246"
+                             xlink:type="simple">Vladimir Lenin</related-article>’s Bolsheviks, the young Dzhugashvili organized strikes and engaged in a train robbery in the Caucasus region of the Russian Empire. Caught on numerous occasions for taking part in such acts, he was exiled or imprisoned by czarist authorities on an intermittent basis between 1902 and 1917. During one of these exiles, Dzhugashvili adopted the name Stalin (in Russian, “man of steel”) as his nom de guerre, rejecting a previous pseudonym, Koba.</p>
+          <p>It was also during this period that Stalin’s first wife, Ketevan Svanidze, died from tuberculosis. They had married in 1905; Stalin was extremely distressed by his wife’s untimely death in 1907. At her funeral, he reportedly confided to a friend that with her death his “last warm feelings for all human beings” died as well. Later events would certainly prove this correct.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Political Career</title>
+          <p>In 1917, Stalin returned to Petrograd (now St. Petersburg) from exile and played a significant role in the planning of the coming communist revolution. From 1917 to 1922, he directed the nationalities policy for the newly installed <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87325661"
+                             xlink:type="simple">Bolshevik</related-article> government led by Lenin. In 1922 Stalin was elected general secretary of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87994614"
+                             xlink:type="simple">Communist Party</related-article>, at Lenin’s behest. Though it was initially thought to be an unimportant post, Stalin deftly used his new powers to appoint loyal subordinates to positions of power and to undermine his rivals. Before his death in 1924, Lenin wrote in his political testament that Stalin (whom Lenin thought to be crude and capricious) had amassed great powers as general secretary, and the ailing Soviet leader pushed for Stalin’s removal. After Lenin’s death, Stalin’s rivals failed to act on Lenin’s advice; instead, Stalin remained in his position and strengthened his hold on power.</p>
+          <p>To gain an unassailable position, Stalin undermined his leading rivals in the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87996913"
+                             xlink:type="simple">Politburo</related-article>, the principal policy-making body of the Communist Party. Beginning with a theoretical attack against the extremist policies of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89098907"
+                             xlink:type="simple">Leon Trotsky</related-article>, Grigory Zinovyev, and Lev Kamenev in the mid-1920s, by 1928 Stalin had these “left deviationists” ejected from their positions and had appropriated their ideological plan for heavy industrialization and the collectivization of agriculture.</p>
+          <p>In the months thereafter, Stalin implemented a policy of full-scale industrialization at breakneck speed. The same year saw the brutal introduction of agricultural collectivization, a policy that pushed millions of peasants onto enormous state or collective farms. Stalin responded to peasant resistance with extraordinary savagery. His security organs, led by the infamous People’s Comissariat for Internal Affairs (NKVD), imprisoned or executed those who were branded enemies of the people, removed entire villages to Siberia or Central Asia, and forced an artificial famine upon the agricultural heartland of the Soviet Union. In the end, at least ten million peasants perished.</p>
+          <p>In 1929, Stalin turned against the remaining members of the Politburo who were opponents of his extremist policies. By 1932, he had totally discredited this “right deviationist” faction led by Nikolay Bukharin, Aleksey Ivanovich Rykov, and Mikhail Tomsky. Shortly thereafter, each was expelled from his position and later shot. The rank and file in party and government apparatuses did not escape similar treatment by Stalin’s henchmen. One further victim of Stalin’s savagery in the early 1930s was his second wife, Nadezhda Alliuyeva. Having gained knowledge of the many barbaric acts committed by her husband against former friends and innocent Soviet citizens alike, she took her own life under suspicious circumstances in late 1932.</p>
+          <p>Thus, by the early 1930s, Stalin had vanquished his leading opponents and obtained almost untrammeled powers. Nevertheless, the suspicious and ruthless leader still believed his position to be vulnerable to opposition. Therefore, after ordering the liquidation of Sergei Kirov, a popular leader of the Leningrad party organization, Stalin used Kirov’s murder as an excuse to annihilate certain unnamed “enemies of the people” who were responsible for the dastardly deed. An enormous <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89316213"
+                             xlink:type="simple">purge of the party, state, and military bureaucracies was unleashed</related-article>. By the time the “Great Purges” had ended in 1939, Stalin’s NKVD had liquidated more than one million party members, as well as thirty-five thousand high-ranking military officers. While these actions certainly cemented Stalin’s control of the state, they also negatively affected the functioning of the government and military in the early months of World War II.</p>
+          <p>After recovering from the trauma caused by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89098790"
+                             xlink:type="simple">Adolf Hitler</related-article>’s invasion in June, 1941, General Secretary Stalin added three more titles to his name: supreme commander in chief of Soviet armed forces, state defense committee chairman, and generalissimo. As such, Stalin led the Soviet people through the following four years of war, misery, and want. By war’s end, the Soviet people had suffered more than twenty-seven million casualties. In the aftermath of such hardship and deprivation, many Soviet citizens believed the excesses of the Stalinist regime would subside.</p>
+          <p>Instead, their hopes were dashed as the cruel tyrant demanded both further sacrifices and greater devotion from his people. Real or imagined opposition continued to be extinguished with brutal savagery. Moreover, Stalin’s cult of personality grew ever grander, as sycophantic lackeys praised the increasingly senile tyrant, granting him numerous honorific titles, even renaming entire cities after him. However, such conduct did not diminish the paranoid suspicions of the autocrat; to be sure, by late 1952 Stalin was laying the foundation for yet another purge of leading party and government officials. Only his death from a cerebral hemorrhage on March 5, 1953, spared the country from further bloodshed.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Impact</title>
+          <p>Joseph Stalin’s long reign as the unassailable leader of the Soviet Union witnessed many significant transformations. While Stalin’s regime had by 1953 created an industrialized country and military superpower from a largely agrarian and vulnerable state, the economic, developmental, and physical costs of these revolutionary changes were enormous. Stalin’s perfection of the totalitarian political regime produced the world’s largest system of concentration camps, whose victims numbered in the millions. Millions more perished as a result of Stalin’s ruinous, tumultuous drive toward heavy industrialization and collectivization of agriculture. In many ways, the legacies of Stalin’s reign continue to constrain political and economic transformation in the postcommunist world even today, more than fifty years after the tyrant’s demise.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Gellately, Robert. <italic>Stalin's Curse: Battling for Communism in War and Cold War</italic>. New York: Knopf, 2013. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Knight, Amy. <italic>Who Killed Kirov? The Kremlin’s Greatest Mystery</italic>. New York: Hill, 1999. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Service, Robert. <italic>Stalin: A Biography</italic>. Cambridge: Harvard UP, 2004. Print.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Viola, Lynne. <italic>Peasant Rebels Under Stalin: Collectivization and the Culture of Peasant Resistance</italic>. New York: Oxford UP, 1996. Print.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Joseph Stalin</article-title>
+                <italic>Great Lives from History: Notorious Lives</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Carl L.</given-names>
+                    <x xml:space="preserve">
+</x>
+                    <surname>Bankston III</surname>
+                  </name>
+                </person-group>
+                <year>2007</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

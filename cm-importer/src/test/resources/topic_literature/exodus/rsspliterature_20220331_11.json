@@ -1,0 +1,30 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Literature",
+		"tags": [
+			"mock brstCategory",
+			"Moses",
+			"Old Testament",
+			"New Testament’s",
+			"Jesus Christ",
+			"Genesis",
+			"God",
+			"covenant",
+			"Passover",
+			"Ten Commandments",
+			"Tabernacle",
+			"Hebrew"
+		],
+		"category": null,
+		"theme": null,
+		"movement": null,
+		"primary_genres": null,
+		"subgenres": null,
+		"geo_locale": null,
+		"geo_keyword": null,
+		"literture_curriculum": null,
+		"bio_reference_id": null,
+		"top_reference_id": null,
+		"xref_id": null
+	}
+}

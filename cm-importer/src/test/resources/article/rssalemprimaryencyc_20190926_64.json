@@ -1,0 +1,578 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "1c18a96c-7f62-44ca-a264-e6ef316a4a4e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Books "
+						}
+					],
+					"type": "h1",
+					"uid": "12fe3202-788c-43f9-8d58-679f1115288c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Everett, Walter and Tim Riley. "
+						},
+						{
+							"text": "What Goes On: The Beatles, Their Music, and Their Time",
+							"italic": true
+						},
+						{
+							"text": ". Oxford UP, 2019."
+						}
+					],
+					"type": "p",
+					"uid": "375eae85-c84e-439d-82b2-afce659b8f6b",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Ingham, Chris. "
+						},
+						{
+							"text": "The Rough Guide to The Beatles.",
+							"italic": true
+						},
+						{
+							"text": " 3rd ed. Penguin, 2009."
+						}
+					],
+					"type": "p",
+					"uid": "30d2931d-45d3-4fbb-8cbe-0dec39eecc49",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Roberts, Jeremy. "
+						},
+						{
+							"text": "The Beatles: Music Revolutionaries",
+							"italic": true
+						},
+						{
+							"text": ". Twenty-First Century, 2011."
+						}
+					],
+					"type": "p",
+					"uid": "b28809fd-8349-4324-a770-74c55992b228",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Spitz, Bob. "
+						},
+						{
+							"text": "The Beatles: The Biography",
+							"italic": true
+						},
+						{
+							"text": ". Hachette UK, 2012."
+						}
+					],
+					"type": "p",
+					"uid": "6709202a-8ca9-4f14-bee6-3a2ccdc6a5c6",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Websites "
+						}
+					],
+					"type": "h1",
+					"uid": "59fad7fc-d519-4fea-b8d8-1899f28bf0b9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "“The Beatles: Chart History.” Billboard, n.d., billboard.com/music/the-beatles."
+						}
+					],
+					"type": "p",
+					"uid": "10b77587-5fb4-4c9e-bd57-a74e28e88803",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "“The Beatles.” "
+						},
+						{
+							"text": "Recording Academy,",
+							"italic": true
+						},
+						{
+							"text": " 2019, grammy.com/grammys/artists/beatles."
+						}
+					],
+					"type": "p",
+					"uid": "61e2ff6a-35e4-42a4-a6fe-81a971aa2e12",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "“The Beatles.” "
+						},
+						{
+							"text": "Rock & Roll Hall of Fame,",
+							"italic": true
+						},
+						{
+							"text": " n.d., rockhall.com/inductees/beatles."
+						}
+					],
+					"type": "p",
+					"uid": "23b9b909-e184-4a75-960b-dd59aebf6c60",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Miller, James. “The Beatles.” "
+						},
+						{
+							"text": "Encyclopaedia Britannica",
+							"italic": true
+						},
+						{
+							"text": ", 13 Nov. 2019, britannica.com/topic/the-Beatles."
+						}
+					],
+					"type": "p",
+					"uid": "429e10e9-f371-4a29-8a26-fe1a474b147a",
+					"attrs": {
+						"citation-type": "booksimple",
+						"xlink:type": "simple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "af4ca133-429c-4bd5-8e18-a8f7edc33b08"
+		},
+		"topic": null,
+		"lexile": 700,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "The Beatles were a British musical group. Its members were John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They were known as the Fab Four. Some of their top hit songs include "
+						},
+						{
+							"text": "Hey Jude, Let It Be",
+							"italic": true
+						},
+						{
+							"text": ", "
+						},
+						{
+							"text": "Come Together",
+							"italic": true
+						},
+						{
+							"text": ", and "
+						},
+						{
+							"text": "I Want to Hold Your Hand",
+							"italic": true
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "109b4bcd-0f9b-4b0e-a2ae-60be4bafda64",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "4c792d37-6ab3-46ef-8c52-8efd4e87bff2",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "The Beatles during the Magical Mystery Tour: Ringo Starr, George Harrison, John Lennon, and Paul McCartney (L-R). Parlophone Music Sweden [CC BY (https://creativecommons.org/licenses/by/3.0)]",
+							"width": "auto",
+							"caption": "The Beatles during the Magical Mystery Tour: Ringo Starr, George Harrison, John Lennon, and Paul McCartney (L-R). Parlophone Music Sweden [CC BY (https://creativecommons.org/licenses/by/3.0)]",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "The Beatles during the Magical Mystery Tour: Ringo Starr, George Harrison, John Lennon, and Paul McCartney (L-R). Parlophone Music Sweden [CC BY (https://creativecommons.org/licenses/by/3.0)]",
+						"asset-name": "rssalemprimaryencyc-20190926-64-176688.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Early Career"
+						}
+					],
+					"type": "h1",
+					"uid": "f1dd3ade-2957-476e-89df-0382bf053cdd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Lennon started as a member of the Quarrymen in Liverpool, England. He met and recruited McCartney at a church festival. Harrison got in by auditioning in 1958."
+						}
+					],
+					"type": "p",
+					"uid": "451132a5-6ffa-411c-9d70-a1972803a9b9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "They started with the name the Silver Beetles. The name changed to the Beatles in August 1960. It was also the year the group left Liverpool for Hamburg, Germany. By this time, the members were Lennon, McCartney, Harrison, Stuart Sutcliffe, and Pete Best."
+						}
+					],
+					"type": "p",
+					"uid": "cadf78c6-21bc-4690-865a-dd130405ffda",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Beatles performed at a club, Indra. Their popularity grew through word of mouth. The Beatles were moved to the larger Kaiserkeller club when Indra closed."
+						}
+					],
+					"type": "p",
+					"uid": "b9b63456-4583-4dc8-aa24-f77b5213fd60",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In November 1960, the Beatles wanted to play at another club, Top Ten. This breached their contract. The manager of the Kaiserkeller got back at the group. Soon after, the Beatles were back in Liverpool."
+						}
+					],
+					"type": "p",
+					"uid": "4f487db5-009e-4585-97bc-8e93c197514c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 1961 Sutcliffe left the group. He returned to Hamburg, where he died the next year. Also in 1961, the Beatles met Brian Epstein. He became their manager. Under Epstein, they changed their image. They wore their now iconic suits and boots."
+						}
+					],
+					"type": "p",
+					"uid": "51e6e3cc-7ca9-4795-af7f-2225f270e936",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Beatlemania"
+						}
+					],
+					"type": "h1",
+					"uid": "5ea13f92-4b94-438f-b939-be6e73625ec8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "On June 6, 1962, The Beatles went to Abbey Road studios to record. They were to be signed to the EMI group’s Parlophone. They were offered a two-single contract. One of the conditions was that they must find a better drummer. Starr replaced Best."
+						}
+					],
+					"type": "p",
+					"uid": "0fa7b762-cf0c-4f7f-b951-95e205c16667",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "On October 5, The Beatles’ first record was released. Its A-side was “Love Me Do.” From 1962 to 1963, The Beatles’ rise to fame continued. They recorded more original songs and appeared on TV. Their immense popularity birthed the term “Beatlemania.”"
+						}
+					],
+					"type": "p",
+					"uid": "eb145d0f-1eff-4062-8ed6-4f4fca01cc11",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "They entered the United States in 1964, starting the British Invasion. They debuted with "
+						},
+						{
+							"text": "Meet the Beatles!",
+							"italic": true
+						},
+						{
+							"text": " It topped the Billboard charts. In the same year, they filmed "
+						},
+						{
+							"text": "A Hard Day’s Night.",
+							"italic": true
+						},
+						{
+							"text": " They won the Grammys for Best Performance by a Vocal Group and Best New Artist."
+						}
+					],
+					"type": "p",
+					"uid": "4190df12-7b1e-44e4-8a4c-4cbc5ac918e5",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Beatles stopped doing public performances in 1966. They decided to focus on recording. In 1967, they released the influential "
+						},
+						{
+							"text": "Sgt. Pepper’s Lonely Hearts Club Band.",
+							"italic": true
+						},
+						{
+							"text": " It won the Grammy for Album of the Year."
+						}
+					],
+					"type": "p",
+					"uid": "b154a116-f97e-44df-82a6-cbd28cacb249",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 1968, they founded Apple Records. As the decade came to an end, the members found themselves at odds. They held their last performance on January 30, 1969. In 1970, the Beatles disbanded. Its members had strong solo careers. Lennon died on December 8, 1980 after being shot. Harrison passed away on November 29, 2001 from cancer."
+						}
+					],
+					"type": "p",
+					"uid": "3f2359bf-b556-4ef8-be82-1acfd6931805",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Impact"
+						}
+					],
+					"type": "h1",
+					"uid": "a638f594-f75a-4369-9786-af3170f7a578",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 1965, they were named Members of the Order of the British Empire. In 1988, the group was voted into the Rock and Roll Hall of Fame. The Recording Academy honored them with a Lifetime Achievement Award in 2014."
+						}
+					],
+					"type": "p",
+					"uid": "f3c1c36b-2433-4873-9cd7-92701c78266e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Beatles are the best-selling musicians of all time. During their active years, the Beatles influenced youth and culture. Their impact can still be felt in terms of music and pop culture."
+						}
+					],
+					"type": "p",
+					"uid": "23a2a5fe-690d-4e32-9ee0-047c37dc3368",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "1f77ab92-3511-4dee-9d2c-4064af8ea6a9"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "The Beatles were a British musical group. Its members were John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They were known as the Fab Four. Some of their top hit songs include "
+						},
+						{
+							"text": "Hey Jude, Let It Be",
+							"italic": true
+						},
+						{
+							"text": ", "
+						},
+						{
+							"text": "Come Together",
+							"italic": true
+						},
+						{
+							"text": ", and "
+						},
+						{
+							"text": "I Want to Hold Your Hand",
+							"italic": true
+						},
+						{
+							"text": "."
+						}
+					],
+					"type": "p",
+					"uid": "a33b20b6-9103-408e-b998-bd949f0f7565",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "12b5c000-d867-4de1-bc0a-ebe544331a7c"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": false,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

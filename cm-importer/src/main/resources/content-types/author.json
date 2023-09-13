@@ -1,0 +1,114 @@
+{
+	"created_at": "2022-11-23T20:08:16.868Z",
+	"updated_at": "2022-11-24T01:23:03.977Z",
+	"title": "Author",
+	"uid": "author",
+	"_version": 4,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"display_name": "Full Name",
+			"uid": "title",
+			"data_type": "text",
+			"mandatory": true,
+			"unique": true,
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "file",
+			"display_name": "Picture",
+			"uid": "picture",
+			"field_metadata": {
+				"description": "",
+				"rich_text_type": "standard",
+				"image": true
+			},
+			"dimension": {
+				"width": {
+					"min": null,
+					"max": null
+				},
+				"height": {
+					"min": null,
+					"max": null
+				}
+			},
+			"multiple": false,
+			"mandatory": true,
+			"unique": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Bio",
+			"uid": "bio",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"multiline": true,
+				"version": 3
+			},
+			"format": "",
+			"error_messages": {
+				"format": ""
+			},
+			"multiple": false,
+			"mandatory": false,
+			"unique": false,
+			"non_localizable": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "It contains blog authors",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"title": "title",
+		"sub_title": []
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

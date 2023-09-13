@@ -1,0 +1,23 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Business",
+		"tags": [
+			"Walt Disney",
+			"Sony",
+			"Abbott and Costello",
+			"Hamlet",
+			"E.T. the Extra-Terrestrial",
+			"Carl Laemmle",
+			"Back to the Future",
+			"Steven Spielberg",
+			"horror films",
+			"Comcast Corporation",
+			"Hollywood",
+			"National Broadcasting Company (NBC)"
+		],
+		"industry": "Film, amusement park",
+		"type": "Private",
+		"date_founded": "1912",
+		"corporate_headquarters": "Universal City, California"
+	}
+}

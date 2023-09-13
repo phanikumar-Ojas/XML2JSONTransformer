@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rscountries</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">FYOH</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Great Neck Publishing</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>30</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>1</day>
+      <month>February</month>
+      <year>2013</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>30</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <copyright-statement>Copyright of Our World: Spain is the property of Great Neck Publishing and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.</copyright-statement>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="our_world_481.10.3331.250361"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rscountries_4110</book-part-id>
+        <title-group>
+          <title>Spain</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Ellen</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Bailey</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>The fourth largest country in Europe by area, the Kingdom of Spain is a nation with a long history. Through the centuries it has had a profound influence on politics, music, art, and literature. It is a country with a widely diverse terrain and a highly homogeneous population. Spain’s history, natural beauty, and climate make it a popular destination for tourists.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value>17612175</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front/>
+      <body>
+        <sec sec-type="bodytext | intro" indexed="true">
+          <title/>
+          <p>The fourth largest country in Europe by area, the Kingdom of Spain is a nation with a long history. Through the centuries it has had a profound influence on politics, music, art, and literature. It is a country with a widely diverse terrain and a highly homogeneous population. Spain’s history, natural beauty, and climate make it a popular destination for tourists.</p>
+          <media xmlns:xlink="http://www.w3.org/1999/xlink"
+                 position="margin"
+                 mimetype="audio"
+                 mime-subtype="mp3"
+                 xlink:href="88391188-98959.mp3"
+                 xlink:type="simple">
+            <caption>
+              <p>Spain National Anthem: “Himno Nacional Espanol” (National Anthem of Spain)</p>
+            </caption>
+            <copyright-statement>(CIA World Factbook)</copyright-statement>
+          </media>
+          <p>Spain is located on the Iberian Peninsula, along with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88391161"
+                             xlink:type="simple">Portugal</related-article>, Andorra, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322299"
+                             xlink:type="simple">Gibraltar</related-article>, in southwest Europe. France lies along Spain’s northeast border. In addition to the mainland, Spain’s territory includes the two autonomous cities of Ceuta and Melilla in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="110642417"
+                             xlink:type="simple">North Africa</related-article> and seventeen autonomous communities, including the Balearic Islands in the Mediterranean Sea, and the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94981273"
+                             xlink:type="simple">Canary Islands</related-article> in the Atlantic Ocean.</p>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <p>Flag of Spain</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="88391188-75221.gif"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>EBSCO</copyright-statement>
+            </permissions>
+          </fig>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <p>Map of Spain</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="88391188-75222.gif"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>EBSCO</copyright-statement>
+            </permissions>
+          </fig>
+        </sec>
+        <sec sec-type="bodytext | gen-info" indexed="true">
+          <title>General Information</title>
+          <list list-type="simple" list-content="demographics">
+            <list-item>
+              <p>
+                <bold>Full name of country: </bold>Kingdom of Spain</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Region: </bold>Europe</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Nationality: </bold>Spaniard(s) (noun), Spanish (adjective)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Official language: </bold>Castilian Spanish</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Population: </bold>47,163,418 (2022 est.)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Population growth: </bold>0.13% (2022 est.)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Currency (money): </bold>Euro</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Land area: </bold>498,980 sq km (192,657 sq miles)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Water area: </bold>6,390 sq km (2,467 sq miles)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Time zone: </bold>UTC +1</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Capital: </bold>Madrid</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Flag: </bold>The Spanish flag is composed of three horizontal stripes, with a large yellow stripe in the middle, bordered by two smaller red stripes. The yellow stripe is twice the size of each red stripe. In the left-hand side of the yellow band is Spain’s coat of arms, which consists of a crown atop a shield that is flanked by two columns.</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Motto: </bold>“Plus ultra” (Further beyond)</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Independence: </bold>1492; the Iberian peninsula was characterized by a variety of independent kingdoms prior to the Muslim occupation that began in the early 8th century A.D. and lasted nearly seven centuries; the small Christian redoubts of the north began the reconquest almost immediately, culminating in the seizure of Granada in 1492; this event completed the unification of several kingdoms and is traditionally considered the forging of present-day Spain</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Government type: </bold>parliamentary constitutional monarchy</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Suffrage: </bold>18 years of age; universal</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>Legal system: </bold>civil law system with regional variations</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>National anthem: </bold>“Himno Nacional Espanol” (National Anthem of Spain), by None/Unknown</p>
+            </list-item>
+            <list-item>
+              <p>
+                <bold>National holiday: </bold>National Day, October 12 (1492); year when Columbus first set foot in the Americas</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec sec-type="bodytext | culture" indexed="true">
+          <title>People and Culture</title>
+          <p>
+            <bold>Population:</bold> Spain has a lower population density than most European countries. As is the case throughout Europe, much of Spain’s rural population is moving into the cities. Approximately 81.3 percent of the population is urban (2022).</p>
+          <p>The two largest cities in Spain are <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94740366"
+                             xlink:type="simple">Madrid</related-article>, with a population of 6.714 million, and Barcelona, with a population of 5.658 million (2022). Other major cities include <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87325360"
+                             xlink:type="simple">Valencia</related-article>, Sevilla, Zaragoza, and Malaga.</p>
+          <p>The official language nationwide, Castilian Spanish, is spoken by 74 percent of the population. Another 17 percent speak <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87321401"
+                             xlink:type="simple">Catalan</related-article>, which is an official language in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87321402"
+                             xlink:type="simple">Catalonia</related-article> and the Balearic Islands. Galician is an official language in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322253"
+                             xlink:type="simple">Galicia</related-article>, in the northwest of the country, and spoken by about 7 percent of the total population. Basque is spoken by approximately 2 percent of the total population and is an official language in the Basque Country and in Navarre, in the north. Aranese is an official language in the northwest corner of Catalonia, although fewer than five thousand people speak it. In Spanish North Africa, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="spanish language"
+                             xlink:type="simple">Spanish</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87325686"
+                             xlink:type="simple">Arabic</related-article> are spoken.</p>
+          <p>Although there is no state religion, 58.2 percent of Spaniards are <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="110642347"
+                             xlink:type="simple">Roman Catholic</related-article> (2021 estimate), and the constitution recognizes the importance of the Catholic Church in Spain. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89158055"
+                             xlink:type="simple">Atheists</related-article> account for 16.2 percent of the population, while agnostics make up 10.8 percent of the population and nonbelievers comprise 10.5 percent (2021 estimate). Other religions include <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="110642336"
+                             xlink:type="simple">Anglican</related-article>, Baptist, Spanish Evangelical, Greek Orthodox, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86179209"
+                             xlink:type="simple">Islam</related-article>, and Judaism. In Spanish North Africa, most of the European population is Roman Catholic, while most of the North Africans are Muslim.</p>
+          <p>Most Spaniards are composites of Mediterranean and Nordic ethnicity. However, distinct ethnic groups include the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87321115"
+                             xlink:type="simple">Basques</related-article>, Catalans, Galicians, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96397369"
+                             xlink:type="simple">Roma</related-article>.</p>
+          <p>There are seventeen autonomous communities in Spain, including País Vasco (English, Basque Country; Basque, Euskal Herriko), in the northern part of the country. Basque Country comprises the Spanish provinces of Álava, Biscay (Vizcaya), and Gipuzkoa (Guipúzcoa). In the late twentieth and early twenty-first centuries, some residents of Basque Country declared their intention to <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="102082037"
+                             xlink:type="simple">secede from Spain</related-article>, and a radical <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89313847"
+                             xlink:type="simple">separatist movement</related-article> known as ETA (Euskadi ta Askatasuna, or Basque Homeland and Liberty) launched a violent campaign toward that end.</p>
+          <p>
+            <bold>Indigenous People:</bold> There is evidence of human habitation in the Iberian Peninsula dating as far back as the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87324195"
+                             xlink:type="simple">Paleolithic period</related-article>, more than 12,000 years ago. Around 1000 BCE, the area that is now Spain saw an influx of other ancient peoples, including Greeks, Carthaginians, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96411140"
+                             xlink:type="simple">Celts</related-article>, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96411567"
+                             xlink:type="simple">Phoenicians</related-article>. By the end of the first century BCE, the Roman Empire controlled the entire peninsula.</p>
+          <p>
+            <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87997917"
+                             xlink:type="simple">Visigoths</related-article>, Muslims, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96411292"
+                             xlink:type="simple">Franks</related-article> battled for control of Spain during the Middle Ages. Jews and Gitanos also arrived in the region during this period.</p>
+          <p>Modern Spaniards are descended from this eclectic mix of peoples and cultures.</p>
+          <p>
+            <bold>Education:</bold> Education is compulsory from age six to sixteen. Primary education begins at age six and lasts for six years. After secondary school, students may take one or two years of vocational training or a two-year college-preparatory course that leads to the Bachillerato degree.</p>
+          <p>Education is free in public schools, which educate the majority of the students in Spain. Most private schools, run by the Catholic Church, also receive subsidies that allow them to offer tuition-free instruction.</p>
+          <p>Spain is home to many universities with long-established histories. The Universidad Complutense de Madrid was founded in the thirteenth century by King Sancho IV of Castile. The University of Salamanca was founded in 1218 by King Alfonso IX of Leon.</p>
+          <p>The literacy rate in Spain is 98.6 percent (2020 estimate).</p>
+          <p>
+            <bold>Health Care:</bold>Spain has a single-payer health care system that has been ranked among the best in the world by the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89093578"
+                             xlink:type="simple">World Health Organization</related-article>. Spain’s health care system offers universal coverage with few out-of-pocket expenses. However, long wait times for appointments with certain specialists and for certain procedures have generated criticism.</p>
+          <p>Spain has 4.44 doctors for every 1,000 people (2019), but the distribution of physicians is uneven. Large cities have the best hospitals and the most medical personnel. In other areas, especially the interior, patients may have to wait a long time to see a doctor.</p>
+          <p>Patients who have private health insurance may choose their own doctors and generally receive better care than public health care patients.</p>
+          <p> Life expectancy is 82.5 years overall—79.8 years for men and 85.4 years for women (2022 estimate). Spain ranked 25th on the 2020 <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89185802"
+                             xlink:type="simple">United Nations Human Development Index</related-article>.</p>
+          <p>
+            <bold>Food:</bold> Spanish cooking uses a lot of olive oil and tomatoes. Many Spanish recipes have Arab influences, using typical Middle Eastern spices along with fruits or almonds in savory dishes.</p>
+          <p>One favorite Spanish dish is tortillas, which are nothing like the Mexican flat bread that most Americans are used to. Instead, a Spanish tortilla is complex omelet made with potatoes. Another traditional dish is paella, a mixture of meats and shellfish with garlic, peas, onions, tomatoes, and artichoke hearts. The name comes from the wide, shallow, two-handled pan that is used to cook and serve the dish.</p>
+          <p>Other foods typically served in Spain include gazpacho (cold soup), lamb, pork, cheese, sardines, octopus, calamari (squid), and fruit.</p>
+          <p>Tapas, small snacks or appetizers of typical Spanish food, are a prominent feature of Spanish dining. They are served in inexpensive restaurants called tapas bars.</p>
+          <p>The national drink is wine. Spain is famous for sangria, a mixture of wine and fruit juice, and for jerez (sherry). Cocoa and thick, black coffee are also popular drinks. Carbonated water is called <italic>con gas</italic> (with gas), and plain water is called <italic>sin gas</italic> (without gas).</p>
+          <p>
+            <bold>Arts &amp; Entertainment:</bold> Because the heat can be intense, leisure activities in Spain often begin at sundown. Many businesses close as people rest during the hottest part of the day. This period is called siesta.</p>
+          <p>The evening often begins with a paseo, a stroll through the streets. Streets in Spain are lively places, lined with busy sidewalk cafes and bars.</p>
+          <p>
+            <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="121772794"
+                             xlink:type="simple">Bullfighting</related-article> is still a popular form of entertainment in Spain, as it has been since the first corrida (bullfight) honored the coronation of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96776073"
+                             xlink:type="simple">Alfonso VIII</related-article> in the twelfth century. In fact, La Fiesta Nacional (the National Sport) is enjoying a resurgence of popularity. Bullrings are found all over the country.</p>
+          <p>Spanish art also has a long history, from the Stone Age cave paintings at <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87994090"
+                             xlink:type="simple">Altamira</related-article> to modern artists such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88802073"
+                             xlink:type="simple">Pablo Picasso</related-article> and contemporary painters such as Miquel Barceló. World-renowned Spanish artists include such trendsetters are Diego de Silva y Velasquez, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88367410"
+                             xlink:type="simple">El Greco</related-article> (Domenico Theokopoulos), Francisco Jose de Goya, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88802167"
+                             xlink:type="simple">Salvador Dalí</related-article>, and surrealist architect Antonio Gaudí. The art museum Museo del Prado in Madrid rivals the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87323549"
+                             xlink:type="simple">Louvre</related-article> in Paris.</p>
+          <p>One of the most famous Spanish writers is <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88367557"
+                             xlink:type="simple">Miguel de Cervantes Saavedra</related-article>, better known simply as Cervantes. He wrote <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87575092"
+                             xlink:type="simple">
+              <italic>Don Quixote</italic>
+            </related-article> in 1605 (Part I) and 1615 (part II). The poet <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88801570"
+                             xlink:type="simple">Federico Garcia Lorca</related-article> dominates twentieth-century Spanish literature.</p>
+          <p>The Spanish also love music. The guitar was invented in a town in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87325326"
+                             xlink:type="simple">Andalucia (Andalusia)</related-article> in the late eighteenth century. The two main types of guitar music in Spain are classical and flamenco. Famous Spanish guitarists include <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88801330"
+                             xlink:type="simple">Andres Segovia</related-article> and Paco de Lucia.</p>
+          <p>Flamenco is fast music played with both hands on the strings. The player also sometimes knocks on the wood. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322149"
+                             xlink:type="simple">Flamenco</related-article> dancing is uniquely Spanish and is popular throughout the country, among both young and old people. Flamenco originated with the Romani in the sixteenth century. While there are many styles of flamenco, the lively duende (demon) form is the most popular.</p>
+          <p>
+            <bold>Holidays:</bold> Official holidays observed in Spain include Labor Day (May 1), National Day (October 12), and Constitution Day (December 6), which honors the approval of the constitution in 1978.</p>
+          <p>Local fiestas and celebrations are held in towns and regions throughout Spain. The Reconquest Festival, held each January in Granada, celebrates the Christian defeat of the Moors in 1492. In the south, the Festival de Cadiz is held in March. The country’s oldest festival, it features parades and costumes.</p>
+          <p>During the first weekend in July, wild horses are rounded up and branded in the Rapa das Bestas, held in San Lorenzo, Galicia.</p>
+        </sec>
+        <sec sec-type="bodytext | geography" indexed="true">
+          <title>Environment and Geography</title>
+          <p>
+            <bold>Topography:</bold> Spain accounts for more than four-fifths of the Iberian Peninsula, and includes the Balearic Islands, the Canary Islands, and some small areas in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88391137"
+                             xlink:type="simple">Morocco</related-article>. Spain is bounded on the north by the Bay of Biscay, France, and Andorra; on the west by Portugal; on the east by the Mediterranean; and on the south by the Mediterranean Sea, Gibraltar, and the Atlantic Ocean.</p>
+          <p>Morocco is 30 kilometers (19 miles) to the south, across the Strait of Gibraltar. Along the Moroccan coast are the Spanish regions of Melilla, a peninsula, and Ceuta, which includes Peñón de Vélez de la Gomera and two island groups. Together, these are known as Spanish North Africa.</p>
+          <p>The Canary Islands reveal a diverse landscape that includes volcanoes, forest, and desert. The best-known <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="103254265"
+                             xlink:type="simple">Balearic Islands</related-article> are Ibiza, Mallorca, and Menorca. The islands are especially known for their beautiful beaches.</p>
+          <p>Spain is a little more than twice the size of the American state of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88112655"
+                             xlink:type="simple">Oregon</related-article>, or about the size of Arizona and Utah combined. It is the fourth largest country in Europe.</p>
+          <p>The central region of the country is a high plateau called the meseta. This plateau is really two plains areas nearly surrounded by mountain ranges. The most prominent and important of these are the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="98402185"
+                             xlink:type="simple">Pyrenees</related-article>, along the border with France. Other mountains include the Cantabrian Range in the north, the Iberian Mountains in the north and east, and the Sierra Morena in the south. Pasturelands are a main feature of the southern part of the country.</p>
+          <p>Most Spanish rivers are not navigable. The major rivers are the Tajo (Tagus), Duero (Douro), Guadiana, and Guadalquivir. These rivers all run east to west and flow into Portugal.</p>
+          <p>The highest point in Spain is Pico de Teide on Tenerife in the Canary Islands. The mountain rises to 3,718 meters (12,198 feet).</p>
+          <p>
+            <bold>Natural Resources:</bold> Among Spain’s major natural resources are iron ore, lignite, copper, lead, zinc, coal, mercury, magnesite (magnesium carbonate), <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89474707"
+                             xlink:type="simple">gypsum</related-article>, fluorspar, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89474932"
+                             xlink:type="simple">uranium</related-article>, potash, tungsten, and hydropower.</p>
+          <p>Environmental concerns include pollution by offshore oil and gas production, pollution of the Mediterranean Sea by raw sewage, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88952971"
+                             xlink:type="simple">air pollution</related-article>, deforestation, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88806482"
+                             xlink:type="simple">desertification</related-article>, and availability of clean water. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="98402164"
+                             xlink:type="simple">Overpopulation</related-article> and erosion have damaged the coast.</p>
+          <p>
+            <bold>Plants &amp; Animals:</bold> With its wide range of terrains, Spain enjoys great <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88833150"
+                             xlink:type="simple">biodiversity</related-article>. Forests and woodlands cover most of the country. Common trees include pine, laurel, beech, and cork oak. Typical flowers include orchids, gentians, lavender, thyme, and rosemary.</p>
+          <p>Spain maintains fifteen national parks that protect representative species of plants and wildlife.</p>
+          <p>While hunting has eliminated many species of wildlife, red squirrels, tortoises, deer, ibex, wolves, chamois (a horned, hoofed mountain animal similar to a goat), bears, Iberian lynx, wild boar, and a variety of reptiles remain in Spain. Gibraltar is home to the famous Barbary macaques, Europe’s only species of wild monkey.</p>
+          <p>Many species of aquatic and migratory birds, mammals, amphibians, and reptiles live in the wetlands of Castile. Native Spanish birds include flamingos, kites, vultures, herons, geese, bustards, storks, eagles, and spoonbills. Spain has more than twenty breeding species of birds of prey.</p>
+          <p>
+            <bold>Climate:</bold> In general, Spain’s climate is temperate, with hot summers and cool winters (particularly in the interior hills). The coastal areas are more moderate, with cool, cloudy days.</p>
+          <p>The temperature varies widely. Along the northern coast, the average winter temperature is 9 degrees Celsius (48 degrees Fahrenheit), and the average summer temperature is 18 degrees Celsius (64 degrees Fahrenheit). The central plateau has an average winter temperature of 4 degrees Celsius (39 degrees Fahrenheit), and an average summer temperature of 24 degrees Celsius (75 degrees Fahrenheit).</p>
+          <p>The rest of mainland Spain has an average winter temperature of 11 degrees Celsius (52 degrees Fahrenheit) and an average summer temperature of 23 degrees Celsius (73 degrees Fahrenheit). The Canary Islands, Balearics, and Spanish North Africa average more than 14 degrees Celsius (57 degrees Fahrenheit) in the winter and about 22 degrees Celsius (72 degrees Fahrenheit) in the summer.</p>
+          <p>About three-quarters of Spain is dry, receiving less than 50 centimeters (20 inches) of rain annually and experiencing frequent droughts. The northern coast receives more rainfall, approximately 97 centimeters (38 inches) each year. The central plateau receives less than 38 centimeters (15 inches). The rainfall in the rest of mainland Spain ranges from 25 to 60 centimeters (10 to 24 inches).</p>
+        </sec>
+        <sec sec-type="bodytext | economy" indexed="true">
+          <title>Economy</title>
+          <p>A member of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="98402084"
+                             xlink:type="simple">European Union</related-article>, Spain has an open, modern, industrial economy. Prior to World War II, its economy was mainly agricultural. Although unemployment is high, at an estimated 14.1 percent of the work force in 2019, this represents an improvement over the previous year’s rate, which was an estimated 15.25 percent. Spain’s economy suffered greatly following the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="95607434"
+                             xlink:type="simple">global financial crisis</related-article> that began in 2008 and has had one of the highest unemployment rates in Europe.</p>
+          <p>In 2020, Spain’s gross domestic product (GDP) was estimated at US$1.79 trillion. The per capita GDP was US$37,756 (2020 estimate).</p>
+          <p>
+            <bold>Industry:</bold> Major industrial activities in Spain include the manufacture of processed consumer goods, machine tools, steel, automobiles, and electronics. Most of the country’s industry is concentrated near the city of Barcelona, in the region of Catalonia.</p>
+          <p>Exports, primarily of motor vehicles, food, machinery, and consumer goods brought in an estimated US$392.85 billion in 2020. Spain’s largest trading partners are France, Germany, Italy, the United Kingdom, Portugal, and China.</p>
+          <p>
+            <bold>Agriculture:</bold> When Rome ruled Europe, Spain was known as the “Garden of the Empire.” In 2011, arable land accounted for 24.9 percent of the country’s area. An estimated 4.2 percent of the labor force was engaged in agriculture in 2009.</p>
+          <p>Spain’s dry climate limits the types of crops that can be grown successfully. The country is known for its oranges, wine grapes, and olives, and is the world’s largest producer of olive oil.</p>
+          <p>Spanish farmers also produce barley, wheat, sugar beets, tomatoes, tangerines, peaches and nectarines, dry onions, chilies and green peppers, corn, and potatoes.</p>
+          <p>
+            <bold>Tourism:</bold> Spain is one of the most popular destinations for European travelers, and about 126 million international tourists visited Spain in 2019. This number dropped to 36.4 million following the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="142379071"
+                             xlink:type="simple">COVID-19 pandemic</related-article> that began in 2020.</p>
+          <p>Attractions include the climate, beaches, and historical cities such as Ávila, Toledo, and Segovia. Popular attractions in Madrid include the Puerta del Sol (Gate of the Sun), the cathedral of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="131999819"
+                             xlink:type="simple">San Isidro</related-article>, and the Museo de Pinturas (Museum of Paintings), also known as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89144972"
+                             xlink:type="simple">El Prado</related-article>.</p>
+          <p>The Costa del Sol (Coast of the Sun) in the southern part of the country features many luxury resorts. The Summer Olympic Games were held in Barcelona in 1992.</p>
+          <p>The government has made efforts to attract even more tourists by improving infrastructure, especially the country’s railroad system and highways.</p>
+        </sec>
+        <sec sec-type="bodytext | government" indexed="true">
+          <title>Government</title>
+          <p>Before the Muslim occupation, which began in 711, Spain was divided into numerous kingdoms. When Ferdinand and Isabella completed the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="96776891"
+                             xlink:type="simple">reconquest</related-article> of Granada in 1492, the peninsula was united into present-day Spain.</p>
+          <p>Modern Spain is a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88390980"
+                             xlink:type="simple">constitutional monarchy</related-article>. The king is the hereditary chief of state. The head of government is the president. Normally, the king nominates the president from the majority party (or coalition) in Las Cortes Generales (the General Courts), and the lower house then votes the president into office. The president then chooses a Council of Ministers.</p>
+          <p>The General Courts are a bicameral legislature consisting of the Senado (Senate) and the Congreso de los Diputados (Congress of Deputies). The Senate consists of 266 members who serve four-year terms. The 350 Deputies are elected to four-year terms by popular vote.</p>
+          <p>There is also a Council of State that makes recommendations to the government but cannot make binding recommendations.</p>
+          <p>The Tribunal Supremo, or Supreme Court, is the highest court in the judicial branch of government.  Supreme Court judges are appointed by the monarch from candidates who are proposed by the General Council of the Judiciary Power.</p>
+          <p>The voting age is eighteen, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="110642467"
+                             xlink:type="simple">suffrage is universal</related-article>. Spain is divided into fifty provinces, including forty-seven on the peninsula and three island provinces. </p>
+          <p>Major political parties include the Spanish Socialist Workers Party (Partido Socialista Obrero Español), United We Can (Unidos Podemos), and Citizens (Ciudadanos).</p>
+        </sec>
+        <sec sec-type="bodytext | trivia" indexed="true">
+          <title>Interesting Facts</title>
+          <list list-type="bullet">
+            <list-item>
+              <p> Many Spaniards greet each other by kissing each other on both cheeks.</p>
+            </list-item>
+            <list-item>
+              <p> The town of Buñol hosts La Tomatina, an annual tomato fight festival on the last Wednesday of August. Some 50,000 people attended the festival in 2012, but tickets have been limited to 20,000 attendees since 2013. </p>
+            </list-item>
+            <list-item>
+              <p> Spanish inventor Manuel Jalón Corominas created the modern mop and wheeled bucket in 1956.</p>
+            </list-item>
+            <list-item>
+              <p> In 2019, Spain won the FIBA World Cup, its second, for the first time since 2006.</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">"Economic Impact Reports." <italic>World Travel and Tourism Council</italic>, 2020, wttc.org/Research/Economic-Impact. Accessed 29 Jun. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Human Development Insights." <italic>Human Development Reports</italic>, United Nations Development Programme, 2022, hdr.undp.org/data-center/country-insights#/ranks. Accessed 29 Jun. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">"International Tourism, Number of Arrivals." <italic>The World Bank</italic>, data.worldbank.org/indicator/ST.INT.ARVL. Accessed 29 Jun. 2022.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">“Spain.” <italic>The World Bank</italic>, 2022, data.worldbank.org/country/spain. Accessed 29 Jun. 2022. </citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">“Spain.” <italic>The World Factbook</italic>, Central Intelligence Agency, 21 Jun. 2022, www.cia.gov/the-world-factbook/countries/spain/. Accessed 29 Jun. 2022. </citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="au_note" indexed="true">
+          <title/>
+          <p>By Ellen Bailey</p>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>
+<?oxy_options track_changes="on"?>

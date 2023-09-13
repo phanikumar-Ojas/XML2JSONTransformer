@@ -1,0 +1,41 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Health",
+		"tags": [
+			"Anatomy & Physiology",
+			"Diseases, Disorders, & Symptoms",
+			"Specialties & Health Care Providers",
+			"Treatment & Therapy",
+			"energy storage",
+			"radiation",
+			"albinism",
+			"sebaceous gland",
+			"psoriasis",
+			"basal cell carcinomas",
+			"poison ivy",
+			"detergents",
+			"rubber",
+			"surgery",
+			"side effects",
+			"heavy metals",
+			"supply",
+			"motion sickness"
+		],
+		"category": [
+			"Anatomy & Physiology",
+			"Diseases, Disorders, & Symptoms",
+			"Specialties & Health Care Providers"
+		],
+		"definitions": {
+			"children": [
+				{
+					"text": "The largest organ of the body, which is vital to the survival of an organism for its protection against dehydration and abrasion, regulation of body temperature, and sensory reception."
+				}
+			],
+			"type": "doc",
+			"uid": "495b33a0-8bdc-433b-af5c-0ec06bb11c2b"
+		},
+		"anatomy_or_systems_affected": "Nerves, nervous system",
+		"also_known_as": null
+	}
+}

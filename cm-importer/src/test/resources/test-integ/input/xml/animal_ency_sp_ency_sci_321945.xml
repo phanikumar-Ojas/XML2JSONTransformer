@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rssalemscience</book-id>
+         <book-id pub-id-type="eis-mid">GY4R</book-id>
+         <book-title-group>
+            <book-title>Salem Press Encyclopedia of Science</book-title>
+            <alt-title alt-title-type="mid">GY4R</alt-title>
+            
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+         <day>30</day>
+         <month>June</month>
+         <year>2018</year>
+      </pub-date>
+         <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+         <copyright-statement>© 2018 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 book-part-type="chapter"
+                 id="sp_ency_sci.321945"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">animal_ency_sp_ency_sci_321945</book-part-id>
+               <title-group>
+                  <title>Osprey</title>
+               </title-group>
+               <contrib-group xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                  <contrib contrib-type="author" xlink:type="simple">
+                     <string-name/>
+                  </contrib>
+               </contrib-group>
+               <abstract abstract-type="placard">
+               <p>The osprey is also called the fish hawk and is the only species in its family. It belongs to the group of birds known as raptors or birds or prey. Raptor is from the Latin for plunderers and refers to the bird's attacking and eating of other animals. Osprey. By Russ, CC BY 2.0 (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons</p>
+            </abstract>
+            <custom-meta-wrap>
+                  <custom-meta>
+                     <meta-name>Derived from</meta-name>
+                     <meta-value>321945</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>doctype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>arttype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>project id</meta-name>
+                     <meta-value>1278</meta-value>
+                  </custom-meta>
+               </custom-meta-wrap>
+            </book-part-meta>
+            <body xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+               <sec sec-type="bodytext" indexed="true">
+                  <title/>
+                  <p>The osprey is also called the fish hawk and is the only species in its family.  It belongs to the group of birds known as raptors or birds or prey.  Raptor is from the Latin for plunderers and refers to the bird's attacking and eating of other animals.<fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Osprey.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="animal-ency-sp-ency-sci-321945-167200.jpg"/>
+                     <permissions>
+                        <copyright-statement>By Russ, CC BY 2.0 (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+                  <p>
+                     <bold> Kingdom: </bold> Animalia</p>
+                  <p>
+                     <bold> Phylum: </bold> Chordata</p>
+                  <p>
+                     <bold> Class: </bold> Aves</p>
+                  <p>
+                     <bold> Order: </bold> Falconiformes</p>
+                  <p>
+                     <bold> Family: </bold> Pandionidae</p>
+                  <p>
+                     <bold> Genus: </bold> Pandion</p>
+                  <p>
+                     <bold> Species: </bold> Haliaetus</p>
+                  <p>The osprey is a large bird of prey which is up to two feet (60 centimeters) long and weighs two to four pounds (one to two kilograms). Dark brown plumage, or feathers, covers its back and upper surfaces, while it is white underneath. It has a small head for its body and a short, downward-hooked beak.</p>
+                  <p>The osprey's powerful feet have long, sharp claws and toes with spines underneath for gripping its slippery prey. Its outer toes can turn to face backward for an even stronger grip. The osprey is also called the fish hawk since it dives into the water after fish of many sizes. As it flies above the water it scans for fish which are close to the surface. With a dive and a plunge, the osprey seizes its prey by its head and carries it to its perch. It usually does not go underwater like some other birds do, but it is able to do so if the fish is a little deeper in the water. An osprey clutches its prey so tightly and is so determined not to let go, that it may actually be dragged underwater by larger fish.</p>
+                  <p>Ospreys live in all parts of the world and are usually not too far from water, such as coasts, lakes, and rivers. They are migratory and fly great distances between seasons. Almost all European ospreys fly to Africa for the winter, but some remain in the warmer regions of the Mediterranean Sea. In North America, they move to Central and South America in the winter. A few spend the coldest months in Florida or the Caribbean. They may fly six miles (10 kilometers) between feeding and nesting areas. Osprey nests are huge structures of sticks which they use many years in a row. They build their homes in the tops of trees or on rock peaks or columns. On some islands where mammal predators do not live, ospreys may build nests on the ground.</p>
+                  <p>A male osprey may fly quickly to 1,000 feet (300 meters) with a fish in its claws, call, and then dive quickly toward the ground. He may repeat this maneuver many times in order to attract a female. Ospreys breed in every part of the world except South America, where they live only in the winter. The female lays two to four eggs in the nest and incubates them for around five weeks. The young remain in the nest for another seven weeks before they fledge. Fledging is the time at which young are able to fly for the first time. The young ospreys are mature after three to four years. They may live up to 15 or 20 years, but usually less, due to humans disturbing or hunting them or polluting their habitats.</p>
+                  
+               </sec>
+               
+               <sec sec-type="rs_citation">
+                  <title/>
+                  <ref-list>
+                     <ref>
+                        <citation citation-type="original">
+                           <article-title>Osprey</article-title>
+                           <source>Encyclopedia of Animals</source>
+                           <year>2006</year>
+                           <publisher-name>Great Neck Publishing</publisher-name>
+                        </citation>
+                     </ref>
+                  </ref-list>
+               </sec>
+            </body>
+         </book-part>
+      </body>
+   </book>

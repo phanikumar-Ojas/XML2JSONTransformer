@@ -1,0 +1,1435 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "9a34e578-7b8e-40f2-bb7c-bd4e962ef922",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Blood Donor Screening: Laboratory Testing.\u0022 "
+						},
+						{
+							"text": "UpToDate",
+							"italic": true
+						},
+						{
+							"text": ". UpToDate, 18 Nov. 2014. Web. 30 Nov. 2015. "
+						}
+					],
+					"type": "p",
+					"uid": "11a5eb5a-d5ad-4d83-9af8-fa8de4ad69ab",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "website"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Blood Safety Basics.\u0022 "
+						},
+						{
+							"text": "CDC",
+							"italic": true
+						},
+						{
+							"text": ". Centers for Disease Control and Prevention, 31 Jan. 2013. Web. 30 Nov. 2015."
+						}
+					],
+					"type": "p",
+					"uid": "cc4e2f8e-6e09-412d-b1e3-de0cc3534aea",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "website"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Hillier, Christopher D., et al., eds. "
+						},
+						{
+							"text": "Blood Banking and Transfusion Medicine: Basic Principles and Practice.",
+							"italic": true
+						},
+						{
+							"text": " 2nd ed. Philadelphia: Churchill Livingstone/Elsevier, 2007. Print."
+						}
+					],
+					"type": "p",
+					"uid": "6138dd01-e8b7-49f8-83ee-b13dffdfb471",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Infectious Disease Testing.\u0022 "
+						},
+						{
+							"text": "Red Cross Blood",
+							"italic": true
+						},
+						{
+							"text": ". American National Red Cross, n.d. Web. 30 Nov. 2015."
+						}
+					],
+					"type": "p",
+					"uid": "a3e7dabf-abc3-4a7b-8f1f-40d37e406eff",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "website"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "McCullough, Jeffrey. "
+						},
+						{
+							"text": "Transfusion Medicine.",
+							"italic": true
+						},
+						{
+							"text": " 2nd ed. Philadelphia: Churchill Livingstone/Elsevier, 2005. Print."
+						}
+					],
+					"type": "p",
+					"uid": "b66a0395-e3a5-4eaa-a762-a4bb18588f36",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Schaub Di Lorenzo, Marjorie, and Susan Strasinger. "
+						},
+						{
+							"text": "Blood Collection: A Short Course.",
+							"italic": true
+						},
+						{
+							"text": " 2nd ed. Philadelphia: F.A. Davis, 2009. Print."
+						}
+					],
+					"type": "p",
+					"uid": "3ace8405-e05f-4fd5-b729-31538d5561cc",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Starr, Douglas P. "
+						},
+						{
+							"text": "Blood: An Epic History of Medicine and Commerce.",
+							"italic": true
+						},
+						{
+							"text": " New York: Perennial, 2002. Print."
+						}
+					],
+					"type": "p",
+					"uid": "ecf57ff4-774b-4ac8-9682-440d89c98d76",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Wailoo, Keith. "
+						},
+						{
+							"text": "Drawing Blood: Technology and Disease Identity in Twentieth-century America.",
+							"italic": true
+						},
+						{
+							"text": " Baltimore: Johns Hopkins UP, 1999. Print."
+						}
+					],
+					"type": "p",
+					"uid": "844e6ff1-5a2b-4f5e-9452-a5713729ec92",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple",
+						"citation-type": "booksimple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "2a74539f-7a55-4e0b-b7fe-7aee55ac09b0"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [
+			"red blood cells",
+			"blood banks began",
+			"discovered",
+			"Michael Servetus",
+			"William Harvey",
+			"Andreas Vesalius",
+			"anticoagulant",
+			"Galen",
+			"platelets",
+			"Karl Landsteiner",
+			"Rh system",
+			"Rh-positive genes",
+			"Marcello Malpighi",
+			"Herophilus",
+			"plasma"
+		],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Organizations"
+						}
+					],
+					"type": "h1",
+					"uid": "ff7b04d2-eda8-4f44-bfad-c84ad9ab1edd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Key terms:",
+							"bold": true
+						}
+					],
+					"type": "p",
+					"uid": "df2a893b-d64c-4b1b-aa49-873918e86942",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "antigens:",
+							"italic": true
+						},
+						{
+							"text": " proteins, carbohydrates, or other substances on the surface of cells that bind to their respective antibodies"
+						}
+					],
+					"type": "p",
+					"uid": "aa179073-55ba-4a4b-8fef-06fdd605c7b8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "cardiology:",
+							"italic": true
+						},
+						{
+							"text": " the study of the heart and its action, as well as the diagnosis and treatment of its diseases"
+						}
+					],
+					"type": "p",
+					"uid": "6fbe5b87-79c0-4f72-975d-89fa9955be7f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "cardiovascular:",
+							"italic": true
+						},
+						{
+							"text": " relating to or involving the heart and blood vessels"
+						}
+					],
+					"type": "p",
+					"uid": "dcfa7a29-20dc-4221-81d7-691ce8ae2187",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "corpuscle:",
+							"italic": true
+						},
+						{
+							"text": " a minute particle; a protoplasmic cell floating free in the blood"
+						}
+					],
+					"type": "p",
+					"uid": "7b25a3c3-5a3d-4207-aac0-3133cd98b807",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "erythrocyte:",
+							"italic": true
+						},
+						{
+							"text": " a red blood cell"
+						}
+					],
+					"type": "p",
+					"uid": "2b744b51-38c0-4280-be52-9b8760af859b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "hematosis:",
+							"italic": true
+						},
+						{
+							"text": " the formation of blood"
+						}
+					],
+					"type": "p",
+					"uid": "2be2b51e-2954-49b4-89d0-03efc277ad20",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "hemophilia:",
+							"italic": true
+						},
+						{
+							"text": " a tendency (usually hereditary) to profuse bleeding, even from slight cuts"
+						}
+					],
+					"type": "p",
+					"uid": "7a4a4e28-b2c7-4108-a3c1-cd963242dda0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "leukocyte:",
+							"italic": true
+						},
+						{
+							"text": " a white or colorless blood corpuscle"
+						}
+					],
+					"type": "p",
+					"uid": "66ab31e8-90d5-4f19-97de-11cc37797281",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "phagocyte:",
+							"italic": true
+						},
+						{
+							"text": " any leukocyte active in ingesting and destroying waste and harmful material"
+						}
+					],
+					"type": "p",
+					"uid": "7e290a49-0f8b-43c5-ae1b-c6cb9fa030a8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "phlebotomy:",
+							"italic": true
+						},
+						{
+							"text": " the act or practice of opening a vein for letting blood"
+						}
+					],
+					"type": "p",
+					"uid": "cf138449-0bb5-4cd2-b63a-de3466b5c1bb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "serology:",
+							"italic": true
+						},
+						{
+							"text": " the science of serums, their reactions, preparation, and use"
+						}
+					],
+					"type": "p",
+					"uid": "1daf0a19-ca45-4cc8-bb9c-644d9c4fac52",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Study of Blood Throughout History"
+						}
+					],
+					"type": "h1",
+					"uid": "09b1c68d-fe32-495e-a4d4-0a1599b20d5b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "For centuries, blood was thought to be a simple liquid, but it is actually a bodily tissue. The cells, instead of being joined together as in solid bodily tissues, are suspended in a fluid called "
+						},
+						{
+							"children": [
+								{
+									"text": "plasma"
+								}
+							],
+							"type": "a",
+							"uid": "b08f9735-ad47-49dd-9510-07d8d901ed41",
+							"attrs": {
+								"url": "87690382"
+							}
+						},
+						{
+							"text": ", which comprises more than half of blood composition. The cellular portion of blood is largely red blood cells, with smaller numbers of white blood cells and "
+						},
+						{
+							"children": [
+								{
+									"text": "platelets"
+								}
+							],
+							"type": "a",
+							"uid": "1b3aae43-69ef-4aea-bb0b-804fb62572b6",
+							"attrs": {
+								"url": "87324384"
+							}
+						},
+						{
+							"text": " also present. Blood itself is the final functioning tool of the circulatory system, which helps to transport the blood to where it is needed in the body. Blood is an extremely complicated substance, and more things are being learned about it every year."
+						}
+					],
+					"type": "p",
+					"uid": "380891f5-027f-4ae8-b96a-a35b4cd4259a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "5009b571-2f54-4f28-8edb-819e4c77b39e",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Blood Donation at ITESM CCM. College student in a blood donation campaign. By Albaraac (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "Blood Donation at ITESM CCM. College student in a blood donation campaign. By Albaraac (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Blood Donation at ITESM CCM. College student in a blood donation campaign. By Albaraac (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+						"asset-name": "87321192-107637.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": ""
+						}
+					],
+					"type": "reference",
+					"uid": "2f916f74-cb54-4144-bb53-9c66013c2e14",
+					"attrs": {
+						"display-type": "display",
+						"redactor-attributes": {
+							"max-width": "700",
+							"src": null,
+							"asset-caption": "Poster asking for blood donors Wellcome L0041572. Poster for blood donors. See page for author [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
+							"width": "auto",
+							"caption": "Poster asking for blood donors Wellcome L0041572. Poster for blood donors. See page for author [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
+							"asset_uid": null,
+							"position": null,
+							"height": "auto"
+						},
+						"asset-type": null,
+						"asset-caption": "Poster asking for blood donors Wellcome L0041572. Poster for blood donors. See page for author [CC BY 4.0 (http://creativecommons.org/licenses/by/4.0)], via Wikimedia Commons",
+						"asset-name": "87321192-107636.jpg",
+						"asset-uid": null,
+						"asset-link": null,
+						"style": {
+							
+						},
+						"type": "asset",
+						"content-type-uid": "sys_assets",
+						"class-name": "embedded-asset"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Some ancient civilizations, such as that of the Greeks, recognized that blood was an important fluid in the body, but they thought that it was motionless in certain areas. Between 300 and 250 BCE, some Egyptians were studying the anatomy of corpses. About 300 BCE, the Greek physician Praxagoras showed that there were tubes connected to the heart. Some were filled with blood; others were empty, filled with air. One of the physician's students, "
+						},
+						{
+							"children": [
+								{
+									"text": "Herophilus"
+								}
+							],
+							"type": "a",
+							"uid": "3c307ed6-5f27-4981-917a-98a4376d2a6f",
+							"attrs": {
+								"url": "88258763"
+							}
+						},
+						{
+							"text": ", found that arteries gave a beat or pulse. When dissection was outlawed in Egypt and the library of Alexandria was burned, progress in learning about blood was stopped for a thousand years."
+						}
+					],
+					"type": "p",
+					"uid": "adb395a2-2376-4f9b-9e11-e930d9ea6df1",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Galen, the Greek physician who served five Roman emperors over thirty years to 200 CE, believed that the arteries originated in the heart and pumped blood. Contrary to later Egyptian medical thought, "
+						},
+						{
+							"children": [
+								{
+									"text": "Galen"
+								}
+							],
+							"type": "a",
+							"uid": "e08cbadd-b5c6-4cf7-8bce-4f17e824696e",
+							"attrs": {
+								"url": "88258743"
+							}
+						},
+						{
+							"text": " theorized that the heart was one pump, not two. Around 1300, doctors in Italy began to dissect bodies again-in 1316, Mondino de Luzzi wrote the first book dealing entirely with anatomy, in which he supported Galen's teachings. In 1543, Belgian anatomist "
+						},
+						{
+							"children": [
+								{
+									"text": "Andreas Vesalius"
+								}
+							],
+							"type": "a",
+							"uid": "7724ad05-e497-4b87-9c5d-a72445286649",
+							"attrs": {
+								"url": "88367355"
+							}
+						},
+						{
+							"text": " wrote a much-improved book on anatomy. However, it did not improve upon Galen's theories about the heart."
+						}
+					],
+					"type": "p",
+					"uid": "9c171d5f-1a18-428d-ab95-634ece83b1e0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 1242, a Syrian surgeon named Ibn an-NafIs had written a book in which he theorized about how blood moved from the right ventricle to the left and that a double pump was involved in moving it. Ironically, Europeans did not discover his writings until 1924."
+						}
+					],
+					"type": "p",
+					"uid": "966cd229-7b10-4f7e-94e0-a4a69ec20c9a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Meanwhile, Spanish physician "
+						},
+						{
+							"children": [
+								{
+									"text": "Michael Servetus"
+								}
+							],
+							"type": "a",
+							"uid": "feb7afcb-d44f-48d0-8b96-eba9455f8882",
+							"attrs": {
+								"url": "88367553"
+							}
+						},
+						{
+							"text": " published a treatise in 1553 describing how circulation of blood to the lungs and back (often called the lesser circulation) might occur. Unfortunately, because he also included religious views, all copies of his writings that could be found were destroyed, and he was burned at the stake. Eventually, in 1694, a copy of his book was found, and it showed that his circulation theory matched later findings."
+						}
+					],
+					"type": "p",
+					"uid": "7e84770f-bb5d-42bf-b559-e1395634948b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 1559, an Italian anatomist, Realdo Colombo, also thought of lesser circulation and published a book on it. Colombo's work was so widely read that he is credited with discovering lesser circulation. In 1574, another Italian, Girolamo Fabrici, observed little valves on veins that opened in only one direction. The importance of this discovery was deduced by a student of Fabrici, the English doctor "
+						},
+						{
+							"children": [
+								{
+									"text": "William Harvey"
+								}
+							],
+							"type": "a",
+							"uid": "0fa91998-606d-432a-96b9-e8e6d619777a",
+							"attrs": {
+								"url": "88070414"
+							}
+						},
+						{
+							"text": ", when Harvey determined that blood in the leg veins could move only to the heart. His laboratory work proved that the heart pumped blood into the arteries and that the blood returned by way of the veins. Furthermore, Harvey showed that the blood had a double circulation, returning to both ventricles. His continued experimentation showed that the same blood had to circulate and be used repeatedly."
+						}
+					],
+					"type": "p",
+					"uid": "0eecd640-7e9f-4306-9ef1-287d8b00dd09",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "All these medical pioneers were hampered by the inability to see more than the human eye would permit, until the development of lenses and microscopes. In 1661, Italian anatomist "
+						},
+						{
+							"children": [
+								{
+									"text": "Marcello Malpighi"
+								}
+							],
+							"type": "a",
+							"uid": "5a4858d3-fd19-4d2f-b036-259b7aaab519",
+							"attrs": {
+								"url": "88070285"
+							}
+						},
+						{
+							"text": " was able to see, with the aid of a microscope, very fine blood vessels that connected the smallest arteries and veins: capillaries. With the discovery of capillaries, the concept of the circulation of blood was complete. In the eighteenth century, the English scientist Stephen Hales was the first to measure blood pressure."
+						}
+					],
+					"type": "p",
+					"uid": "dbebcf94-f3a9-4edb-8ed4-13bcc9a141b7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The microscope also enabled scientists to observe the components of blood. Malpighi saw reddish objects in a clear, faintly yellow fluid. Dutch scientist Jan Swammerdam, with the aid of a microscope, was able to describe them further. In 1674, the renowned Dutch scientist Antoni van Leeuwenhoek, using the best of these early microscopes, was able to describe the red cells as flat disks with depressions in the center. He even tried to measure them-in 1852, his calculations were refined by German scientist Karl Vierordt. Leeuwenhoek was able to study the path of red blood cells in tadpoles, frogs, and other animals and determined that, without doubt, blood traveled in an entirely closed circle, proving Harvey's contention. Soon, in 1669, English doctor Richard Lower noted that blood coming through arteries was red and that blood flowing toward the heart in veins was bluish."
+						}
+					],
+					"type": "p",
+					"uid": "493d054c-1f89-4467-909d-30106baf3cec",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "English chemist Joseph Priestley "
+						},
+						{
+							"children": [
+								{
+									"text": "discovered"
+								}
+							],
+							"type": "a",
+							"uid": "eaf40bc2-96a5-40d9-8223-77fe38c681fb",
+							"attrs": {
+								"url": "89158762"
+							}
+						},
+						{
+							"text": " the gas oxygen in 1774, and French chemist Antoine-Laurent Lavoisier was able to show in 1778 that air consisted (mainly) of two gases, oxygen (one-fifth) and nitrogen (four-fifths). A German chemist, Julius Lothar Meyer, showed in 1857 that oxygen did not generally mix with the liquid part of the blood, combining instead with red blood cells."
+						}
+					],
+					"type": "p",
+					"uid": "3f334381-3723-4ea5-9469-301c185c3880",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The scientific detective work on blood continued with the aid of improved microscopes. It was learned that the cells of the body contained complicated substances called proteins, each of which was made up of groups of atoms called molecules. German scientists were among the first to examine the composition of blood. Otto Funke obtained a protein from red blood cells in 1851. Then Felix Hoppe-Seyler purified it, studied it, and named it hemoglobin (“blood protein”). The secrets of this precious commodity continued to unfold. In 1747, Italian chemist Vincenzo Antonio Menghini found that there was a small quantity of iron in blood, apparently stored in red blood cells."
+						}
+					],
+					"type": "p",
+					"uid": "798f8a38-493d-4bb4-99fa-d565bce2efe9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Gradually, these findings led to the transfusion of blood from one person to another. In the seventeenth century, blood transfusions were attempted between animals. In 1666, Richard Lower unsuccessfully tried to transfuse blood from an animal to a human being. Sometimes the operation helped, but occasionally people died after such a transfusion, so doctors largely abandoned the practice. Then, in 1818, James Blundell, an English physician who theorized that the blood of a particular kind of animal would help only that particular kind, transfused blood from healthy human beings to other human beings who needed blood. While often successful, the procedure sometimes caused agglutination, a process in which red blood cells clumped together and would not function properly."
+						}
+					],
+					"type": "p",
+					"uid": "ad5c264b-7ea2-44b9-a586-ce15d56f4d9a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 1901, an Austrian doctor named "
+						},
+						{
+							"children": [
+								{
+									"text": "Karl Landsteiner"
+								}
+							],
+							"type": "a",
+							"uid": "1e725242-75f4-4a6e-b510-e684eb5cfabd",
+							"attrs": {
+								"url": "88832696"
+							}
+						},
+						{
+							"text": " solved the problem by observing that there were four kinds of blood cells. Depending on the chemical content, the blood was named as types A, B, AB, and O. Continuing practice showed that not all blood types worked well with one another; some tended to agglutinate when introduced to the wrong type."
+						}
+					],
+					"type": "p",
+					"uid": "6f3030b5-601f-449c-9408-0e0d409b50f8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Although red blood cells are by far the most numerous objects that float in the bloodstream, they are not the only ones. In 1850, French physician Casimir-Joseph Davaine noticed cells, pale and uneven in shape, that were much larger than red blood cells. By 1869, he noticed that these cells would absorb bits of foreign matter in the blood. In 1875, German doctor Paul Ehrlich, interested in using dyes on these white cells, found that he was able to classify them into different types."
+						}
+					],
+					"type": "p",
+					"uid": "54a1e493-3f9a-40ca-9c64-068df45fa667",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In the late nineteenth century, Russian scientist Élie Metchnikoff (also known as Ilya Ilich Mechnikov), while studying bacteria, noticed that whenever there was a cut, white cells were carried to it in great numbers by the blood. So much blood went to the injured part that it grew red and inflamed and was painful from the pressure exerted by the blood on the vessel walls. Metchnikoff called the bacteria-eating cells phagocytes. He had become interested in the study of bacteria following the pioneering work of France's Louis Pasteur in the 1860s."
+						}
+					],
+					"type": "p",
+					"uid": "58fdeea5-2932-4541-9a2b-d0dc7822efc3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The clotting of wounds became more interesting to the medical community. In 1842, French scientist Alfred Donne had reported a new type of object floating in the bloodstream. An Italian physician, Giulio Cesare Bizzozero, concluded that the foreign objects had something to do with clotting. He called them platelets because their shape resembled tiny plates. What was to be learned about them much later is that they have a life span of about nine days and that they break down when exposed to air after bleeding starts. As they begin to break down, platelets release a substance that starts a long chain of chemical changes that ends in clotting."
+						}
+					],
+					"type": "p",
+					"uid": "49817bf9-8940-425e-857e-c960dabced82",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "While many scientists were concentrating on the study of red blood cells, white blood cells, and platelets, attention was also being paid to plasma, the colorless liquid that serves as a transport mechanism for objects floating in it. Eventually, it was learned that plasma carries red blood cells to the lungs to take up oxygen and then to the rest of the body to deliver the oxygen. Plasma carries white blood cells to any part of the body where they are needed to fight bacteria. It also carries platelets to any part of the body where blood loss must be stopped. Furthermore, the watery plasma absorbs heat at the liver and delivers it to the skin so that the body stays warm."
+						}
+					],
+					"type": "p",
+					"uid": "4468db5e-a3dd-492f-aa75-da76a4df212c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "More recent studies show that about 8 percent of plasma is composed of dissolved substances that are important in keeping conditions in the body even. Some chemicals in the plasma neutralize acids and bases, which could threaten cells. The plasma also carries glucose molecules and fatty acids to specific destinations in order to produce energy in the body. Furthermore, it dissolves wastes such as carbon dioxide and delivers urea to the kidneys for disposal. Hormones, which were first discovered in 1902, are also carried by the plasma to any part of the body where they are needed."
+						}
+					],
+					"type": "p",
+					"uid": "8f15c7f2-25b7-4767-b24b-86eef59b632b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "More than half the weight of substances dissolved in plasma are proteins. Proteins fall into two groups, albumins and globulins. Some proteins combine easily with substances that the body needs in small amounts. Gammaglobulins have the capacity to neutralize foreign substances, such as viruses or the poisonous toxins produced by bacteria, by combining with them. Gammaglobulins that act in this way are called antibodies."
+						}
+					],
+					"type": "p",
+					"uid": "3718ba70-ce23-47f7-bb48-f9e8339d306e",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "All these discoveries and many others (such as the existence of fibrinogen, fibrin, the Rh factor, and enzymes) have combined to improve the procedures for storing and transfusing blood. Safeguarding blood for transfusion has always been a problem. The precious liquid is unstable, and a fresh supply has always been needed in any emergency."
+						}
+					],
+					"type": "p",
+					"uid": "dec9ef56-5b7d-42e4-8329-74a90b15b652",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In the late 1930s, Russian scientists discovered that citrated blood can be stored if refrigerated at a temperature of about 4.5 degrees Celsius (40 degrees Fahrenheit). Then, in 1936, "
+						},
+						{
+							"children": [
+								{
+									"text": "blood banks began"
+								}
+							],
+							"type": "a",
+							"uid": "040b7dc7-80b6-443d-b6c3-e59876d658c6",
+							"attrs": {
+								"url": "89129360"
+							}
+						},
+						{
+							"text": " with a Canadian doctor, Norman Bethune, made large-scale use of a blood bank with antifascist forces during the Spanish Civil War. During World War II, the noted American blood bank pioneer Charles Drew, who had made a special study of ways to store and ship blood plasma, organized a nationwide “Blood for Britain” campaign in which thousands of lives were saved."
+						}
+					],
+					"type": "p",
+					"uid": "4eef4276-70ac-4f29-92df-ac324928fd8a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Before blood banks could evolve, a number of additional discoveries had to be made. Before the discovery of agglutinins and blood typing, blood was transfused directly from donor to patient. The two lay side by side, and the blood flowed from the artery of the donor to the vein of the recipient. There was no way of measuring the amount of blood being transfused. It became dangerous for the donor if he or she changed from rosy-colored and talkative to pale or unconscious. There was also the danger that a blood clot in the tube might enter the patient's blood vessels. In addition, the blood might be flowing too fast and overload the patient's heart."
+						}
+					],
+					"type": "p",
+					"uid": "0cfbba3b-3cb0-4172-af9d-696e25274cbb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A new tube to facilitate blood transfusion more safely was developed in 1909. Then, in 1914, Argentine doctor Luis Agote discovered that sodium citrate could stop the clotting of blood, permitting blood to be kept in a bottle while it was slowly directed into a patient's vein. Physicians could finally control the quantity and speed of transfusions."
+						}
+					],
+					"type": "p",
+					"uid": "8074a14a-c3fe-4843-8fb6-63ad3f607fa0",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The use of stored blood began in 1918 by Oswald H. Robertson, a World War I physician, who found it could be kept virtually intact for several days by storing it at low temperatures, from 2 to 4 degrees Celsius. The first large blood bank was established at the Cook County Hospital in Chicago in 1937."
+						}
+					],
+					"type": "p",
+					"uid": "3bf0f09e-6a24-4d5b-9ab5-b0aee5a5c5b5",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The Role of Blood Banks"
+						}
+					],
+					"type": "h1",
+					"uid": "c796ff8e-382b-40e6-9d45-4a7988e9ec2c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A blood bank is an organizational unit responsible for collecting, processing, and storing blood to be used for transfusion and other purposes. It is usually a subdivision of a laboratory in a hospital and is often charged with the responsibility for all serologic testing. Although blood can be withdrawn from one person and transfused directly into another, the usual practice is for hospitals and authorized agencies to select donors, draw blood (phlebotomy), screen the specimens, arrange them into blood groups, and store the blood until it is needed."
+						}
+					],
+					"type": "p",
+					"uid": "42d5be36-46d9-4e4b-ad37-b452b1efa1db",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Each unit of donated blood, referred to as whole blood, is approximately 1 pint. After it is drawn, the blood separated into its constituent parts, which consist primarily of "
+						},
+						{
+							"children": [
+								{
+									"text": "red blood cells"
+								}
+							],
+							"type": "a",
+							"uid": "789a1bfb-98c0-4879-bfe9-3c721cfe5ee3",
+							"attrs": {
+								"url": "87322009"
+							}
+						},
+						{
+							"text": ", plasma, and platelets. The components can then be transfused to different patients depending on their individual needs."
+						}
+					],
+					"type": "p",
+					"uid": "30a5f2eb-9e15-46a3-9495-b6c0f91f3ece",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The storage of blood was once short-lived because of clotting and inadequately low temperature levels. A blood bank can now store blood for much longer periods of time, sometimes a year or two. It is stored with an "
+						},
+						{
+							"children": [
+								{
+									"text": "anticoagulant"
+								}
+							],
+							"type": "a",
+							"uid": "bc6ace36-2c43-42f0-b59f-496fee28c31d",
+							"attrs": {
+								"url": "89403360"
+							}
+						},
+						{
+							"text": ", generally an acid-citrate-dextrose (ACD) solution composed of trisodisum citrate, citric acid, dextrose, and sterile water. Red blood cells from blood stored in an ACD solution will survive in the recipient for one hundred days. All chemical changes in blood are slowed by cold temperatures. Red blood cells can be stored for a maximum of 42 days via refrigeration. Platelets, on the other hand, are stored at room temperature and can only be stored for a maximum of five days. It has been found that more prolonged storage of blood can be achieved by freezing and maintaining it at extremely low temperatures-below –70 degrees Celsius (–94 degrees Fahrenheit). While freezing and thawing of whole blood does not harm plasma, it can damage red blood cells unless glycerol or dimethyl sulfoxide solutions are used to minimize the damage and permit red cells to be maintained in a frozen state for months without significant injury. Red blood cells may be frozen for up to ten years, while plasma can only be frozen for one year."
+						}
+					],
+					"type": "p",
+					"uid": "79fb2ee7-775b-4d1a-92e9-fc5c06ffcbe9",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "After Karl Landsteiner discovered that blood could be classified into four major blood groups, safer transfusions could be attempted. Landsteiner also worked with the American pathologist Alexander S. Wiener to discover another system of blood grouping known as the "
+						},
+						{
+							"children": [
+								{
+									"text": "Rh system"
+								}
+							],
+							"type": "a",
+							"uid": "af530cb0-5712-4a4d-bdaf-5d9b6bfb5b00",
+							"attrs": {
+								"url": "89145120"
+							}
+						},
+						{
+							"text": ". The name was derived from the rhesus monkeys with which the scientists experimented."
+						}
+					],
+					"type": "p",
+					"uid": "880d0832-ef97-4fe4-935b-3ed0e0d96544",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "It was found that a person with type A blood (having “A” antigens in the red blood cells and “b” antibodies in the blood plasma) cannot successfully give blood to a person with type B blood (having “B” antigens and “a” antibodies) because the clumping of blood cells would occur."
+						}
+					],
+					"type": "p",
+					"uid": "fc1abc8a-c4c3-4c49-9d7e-e08fb5ff4aaf",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Successful blood transfusions depend on the type of antigens in the donor's red blood cells, not on the type of antibodies in the plasma, because the recipient's blood cells greatly outnumber the antibodies in the donor's blood, and serious clumping could not occur. A donor's red blood cells, however, are few enough in number that all of them can be agglutinated by the recipient's antibodies. These clumps could then plug the capillaries, reducing and eventually cutting off the flow of blood. This reaction is serious and can cause death."
+						}
+					],
+					"type": "p",
+					"uid": "e6662dc6-59fc-453a-b7f1-90c06fae9363",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "A person with type AB blood, who has both “A” and “B” antigens in the red blood cells and no agglutinins in the plasma, can receive the red blood cells of any other group. A type O person (a universal donor) has no antigens and can donate blood to any person but can receive only type O blood. Therefore, type O is the most requested blood type by hospitals."
+						}
+					],
+					"type": "p",
+					"uid": "3f8054dd-1ec8-4fba-bf40-337dbfdcb49a",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The ABO system of grouping blood types has led to further refinements. Ten major and minor blood groupings have been identified from the variety of proteins also found in blood cells. The most important is the Rh system. There are two Rh blood types: Rh positive and Rh negative. A person with the Rh-positive factor has the protein, while a person with Rh-negative blood does not have the protein. Infusing an Rh-negative person with Rh-positive blood causes special antibodies to be formed in the blood of the recipient. A later transfusion of Rh-positive blood would result in the agglutination of the red blood cells received."
+						}
+					],
+					"type": "p",
+					"uid": "a40f7f1d-67ec-492f-b049-65d6b4246122",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "This reaction is especially important when incompatibility occurs between the blood of a pregnant woman and her baby. This happens only if the mother has Rh-negative blood and the baby has Rh-positive blood because it has inherited "
+						},
+						{
+							"children": [
+								{
+									"text": "Rh-positive genes "
+								}
+							],
+							"type": "a",
+							"uid": "92c2e68c-944f-42b6-8374-343f58f42cd3",
+							"attrs": {
+								"url": "94416675"
+							}
+						},
+						{
+							"text": "from the father. When such a baby is born, some of the baby's blood enters the mother's circulatory system, causing her body to produce antibodies to combat the “foreign material.” Since this intrusion of blood almost always happens as a delayed reaction after the baby is born, the first baby is probably unharmed. However, a subsequent baby could be the victim of these antibodies, which the mother's body continues to produce. Such a developing baby could suffer the destruction of its red blood cells if it has Rh-positive blood, unless preventive steps such as a blood transfusion for the baby are taken. Another medical development is a medicine known as Rho(D) immune globulin, which provides protective immunization and has almost eliminated the dangers of Rh incompatibility. Blood transfusions are regularly used in crises such as accidents or life-threatening illnesses. Most commonly, they are used to restore the volume of circulating blood lost by acute hemorrhaging. They are also used to restore the large volume of plasma that is often lost after severe burns. In acute or chronic anemia cases, such as with acquired immunodeficiency syndrome (AIDS) or leukemia, they are used to maintain hemoglobin and red blood cells at adequate levels. Transfusions are also used to provide platelets for coagulation in order to counteract various bleeding disorders or acute hemorrhaging."
+						}
+					],
+					"type": "p",
+					"uid": "876578f4-b968-44c1-b81b-545e24d17584",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In the News: Blood Banks and Antigerm Screening"
+						}
+					],
+					"type": "h1",
+					"uid": "1ae76d92-eca9-41e1-9c4e-994506f168ac",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Blood banks in the early twenty-first century faced growing challenges as new diseases threatened the purity of their blood supplies. In response to such threats, researchers attempted to design improved methods for blood banks to screen donors and blood for protection against contamination."
+						}
+					],
+					"type": "blockquote",
+					"uid": "77fe30f5-d323-4d6d-becf-25062c7b04ed",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "West Nile virus, a mosquito-borne disease, was first identified in the United States in 1999. In the fall of 2002, health officials discovered that organ transplant recipients had become infected with the virus through blood transfusions. The majority of West Nile victims displayed no visible symptoms and had unintentionally donated contaminated blood. In November of that year, the Food and Drug Administration (FDA) called for the development of a test before the outbreak of the 2003 mosquito season. Although some experts doubted that a screening method could be produced so quickly, two tests that detected minute fragments of the West Nile virus genes were in use by July 1. The tests also revealed the presence of viruses responsible for Japanese, St. Louis, and Murray encephalitis, permitting blood banks to reject blood contaminated with these diseases as well."
+						}
+					],
+					"type": "blockquote",
+					"uid": "43c13800-a955-43c6-a41c-e729c0f35958",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Although no conclusive evidence proved that either Creutzfeldt-Jakob disease (the human form of mad cow disease) or severe acute respiratory syndrome (SARS) were in fact transmissible through blood transfusions, blood banks used verbal screening of potential donors to defend against these recent disease outbreaks. FDA guidelines mandated rejection or deferral of blood donations from people who might have been exposed to either disease."
+						}
+					],
+					"type": "blockquote",
+					"uid": "2c01ff2f-1637-41c6-a009-9f6c6750afc3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 2002, the FDA approved nucleic acid amplification tests (NAT) for the hepatitis C virus (HCV) and the human immunodeficiency virus 1 (HIV-1). Unlike existing tests for the presence of antibodies, which do not develop in the earliest stages of a disease, the NAT reacts to small fragments of virus deoxyribonucleic acid (DNA) and can detect infections before the appearance of symptoms. The West Nile virus tests use similar methods."
+						}
+					],
+					"type": "blockquote",
+					"uid": "8b3e9783-3478-4e1b-94b5-9df196edc8a6",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Ongoing research into improved techniques for detecting bacteria and other blood pathogens, and into ways of using physical or chemical methods to destroy these organisms, may further improve blood supply safety."
+						}
+					],
+					"type": "blockquote",
+					"uid": "f2f46e43-45b1-4a73-90fc-08882ff8ec94",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"children": [
+								{
+									"text": "—Milton Berman, Ph.D.",
+									"italic": true
+								}
+							],
+							"type": "span",
+							"uid": "7f71891a-c344-4ddc-9d58-87e19405312d",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "blockquote",
+					"uid": "c7733613-6c01-4964-86e8-334381d294c2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Blood transfusions are being used more extensively-and more safely-than ever before. Many more surgeries are possible with transfusions including organ implants, heart repair, limb reconstruction, grafting for severe burn cases, and bone grafts."
+						}
+					],
+					"type": "p",
+					"uid": "4906e763-06b3-41ff-be5f-46c6812b9a46",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Perspective and Prospects"
+						}
+					],
+					"type": "h1",
+					"uid": "b737bb50-6d69-45fd-aede-084c8db29d8f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Five million patients a year receive blood, largely in emergency cases. Many are in need of emergency surgery for an internal disorder, but many others are victims of social violence, earthquakes, and hurricanes. Large-scale devastation often comes close to depleting the blood supply in an area. New and repeat donors, therefore, are always in demand. New ways of storing blood safely and for longer periods of time are constantly being researched. In the United States, the work of blood banks comes under the ultimate supervision of the Food and Drug Administration (FDA) and federal agencies, as well as the Oversight and Investigations Subcommittee of the House Energy and Commerce Committee. Also interested in their function are the congressionally funded Public Health Service and the Centers for Disease Control (CDC). The largest United States blood bank is that of the Red Cross, which provides, through its local affiliates, about half of the 16 million units of blood donated each year in the United States. The Red Cross, as well as individual nonprofit and commercial agencies, is striving for improved health and safety procedures in blood donation."
+						}
+					],
+					"type": "p",
+					"uid": "99361b18-b9da-4d97-b5ed-ac1370fe37ec",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The American Association of Blood Banks gathers and interprets data each year. It has found that there have been relatively few transfusion-induced cases of viral infection. Almost all the transfusion-related AIDS cases, for example, developed in 1985, before tighter screening of donors, safer procedures, and strict AIDS antibody screening were instituted. Only fifteen cases of AIDS from blood transfusion were reported between 1985 and 1992. This contrasts with the pre-1985 figure of 3,425 transfusion-associated cases of AIDS reported to the Centers for Disease Control. As of 2014, the rate of presence of the HIV antibody in blood donor population fell to .5 per 10,000 donations from 3.5 per 10,000 donations in the early 1990s."
+						}
+					],
+					"type": "p",
+					"uid": "8625cbe4-e226-4046-a659-faabcee34307",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Concern about other viral infections transmitted through blood transfusions has increased vigilance against blood impurities and has improved sanitary procedures. Governmental agencies, the Red Cross, and private corporations have intensified their efforts to protect the quality of the blood supply. The International Society of Blood Transfusion continues to examine new threats."
+						}
+					],
+					"type": "p",
+					"uid": "bcb2236e-2d82-4619-9fd5-4b27ed3757bd",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Steps are continually reviewed to improve record keeping, blood collection, tracking, and distribution by all organizations. The FDA has a comprehensive inspection program that focuses on all phases of the collection-dispersal program of all blood banks, as well as on their training of workers and updating of procedures. It looks closely at procedures for donor screening, the testing for hepatitis and AIDS virus antibodies, and the quarantine and destruction of unsuitable blood products."
+						}
+					],
+					"type": "p",
+					"uid": "eb69931f-313b-470a-ae79-6bc8141b0127",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The American Red Cross complies with these regulations and works with the FDA to create the safest blood supply possible. It has a state-of-the-art computerized information system. It keeps track of all its donors and retains files on all persons disqualified from giving blood. This information is available throughout the United States. The computerized program is also being expanded internationally because there is a growing import-export business between countries in need of new supplies. The American Red Cross database lists would-be donors, types and quantities of blood in storage, location of hospitals and distribution centers, and other information vital to the prompt, efficient, and safe distribution of blood."
+						}
+					],
+					"type": "p",
+					"uid": "0a47ef2e-a5bc-40f1-b1a8-7cdb20c680b7",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "In 2010, the CDC launched a national public health surveillance known as the Hemovigilance Module. Its purpose is to monitor and record adverse reactions resulting from blood transfusions. By collecting a large pool of data in a national system, the CDC will be able to amass this information and develop new methods to prevent the adverse incidents that can come with transfusion."
+						}
+					],
+					"type": "p",
+					"uid": "881d9a63-5ad1-4519-b231-797c9031d4f1",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Blood safety begins with screening. Only healthy individuals are allowed to give blood. Blood samples undergo extensive screening designed to detect any blood-borne infectious agent. Some collection agencies are developing lists of unwanted donors, including persons with a high risk of having been exposed to the AIDS virus or to other dangerous viruses or bacteria, such as those that cause hepatitis or syphilis. The goal is to reduce the chance of obtaining infectious blood as much as possible."
+						}
+					],
+					"type": "p",
+					"uid": "9fcd0da7-e16a-4dec-bd61-d9fc1707afb6",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "According to the CDC in 2013, there are seven infectious disease pathogens that all donated blood must be screened for. These include bacterial contamination, Hepatitis B and C viruses, Human Immunodeficiency Virus (HIV) types 1 and 2, Human T-Lymphotropic Virus (HTLV) types I and II, Treponema pallidum (syphilis), and West Nile Virus. Cytomegalovirus and Trypanosoma cruzi (Chagas disease) are often tested by blood centers but are not among the required tests. The various pathogens are tested through different means including cultures and antibody detection. It is an expensive set of procedures, and hospitals, clinics, and other medical institutions are working on how to reduce these costs."
+						}
+					],
+					"type": "p",
+					"uid": "6f4afb58-2549-436a-bb76-a12023f7f4f3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Many viruses are elusive, including HIV, which takes time to develop. To hasten its identification, scientists have developed the technique of “pooling” by combining blood known to contain infected cells with samples of blood with uninfected normal lymphocytes in an effort to stimulate HIV replication and make the HIV come to light faster. It has been found that the most reliable mix is a pool of fifty donors. The concept of pooling is scientifically valid and economically feasible."
+						}
+					],
+					"type": "p",
+					"uid": "56ec4d63-6752-4926-b5e5-9eba9aa88c8f",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "While the risk of acquiring a transfusion-related infection is extremely low, there is still concern among the public that individuals might be susceptible to specific blood diseases."
+						}
+					],
+					"type": "p",
+					"uid": "6661727f-7263-44e2-adfc-9cb553ec43b5",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "7b24e79b-0527-4ad0-a756-5996347f23d5"
+		},
+		"color_picker_for_citations": null,
+		"author_note": null,
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "For centuries, blood was thought to be a simple liquid, but it is actually a bodily tissue. The cells, instead of being joined together as in solid bodily tissues, are suspended in a fluid called plasma, which comprises more than half of blood composition. The cellular portion of blood is largely red blood cells, with smaller numbers of white blood cells and platelets also present. Blood itself is the final functioning tool of the circulatory system, which helps to transport the blood to where it is needed in the body. Blood is an extremely complicated substance, and more things are being learned about it every year."
+						}
+					],
+					"type": "p",
+					"uid": "efda5828-81ad-412f-b541-44b75be64419",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "35fcf465-7d35-4ce6-93ee-76f4e6d485fc"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": true,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": "Complete inside RTE",
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

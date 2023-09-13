@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">supc_rs</book-id>
+    <book-id pub-id-type="eis-mid">H6Q0</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">H6Q0</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>22</day>
+      <month>March</month>
+      <year>2014</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="SupC_RS.10.3331.97463"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">supc_rs_97463</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>American History</subject>
+            <subj-group>
+              <subject>US History 1901-1950</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Government, Politics</subject>
+            <subj-group>
+              <subject>Government, Politics</subject>
+              <subject>Laws, Acts, Legislation</subject>
+              <subject>Supreme Court, U.S.</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Law, Legal History, Courts</subject>
+            <subj-group>
+              <subject>Law, Legal History, Courts</subject>
+              <subject>Supreme Court, U.S.</subject>
+              <subject>Trials, Judges, Lawyers</subject>
+              <subject>Government, Politics</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>North America</subject>
+            <subj-group>
+              <subject>North America</subject>
+              <subject>United States</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Wiley B. Rutledge,  Jr.</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Harvey Gresham</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Hudspeth</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN3194690"
+                        object-id-type="dbpub-entity"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Rutledge was the son of a circuit-riding Baptist preacher. Receiving a preliminary education at Marysville College in Tennessee, he subsequently received his B.A. degree at the University of Wisconsin in 1914. Rutledge spent the next three years teaching high school in Indiana before relocating for reasons of health to Albuquerque, New Mexico.
+                  </p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>The ninth and final appointee of Franklin D. Roosevelt, Rutledge played a pivotal role in moving the Supreme Court on a course from economic to social liberalism. However, his untimely death in 1949 had the effect of blunting liberal reform until the rise of the Warren Court four years later.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>3194690-Wiley Blount Rutledge, Jr.</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/SupC_4541083011</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <bold>
+              <sc>Nominated by:</sc>
+            </bold>  Franklin D. Roosevelt</p>
+          <p>
+            <bold>
+              <sc>Significance:</sc>
+            </bold> The ninth and final appointee of Franklin D. Roosevelt, Rutledge played a pivotal role in moving the Supreme Court on a course from economic to social liberalism. However, his untimely death in 1949 had the effect of blunting liberal reform until the rise of the Warren Court four years later.</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>Rutledge was the son of a circuit-riding Baptist preacher. Receiving a preliminary education at Marysville College in Tennessee, he subsequently received his B.A. degree at the University of Wisconsin in 1914. Rutledge spent the next three years teaching high school in Indiana before relocating for reasons of health to Albuquerque, New Mexico.<index-term>
+              <primary>Roosevelt, Franklin D.;nominations to the Court</primary>
+            </index-term>
+          </p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <p>Wiley B. Rutledge, Jr. U. S. Supreme Court justice.</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="95330511-93302.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Library of Congress</copyright-statement>
+            </permissions>
+          </fig>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <p>Justice Wiley B. Rutledge, Jr., along with Justice Frank Murphy, departed from Hugo Black's dissent in Adamson in contending that the Court should not restrict the meaning of due process to the rights contained in the first eight amendments.</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="95329071-46175.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>(Library of Congress)</copyright-statement>
+            </permissions>
+          </fig>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <p>Wiley B. Rutledge, Jr.</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="95330511-46373.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>(Library of Congress)</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Named secretary to the Albuquerque City school board in 1917, Rutledge that same year began studying law. In 1922 he received his juris doctorate from the University of Colorado, which subsequently hired him as a professor of law. He later taught at Washington University in St. Louis before moving on to the University of Iowa, where he became dean of the law school in 1930.</p>
+          <p>During the next six years, Rutledge became known for his liberal views. His enthusiastic support for Franklin D. Roosevelt’s New Deal programs eventually brought him to the attention of Nebraska Senator George W. Norris, and in 1936 Rutledge was appointed associate justice of the U.S. District Court of Appeals for the District of Columbia. His most famous ruling at this time was to vote to convict the American Medical Association for violating the Sherman Antitrust Act (1890).</p>
+          <p>In 1939 Rutledge was considered twice for the Supreme Court for seats that were ultimately filled by Felix Frankfurter and William O. Douglas. With the resignation of Justice James F. Byrnes in late 1942, however, Rutledge was named Roosevelt’s ninth and final appointee to the Court on January 11, 1943.</p>
+          <p>Rutledge faced little trouble with his confirmation. Overcoming criticism that he had no real courtroom experience, Rutledge was overwhelmingly approved by the Senate on February 8 and formally took his seat on the Court one week later. Almost immediately, he became a member of the Court’s liberal bloc along with Hugo L. Black, William O. Douglas, and Frank Murphy.</p>
+          <p>An ardent believer in the concept of economic liberalism, Rutledge readily supported almost all efforts at administrative regulation of the economy even at the expense of judicial review. Over time, however, Rutledge became better known for his untiring support of civil liberties, especially involving the First and Fifth Amendments.</p>
+          <p>Participating in the controversial labor law case of <italic>United States v. United Mine Workers</italic>
+            <index-term>
+              <primary>[case]<italic>United Mine Workers, United States v.</italic>[United Mine Workers, United States v.]</primary>
+            </index-term> (1947), Rutledge joined Murphy in a dissent that would ultimately be the beginning of the end of what was sometimes called the “Roosevelt Court.” With the death of Justice Murphy on July 19, 1949, and Rutledge’s unexpected demise less than two months later, President Harry S Truman was able to appoint more socially conservative jurists to the bench to transform the Court.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bader, William H., and Roy M. Mersky, eds. <italic>The First One Hundred Eight Justices</italic>. Buffalo, N.Y.: William S. Hein, 2004.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Belknap, Michal R. <italic>The Vinson Court: Justices, Rulings, and Legacy.</italic> Santa Barbara, Calif.: ABC-Clio, 2004.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ferren, John M. <italic>Salt of the Earth, Conscience of the Court: The Story of Justice Wiley Rutledge</italic>. Chapel Hill: University of North Carolina, 2004.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Harper, Fowler. <italic>Justice Rutledge and the Bright Constellation</italic>. Indianapolis, Ind.: Bobbs-Merrill, 1965.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Harrington, Matthew P. <italic>Jay and Ellsworth, The First Courts: Justices, Rulings, and Legacy</italic>. Santa Barbara, Calif.: ABC-Clio, 2007.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Renstrom., Peter G. <italic>The Stone Court: Justices, Rulings, and Legacy</italic>. Santa Barbara, Calif.: ABC-Clio, 2001.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Rutledge, Wiley B., Jr.</article-title>
+                <source>Encyclopedia of the U.S. Supreme Court</source>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Thomas T.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Lewis</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Richard L.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Wilson</surname>
+                  </name>
+                </person-group>
+                <year>2001</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

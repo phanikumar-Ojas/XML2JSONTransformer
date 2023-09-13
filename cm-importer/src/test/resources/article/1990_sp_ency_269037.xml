@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">1990_sp_ency</book-id>
+      <book-id pub-id-type="eis-mid">GY4S</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4S</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>May</month>
+         <year>2017</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="ninty_sp_ency.10.3331.269037"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">1990_sp_ency_269037</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Economics, Economists</subject>
+                  <subj-group>
+                     <subject>Economics, Economists</subject>
+                     <subject>Business</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Literature, Publishing</subject>
+                  <subj-group>
+                     <subject>Literature, Publishing</subject>
+                     <subject>Authors, Writers</subject>
+                     <subject>Business</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Book clubs</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Nicole</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Anae</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Three major corporations represented the key players in the book club business during the 1990s: Bertelsmann’s Doubleday Direct, Time Inc.’s Book-of-the-Month Club, and Rodale Press’s six holdings. Bertelsmann claimed in 1999 that together, the clubs boasted a combined membership of 4.5 million people. Book clubs A book club meeting. By Menchakabi, CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons A book club meets for discussion. By Mara Fergo, CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>
+                     <italic>Book clubs represented big business throughout the 1990’s.</italic> The New York Times <italic>reported on December 14, 1999, that for the year through October, net sales for book clubs had reached $950 million, an increase of 4.5 percent over the comparable period a year earlier. Book discussion clubs became increasingly popular, in part because of Oprah’s Book Club.</italic>
+                  </p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/1990_1071</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1096</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <bold>
+                     <sc>Definition</sc>
+                  </bold> Commercial organizations that sell books to members, or a group of people who read books and meet to discuss those works.</p>
+               <p>
+                  <italic>Book clubs represented big business throughout the 1990s.</italic> The New York Times <italic>reported on December 14, 1999, that for the year through October, net sales for book clubs had reached $950 million, an increase of 4.5 percent over the comparable period a year earlier. Book discussion clubs became increasingly popular, in part because of Oprah’s Book Club. The growth and development of the Internet throughout the 1990s and the 2000s, however, impacted how book club members convened to discuss books. In the 2010s, more and more readers are joining online book clubs to discuss literary works.</italic>
+               </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>Three major corporations represented the key players in the book club business during the 1990s: Bertelsmann’s Doubleday Direct, Time Inc.’s Book-of-the-Month Club, and Rodale Press’s six holdings. Bertelsmann claimed in 1999 that together, the clubs boasted a combined membership of 4.5 million people.<index-term>
+                     <primary>Book clubs</primary>
+                  </index-term>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>A book club meeting.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="1990-sp-ency-269037-152954.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Menchakabi, CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>A book club meets for discussion.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="1990-sp-ency-269037-152955.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Mara Fergo, CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Bertelsmann International Media Company</title>
+               <p>German-based <index-term>
+                     <primary>Bertelsmann</primary>
+                  </index-term>Bertelsmann is the largest book club operation in the world. In 1998, Bertelsmann’s Doubleday Direct (formerly the Doubleday One Dollar Book Club) acquired Newbridge Communications, renaming it Doubleday Select, Inc. In July of that year, Bertelsmann acquired Random House from Advance Publications, merging it with Bantam Doubleday Dell. Bertelsmann then represented the biggest trade publisher in the English-speaking world, with the United States becoming Bertelsmann’s most important market at the time. The US operations of Bertelsmann included the Literary Guild and Doubleday’s book and record clubs. By December, 1999, the media conglomerate planned to consolidate a partnership with Bertelsmann’s Literary Guild and the Book-of-the-Month Club unit of Time Inc.</p>
+               <p>Bertelsmann maintained a substantial stake in the online book business. In 1995, the company, together with America Online (AOL), launched the online service AOL Europe. By 1999, Bertelsmann held a 40 percent interest in Barnesandnoble.com. In the same year, Bertelsmann launched Bertelsmann Online (bol.com), the Internet book retailer.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>School Book Clubs</title>
+               <p>School book clubs expanded dramatically in the 1990s, perhaps driven to some degree by pedagogic movements such as “whole language” or “literature-based” approaches to teaching and learning. These approaches focused on literature-rich learning environments, which conceivably offered major book clubs such as Scholastic, Trumpet, and Golden Book Club opportunities to grow and diversify. School book clubs continued to supply children with books and other materials throughout the 1990s but also began supplying classrooms with literacy materials in the form of trade books for elementary literacy programs. These book clubs also began supplying miscellaneous merchandise to children. Some of the most popular serialized school book club titles in the 1990s, such as those of the Baby-sitters Club, Sweet Valley High, and Boxcar Children mystery series, included miscellaneous merchandise such as stickers, posters, puzzles, stamps, pencils, activity sheets, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87321432"
+                                   xlink:type="simple">computer software</related-article>, and games. Book clubs also supplied children with so-called activity books, such as Martin Handford’s <italic>Where’s Waldo?</italic> series, which challenged young readers to find characters rather than to read about them, while at the same time inviting readers to play games, solve puzzles, and crack brainteasers.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Oprah Winfrey’s Book Club</title>
+               <p>In September, 1996, media personality <index-term role="personages">
+                     <primary>Winfrey, Oprah</primary>
+                  </index-term>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="90669696"
+                                   xlink:type="simple">Oprah Winfrey</related-article> launched <index-term>
+                     <primary>Oprah’s Book Club[Oprahs Book Club]</primary>
+                  </index-term>Oprah’s Book Club on her daytime program, <italic>The Oprah Winfrey Show</italic>. She would do more to popularize book discussion clubs than any other person of her time. Initially, many underestimated the potential appeal of Oprah’s Book Club, including Winfrey herself. From a relatively short ten- to fifteen-minute segment close to the conclusion of the show, the segment had grown significantly by the late 1990s. Shows featured Oprah discussing her choice of books with a group of well-dressed women seated around a tastefully arranged dinner table or coffee table. Winfrey’s first choice, Jacquelyn Mitchard’s <index-term>
+                     <primary>
+                        <italic>Deep End of the Ocean, The</italic> (Mitchard)</primary>
+                  </index-term>
+                  <italic>The Deep End of the Ocean</italic>, though selling steadily in 1996, topped <italic>The New York Times</italic> weekly best seller list within three months of the show and remained there for twenty-three weeks. Sales figures for the book were estimated at about 100,000 copies before the show aired and ballooned to 850,000 after.</p>
+               <p>Winfrey’s second choice, Toni Morrison’s <index-term>
+                     <primary>
+                        <italic>Song of Solomon</italic> (Morrison)</primary>
+                  </index-term>
+                  <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="87575274"
+                                      xlink:type="simple">Song of Solomon</related-article>
+                  </italic>, first published in 1977, topped <italic>The New York Times</italic> best seller list for the first time after Winfrey discussed the book on her show. Sales figures for <italic>Song of Solomon</italic> soared from 50,000 copies in circulation before the show aired to 500,000 after. Winfrey also featured the hardcover version of Morrison’s <index-term>
+                     <primary>
+                        <italic>Paradise</italic> (Morrison)</primary>
+                  </index-term>
+                  <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="117480111"
+                                      xlink:type="simple">Paradise</related-article>
+                  </italic> immediately after its publication in 1998. <italic>Paradise</italic> remained on the best seller list for eighteen weeks, including four weeks at number one.</p>
+               <p>The “Oprah effect” raised questions about the extent to which Winfrey’s endorsement influenced sales of the books featured on her program. Evidence supported the view of Daisy Maryles, editor for <italic>Publishers Weekly</italic>, who once quipped that being one of Oprah’s Book Club picks transformed a novel from “well published and moderately successful” to “mega blockbuster.”</p>
+            </sec>
+            <sec indexed="true">
+               <title>Online Book Clubs</title>
+               <p>With the arrival of the Internet also came the arrival of online book clubs. During the 2000s and the 2010s, online book clubs have transformed into online communities that discuss books—just like regular book clubs do. The difference between a book club and an online book club, however, is that online book club members do not meet physically. Some people feel hesitant about joining these online groups, fearing that they will lack the intimacy and spontaneity of in-person meetings. Readers cannot always make it to book club meetings, however, which makes the online option a more convenient one. Furthermore, online book clubs allow people to join a conversation when it is most convenient for them. And although these online communities plan their virtual meetings ahead of time, anyone can add a comment when they want and read at their own pace. Doing some research, one can find out what type of online book clubs exist out there and join. </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>Where once mail-order companies brought the bookstore to one’s mailbox, with the development of the Internet (1991) and the introduction of browser softwares such as Mosaic (1993), book clubs brought the virtual bookstore to the home.</p>
+               <p>The growth and development of the <index-term>
+                     <primary>World Wide Web;book clubs</primary>
+                  </index-term>Internet throughout the 1990s and 2000s also impacted how book club members convened to discuss books. While advancing computer technologies made it possible for more people to access book clubs, the Internet also removed the need for club members to meet physically, or even in real time. Rather than meet in club rooms, homes, or community centers, more and more Americans joined virtual reading groups, communicating through e-mail, online forums, blogs, and chat rooms.</p>
+               <p>Moreover, the growth in book clubs throughout the 1990s significantly affected <index-term>
+                     <primary>Women;book clubs and</primary>
+                  </index-term>women. One feature common to most book clubs was the fact that most members were women. While book clubs generally encouraged many women, some of whom never read, to read regularly, such clubs also satisfied a social function, enabling women to organize collective reading. In this way, book clubs grew alongside the broader cultural movement toward self-development and self-discovery.<index-term>
+                     <primary>Book clubs</primary>
+                  </index-term>
+               </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Further Reading</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Abel, Judy. "Online Book Clubs: Talk That Stays on the Page." <italic>The New York Times</italic> 20 Sept. 2013, www.nytimes.com/2013/09/22/fashion/online-book-clubs-talk-that-stays-on-the-page.html. Accessed 24 Jan. 2017.</citation>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Farr, Cecilia Konchar. <italic>Reading Oprah: How Oprah’s Book Club Changed the Way America Reads</italic>. Albany: State University of New York Press, 2005. An in-depth discussion of Winfrey’s widely popular book club.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Long, Elizabeth. <italic>Book Clubs: Women and the Uses of Reading in Everyday Life</italic>. Chicago: University of Chicago Press, 2003. Researched discussion of book clubs within specific social and cultural contexts, complete with ethnographic material.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Strickland, Dorothy S., et al. <italic>School Book Clubs and Literacy Development: A Descriptive Study</italic>. Report Series 2.22. Albany, N.Y.: National Research Center on Literature Teaching and Learning, 1994. Report documenting a three-part study of the effect of book clubs on children’s literacy development. Sponsored by the Office of Educational Research and Improvement, Washington, D.C.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="seealso" indexed="true">
+               <title>See Also in This Set</title>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1020"
+                            xlink:type="simple">Amazon.com</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1021"
+                            xlink:type="simple">America Online</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1067"
+                            xlink:type="simple">Blogs</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1191"
+                            xlink:type="simple">E-mail</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1286"
+                            xlink:type="simple">Internet</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1379"
+                            xlink:type="simple">Toni Morrison</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1448"
+                            xlink:type="simple">Publishing</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1602"
+                            xlink:type="simple">
+                        <italic>Where’s Waldo?</italic> franchise</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1609"
+                            xlink:type="simple">Oprah Winfrey</ext-link>
+                  </p>
+               <p>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="doi"
+                            xlink:href="10.3331/1990_1620"
+                            xlink:type="simple">World Wide Web</ext-link>
+                  </p>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Book clubs</article-title>
+                           <source>The Nineties in America</source>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Milton</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Berman</surname>
+                              <x xml:space="preserve">, </x>
+                           </name>
+                        </person-group>
+                           <year>2009</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

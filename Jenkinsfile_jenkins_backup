@@ -1,0 +1,32 @@
+properties([pipelineTriggers([cron('30 1 * * *')])])
+
+pipeline {
+    
+   agent {label 'master'}
+   stages {
+       
+    stage('Clean up backup bucket') {
+        steps {
+            sh 'aws s3 rm --recursive s3://sandbox-cms-jenkins-backup'
+        }
+    }
+    
+    
+    stage('Push jenkins backup to bucket') {
+
+        steps {
+            script {
+            sh 'aws s3 cp --recursive /var/lib/jenkins/jenkins_backup/ s3://sandbox-cms-jenkins-backup/'
+            }
+        } 
+    }
+
+ }
+ 
+    post {
+        always {
+        cleanWs()
+    } 
+  }
+
+}

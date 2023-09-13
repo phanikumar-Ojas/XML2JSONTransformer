@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ge20_rs</book-id>
+      <book-id pub-id-type="eis-mid">G97F</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">G97F</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>2</day>
+         <month>July</month>
+         <year>2013</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="GE20_RS.10.3331.54882"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ge20_rs_54882</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>20th &amp; 21st Century European History</subject>
+                     <subject>German History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Literature, Publishing</subject>
+                  <subj-group>
+                     <subject>Authors, Writers</subject>
+                     <subject>Literature, Publishing</subject>
+                     <subject>Historians</subject>
+                     <subject>Philosophy, Philosophers</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Europe</subject>
+                  <subj-group>
+                     <subject>Europe</subject>
+                     <subject>Germany</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Meinecke Advances the Analytic Method in History</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Ivan</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Weinel</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>When he published Weltburgertum und Nationalstaat: Studien zur Genesis des deutschen Nationalstaates (1907; Cosmopolitanism and the National State, 1970), Friedrich Meinecke made it clear that he was an important academic historian. He had already published a very well-received biography of a Prussian military reformer before he turned his attention to the French Revolution, the Napoleonic Wars, and the popular revolutions of 1848 in an attempt to compose a history of the formation of the German nation-state. His guiding principles were, for the most part, an extension of Rankean positivism, a school founded by German historian Leopold von Ranke that promoted rigorous examination of source materials and a focus on interactions among nation-states, the relationship between nation-states and cultural character, and the uniqueness and spontaneity of historical phenomena.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Friedrich Meinecke became a prominent historian when he published<italic> Cosmopolitanism and the National State</italic>, an important and timely history of the unification of Germany under Otto von Bismarck. Along with Ernst Troeltsch and Wilhelm Dilthey, Meinecke advanced the analytic school of political intellectual history.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/GE20a_1180</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                  <bold>
+                     <sc>Date</sc>
+                  </bold> 1907</p>
+               <p>
+                  <italic>Friedrich Meinecke became a prominent historian when he published</italic> Cosmopolitanism and the National State<italic>, an important and timely history of the unification of Germany under Otto von Bismarck. Along with Ernst Troeltsch and Wilhelm Dilthey, Meinecke advanced the analytic school of political intellectual history.</italic>
+               </p>
+               <p>
+                  <bold>
+                     <sc>Also known as</sc>
+                  </bold> 
+                  <italic>Weltburgertum und Nationalstaat</italic>; <italic>Cosmopolitanism and the National State</italic>
+               </p>
+               <p>
+                  <bold>
+                     <sc>Locale</sc>
+                  </bold> Germany</p>
+            </sec>
+            <sec sec-type="keyterm" indexed="true">
+               <title>Key Figures</title>
+               <def-list>
+                  <def-item>
+                     <term>
+                        <italic>Friedrich Meinecke</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1862-1954), German historian</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Leopold von Ranke</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1795-1886), German historian</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Otto von Bismarck</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1815-1898), prime minister of Prussia, 1862-1890, and chancellor of the German Empire, 1871-1890</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Ernst Troeltsch</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1865-1923), German historian and sociologist</p>
+                     </def>
+                  </def-item>
+                  <def-item>
+                     <term>
+                        <italic>Wilhelm Dilthey</italic>
+                     </term>
+                     <x xml:space="preserve"> </x>
+                     <def>
+                        <p> (1833-1911), German philosopher and historian</p>
+                     </def>
+                  </def-item>
+               </def-list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Summary of Event</title>
+               <p>When he published <italic>Weltburgertum und Nationalstaat: Studien zur Genesis des deutschen Nationalstaates</italic> (1907; <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="89164141"
+                                      xlink:type="simple">Cosmopolitanism</related-article> and the National State</italic>, 1970), Friedrich Meinecke made it clear that he was an important academic historian. He had already published a very well-received biography of a Prussian military reformer before he turned his attention to the French Revolution, the Napoleonic Wars, and the popular <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87995085"
+                                   xlink:type="simple">revolutions of 1848</related-article> in an attempt to compose a history of the formation of the German <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89185607"
+                                   xlink:type="simple">nation-state</related-article>. His guiding principles were, for the most part, an extension of Rankean <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89677610"
+                                   xlink:type="simple">positivism</related-article>, a school founded by German historian <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807278"
+                                   xlink:type="simple">Leopold von Ranke</related-article> that promoted rigorous examination of source materials and a focus on interactions among nation-states, the relationship between nation-states and cultural character, and the uniqueness and spontaneity of historical phenomena.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               </p>
+               <p>Meinecke’s modifications to the historicist program marked the beginning of a new approach to historiography: the analytic school of political history. Essentially, this school sought to analyze the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89185361"
+                                   xlink:type="simple">causes of social change</related-article> and their consequences for nations around the world. In his book, Meinecke attempted to construct an explanation of the timing and structure of the process of national unification as it occurred within the German <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88390979"
+                                   xlink:type="simple">Confederation</related-article> (1815-1866). In a manner that would become the defining characteristic of his analytic style, Meinecke framed the period in terms of two opposing intellectual currents and then built his narrative around the force generated by their contradictions. In this case, the two conflicting concepts were cosmopolitanism and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89677596"
+                                   xlink:type="simple">nationalism</related-article>.</p>
+               <p>Meinecke’s cosmopolitanism is a set of beliefs centered on the notion of the fundamental unity of all humankind. This unity, however, has different implications depending on whether it is considered from a cultural, moral, political, or economic <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89408027"
+                                   xlink:type="simple">point of view</related-article>. Unity of cultural practices worldwide is not conceivable in a world where uniformity would necessarily entail the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833212"
+                                   xlink:type="simple">extinction</related-article> of some cultural practices in favor of others. This problem is real and present; many in the poorest nations already believe that the powerful Western nations are crowding out the cultural space formerly allotted to them. This is sometimes called cultural imperialism. These issues and others are part of the complex of events, trends, and peoples referred to under the heading of “<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474209"
+                                   xlink:type="simple">globalization</related-article>.”</p>
+               <p>If everyone and every group are considered to be equal from the moral perspective, then everyone is equally able to lay claim to sympathy and substance, irrespective of ethnicity, creed, or place of residence. This is the Enlightenment spirit of kinship and tolerance for all of humanity. Thus the moral principle that underpins cosmopolitan beliefs also forms the basis for the concept of “<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89677570"
+                                   xlink:type="simple">human rights</related-article>.” Further consideration of the political and economic spheres leads in the direction of global systems of governance and wealth creation that undertake to reduce present levels of global inequality and increase the access of the poorest nations to resources, goods, and services.</p>
+               <p>Nationalism, on the other hand, connotes identity with and loyalty to one’s nation; this becomes the paramount virtue. Nations are believed to be <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="87575394"
+                                   xlink:type="simple">the natural</related-article> units for social and cultural organization and are seen as having a superior claim to the right of self-governance relative to any other principled grouping. Although members of a particular nation may not share the same geographic location, they frequently share an ideology that creates a sense of common identity even as members migrate. Modern nations frequently exclude potential members on the basis of religion or ethnicity, and it is possible for two groups of people to occupy a common geography and still retain radically different nationalist beliefs.</p>
+               <p>Meinecke began his account by tracing the history of the two concepts, showing how contradictory elements from each were embedded in the works of such German intellectuals as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807073"
+                                   xlink:type="simple">Georg Wilhelm Friedrich Hegel</related-article>, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88364947"
+                                   xlink:type="simple">Johann Gottlieb Fichte</related-article>, and Leopold von Ranke. The fact that these contradictions lay at the very foundations of German political thought helps to explain the tardiness of the development of a unified German nation. It was also a major factor in early difficulties encountered in dealing with the implications of the distribution of power among the members of the European political economy. The presence of a cosmopolitan current of thought in the German cultural makeup, Meinecke argued, was a fundamental reason for the failure of the 1848 revolution and thus arrested the development of a unified <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="88391086"
+                                   xlink:type="simple">Germany</related-article> for another generation. It was only the emergence of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807379"
+                                   xlink:type="simple">Otto von Bismarck</related-article> and the predominance of Prussia in military affairs that tipped the balance in favor of national unity and territorial consolidation. Bismarck’s nationalist leadership liberated the culture from the cosmopolitan spirit that had inhibited the natural emergence of a strong German state.</p>
+               <p>Meinecke acknowledged that coercive power was sometimes necessary for states to achieve their goals. He was convinced that Germany was a highly developed state that could utilize its power to best serve its cultural values and to promote individualism. The use of violence was not criminal, he said, if it was the only way the unification process could be accomplished, and this idea effectively displaced the rational ideals of the Enlightenment in favor of Romantic nationalism. Meinecke altered his views on state violence in the wake of the horrors of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89316811"
+                                   xlink:type="simple">World War I</related-article>, however, and his later works reversed his earlier stance on the moral basis for the use of force by the nation-state. He went from adherence to monarchism to a belief in the necessity (if not the sufficiency) of a popular republican system, and in the process he became disenchanted with the potential for improving human <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="no"
+                                   xlink:href="89185816"
+                                   xlink:type="simple">welfare</related-article> by the use of force.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>The enduring impacts of Meinecke’s contributions are evident in the important relationship between the history of ideas and diplomatic history. Meinecke laid the foundations for the development of the modern field of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89163790"
+                                   xlink:type="simple">international political economy</related-article>, and he showed the dialectic method’s power as a tool for dealing with historical outcomes. While he did not succeed in solving or dissolving these many antinomies, he did more than any thinker of his time to expose the contradictory forces at work in the international arena and to devise intellectual tools that were adequate to the analytic tasks at hand.</p>
+               <p>Meinecke’s version of the historicist methodology came to define the frontier of sophisticated discourse on the nature of historical knowledge and on the determination of the appropriate units of analysis for historical inquiry. His combination of the subjects and techniques of intellectual and social history opened a novel and highly productive field of investigation, and the questions and problems Meinecke raised continued to be highly relevant to later scholars.
+                  
+               </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Boyd, Kelly, ed. <italic>Encyclopedia of Historians and Historical Writings</italic>. Chicago: Fitzroy Dearborn, 1999. Great source for further background on the characters and their interconnections.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Conversi, Daniel. “Cosmopolitanism and Nationalism.” In <italic>Encyclopaedia of Nationalism</italic>, edited by Athena S. Leouessi and Anthony D. Smith. Oxford, England: Transaction Books, 2000. Excellent, concise introduction to the relevant concepts and historical background of this controversy.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Iggers, Georg G. <italic>Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge</italic>. Hanover, N.H.: Wesleyan University Press, 1997. Masterful overview of the various approaches to historical investigation from the beginning of modern historical studies to the postmodernist critique.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Kelley, Donald R. <italic>Faces of History: Historical Inquiry from Herodotus to Herder</italic>. New Haven, Conn.: Yale University Press, 1998. Engagingly written and accessible to beginners. Narrative places the spotlight on the major personalities and schools and gives a flavor of the interactions among ideas and events that have driven the evolution of historical theory and practice.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Meinecke Advances the Analytic Method in History</article-title>
+                        <italic>Great Events from History: The Twentieth Century, 1901-1940</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Robert F.</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Gorman</surname>
+                           </name>
+                        </person-group>
+                        <year>2007</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dtd-version="2.3" xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">csd_rs</book-id>
+      <book-id pub-id-type="eis-mid">GY4P</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>June</month>
+         <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>15</day>
+         <month>August</month>
+         <year>2015</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part book-part-type="chapter" id="CSD_RS.10.3331.161703" indexed="true" xml:lang="EN" xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">csd_rs_161703</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Henry Medwall</title>
+            </title-group>
+            <contrib-group>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Arthur</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Kincaid</surname>
+                  </name>
+                  <x xml:space="preserve"> updated by </x>
+               </contrib>
+               <contrib contrib-type="author" xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Howard L.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Ford</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN0536000" object-id-type="dbpub-entity-id" source-id="10.3331/biographical.db" source-id-type="doi" source-type="dbpub"/>
+            <abstract abstract-type="placard">
+               <p>Henry Medwall is known only for his two plays.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>A biographical essay about Henry Medwall, with brief critical analysis of major works.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>0536000-Henry Medwall</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Root AN</meta-name>
+                  <meta-value>0130000152</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>XRef</meta-name>
+                  <meta-value>A053600011</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/CSD_11530130000152</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>108690362</meta-value>
+               </custom-meta>
+               <custom-meta xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>616</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Biography</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN0536000" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>fl. 1486-1500</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>England</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>After 1501</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Unknown</p>
+                  </list-item>
+               </list>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Other Literary Forms</title>
+               <p>Henry Medwall is known only for his two plays. <index-term>
+                     <primary>[B]Medwall, Henry[W0]</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[GEN]Male</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[GEO][B]ENGLAND[W0];Medwall, Henry</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[GEO][B]GREAT BRITAIN[W0];Medwall, Henry</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[CH]Fifteenth century</primary>
+                  </index-term>
+                     <index-term>
+                     <primary>[M][B]HUMANISM, RENAISSANCE[W0];Medwall, Henry</primary>
+                  </index-term>
+                  </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Achievements</title>
+               <p>Henry Medwall was the first vernacular dramatist in English, and he wrote two of
+                  the most significant plays in the history of English <related-article related-article-type="rs" xlink:href="113931279" xlink:type="simple">drama</related-article>.
+                     <italic>Fulgens and Lucres</italic>, the first vernacular play to be printed in
+                  England, is also the first to show the influence of classical antiquity, the first
+                  on an entirely secular theme, the first in which a woman is the central character,
+                  the first—aside from the <related-article related-article-type="rs" xlink:href="108690436" xlink:type="simple">Wakefield Master</related-article>’s <italic>Secunda
+                     Pastorum</italic> (fifteenth century; commonly known as <italic>The Second
+                     Shepherds’ Play</italic>)—to incorporate an extensive secondary plot, and the
+                  first English romantic comedy. <italic>Nature</italic>, a Humanist
+                     <related-article related-article-type="rs" xlink:href="87323829" xlink:type="simple">morality
+                     play</related-article>, is notable for its lively characterizations of the
+                  Vices, its allusions to contemporary London, and the excellence of its verse.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Biography</title>
+               <p>Henry Medwall’s London origins are reflected in his works’ occasional references
+                  to the unsavory haunts of his native Southwark. He probably came from a family
+                  involved in the cloth trade. From 1475 to 1480, he attended Eton as a king’s
+                  scholar and proceeded to King’s College, Cambridge, where he studied for three
+                  years. His precipitate departure, without his taking a fellowship, may have been a
+                  result of the shift in political power on the accession of <related-article related-article-type="rs" xlink:href="88367603" xlink:type="simple">Richard III</related-article>.
+                  He continued to dine occasionally at King’s and more than once was present at
+                  theatrical performances there on feast days. In London, he entered legal service,
+                  either with <related-article related-article-type="rs" xlink:href="89407375" xlink:type="simple">John
+                     Morton</related-article>, bishop of Ely, later archbishop of Canterbury and
+                  chancellor of England, or with Oliver Kyng, both of whom were prominent in
+                  government after Henry VII’s accession in 1485. He was definitely in Morton’s
+                  employ by 1490, when he was ordained to minor orders of acolyte and dean. In 1491,
+                  Cambridge granted him the degree of master of civil law. In 1492, he received a
+                  benefice, the living of Balinghem near Calais, which he held in absentia. A grant
+                  of another living, in Norfolk, was never ratified.</p>
+               <p>Morton, who became a cardinal in 1493, died in 1500, after which Medwall’s career seems to have ended. After he resigned his living in 1501, nothing further is known of him. There is no indication on the title page of <italic>Fulgens and Lucres</italic> as to whether he was still alive; the description of him as “late chaplayne to. . . John Morton” may merely refer to the ending of his appointment.</p>
+               <p>Because he never took full orders, the extent of Medwall’s ecclesiastical
+                  employment is uncertain. His chief legal occupation was as notary public, and he
+                  seems to have reached a position with Morton of considerable power and trust, for
+                  he was the keeper of important records after Morton’s death. His attachment to
+                  Morton’s household, where Thomas More was in youthful service, and the printing of
+                  his two plays by John and William Rastell, suggest that he was associated with the
+                  circle of <related-article related-article-type="rs" xlink:href="89874434" xlink:type="simple">John
+                     Rastell</related-article> and <related-article related-article-type="rs" xlink:href="89313030" xlink:type="simple">John Heywood</related-article>.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Analysis</title>
+               <p>Henry Medwall’s plays reflect the aristocratic, humanistic, social, and political preoccupations of their audience, as well as the physical conditions under which they were performed. Drawing on diverse dramatic and intellectual influences, they achieve remarkable unity and focus and succeed in their purpose of combining entertainment and instruction. Although the dearth of extant plays from this period makes it difficult to judge the extent of Medwall’s innovativeness, it is possible to appreciate his dramatic genius in its own right and at the same time to use his plays as an index to the progress of dramatic form and to theatrical conditions in the court drama of his time.</p>
+               <p>Both plays were probably written for performance in the Great Hall at Lambeth Palace, the residence of Medwall’s patron, Cardinal Morton, at banquets during winter festivals. The audience (aside from the servants) was aristocratic and intellectual and included, if passing references in both plays are to be credited, women as well as men. The situation was an intimate one, with the dining audience seated at tables on three sides of the hall and the play taking place in the center of the floor, down the length of the hall, with entrances through the two doors in the screen at the end opposite the high table (possibly raised) where sat the host with his chief guests. The play took place, therefore, in the midst of the audience, and Medwall shows his genius in adapting and exploiting this close relationship to manipulate the relationship between reality and illusion and to provide humor.</p>
+               <sec sec-type="subsec" indexed="true">
+                  <title>Fulgens and Lucres</title>
+                  <p>In <index-term role="workstitle">
+                        <primary>Fulgens and Lucres</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>{I}Fulgens and Lucres{/I} (Medwall)</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>Medwall, Henry;{I}Fulgens and Lucres{/I}</primary>
+                     </index-term>
+                        <italic>Fulgens and Lucres</italic>, Medwall makes a virtue of the physical closeness that renders illusion impossible. The play begins as two characters, differentiated only by the speech prefixes “A” and “B,” step forward, apparently from the audience, to anticipate the coming performance and summarize the plot. When the rival suitors of the main plot enter, A and B take service with them and proceed thereafter to shift in and out of the play, discussing its moral and intellectual argument and mediating between it and the audience. Medwall uses A and B to guide his audience’s response to the play’s moral theme.</p>
+                  <p>The main plot is based on Buonaccorso da Montemagno’s treatise <italic>De Vera Nobilitate</italic> (c. 1428), translated into English by John Tiptoft, earl of Worcester, about 1460 and printed by Caxton in 1481. Lucres, daughter of the Roman senator Fulgens, is sought in marriage by Cornelius Flavius, a dissolute aristocrat, and Gayus Flaminius, a virtuous commoner. Her father leaves the choice to her, and she urges the suitors to plead their respective cases in a debate, intending to choose the suitor who proves himself more noble. In the source, this debate takes place before the senate, and no decision is rendered, though the outcome points to Gayus. Limitations of cast size and considerations of dramatic interest and focus led Medwall to have Lucres herself be the audience and judge of the debaters, thus providing English drama with its first heroine. Her decision in favor of Gayus is announced in the play.</p>
+                  <p>The play considers a moral question: the source of true nobility. This was a particularly topical matter because Henry VII’s government restrained the power of the old nobility and promoted accomplished commoners, such as Morton, to high office. The emergence of this new class encouraged a strong interest in Humanism, which emphasized innate virtue. Because Medwall’s audience must have included both old and new nobility, he took pains to avoid offending either. He distanced the argument by setting it in ancient Rome, and the brunt of his criticism is directed not at Cornelius’s inherited nobility but at his abuse of it by indulgence in ostentation and pride, theft, murder, riot, and sloth. Lucres makes it clear that honor with inherited nobility is preferable to honor without it, but when the ideal is unavailable, as in this case, honorable poverty is preferable to dishonorable nobility. Her insistence that her decision applies to her case alone and is not to be taken as a general rule provides a critically neutral setting for exploring the question. Finally, that A and B disagree with her conclusion admits the possibility of disagreement, although Medwall has steered the audience toward agreeing with Lucres by characterizing her as intelligent and virtuous and placing the opposite opinion in the mouths of A and B, who are scurrilous rogues without honor or nobility.</p>
+                  <p>It may be no coincidence that virtually the first subplot in an English play originated in a household in which young Thomas More, as a page of fourteen, used to get up and improvise merry parts for himself during the Christmas plays, as his son-in-law and biographer William Roper tells us. Whether More’s antics inspired in Medwall the idea for A and B or whether More may even have played one of them is unknown. In any event, their shifting character and status allow Medwall to control the audience. The illusion of their improvisation makes A and B seem more “real,” and their comic confusions therefore achieve a sense of spontaneity, while being carefully controlled by the author.</p>
+                  <p>A and B provide a comic parallel to the main plot and prepare for the coming debate by prefiguring it. As servants of Gayus and Cornelius, they become rivals for the affections of Lucres’ serving maid Joan, who puts them to a test as Lucres has done with her suitors: They must show their relative merits. This they proceed to do in a song contest, a wrestling match, and a mock tournament, which seems to involve beating buttocks with blunt spears (perhaps mops or brooms), with the competitors’ hands tied. Joan, comically apostrophized as “flower of the frying pan,” is the “lady” honored by the joust. Like Lucres, she exercises control over the two suitors, eventually rejecting both. Although the elevated tone of the main plot allows no outlet for expression of the physical side of love, A and B’s scatological jokes in their wooing of Joan fill this need and express the license appropriate to Christmas revelry.</p>
+                  <p>In structure, the play falls into two parts. The division was probably occasioned by the exigencies of the dining situation. As A points out at the end of the first part, the members of the audience “have not fully dyned.” The first part of the play has been presented between courses of the midday dinner, and at the end of it, A directs the usher to fill the diners’ glasses with the best wine, at the request of the “master of the fest” (probably Morton). When the play resumes, it is evidently still the same day, for A refers to the earlier part as taking place “today.” Medwall builds this social requirement into the structure of the play by applying the break to the suitors’ needs as well: They need time to prepare their speeches. The play is given a natural time scheme: Lucres has appointed the suitors “to be here/ Sone, in the evynyng aboute suppere” to receive her decision.</p>
+                  <p>As the first part presented diversions in song, wrestling, mock tournament, and bawdy jest, the second—the text of which, because of this diversion, is shorter—includes a mummers’ dance. As the comic wooing and mock tournament farcically prefigure the suitors’ debate, the dance prefigures it romantically (Cornelius offers it as a wooing device). These actions recall the wooing contest of courtly love poetry. By these means, and by the suspense created with the interval, attention is directed to the debate as the climactic event of the play. The intelligentsia, many trained in law, were accustomed to regarding public disputation as entertaining and diverting. The debate itself seems to draw on two earlier traditions: the medieval <italic>demande d’amour</italic> and the classical <italic>controversia</italic>. Medieval love literature often poses a question about love—for example, whether a rich or a wise suitor is preferable—and the question is followed by a debate. The <italic>controversia</italic> was an exercise in pleading by students of oratory and came to be a rhetorical showpiece for the entertainment of lawyers, in which two disputants argued each side of a philosophical question, with the choice (as in <italic>Fulgens and Lucres’</italic> source) left to the audience. In the play, Lucres rounds off the argument by revealing her choice to B, while conflict is avoided by her not being seen to reveal it to the suitors: She intends to write to them. This avoidance of conflict should not be regarded as a dramatic flaw because conflict would distract the audience from the play’s main purpose of reaching a resolution to the problem of choice in an exemplum framed to illustrate a moral question.</p>
+                  <p>The conclusion, the choice of Gayus, has been well prepared for in advance by the characterizations and relations of the characters to one another. Cornelius’s excess in sartorial ostentation, which exemplifies pride, is revealed in the first part by B. In the second part, B has to rebuke Cornelius for not behaving according to his rank in waiting on the mummers instead of letting them wait on him; this characterizes him as somewhat foolish. Cornelius is undercut in that his message to Lucres is given bawdy signification by B’s mistaking of words. Gayus, on the other hand, is portrayed as modest and direct, kind and considerate. In the debate, Cornelius offers Lucres a life of idleness. Gayus’s speech expresses his piety and his military and political activity, and he promises Lucres moderate but sufficient wealth and harmony of disposition. The characters’ relationships are subtly demonstrated: Cornelius appeals to Lucres’ father, and he later approaches her indirectly again in the courtly form of wooing with mummers. Gayus, on the other hand, has a sensitive scene with Lucres herself early in the play and expresses his love to her directly.</p>
+                  <p>Medwall takes and incorporates into the structure of his play traditional Christmas games and entertainments: mummings and disguisings, song and dance, wrestling, jousting, and debate. The parody and the sense of topsy-turveydom characteristic of Christmas revelry in the tournament is apparent in the use of a kitchen wench as its lady, in Cornelius’s subservience to the mummers, and in A and B’s occasional cheekiness to their noble audience. A and B draw on the seasonal tradition of the Lord of Misrule as leaders of the Christmas games. The inclusion of these elements illustrates A’s elucidation of dramatic theory at the beginning of the second part, when he mentions that “Dyvers toyes” are mingled with the substance of the play “To styre folke to myrthe and game/ And to do them solace,” so that all the spectators will be pleased, both those that like serious and those that like comic matter. B expresses at the end of the play its other purpose:</p>
+                  <verse-group>
+                     <verse-line>Not onely to make folke myrth and game,</verse-line>
+                     <verse-line>But that suche as be gentilmen of name</verse-line>
+                     <verse-line>May be somwhat movyd</verse-line>
+                     <verse-line>By this example for to eschew</verse-line>
+                     <verse-line>The wey of vyce and favour vertue;</verse-line>
+                     <verse-line>For syn is to be reprovyd</verse-line>
+                     <verse-line>More in them, for the degre,</verse-line>
+                     <verse-line>Than in other parsons such as be</verse-line>
+                     <verse-line>Of pour kyn and birth.</verse-line>
+                     <verse-line>This was the cause principall,</verse-line>
+                     <verse-line>And also for to do with all</verse-line>
+                     <verse-line>This company some myrth.</verse-line>
+                  </verse-group>
+                  <p>He then brings the audience into the play by inviting them to rewrite it if they wish.</p>
+                  <p>The play’s purpose, then, is to entertain the audience and to teach them, by leading them to participate in exploring the moral question so that the ideal of virtue mingled with nobility—hinted at but not realized in the play itself—may reach fruition in them. The shifting relationship of reality and illusion attains this conclusion: The lesson of the play may be taken into the real life of the spectators.</p>
+                  <p>
+                        <italic>Fulgens and Lucres</italic> was probably performed by a small, professional company of four men, with two boys to play Lucres and Joan, unless one boy played both female roles (they do not appear together). That Fulgens appears only at the beginning suggests that the actor playing him had to double as Gayus. It is not known whether this troupe of actors, or the dancers, were permanently attached to Morton’s household. The musicians probably were members of the household. Costume, judging from the description of Cornelius’s elaborate clothing and the engraving of a well-dressed medieval man and woman that Rastell selected for the title page, was contemporary and, along with the jokes, the place references, and the characters of A and B, would have added topicality to the moral. The dominant verse form is rhyme royal, but there is a colloquial fluency in the comic sections achieved through the rhythm, the division of stanzas between speakers, and the use of slang and colloquial expressions. It has been suggested that because there is a Spanish dance and a line of Flemish in the mumming section, the play was written in 1497 to honor a visit of the Spanish and Flemish ambassadors, but this is very tenuous, and the tone is better suited to a less formal occasion. There is no evidence permitting closer dating.</p>
+               </sec>
+               <sec sec-type="subsec" indexed="true">
+                  <title>Nature</title>
+                  <p>Though <index-term role="workstitle">
+                        <primary>Nature</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>{I}Nature{/I} (Medwall)</primary>
+                     </index-term>
+                        <index-term>
+                        <primary>Medwall, Henry;{I}Nature{/I}</primary>
+                     </index-term>there is no evidence of <italic>Nature</italic>’s having been composed later than <italic>Fulgens and Lucres</italic>, it was published later. <italic>Fulgens and Lucres</italic> was published by John Rastell, who, in printing what appears to be the first vernacular play in English, embarked on a daring venture. <italic>Nature</italic> was published some twenty years later by his son, William Rastell. It is in line with the native English morality play, which patterns the journey human beings make through life, from their birth into the world as its ruler, through their succumbing to sin, to their salvation through contrition, confession, and adoption of virtue. A conflict for the mastery of humankind’s soul is carried on between personified virtues and vices. Humankind, whose personal attributes the Virtues and Vices represent, is passive between them, though in <italic>Nature</italic> it is not lacking in characterization. In <italic>Nature</italic>, the Virtues and Vices prepare an offstage battle, but the audience does not see them in conflict with each other. There is a dramatic cause for this in that humankind’s backsliding after virtue has won it over gives the play its structure, and a theatrical cause in that the actors probably doubled as Vices and Virtues. Medwall innovatively conceives of the relationship of Man to his attendant virtues and vices as that of a ruler in relation to his courtiers. He uses a political metaphor to symbolize the human state as the Virtues and Vices offer themselves as attendants to Man sitting on his throne.</p>
+                  <p>There are two concurrent structural patterns in <italic>Nature</italic>, as in
+                     other moralities of the period, a construction that foreshadows that of
+                        <related-article related-article-type="rs" xlink:href="88367662" xlink:type="simple">William
+                        Shakespeare</related-article>’s <italic>Henry IV</italic> (pr. c.
+                     1597-1598). Over the course of the play, there is a progression through the
+                     ages of humankind, from birth through maturity to old age. The cycle of
+                     temptation, fall, and redemption, however, is repeated, as it may be in the
+                     life of a person. It appears once in the first half, at the end of which Man
+                     suddenly repents, without apparent motivation, and again in the second, when
+                     age has made sin impossible.</p>
+                  <p>The opening of the play, in which Nature, a medieval deity, after a long speech
+                     on natural order, sends Man to the World with Reason on one side and Sensuality
+                     on the other, advising him to take Reason as his chief guide, is based on John
+                     Lydgate’s poem <italic>Reson and Sensualyte</italic> (c. 1430). Medwall takes
+                     this as his starting point, his vantage point from which to explore
+                     dramatically the age-old conflict of the Vices and Virtues. In so doing, he
+                     makes sin the result of unreason: Man banishes Reason and thus becomes prey to
+                     the Vices. The play proceeds from this point more compactly and clearly in its
+                     allegory and its line of action than the poem does.</p>
+                  <p>The play was apparently performed in the same setting as <italic>Fulgens and Lucres</italic>, the Great Hall, with its entrance doors through which the actors come and go, and the winter fire. Unlike <italic>Fulgens and Lucres</italic>, however, the first half occurs at night, with the second apparently taking place on another day. The time scheme, which encompasses the whole life of Man, is telescoped. The opening is more ceremonial than that of <italic>Fulgens and Lucres</italic>: The World enters with Worldly Affection, who carries the garments Man is to don, and sits down silent. Then Nature, accompanied by Man, Reason, Sensuality, and Innocencye, enters, sits, and begins to speak. Nature advises Man and sends him on his journey to the World (actually from one end of the hall to the other), where he is dressed and ascends the World’s throne. He begins as a pious ruler, submissive and grateful to God. In selecting his court, however, he dismisses Reason and Innocencye, retaining as advisers Worldly Affection and Sensuality. The Deadly Sins, beginning with Pride and Bodily Lust in the first half and all the others in the second half, find easy access. They are disguised, in traditional fashion, as Virtues: Pride as Worship, Lechery as Love, Wrath as Manhood, Gluttony as Good Fellowship, Sloth as Ease, Envy as Disdain, and Covetousness as Worldly Policy.</p>
+                  <p>Vice is most clearly exemplified in the character of Pride, who is dominant among the Vices. The chief manifestation of sin, as in <italic>Fulgens and Lucres</italic>, is sumptuous dress. Man’s first assumption of apparel is not essentially sinful; it signifies the conferring of rulership and majesty. At the same time, however, it signals temptation. Pride, who is dressed in garments exactly echoing those of Cornelius, will purvey to Man far better garments. During the play’s first half, these are in the making, and in the second half, Man’s wearing of them signals a descent into deeper sin. Sumptuous dress is culpable not only because it indicates personal vanity and addiction to changing foreign fashion but also because it supports the exploitation of the poor. As with Cornelius, it signifies poor stewardship of worldly goods. Medwall thus expresses support for Henry VII’s policies against livery and maintenance and in favor of fiscal moderation.</p>
+                  <p>Like <italic>Fulgens and Lucres</italic>, <italic>Nature</italic> is a didactic play, giving advice not only to people generally but specifically to the ruling class. Like Medwall’s other play, it is varied with mirthful elements, though it does not contain extensive subsidiary entertainments. Particularly diverting are the vividly salacious descriptions of Man as a haunter of the stews, where, as a tavern customer, he consorts with the whore Margery in the first part, and in the second, jests with Sensuality and Bodily Lust about Margery, who has missed him so much during his temporary sojourn with Reason that she has joined a “convent,” the Green Friars, where entrance is free to all men. The characterization of the Vices, especially in the second half, provides diversion as well as the chief dramatic interest. They muster troops for a battle against Reason. Medwall has made their defeat and desertion of Man dramatically powerful in showing that it has an internal cause, springing from their own characteristic weaknesses. After mastering Man, they defeat themselves and each other and desert the field. Bodily Lust is disinclined to go anywhere near blows and bloodshed. Gluttony comes in, like Falstaff in Shakespeare’s <italic>Henry IV</italic>, with a bottle and a cheese as his sword and buckler and expresses his intention of keeping out of the way of gunshot. Sloth is afraid and feigns sickness. Wrath storms off in a rage, though he does not actually desert. Envy, resenting Pride’s ostentatious appearance, sends him off in a dudgeon with a false report that Man has taken away his office.</p>
+                  <p>With the disappearance of the Vices, the dramatic aspect of the play ends. Man, by reason of age, can no longer sin actively; the Vices have gone to seek a new master. He can approach only Covetousness to wait on him, but Covetousness is busy with churchmen. Reason leads Man to be addressed by the Virtues in turn and encourages him to continue in the path of virtue, and the play ends as “they syng some goodly ballet,” this harmony contrasting with the discord of the Vices.</p>
+                  <p>Again, the basic verse form is rhyme royal, but the play is remarkable in containing the first example of prose speech in English drama, an aside by Pride to Sensuality. The language of the Vices is dynamic and colloquial, that of the Virtues formal and measured. In several places, notably Nature’s opening speech, the verse rises to heights of quite notable poetry. Metrical ease and rhythmic unobtrusiveness are among Medwall’s virtues. A rather interesting feature of the original printed text is the marking of caesuras, which seem to designate pauses for the actor, so it is possible to gain some idea of the pacing and rhythm of speech. The more colloquial speeches have fewer of these and seem therefore to have been spoken rapidly.</p>
+                  <p>The setting is contemporary London, with its peculiarly urban haunts of vice, and again the costume, judging from Pride’s apparel, is contemporary. The Vices talk familiarly to the audience, as do A and B (who exhibit some characteristics of the morality Vices), insulting them and asking them for favors, and there are references to the hall setting and furniture. The cast is larger than that of <italic>Fulgens and Lucres</italic>, requiring at least eight or nine players. That Innocencye is addressed as both a boy and a woman may suggest that he was played by a boy dressed as a woman. He could have doubled as Pride’s son Garcius.</p>
+                  <p>Until the twentieth century, Medwall’s reputation was low, and it was believed to have been poor in his own day, because of a fabricated account by John Payne Collier of Henry VIII’s walking out in boredom during a performance of <italic>The Finding of Truth</italic>, a supposed play by Medwall. The discovery in 1919 of the sole surviving copy of <italic>Fulgens and Lucres</italic> and the exposure of the fabrication led to recognition of his significance. <italic>Nature</italic>, which has been known to specialists since the beginning of the seventeenth century, has been, until recently, somewhat in the shade critically because of the bias against morality plays. The success of performed moralities, however, and an increasing tolerance of religion and ribaldry on the stage have allowed it, too, to be given its critical due. Medwall is now appreciated for his dramatic flair, his linguistic vitality and rhythmic ease, structural tightness, vivid characterization, good jokes, and especially for the way in which he controls his material, shaping traditional elements to his central purpose while giving them fresh life and guiding the responses of his audience to his moral themes and to his humor.</p>
+               </sec>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Medwall, Henry, and M. E. Moeslein. <italic>The Plays of Henry Medwall: A Critical Edition</italic>. New York: Garland, 1981. The section on Medwall’s life is dotted with general information about Tudor England that is not immediately or definitely applicable to the dramatist. Contains a consideration of the language, style, and versification in the plays, a discussion of Medwall’s literary reputation, and a separate introductory section for each play with extensive commentary. Lengthy and in the main valuable, but with extraneous comments. Includes an appendix for life records and illustrations. Unattractive format.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Nelson, Alan H., ed. <italic>The Plays of Henry Medwall</italic>. Totowa, N.J.: Rowman and Littlefield, 1980. Contains a substantial amount of material on Medwall’s life, including connections with the powerful cardinal John Morton and the young Thomas More. Offers interesting comments on the morality play technique and the language of Medwall’s two surviving plays. Includes a listing of documents pertaining to Medwall’s life, texts of both plays with notes and a glossary, and illustrations.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Reed, A. W. <italic>Early Tudor Drama: Medwall, the Rastells, Heywood, and the More Circle</italic>. 1926. Reprint. New York: Octagon Books, 1969. Establishes Medwall’s place at the very beginning of the new drama developing just before 1500. Discusses Medwall’s relationship with Cardinal John Morton and possible connections with Thomas More. Presents information on Medwall’s association with John Rastell, himself a playwright, who printed <italic>Fulgens and Lucres</italic>, and whose son William printed <italic>Nature</italic>.</citation>
+                  </ref>
+                  <ref>
+                     <citation citation-type="booksimple" xlink:type="simple">Whall, Helen M. <italic>To Instruct and Delight: Didactic Method in Five Tudor Dramas</italic>. New York: Garland, 1988. Sees <italic>Nature</italic> as a failure (too instructive and insufficiently delightful) and <italic>Fulgens and Lucres</italic> as a success (highly didactic; marvelously entertaining, and almost perfect). Medwall’s source for his best play is viewed as a product of Renaissance rhetoric, oratory and debate, and Medwall’s best play is found to be gently persuasive, with its concepts of true nobility presented with diplomacy and good humor.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation citation-type="original" xlink:type="simple">
+                           <article-title>Henry Medwall</article-title>
+                           <source>Critical Survey of Drama, Second Revised Edition</source>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Carl</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Rollyson</surname>
+                           </name>
+                        </person-group>
+                           <year>2003</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

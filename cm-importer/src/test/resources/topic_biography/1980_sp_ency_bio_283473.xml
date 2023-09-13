@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsbioencyc</book-id>
+      <book-id pub-id-type="eis-mid">GY4Q</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>31</day>
+         <month>July</month>
+         <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>September</month>
+         <year>2017</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="rsbioencyc.10.3331.283473"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">1980_sp_ency_bio_283473</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>British History</subject>
+                     <subject>20th &amp; 21st Century European History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Popular Culture, Trends, Fads</subject>
+                  <subj-group>
+                     <subject>Popular Culture, Trends, Fads</subject>
+                     <subject>Composers, Songwriters</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                     <subject>Artists, Artisans, the Arts</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Arts</subject>
+                  <subj-group>
+                     <subject>Artists, Artisans, the Arts</subject>
+                     <subject>Composers, Songwriters</subject>
+                     <subject>Music, Musicians, Singers</subject>
+                     <subject>Popular Culture, Trends, Fads</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>Europe</subject>
+                  <subj-group>
+                     <subject>Europe</subject>
+                     <subject>United Kingdom</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geo-keyword">
+                  <subject>England</subject>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>George Michael</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Amy</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sisson</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN3177550"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="publisher-id"
+                            source-type="dbpub"/>
+            <abstract abstract-type="short">
+               <p>Within the span of a decade, Michael achieved both popular and critical acclaim by first introducing an optimistic, infectious style of pop music via the musical group Wham! and then following up with a grittier, sexier style as a solo artist.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>3177550-George Michael</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>125599902</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1141</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="AN3177550" list-content="bio_meta">
+                  <title/>
+                  <list-item>
+                     <label>Born: </label>
+                     <p>June 25, 1963</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Finchley, London, England</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>December 25, 2016</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Goring-on-Thames, United Kingdom</p>
+                  </list-item>
+               </list>
+               <p>
+                     <italic>Within the span of a decade, Michael achieved both popular and critical acclaim by first introducing an optimistic, infectious style of pop music via the musical group Wham! and then following up with a grittier, sexier style as a solo artist. Wiht multiple number one hit songs and successful albums, he became one of the best-selling musicians of all time.</italic>
+                  </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>Because of his ability to evolve in both musical style and image, George Michael, born Georgios Kyriacos Panayiotou, became one of the most well-known singer-songwriters of the 1980s. While still a teen, he formed the group Wham! UK with his school friend Andrew Ridgeley, releasing their first album, the rap-inspired <italic>Fantastic</italic>, in 1983. Unhappy with their label and eager to reach a wider audience, the pair shortened their name to Wham!, moved to CBS/Columbia, and cultivated a sunny, clean-cut image for the release of their second album, <italic>Make It Big</italic> (1984). The album yielded several hit singles in Great Britain and the United States, including the jitterbug-style "Wake Me Up Before You Go-Go" and the earnest "Freedom." In 1984 they also released the single "Last Christmas," which would become a staple of holiday radio.<fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>George Michael.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="1980-sp-ency-bio-283473-157964.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Frantogian, CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>George Michael.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="1980-sp-ency-bio-283473-157922.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Insasse, CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+               <p>In 1986, Wham! released its third album, <italic>Music from the Edge of Heaven</italic>, which sold well in Great Britain but not in the United States. Shortly thereafter, they announced the group’s dissolution. Michael, ready to pursue a solo career, again altered his style and image before releasing <italic>Faith</italic>  at the end of 1987. First, however, he recorded the single "I Want Your Sex" for the 1987 film <italic>Beverly Hills Cop II</italic>. Although the controversial song was banned by many radio stations, it became a hit. Michael also recorded a duet with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="90669576"
+                                   xlink:type="simple">Aretha Franklin</related-article>, "I Knew You Were Waiting for Me," which garnered a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89143626"
+                                   xlink:type="simple">Grammy Award</related-article> in the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89408510"
+                                   xlink:type="simple">rhythm and blues</related-article> category.</p>
+               <p>With all of the hype surrounding these singles, <italic>Faith</italic> had much to live up to, and it did not disappoint. The title song’s video introduced Michael’s sexy new image, complete with leather jacket and facial stubble, while "Father Figure," a slow, sultry tune about forbidden love, was also a hit. <italic>Faith</italic> won the Grammy for Album of the Year, but Michael’s resulting success and exhausting schedule took its toll, and his subsequent albums did not reach the same heights. <italic>Listen Without Prejudice Vol. 1</italic> (1990) moved his sound away from the pure pop style that had made him a star, though it still performed well and included the hit single "Praying for Time." In later years, Michael would further renounce his image as a sex symbol, due in part to his discomfort with the pressures of being a superstar as well as the loss of a loved partner. His 1996 album <italic>Older</italic> showcased his pivot to targeting more mature audiences; it was not hugely successful in the United States but spawned multiple hit singles in Great Britain and mainland Europe. Media outlets would later confirm that Michael was the top-played artist on the radio in Britain over the twenty years from 1984 to 2004. His more than 115 million albums sold around the world made him among the best-selling artists of all time.</p>
+               <p>Throughout his career Michael became known for his philanthropy almost as much as for his music. In 1984, while still with Wham!, he appeared along with other stars on the benefit single "Do They Know It's Christmas?" released under the Band Aid name in support of relief efforts for the Ethiopian famine. Michael also frequently supported <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87322619"
+                                   xlink:type="simple">gay rights</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="86193863"
+                                   xlink:type="simple">AIDS</related-article> prevention efforts, even becoming something of an icon in the LGBT community. In 1998 he came out as gay following his arrest in California on lewd behavior charges. He would later discuss his struggles with depression and shame in keeping his sexuality secret, and identified himself variously as gay or bisexual.</p>
+               <p>Much of Michael's musical output in the twenty-first century came in the form of free downloads, for which he asked fans to donate to charity. His final album of original material was <italic>Patience</italic>, released in 2004. Along with his occasional single releases, he also continued to perform occasionally. His popular legacy meant that many of his shows were sold-out performances in stadium venues, despite his lack of many new songs. In 2011 he was forced to cancel a number of shows after being hospitalized with severe pneumonia; the illness proved life-threatening and he underwent treatment over the course of five weeks, over part of which he was comatose. In 2014 he put out a live album recorded during his 2010-11 world tour, including his own previously-released songs and standards backed by an orchestra.</p>
+               <p>On December 25, 2016—Christmas Day—Michael was found unresponsive at his home in Goring-on-Thames, Oxfordshire, England, and pronounced dead at the scene. While the exact cause of death was not immediately identified, it was stated to be natural causes and that Michael died peacefully in his bed. Heart issues were later determined to be behind the death.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>Often described as an autobiographical singer-songwriter, George Michael struck a chord with audiences around the world at various stages in his life and career, including the frothy tunes from his Wham! days and the more soulful songs he later recorded as a solo artist. His talent attracted the attention of influential artists such as Aretha Franklin and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89406325"
+                                   xlink:type="simple">Elton John</related-article>, leading to hugely successful collaborative projects, and Michael also used his fame to highlight worthy causes such as famine relief and AIDS awareness.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple"> Gold, Todd. <italic>George Michael</italic>. Paperjacks, 1987.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Jovanovic, Rob. <italic>George Michael: The Biography 1963–2016</italic>. Piatkus, 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Morris, Wesley. "George Michael Mattered Beyond the Music." <italic>The New York Times</italic>, 26 Dec. 2017, www.nytimes.com/2016/12/26/arts/music/george-michael-death-appraisal.html. Accessed 21 Dec. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Pareles, Jon. "George Michael, Pop Superstar, Is Dead at 53." <italic>The New York Times</italic>, 25 Dec. 2016, www.nytimes.com/2016/12/25/arts/music/george-michael-dead.html. Accessed 21 Dec. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple"> Pond, S. "George Michael, Seriously." <italic>Rolling Stone</italic>, January 28, 1988, 28.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple"> Wapshott, Nicholas, and Tim Wapshott. <italic>Older: The Unauthorized Biography of George Michael</italic>. Sidgwick &amp; Jackson, 1998.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>George Michael</article-title>
+                           <italic>The Eighties in America</italic>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Milton</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Berman</surname>
+                           </name>
+                        </person-group>
+                           <year>2008</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

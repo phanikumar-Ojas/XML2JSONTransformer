@@ -1,0 +1,86 @@
+{
+	"entry": {
+		"title": "Mary Cassatt",
+		"tags": [
+			"Biography",
+			"American History",
+			"Women’s History",
+			"Arts",
+			"North America",
+			"World History",
+			"paintings",
+			"Gustave Courbet",
+			"Édouard Manet",
+			"Franco-Prussian War",
+			"Antonio Allegri da Correggio",
+			"Impressionist movement",
+			"Edgar Degas",
+			"El Greco",
+			"[g]United States;Mary Cassatt[Cassatt, Mary]",
+			"[c]Art;Mary Cassatt[Cassatt, Mary]",
+			"Cassatt, Mary",
+			"Painting;United States",
+			"Courbet, Gustave",
+			"Manet, Édouard",
+			"Degas, Edgar",
+			"Correggio, Antonio Allegri da",
+			"Impressionism",
+			"Elder, Louisine",
+			"Havemeyer, H. O."
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": "Cassatt",
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": [
+			"US Civil War & Reconstruction Era (1856-1877)",
+			"US History 1878-1900",
+			"US History 1901-1950"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": [
+			"US Civil War & Reconstruction Era (1856-1877)",
+			"US History 1878-1900",
+			"US History 1901-1950"
+		],
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"North America"
+		],
+		"sub_geographical_category": [
+			"United States"
+		],
+		"geo_keyword": null,
+		"birth_day": 22,
+		"birth_month": "May",
+		"birth_year": 1844,
+		"non_numeric_birth_date": "May 22, 1844",
+		"place_of_birth": "Allegheny City (now Pittsburgh), Pennsylvania",
+		"death_day": 14,
+		"death_month": "June",
+		"death_year": 1926,
+		"non_numeric_death_date": "June 14, 1926",
+		"place_of_death": "Château de Beaufresne, France",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3134740-Mary Cassatt"
+		]
+	}
+}

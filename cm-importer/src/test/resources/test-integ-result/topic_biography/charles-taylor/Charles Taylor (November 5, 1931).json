@@ -1,0 +1,141 @@
+{
+  "entry" : {
+    "title" : "Charles Taylor",
+    "tags" : [ "Rhodes scholarship", "Isaiah Berlin", "G.E.M. Anscombe", "political science", "philosophy", "identity", "social theory" ],
+    "category" : null,
+    "gender" : null,
+    "race" : null,
+    "nationality" : null,
+    "movement" : null,
+    "biography_type" : "Article is on a Single Person",
+    "multiple_biography_topics" : null,
+    "first_name" : "Taylor",
+    "middle_name" : null,
+    "last_name" : null,
+    "secondary_category" : null,
+    "curriculum_american_history" : null,
+    "curriculum_ancient_history" : null,
+    "curriculum_western_civilization_european_history" : null,
+    "curriculum_women_s_history" : null,
+    "curriculum_world_history" : null,
+    "also_known_as" : null,
+    "geographical_category" : null,
+    "sub_geographical_category" : null,
+    "geo_keyword" : null,
+    "birth_day" : 5,
+    "birth_month" : "November",
+    "birth_year" : 1931,
+    "non_numeric_birth_date" : "November 5, 1931",
+    "place_of_birth" : "Montreal, Canada",
+    "death_day" : null,
+    "death_month" : null,
+    "death_year" : null,
+    "non_numeric_death_date" : null,
+    "place_of_death" : null,
+    "main_occupation_or_related_field" : null,
+    "other_occupation_related_fields" : null,
+    "associated_figures" : null,
+    "referenced_associated_figures" : null,
+    "key_events" : null,
+    "referenced_key_events" : null,
+    "principal_works" : {
+      "children" : [ {
+        "children" : [ {
+          "text" : "Principal Works"
+        } ],
+        "type" : "h1",
+        "uid" : "c136c753-de7b-4d3e-a811-9a5c0d51dc9f",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "Hegel and Modern Society",
+          "italic" : true
+        }, {
+          "text" : ", 1979"
+        } ],
+        "type" : "p",
+        "uid" : "276dd679-dccf-4459-a208-58e6b817f54e",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "Human Agency and Language",
+          "italic" : true
+        }, {
+          "text" : ", 1985"
+        } ],
+        "type" : "p",
+        "uid" : "bf03f9a6-07c0-455b-9648-4700ab0927b4",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "Philosophy and the Human Sciences",
+          "italic" : true
+        }, {
+          "text" : ", 1985"
+        } ],
+        "type" : "p",
+        "uid" : "e39ed6e5-49d3-4842-bca4-b11456c3f383",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "Source of the Self: The Making of the Modern Identity",
+          "italic" : true
+        }, {
+          "text" : ", 1989"
+        } ],
+        "type" : "p",
+        "uid" : "08de7647-a83d-4bb7-832f-f92ad39508f6",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "Multiculturalism and the Politics of Recognition",
+          "italic" : true
+        }, {
+          "text" : ", 1992"
+        } ],
+        "type" : "p",
+        "uid" : "7626de4b-681d-45e2-821e-b02ef5f0328f",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "Philosophical Arguments",
+          "italic" : true
+        }, {
+          "text" : ", 1995"
+        } ],
+        "type" : "p",
+        "uid" : "87c6e730-6e10-48f0-aadc-88de0e55794d",
+        "attrs" : { }
+      }, {
+        "text" : " "
+      }, {
+        "children" : [ {
+          "text" : "A Secular Age",
+          "italic" : true
+        }, {
+          "text" : ", 2007"
+        } ],
+        "type" : "p",
+        "uid" : "4a84d877-2825-475a-9f98-125491acc904",
+        "attrs" : { }
+      } ],
+      "type" : "doc",
+      "uid" : "16c200b3-91bb-4d71-9d28-517fab6d81aa"
+    },
+    "referenced_works" : null,
+    "awards" : null,
+    "bio_reference_id" : null
+  }
+}

@@ -1,0 +1,119 @@
+{
+	"entry": {
+		"title": "The Beatles",
+		"tags": [
+			"Biography",
+			"Western Civilization/European History",
+			"Arts",
+			"Popular Culture, Trends, Fads",
+			"Europe",
+			"North America",
+			"England",
+			"World History",
+			"Liverpool, England",
+			"Paul McCartney",
+			"George Harrison",
+			"George Martin",
+			"The Ed Sullivan Show",
+			"revolutionized popular music",
+			"Elizabeth II",
+			"A Hard Day’s Night",
+			"sitar",
+			"psychedelic drugs",
+			"psychedelic rock",
+			"Sgt. Pepper’s Lonely Hearts Club Band",
+			"Maharishi Mahesh Yogi",
+			"Yoko Ono",
+			"Phil Spector",
+			"Lennon's assassination",
+			"Peter Jackson",
+			"British invasion",
+			"Rolling Stones",
+			"the Who",
+			"Kinks",
+			"Elvis Presley",
+			"Michael Jackson"
+		],
+		"category": [
+			"Arts",
+			"Popular Culture, Trends, Fads"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on Multiple People",
+		"multiple_biography_topics": [
+			{
+				"uid": "blt627757498df40c1f",
+				"_content_type_uid": "topic_biography"
+			},
+			{
+				"uid": "blt7c68b8b92e9411d8",
+				"_content_type_uid": "topic_biography"
+			},
+			{
+				"uid": "bltc22b70fade6e08d3",
+				"_content_type_uid": "topic_biography"
+			},
+			{
+				"uid": "blt5888991b1874b45c",
+				"_content_type_uid": "topic_biography"
+			}
+		],
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Artists, Artisans, the Arts",
+			"Composers, Songwriters",
+			"Films, Movies, Motion Pictures",
+			"Music, Musicians, Singers"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": [
+			"British History",
+			"20th & 21st Century European History"
+		],
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"Europe",
+			"North America"
+		],
+		"sub_geographical_category": [
+			"United Kingdom",
+			"United States"
+		],
+		"geo_keyword": [
+			"England"
+		],
+		"birth_day": null,
+		"birth_month": null,
+		"birth_year": null,
+		"non_numeric_birth_date": null,
+		"place_of_birth": null,
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3170170-John Lennon",
+			"3173240-Paul McCartney",
+			"3156170-George Harrison",
+			"3200710-Ringo Star"
+		]
+	}
+}

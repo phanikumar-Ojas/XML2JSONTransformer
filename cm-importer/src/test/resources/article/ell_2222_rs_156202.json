@@ -1,0 +1,404 @@
+{
+	"entry": {
+		"title": "Mock Article",
+		"region": null,
+		"contributors": null,
+		"citations": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Bibliography"
+						}
+					],
+					"type": "h1",
+					"uid": "1da418e2-74b0-4c23-9337-64221d21645d",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Book"
+						}
+					],
+					"type": "h1",
+					"uid": "7c4602b7-95c3-4fff-ba7c-2286cfca8191",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\u0022Writing a Report.\u0022 "
+						},
+						{
+							"text": "Writing Is the \u0022Right\u0022 Thing to Do!",
+							"italic": true
+						},
+						{
+							"text": " Allosaurus Publishers, 2005. Online. EBSCO. 9 August 2008. "
+						},
+						{
+							"children": [
+								{
+									"text": " http://search.ebscohost.com/login.aspx?direct=true&db=n4h&AN=19631145&site=src-live. "
+								}
+							],
+							"type": "span",
+							"uid": "640a23c3-8c61-44a4-a77c-59816536c011",
+							"attrs": {
+								
+							}
+						}
+					],
+					"type": "p",
+					"uid": "8f07cbb1-556d-4b2f-82ff-bfb4891117ea",
+					"attrs": {
+						"xmlns:xlink": "http://www.w3.org/1999/xlink",
+						"xlink:type": "simple"
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "88e9af8d-05f6-4279-819e-732ed20e583a"
+		},
+		"topic": null,
+		"lexile": null,
+		"audience": null,
+		"urgent": false,
+		"url": null,
+		"products": null,
+		"collections": null,
+		"reused": null,
+		"status": null,
+		"rights": null,
+		"tags": [],
+		"assigned_to": null,
+		"associated_images": null,
+		"main_body": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": " Writing reports, or papers, is an important part of doing well in school. When students write good reports, they usually follow five steps. First, they understand the assignment. Then, they do research, organize the report, and write the report. Finally, students revise the report before they give it to the teacher."
+						}
+					],
+					"type": "p",
+					"uid": "966d7bdd-1647-42ac-8235-70fc76f36198",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Step 1: Understanding the Assignment"
+						}
+					],
+					"type": "h1",
+					"uid": "8751d562-e19f-4da9-bdaf-d7618f3fa8c3",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The first thing to do when writing a report is to understand the assignment. The assignment is the directions that the teacher gives. The assignment tells what the topic of the report is. The topic is what the report should be about. The assignment also tells how long, or how many pages, the report is should be. The assignment also tells when the report is due. The due date is the date the teacher plans to collect the reports from students. The report has to be final and complete by the due date."
+						}
+					],
+					"type": "p",
+					"uid": "bd5b66a7-d273-4344-97bd-eaf6c6573cdb",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Step 2: Researching the Report"
+						}
+					],
+					"type": "h1",
+					"uid": "74296b51-666f-4e06-911d-76267d5e8cab",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The next step in writing a report is to get information for the report. This is called doing research. The best place to do research is in the school library or on the Internet. The writer should take notesduring research. That means writing down important facts or quotes (things people said). The writer also needs to write down the source of this information. The source is the name of the book, magazine, or Website where you found the information. Someone who works in the library can help with this."
+						}
+					],
+					"type": "p",
+					"uid": "52e8ecd8-2c66-49ec-96f8-ea54fb7654c8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Step 3: Organizing the Report"
+						}
+					],
+					"type": "h1",
+					"uid": "f9946236-5a35-4b6b-bdb1-83655ac205cc",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The third step is organize, or plan, the report. Writers often use an outline to organize what they are going to write. An outline is a kind of list. The outline organizes the parts of a report, and then the writer fills in the information for the report."
+						}
+					],
+					"type": "p",
+					"uid": "0dd69266-6650-4013-97a9-53f7b0d34bc6",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The first part of a report is called the introduction. The introduction can be one or more sentences. It tells what the report will be about."
+						}
+					],
+					"type": "p",
+					"uid": "94bec7a6-79e5-4181-95a1-2574ec10dac8",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The body of the report has the information the writer got from research. Writers put this information in their own words. When writers use other people's words, they put quotation marks (\u0022 \u0022) around them."
+						}
+					],
+					"type": "p",
+					"uid": "9663dbc8-510b-450e-a961-c03728956633",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "The summary, or conclusion, is the final part of the report. The summary is one or more sentences that summarize, or tell again in fewer words, what the report is about."
+						}
+					],
+					"type": "p",
+					"uid": "fc23ce86-3319-458c-87cd-7b5d07a9bf71",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Here is an outline of a report, before the writer has put in the information: I."
+						}
+					],
+					"type": "p",
+					"uid": "72e1f1a7-7d6b-494e-8e13-5f5eb42daa03",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "\n\nIntroduction\n\nII. Body: First Paragraph\n\nA. Fact #1\n\nB. Fact #2\n\nIII. Body: Second Paragraph\n\nA. Fact #1\n\nB. Fact #2\n\nIV. Summary"
+						}
+					],
+					"type": "blockquote",
+					"uid": "fe80be35-6b92-4c74-bd12-e6d5bd4f266e",
+					"attrs": {
+						"style": "white-space: pre-wrap;",
+						"position": "float",
+						"xml:space": "preserve"
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Step 4: Writing the Report"
+						}
+					],
+					"type": "h1",
+					"uid": "a8e44ba3-3f20-464f-bd33-d1c4929b1e4b",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "After organizing the information, writers are ready to write the report."
+						}
+					],
+					"type": "p",
+					"uid": "ec797a78-e9e8-482d-bc4e-504bb1847317",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Students should start by writing a draft…"
+						}
+					],
+					"type": "p",
+					"uid": "28d58a25-1fdd-45d3-923c-7249726f15d2",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Step 5: Revising the Report"
+						}
+					],
+					"type": "h1",
+					"uid": "3e74b879-c221-4342-8533-c86efcebb929",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Next, writers revise their report. They find places where the writing is not correct or clear. Then they fix it. When they revise, writers may add a few sentences or take something out that is not clear. They may put some of the sentences or paragraphs in different order. When the report is done, writers also need to carefully check and correct spelling and grammar."
+						}
+					],
+					"type": "p",
+					"uid": "0c94cad1-6ce9-4ada-865c-373fbfc00e8c",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "Finally, students need to make a neat, clean copy of the report. They may type the report on a computer or use clear, neat handwriting."
+						}
+					],
+					"type": "p",
+					"uid": "b5e02569-a7de-4059-8d75-c4379d93cc93",
+					"attrs": {
+						
+					}
+				},
+				{
+					"children": [
+						{
+							"text": "By Tina Posner"
+						}
+					],
+					"type": "p",
+					"uid": "6cd61dc9-f182-454d-88c5-25c8946d6827",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "ba041487-9b18-4c39-8208-1e88d3e79035"
+		},
+		"color_picker_for_citations": null,
+		"author_note": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "By Tina Posner"
+						}
+					],
+					"type": "p",
+					"uid": "0e2f06f4-c8f5-45b2-a329-4e5f10d030bb",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "33d09325-a8aa-463c-9cbb-55a561224047"
+		},
+		"abstract": {
+			"children": [
+				{
+					"children": [
+						{
+							"text": "Writing reports, or papers, is an important part of doing well in school. When students write good reports, they usually follow five steps. First, they understand the assignment. Then, they do research, organize the report, and write the report. Finally, students revise the report before they give it to the teacher."
+						}
+					],
+					"type": "p",
+					"uid": "07658daa-8d58-4981-b15b-c30a5de0f92c",
+					"attrs": {
+						
+					}
+				}
+			],
+			"type": "doc",
+			"uid": "a22c2017-96ae-4403-ad04-8d97ba938bae"
+		},
+		"custom_field": null,
+		"current_project": null,
+		"editor_notes": null,
+		"original_requested_word_count": null,
+		"word_count": null,
+		"task_hours": null,
+		"po_notes": null,
+		"editor_due_date": null,
+		"art_spec_summary": null,
+		"research_starter_links_applied": false,
+		"bulk_project_image_placement": null,
+		"automatic_image_placement": null,
+		"article_id": null,
+		"writer_due_date": null,
+		"date_created": null,
+		"review_date": null,
+		"last_updated_date": null,
+		"indexed_by_a_i": null,
+		"name_record_created_date": null,
+		"collection_debate_category": null,
+		"article_work_type": null,
+		"image_status": null,
+		"article_definitions": null,
+		"collection_topic": null,
+		"search_title": null,
+		"xml_version_ui": null,
+		"custom_pdf_only_no_full_text_": false,
+		"current_update_type": null,
+		"last_update_type": null,
+		"data_type": null,
+		"primary_article": null,
+		"date_in_repository_updated": null,
+		"date_in_repository": null,
+		"rs_title": null,
+		"date_added": null,
+		"update_cycle": null,
+		"source_note": null,
+		"search_term_set": null,
+		"copied_to_build": null,
+		"updated_build": null,
+		"do_not_use": false,
+		"usage_note": null,
+		"article_an": null,
+		"art_topic": null,
+		"past_projects": null,
+		"data_pulls": null,
+		"parent_article_id": null,
+		"table_in_main_body": false,
+		"adhoc_terms": null
+	}
+}

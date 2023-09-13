@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">states_rs</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">FYGD</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Great Neck Publishing</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>10</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>1</day>
+         <month>March</month>
+         <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>10</day>
+         <month>January</month>
+         <year>2022</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="our_states.10.3331.17420"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rsstates_17420</book-part-id>
+            <title-group>
+               <title>Virginia (VA).</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Eric</given-names>
+                     <surname>Badertscher</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>11026834</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>state id</meta-name>
+                  <meta-value>VA</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front/>
+         <body>
+            <sec sec-type="bodytext | intro" indexed="true">
+               <title/>
+               <list list-type="simple" list-content="state-general">
+                  <list-item>
+                     <p>
+                        <bold>Region: </bold>Atlantic coast</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Population: </bold>8,631,393 (ranked 12th; 2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Capital: </bold>Richmond (pop. 230,436) (2019 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Largest city: </bold>Virginia Beach (pop. 449,974) (2019 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Number of counties: </bold>95</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>State nickname: </bold>The Old Dominion; Mother of Presidents; Cavalier State</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>State motto: </bold>Sic semper tyrannis (Thus always to tyrants)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>State flag: </bold>Dark blue field with state coat of arms in white border</p>
+                  </list-item>
+               </list>
+               <p>Virginia, the "Old Dominion," joined the Union on June 25, 1788, as the tenth state. Located on the East Coast, the state is bordered on the north by Maryland and Washington, DC, on the northwest by West Virginia (part of Virginia until the Civil War), on the southwest by Tennessee and Kentucky, and on the south by North Carolina. Virginia has long played a leading role in US history: during the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158527"
+                                   xlink:type="simple">American Revolutionary War</related-article>, it provided many Patriot leaders, including George Washington, and during the Civil War, its state capital, Richmond, served as the second capital of the Confederacy. Though still strongly agricultural, modern Virginia has become known as a center of heavy industry and technology, as well as the home of some of the nation's finest universities.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p/>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="88112664-74880.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>EBSCO</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>
+                  <bold>State Name:</bold> The name Virginia, possibly coined by Sir Walter Raleigh in 1584, honors <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88367412"
+                                   xlink:type="simple">Elizabeth I</related-article> of England, the "Virgin Queen," who was the first English monarch to seek colonies in the New World. Virginia is also known as the Old Dominion State, because it was the first English colony on the American continent, having been established in 1607. Another nickname is the Mother of Presidents, because eight US presidents, including George Washington, have been Virginia natives.</p>
+               <p>
+                  <bold>Capital:</bold> Since 1780, the state capital has been Richmond. Williamsburg, located in the coastal Tidewater region, served as capital from 1699 to 1780. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89139753"
+                                   xlink:type="simple">Jamestown</related-article>, the first capital, was founded in 1607 as the first English settlement in the Virginia colony.</p>
+               <p>
+                  <bold>Flag:</bold> The Virginia flag, adopted in 1861, displays a blue background with a white circle in the center. In this white circle is the state's coat of arms, which shows an armed figure standing over a defeated opponent. The circle contains the word "Virginia" and the state motto, "Sic semper tyrannis," a Latin phrase that means "Thus always to tyrants."</p>
+               <list list-type="simple" list-content="state-symbols">
+                  <title>Official Symbols</title>
+                  <list-item>
+                     <p>
+                        <bold>Flower: </bold>Dogwood</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Bird: </bold>Cardinal</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Tree: </bold>Dogwood</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Fish: </bold>Brook trout</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Song: </bold>"Carry Me Back to Old Virginia" by James A. Bland</p>
+                  </list-item>
+               </list>
+               <list list-type="simple" list-content="sites">
+                  <title>State and National Historic Sites</title>
+                  <list-item>
+                     <p>Appomattox Court House National Historical Park (Appomattox)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Bacon's Castle (Surry)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Booker T. Washington National Monument (Hardy)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Cape Henry Memorial, Colonial National Historical Park (Fort Story)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Cedar Creek and Belle Grove National Historical Park (Middletown and Strasburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Colonial Williamsburg Historic Area (Williamsburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>George Washington's Grist Mill, Mount Vernon (Alexandria)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Historic Jamestowne, Colonial National Historical Park (Jamestowne)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Shirley Plantation (Charles City County)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Maggie L. Walker National Historic Site (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Petersburg National Battlefield (Prince George County)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Richmond National Battlefield Park (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Sailor's Creek Battlefield Historic State Park (Rice)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Shenandoah National Park (near Luray)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Shot Tower State Park (Austinville)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Sky Meadows State Park (Delaplane)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Southwest Virginia Museum (Big Stone Gap)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Staunton River Battlefield State Park (Randolph)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Yorktown Battlefield, Colonial National Historical Park</p>
+                  </list-item>
+               </list>
+               <list list-type="simple" list-content="holidays">
+                  <title>State-Specific Holidays</title>
+                  <list-item>
+                     <p>George Washington Day, third Monday in February </p>
+                  </list-item>
+                  <list-item>
+                     <p>Columbus Day and Yorktown Victory Day, second Monday in October</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec indexed="true" sec-type="bodytext | demographics">
+               <title>DEMOGRAPHICS</title>
+               <list list-type="simple" list-content="state-demo">
+                  <list-item>
+                     <p>
+                        <bold>Population: </bold>8,631,393 (ranked 12th; 2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Population density: </bold>218.6/sq mi (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Urban population: </bold>75.5% (2010 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Rural population: </bold>24.5% (2010 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Population under 18: </bold>21.8% (2019 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Population over 65: </bold>15.9% (2019 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>White alone: </bold>60.3% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Black or African American alone: </bold>18.6% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Hispanic or Latino: </bold>10.5% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>American Indian and Alaska Native alone: </bold>0.5% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Asian alone: </bold>7.1% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Native Hawaiian and Other Pacific Islander alone: </bold>0.1% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Some Other Race alone: </bold>5.2% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Two or More Races: </bold>8.2% (2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Per capita income: </bold>$39,278 (ranked 8th; 2019 estimate)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Unemployment: </bold>6.2% (2020)</p>
+                  </list-item>
+               </list>
+               <p>
+                  <bold>Native American Tribes:</bold> Virginia's early history is bound up with that of the American Indian tribes who met—and then fought—the European settlers. The three major tribes in Virginia in the early seventeenth century were the Algonquians, the Susquehannas, and the Cherokees. The Algonquian chief <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88829762"
+                                   xlink:type="simple">Powhatan</related-article>, who ruled the Tidewater region around Jamestown, fought regularly against the White settlers. Peace finally came when his daughter, Pocahontas, married colonist John Rolfe in 1614. This kept the peace until Powhatan's death in 1618.</p>
+               <p>Over the next several decades, Powhatan's heirs fought several wars against the settlers. In 1644, the Virginian colonists defeated the American Indians decisively. The two sides fought again, however, in the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158649"
+                                   xlink:type="simple">French and Indian War</related-article> (1754–63), during which the American Indians allied with the French in an effort to regain their lands. The British victory sealed the fate of the Virginia tribes, and most emigrated westward. In 2021, the federal government recognized seven tribes living in Virginia.</p>
+            </sec>
+            <sec indexed="true" sec-type="bodytext | geography">
+               <title>ENVIRONMENT AND GEOGRAPHY</title>
+               <list list-type="simple" list-content="state-geo">
+                  <list-item>
+                     <p>
+                        <bold>Total area: </bold>42,775 sq mi (ranked 35th)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Land area: </bold>39,490 sq mi (92.3% of total area)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Water area: </bold>3,285 sq mi (7.7% of total area)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Shoreline: </bold>3,315 miles</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>National parks: </bold>22</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Highest point: </bold>Mount Rogers (5,729 feet)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Lowest point: </bold>Atlantic Ocean (sea level)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Highest temperature: </bold>110° F (Columbia; Balcony Falls, July 7, 1900; July 15, 1954)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Lowest temperature: </bold>−30° F (Mountain Lake Biological Station, January 21, 1985)</p>
+                  </list-item>
+               </list>
+               <p>
+                  <bold>Topography:</bold> Virginia has three main regions: the mountains, the Piedmont, and the coastal plain, also known as the Tidewater region. The coastal plain is a low-lying region of rivers that borders the Atlantic Ocean and the Chesapeake Bay. The southeastern part of this plain is the home of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94981372"
+                                   xlink:type="simple">Great Dismal Swamp</related-article>, known for its cypress trees. The Piedmont is a plateau of gently rolling hills—the foothills of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87321196"
+                                   xlink:type="simple">Blue Ridge Mountains</related-article>. The mountain region includes the Blue Ridge Mountains as well as part of its parent range, the Appalachians. Nestled in between the mountains is the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87997292"
+                                   xlink:type="simple">Shenandoah Valley</related-article>, which extends down into the Carolinas.</p>
+               <list list-type="simple" list-content="lakes">
+                  <title>Major Lakes </title>
+                  <list-item>
+                     <p>Bear Creek Lake</p>
+                  </list-item>
+                  <list-item>
+                     <p>Holliday Lake</p>
+                  </list-item>
+                  <list-item>
+                     <p>Lake Drummond</p>
+                  </list-item>
+                  <list-item>
+                     <p>Lake Anna</p>
+                  </list-item>
+                  <list-item>
+                     <p>Occoneechee Lake</p>
+                  </list-item>
+                  <list-item>
+                     <p>Philpott Lake</p>
+                  </list-item>
+                  <list-item>
+                     <p>Twin Lakes</p>
+                  </list-item>
+               </list>
+               <list list-type="simple" list-content="rivers">
+                  <title>Major Rivers</title>
+                  <list-item>
+                     <p>Big Sandy River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Chickahominy River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Chowan River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Dan River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Holston River (Upper Tennessee River)</p>
+                  </list-item>
+                  <list-item>
+                     <p>James River</p>
+                  </list-item>
+                  <list-item>
+                     <p>New River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Potomac River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Rappahannock River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Roanoke River</p>
+                  </list-item>
+                  <list-item>
+                     <p>Shenandoah River</p>
+                  </list-item>
+                  <list-item>
+                     <p>York River</p>
+                  </list-item>
+               </list>
+               <p>
+                  <bold>State and National Parks:</bold> Virginia's parks include many types of sites, such as scenic trails and other natural areas, Civil War battlefields, cemeteries, and the birthplaces of historic leaders. There are about forty state parks and natural areas, including Pocahontas State Park, near Richmond; Shenandoah River State Park; and Civil War battlefields at Staunton River and Sailor's Creek.</p>
+               <p>There are twenty-two national parks, including Shenandoah National Park, in the Blue Ridge Mountains; Jamestown National Historic Site, the location of the first English colony in America; the Booker T. Washington National Monument, in Hardy; and Appomattox Court House National Historic Park.</p>
+               <p>
+                  <bold>Natural Resources:</bold> Virginia enjoys an abundance of natural resources, both agricultural and mineral. Virginia farmers grow tobacco, soybeans, hay, cotton, grains, and corn. Poultry, dairy, and beef farming are also important. The state's mineral resources include coal, stone, sand, and gravel. The waters of the Chesapeake Bay Watershed bring rich harvests of fish and shellfish, particularly crabs and oysters, to Virginia's commercial fishers.</p>
+               <p>
+                  <bold>Plants and Animals:</bold> Virginia is still a largely rural state, with nearly two-thirds of the land covered with forests. Common trees include oak, hickory, and pine. Travelers can see many varieties of wildflowers alongside the state's highways, including tulips. In the Tidewater region, marsh vegetation predominates in the southeastern wetlands; the Great Dismal Swamp, for example, is home to large cypress trees. The Piedmont and Blue Ridge regions are heavily forested.</p>
+               <p>The coastal region is home to many varieties of wildlife, particularly shellfish. The lower Chesapeake Bay and the Tidewater estuaries are full of oysters, crabs, and other aquatic life. Despite human settlement, large mammals such as black bears and bobcats are still often found in the state's mountainous regions. On Assateague Island, near Virginia's Eastern Shore, bands of wild ponies wander freely. Legend says that the ponies swam ashore more than four hundred years ago to escape a Spanish shipwreck.</p>
+               <p>
+                  <bold>Climate:</bold> Virginia has a temperate climate, with long summers and short winters, except in the western mountains. The average January temperature is 36 degrees Fahrenheit, and the average temperature in July is 75 degrees Fahrenheit. The regions of the state receive between thirty-eight and forty-seven inches of rainfall each year; rainfall is particularly heavy in the Piedmont and Blue Ridge regions.</p>
+            </sec>
+            <sec indexed="true" sec-type="bodytext | education">
+               <title>EDUCATION AND CULTURE</title>
+               <list list-type="simple" list-content="colleges">
+                  <title>Major Colleges and Universities</title>
+                  <list-item>
+                     <p>Averett University (Danville)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Christopher Newport University (Newport News)</p>
+                  </list-item>
+                  <list-item>
+                     <p>College of William and Mary (Williamsburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Eastern Mennonite University (Harrisonburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Emory and Henry College (Emory)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Ferrum College (Ferrum)</p>
+                  </list-item>
+                  <list-item>
+                     <p>George Mason University (Fairfax)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Hampton University (Hampton)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Hollins University (Roanoke)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Liberty University (Lynchburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Marymount University (Arlington)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Norfolk State University (Norfolk)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Old Dominion University (Norfolk)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Radford University (Radford)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Randolph-Macon College (Ashland)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Regent University (Virginia Beach)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Roanoke College (Salem)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Shenandoah University (Winchester)</p>
+                  </list-item>
+                  <list-item>
+                     <p>University of Lynchburg (Lynchburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>University of Mary Washington (Dahlgren, Fredericksburg, Stafford)</p>
+                  </list-item>
+                  <list-item>
+                     <p>University of Richmond (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>University of Virginia (Charlottesville, Wise)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia Commonwealth University (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia State University (Petersburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virgina Tech (Blacksburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia Wesleyan College (Norfolk)</p>
+                  </list-item>
+               </list>
+               <list list-content="museums" list-type="simple">
+                  <title>Major Museums</title>
+                  <list-item>
+                     <p>American Civil War Museum (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Chrysler Museum of Art (Norfolk)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Edgar Allan Poe Museum (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>MacArthur Memorial (Norfolk)</p>
+                  </list-item>
+                  <list-item>
+                     <p>The Mariners' Museum and Park (Newport News)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Portsmouth Naval Shipyard Museum (Portsmouth)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Science Museum of Virginia (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>The Valentine (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia Aquarium and Marine Science Center (Virginia Beach)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia Museum of Fine Arts (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia Museum of History and Culture (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia Museum of Natural History (Martinsville)</p>
+                  </list-item>
+               </list>
+               <list list-type="simple" list-content="libraries">
+                  <title>Major Libraries</title>
+                  <list-item>
+                     <p>Alderman Library, University of Virginia (Charlottesville)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Earl Gregg Swem Library, College of William and Mary (Williamsburg)</p>
+                  </list-item>
+                  <list-item>
+                     <p>George C. Marshall Research Library (Lexington)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Jean MacArthur Research Center (Norfolk)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Valentine Museum Library (Richmond)</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia State Library (Richmond)</p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec indexed="true" sec-type="bodytext | media">
+               <title>Media</title>
+               <p>Virginia has several major media markets, the largest of which is Richmond, the state capital. The major paper there is the <italic>Richmond Times-Dispatch</italic>. Northern Virginia is essentially part of the metropolitan Washington, DC, market, which is served by newspapers such as the <italic>Washington Post</italic> and the <italic>Washington Times</italic>. Charlottesville, Roanoke, Norfolk, and Lynchburg are also major news markets. There are also a number of weekly newspapers, such as the <italic>Virginia Lawyers Weekly</italic> from Richmond. The capital and other major cities are also well served by radio and television. </p>
+            </sec>
+            <sec indexed="true" sec-type="bodytext | economy">
+               <title>ECONOMY AND INFRASTRUCTURE</title>
+               <list list-type="simple" list-content="state-eco">
+                  <list-item>
+                     <p>
+                        <bold>Gross domestic product (in millions $USD): </bold>549,535.8 (ranked 13th; 2020)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>GDP percent change: </bold>-2.8%</p>
+                  </list-item>
+               </list>
+               <p>
+                  <bold>Major Industries:</bold> Virginia, though heavily agricultural, also has a widely diversified industrial and service economy. Many residents, particularly in the Northern Virginia suburbs of Washington, DC, work for the federal government. This government presence includes many research facilities. The US Navy also provides much economic strength. Norfolk is home to a major naval base, and Portsmouth is home to a naval shipyard. Newport News is home to many commercial shipbuilders, including those that build the navy's nuclear aircraft carriers. The high-technology industry, especially telecommunications, and the aerospace industry are also strong areas.</p>
+               <p>
+                  <bold>Tourism:</bold> For many years, Virginia has promoted tourism with the slogan "Virginia Is for Lovers." Thousands of tourists visit the state each year to enjoy the natural beauty as well as the Old Dominion's historic past. In 2019, travelers spent an estimated $27 billion in the state, which generated about $1.8 billion in tax revenue, according to the state tourism corporation. Colonial Williamsburg, the former capital, is a popular destination, where restored eighteenth-century buildings and recreated handicrafts give a glimpse into eighteenth-century life. Richmond offers a rich cultural life, including theater, symphony orchestras, and professional sports. The capital also possesses several museums, including the Virginia Museum of Fine Arts. Charlottesville is home to Thomas Jefferson's residence, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323825"
+                                   xlink:type="simple">Monticello</related-article>, and the University of Virginia, founded by Jefferson in 1819.</p>
+               <p>
+                  <bold>Energy Production:</bold> Virginia relies on conventional sources of energy such as petroleum, coal, and natural gas, as well as on nuclear energy. Electricity and natural gas are the main sources of home heating, and the state’s two <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88806526"
+                                   xlink:type="simple">nuclear power</related-article> plants provided roughly one-third of Virginia’s net electricity generation in 2019. Virginia was the largest coal export center in the United States that year. The Commonwealth government also sought to increase development of alternative sources,  including <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475007"
+                                   xlink:type="simple">biomass</related-article>, solar photovoltaic, biofuel, and hydroelectric energy.</p>
+               <p>
+                  <bold>Agriculture:</bold> Virginia remains highly agricultural, despite the state's increasing industrialization. Though it is no longer the only nor the most lucrative cash crop, tobacco remains important to the economy. Cattle and poultry farming are important as well. Soybeans, corn, hay, wheat, tomatoes, peanuts, pumpkins, barley, and fruit are significant crops.</p>
+               <p>
+                  <bold>Airports:</bold> Because of its proximity to the nation's capital, Virginia is a major air-travel hub. The state has four international airports: Richmond International Airport, Newport News-Williamsburg International Airport, Norfolk International Airport, and Washington Dulles International Airport. There is also a major national airport, Ronald Reagan Washington National Airport, as well as a number of regional airports throughout the state, including those in Winchester, Staunton, South Hill, Roanoke, and Lynchburg.</p>
+               <p>
+                  <bold>Seaports:</bold> Virginia carries on a busy international trade through its general-cargo seaports: Norfolk International Terminals, Newport News Marine Terminal, Portsmouth Marine Terminal, the Virginia Inland Port, Virginia International Gateway, and Richmond Marine Terminal. The first four are owned by the Virginia Port Authority and operated by Virginia International Terminals, an affiliated company; the last two are owned privately and by the municipality, respectively. The Port Authority is an official state agency and reports to the secretary of transportation. The main commodities handled include coal, soybeans, wood pulp and fuel, and various manufactured products.</p>
+            </sec>
+            <sec indexed="true" sec-type="bodytext | government">
+               <title>GOVERNMENT</title>
+               <list list-type="simple" list-content="state-gov">
+                  <list-item>
+                     <p>
+                        <bold>Governor: </bold>Ralph Northam (Democrat)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Present constitution date: </bold>July 1, 1970</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Electoral votes: </bold>13</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Number of counties: </bold>95</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Violent crime rate: </bold>208.0 (per 100,000 residents)</p>
+                  </list-item>
+                  <list-item>
+                     <p>
+                        <bold>Death penalty: </bold>Yes</p>
+                  </list-item>
+               </list>
+               <p>
+                  <bold>Executive:</bold> The governor is the chief executive officer of the Commonwealth of Virginia. The governor proposes legislation to the General Assembly, makes political appointments, and acts as commander in chief of the state military forces. The governor also heads the cabinet, which is made up of the heads of state administrative agencies and other top officials. Other state officers include the lieutenant governor, the attorney general, and the secretary of the commonwealth (similar to secretary of state). The lieutenant governor presides over the state senate but can vote only in the event of a tie. The lieutenant governor becomes governor in case the incumbent dies, resigns, is disqualified, or is removed from office.</p>
+               <p>
+                  <bold>Legislative:</bold> Virginia has a bicameral, or two-house, legislature called the Virginia General Assembly. The General Assembly dates back to the foundation of the colonial House of Burgesses in 1619 and consists of the Virginia House of Delegates and the Senate of Virginia. The House of Delegates has one hundred members, while the Senate has forty members. All members are elected by voters in their respective districts. Delegates serve two-year terms, while senators serve for four years. In addition to its lawmaking functions, the General Assembly approves the state budget, levies taxes, elects judges, and confirms the governor's political appointments.</p>
+               <p>Other parts of the legislative branch include legislative commissions and the auditor of public accounts.</p>
+               <p>
+                  <bold>Judicial:</bold> The Virginia court system includes the Supreme Court of Virginia, the Court of Appeals of Virginia, the circuit courts, and the district courts. There are general district courts, which handle a wide variety of cases, as well as specialized district courts for juveniles and domestic relations. The state supreme court has original and appellate jurisdiction, but it primarily serves as a court of review. It has seven justices, who are elected to twelve-year terms by majority vote of both houses of the legislature.</p>
+            </sec>
+            <sec sec-type="bodytext | history" indexed="true">
+               <title>HISTORY</title>
+               <p>
+                     <bold>1584</bold>
+                   The name "Virginia" is first suggested, possibly by explorer Sir Walter Raleigh, for English territories in the New World. The name is in honor of Queen Elizabeth I of England, nicknamed the Virgin Queen.</p>
+               <p>
+                     <bold>1606</bold>
+                   The English crown grants a colonial charter to the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323488"
+                                   xlink:type="simple">Virginia Company of London</related-article>. Its grant extends from the present-day border between Maine and Canada down to Cape Fear, North Carolina.</p>
+               <p>
+                     <bold>1607</bold>
+                   Sent by the Virginia Company, the first English colonists land in Virginia on May 13. More than one hundred colonists, all men, arrive aboard the ships <italic>Sarah Constant</italic>, <italic>Godspeed</italic>, and <italic>Discovery</italic> and establish a settlement called Jamestown. Named in honor of King <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88070215"
+                                   xlink:type="simple">James I</related-article>, this is the first permanent English colony in the New World. The town will serve as the official colonial capital from 1616 until 1699, when it will be replaced by nearby Williamsburg. The colony initially struggles because the settlers, many of them aristocrats, are more interested in finding gold than in working hard.</p>
+               <p>
+                     <bold>1608</bold>
+                   Captain <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88829157"
+                                   xlink:type="simple">John Smith</related-article>, one of the colony's leaders, publishes a book about his adventures in Virginia. This volume, considered the first book written in America, is the first of Smith's seven books about the New World.</p>
+               <p>
+                     <bold>1609–10</bold>
+                   The Jamestown colony suffers the "starving time," a harsh winter during which almost all the colonists die of hunger or disease.</p>
+               <p>
+                     <bold>1611</bold>
+                   Henrico, the second settlement in Virginia, is established upriver of Jamestown.</p>
+               <p>
+                  <bold>1612</bold> John Rolfe, a young planter who in 1614 will marry the American Indian princess Pocahontas, plants the first successful tobacco crop. By 1619, tobacco will be Virginia's leading export.</p>
+               <p>
+                     <bold>1617</bold>
+                   The first female settlers arrive in Virginia.</p>
+               <p>
+                     <bold>1619</bold>
+                   The Virginia Company establishes a legislature to run colonial affairs. The colony is divided into settlements known as plantations, each of which sends representatives to the General Assembly. The new legislature holds its first meeting in the church at Jamestown.</p>
+               <p>That same year, a Dutch ship brings twenty enslaved people to Jamestown for sale—the first ever brought to Virginia. Slavery will soon become the basis of Virginia's labor-intensive <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551099"
+                                   xlink:type="simple">tobacco industry</related-article>.</p>
+               <p>
+                     <bold>1622</bold>
+                   The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89453650"
+                                   xlink:type="simple">Powhatan Confederacy</related-article>, led by Opechancanough (son of Chief Powhatan), attacks the settlers, killing around 350 colonists. From then on, the colonists stage regular counterattacks to push the Indians farther west.</p>
+               <p>
+                     <bold>1624</bold>
+                   England revokes the Virginia Company's charter and assumes direct control over the colony. Under colonial pressure, the king agrees to let Virginia keep its representative assembly.</p>
+               <p>
+                     <bold>1634</bold>
+                   Virginia is divided into eight "shires," or counties.</p>
+               <p>
+                  <bold>1641</bold> There are approximately 250 Africans in Virginia. The majority are indentured servants rather than enslaved people.</p>
+               <p>
+                  <bold>1644</bold> The Powhatan Confederacy again rises up against the White settlers and is again put down. This is the last major American Indian resistance to the colonists.</p>
+               <p>
+                     <bold>1649-60</bold>
+                   Puritan Commonwealth is established in England and King Charles I is executed. Virginia, heavily Anglican, remains loyal to King Charles I. In 1652, however, Oliver Cromwell sends an expedition that forces Virginia to support the Commonwealth of Virginia. In the mid-1650s, Virginia's Puritans do battle with the royalist forces of neighboring Maryland. The "Old Dominion" is essentially autonomous until the English monarchy is restored in 1660 under King Charles II.</p>
+               <p>
+                     <bold>1662</bold>
+                   Slavery is officially recognized in Virginia's legal code.</p>
+               <p>
+                     <bold>1676</bold>
+                   
+                           <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89139575"
+                                   xlink:type="simple">Bacon's Rebellion</related-article>. Henrico County planter Nathaniel Bacon leads a revolt against the oppressive authority of royal governor Sir William Berkeley. Bacon and other colonists resent Berkeley's high-handed governing style and his friendship with the rich Tidewater planters. The governor had also refused to support Bacon and other planters in a military campaign against the Indians. Bacon's revolt fails after its leader dies of fever, but the incident demonstrates the colonists' willingness to fight for their political views.</p>
+               <p>
+                     <bold>1693</bold>
+                   The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89403455"
+                                   xlink:type="simple">College of William and Mary</related-article> is chartered by King William III and Queen Mary II of Britain. It is the second college, after Harvard University in Massachusetts, to be founded in the American colonies.</p>
+               <p>
+                     <bold>1699</bold>
+                   The town of Williamsburg becomes the new colonial capital.</p>
+               <p>
+                     <bold>1723</bold>
+                   Bafferton Hall, the first permanent Indian school in the colonies, is founded at the College of William and Mary, in Williamsburg. The school receives funds from the estate of Irish scientist Robert Boyle, who left money for that purpose.</p>
+               <p>
+                     <bold>1732</bold>
+                   George Washington is born on a plantation in Westmoreland County, in the Tidewater region.</p>
+               <p>
+                     <bold>ca. 1734</bold>
+                   Virginia planter William Byrd II builds the elaborate Georgian-style mansion known as Westover on the James River. This is one of the most distinguished private residences in the American colonies.</p>
+               <p>
+                     <bold>1747</bold>
+                   Virginia land speculators form the Ohio Company to extend settlement into the Ohio River Valley. This is the first group to seek to develop the region west of the Allegheny Mountains. In 1749, the Ohio Company will receive a royal charter; in 1750, the group will send Christopher Gist to explore the Ohio Country. This activity will anger the French, who will see it as encroaching on their territorial claims. The dispute over the Ohio territory will be a precursor to the French and Indian War.</p>
+               <p>
+                     <bold>1755–63</bold>
+                   The French and Indian War erupts between Britain and France. British general Edward Braddock, accompanied by Virginia troops under George Washington, leads an expedition through Maryland to confront the French and their Indian allies. Braddock's forces are defeated near Fort Duquesne (present-day Pittsburgh, Pennsylvania).</p>
+               <p>
+                     <bold>1774</bold>
+                   Virginia statesmen recommend that all the colonies meet to discuss their opposition to British policies. This gathering is known as the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158612"
+                                   xlink:type="simple">First Continental Congress</related-article>.</p>
+               <p>
+                     <bold>1775</bold>
+                   An expedition led by frontiersman <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88364836"
+                                   xlink:type="simple">Daniel Boone</related-article> cuts the Boone's Trace, part of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551146"
+                                   xlink:type="simple">Wilderness Road</related-article>, from Long Island, Tennessee, to Boonesborough, Kentucky.</p>
+               <p>
+                     <bold>1775–83</bold>
+                   The American Revolution. Virginia, the wealthiest and most prominent English colony in America, is a leading force in the Revolution. Patriot leaders include Virginians such as George Washington, Thomas Jefferson, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88365044"
+                                   xlink:type="simple">Patrick Henry</related-article>, James Madison, and James Monroe. In 1779, George Rogers Clark and his Virginia troops seize from the British the region later known as the Northwest Territory. In 1781, the British briefly occupy Richmond and destroy many records. Later that year, Richmond is occupied a second time by the British general Lord Cornwallis, who soon retreats toward Williamsburg and then Yorktown. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158572"
+                                   xlink:type="simple">Cornwallis surrenders at Yorktown</related-article> in 1781, bottled up on the peninsula by George Washington's troops and the French Navy. This effectively ends the fighting, but it takes another two years to work out a peace treaty.</p>
+               <p>
+                     <bold>1780</bold>
+                   The state capital is moved from Williamsburg to the more centrally located Richmond.</p>
+               <p>
+                     <bold>1784</bold>
+                   Virginia cedes its western lands to the national government (then under the Articles of Confederation). Three years later, the Confederation Congress will pass the Ordinance of 1787, creating the Northwest Territory out of the western lands ceded to the national government by the states. The measure will also establish territorial government and provisions for creating new states.</p>
+               <p>
+                     <bold>1788</bold>
+                   Virginia ratifies the United States Constitution, becoming the tenth state to enter the Union.</p>
+               <p>
+                     <bold>1792</bold>
+                   The county of Kentucky, part of Virginia since 1776, joins the Union as the fifteenth state. Kentucky was the first land west of the Alleghenies to be settled by European settlers.</p>
+               <p>
+                     <bold>1794</bold>
+                   General "Mad Anthony" Wayne defeats Indian forces at the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158533"
+                                   xlink:type="simple">Battle of Fallen Timbers</related-article>, in the Ohio Country. This victory removes the threat of Indian attack against Virginia settlements.</p>
+               <p>
+                  <bold>1830s–50s</bold> Many enslaved people seek to escape North via the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160977"
+                                   xlink:type="simple">Underground Railroad</related-article>, a network of abolitionists who help African Americans reach freedom in Northern states and Canada.</p>
+               <p>
+                  <bold>1831</bold> Nat Turner's Rebellion. An enslaved person named <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807356"
+                                   xlink:type="simple">Nat Turner</related-article> leads an unsuccessful slave insurrection that severely frightens white Virginians, who harshly retaliate against enslaved people in the state.</p>
+               <p>
+                     <bold>1832</bold>
+                   Influenced by slave insurrections such as Nat Turner's Rebellion, the Virginia House of Delegates debates whether to abolish slavery. The legislature ultimately votes down an abolition measure and begins to tighten restrictions on African Americans.</p>
+               <p>
+                     <bold>1840</bold>
+                   At the University of Virginia, a masked student shoots and kills law professor John A. G. Davis. This outrageous incident leads the student body to adopt an honor system, the nation's oldest. Under its guidelines, students agree to live ethically and report others' academic misbehavior.</p>
+               <p>
+                     <bold>1850s</bold>
+                   Virginia begins a phase of heavy industrialization, including growth of railroads and the steel industry. Using slave labor, the Tredegar Iron Works in Richmond produces a wide variety of iron and steel products, including locomotive engines.</p>
+               <p>
+                     <bold>1851</bold>
+                   The Virginia Constitution of 1851 grants suffrage to all white male citizens.</p>
+               <p>
+                     <bold>1858</bold>
+                   The Virginia and Tennessee Railroad opens the first railroad to cross the New River. The railroad is now known as the Norfolk and Western.</p>
+               <p>
+                     <bold>1859</bold>
+                   
+                           <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89160460"
+                                   xlink:type="simple">John Brown's Raid on Harpers Ferry</related-article>. Northern abolitionist John Brown and approximately twenty followers, both white and black, attack the US military arsenal at Harpers Ferry, now in West Virginia. Brown hopes to gain weapons to start a general slave revolt. The US Army sends forces under Colonel <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807409"
+                                   xlink:type="simple">Robert E. Lee</related-article>, the future Confederate general, to put down the revolt. Brown is captured and executed. Many Southerners are outraged at the event, seeing it as proof that the North is their enemy.</p>
+               <p>
+                  <bold>1861–65</bold> The Civil War. Virginia, the state with the largest enslaved population, secedes from the Union on April 17, 1861. Virginia plays a major role in the conflict between North and South, in part because of its strategic location near Washington, DC, and as a gateway to the Deep South. Richmond, the state capital, serves for most of the war as capital of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87321594"
+                                   xlink:type="simple">Confederacy</related-article>. In fact, Virginia is the site of most of the war's military action—more than four hundred military engagements and twenty-six major battles throughout all five years of war.</p>
+               <p>
+                     <bold>1862</bold>
+                   An <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89141100"
+                                   xlink:type="simple">important naval battle</related-article> takes place off Hampton Roads, Virginia, between the ironclad warships USS <italic>Monitor</italic> (the world's first ironclad, turreted warship) and CSS <italic>Virginia</italic> (formerly the USS <italic>Merrimack</italic>). Although the battle ends in a draw, the fight shows the world the possibilities of the <italic>Monitor</italic>'s design.</p>
+               <p>
+                     <bold>1863</bold>
+                   The western counties of Virginia secede to form the state of West Virginia. Union armies eventually begin to overwhelm Confederate forces throughout Virginia.</p>
+               <p>
+                     <bold>1865</bold>
+                   The University of Virginia, which has remained open throughout the war, narrowly escapes destruction in March 1865 when Union general <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88831042"
+                                   xlink:type="simple">George Armstrong Custer</related-article> arrives in Charlottesville; city leaders convince him not to destroy the school. In April, Confederate general Robert E. Lee surrenders to Union general <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="86193834"
+                                   xlink:type="simple">Ulysses S. Grant</related-article> at Appomattox Court House, Virginia, bringing the armed conflict largely to an end.</p>
+               <p>
+                     <bold>1865–70</bold>
+                   Virginia undergoes Reconstruction, but not as heavily as the Deep South.</p>
+               <p>
+                     <bold>1870</bold>
+                   Virginia is readmitted to the Union after ratifying the Fourteenth and Fifteenth Amendments to the Constitution.</p>
+               <p>
+                     <bold>1870s</bold>
+                   The post–Civil War period gives rise to the "New South," built on industrialization. This is a period of rapid economic growth in Virginia, fueled partly by railroad expansion.</p>
+               <p>
+                     <bold>1877</bold>
+                   Richmond is flooded.</p>
+               <p>
+                     <bold>1895</bold>
+                   The University of Virginia's Rotunda, built by Thomas Jefferson seven decades earlier, is destroyed by fire. New York City architect Stanford White is hired to rebuild the structure.</p>
+               <p>
+                     <bold>1914–18</bold>
+                    World War I. When the United States enters the war in 1917, many Virginians enlist in the Armed Forces. Around 2,500 students, faculty, and alumni of the University of Virginia serve in the conflict.</p>
+               <p>
+                     <bold>1920</bold>
+                   Women's rights advocate Mary Cooke Branche Munford wins a compromise in her efforts to have women admitted to the University of Virginia the university agrees to admit women over twenty years old to graduate programs. Women will not be admitted as undergraduates until fifty years later.</p>
+               <p>
+                     <bold>1926</bold>
+                   
+                           <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88830061"
+                                   xlink:type="simple">Harry Flood Byrd</related-article>, brother of Arctic explorer Admiral Richard E. Byrd, becomes governor of Virginia and serves until 1930. He controls the state's powerful Democratic organization until the mid-1960s, serving as US senator from 1933 to 1965.</p>
+               <p>
+                     <bold>1930s</bold>
+                   The Great Depression. The state is not as badly hit as other parts of the nation due to a resurgence of industrial growth.</p>
+               <p>
+                     <bold>1941–45</bold>
+                    World War II. In 1941, the War Department begins building the Pentagon office building in the Northern Virginia community of Arlington. The structure, which costs $83 million, consolidates seventeen existing buildings. It is completed in 1943.</p>
+               <p>
+                  <bold>1950</bold> Gregory Swanson, an African American lawyer, becomes the first Black student at the University of Virginia law school. His admission comes through the support of the National Association for the Advancement of Colored People (NAACP).</p>
+               <p>
+                     <bold>1953</bold>
+                   Virginia State University psychology professor Walter N. Ridley becomes the University of Virginia's first African American graduate. He graduates in 1953 with a doctorate in education.</p>
+               <p>
+                     <bold>1954</bold>
+                   The US Supreme Court ruling <italic>
+                              <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="89183346"
+                                      xlink:type="simple">Brown v. Board of Education</related-article>
+                           </italic> desegregates the nation's schools. Virginia and other southern states resist for a time, but they eventually begin allowing African American children to attend previously all-white schools.</p>
+               <p>
+                     <bold>1964</bold>
+                   Virginia completes the seventeen-mile Chesapeake Bay Bridge-Tunnel, connecting Norfolk with the Virginia Eastern Shore.</p>
+               <p>
+                     <bold>1970</bold>
+                   The University of Virginia becomes fully coeducational, admitting women as freshmen to the College of Arts and Sciences. The decision comes in the face of a pending federal court case filed by four female high school seniors.</p>
+               <p>
+                     <bold>1976</bold>
+                   Queen Elizabeth II of Great Britain visits the United States in honor of the bicentennial of the nation's independence. During her tour, she visits the University of Virginia.</p>
+               <p>
+                     <bold>1989</bold>
+                   Douglas Wilder, an African American lawyer in Richmond, is elected governor of Virginia, becoming the first elected African American governor in the nation's history. He will serve until 1994.</p>
+               <p>
+                     <bold>1993</bold>
+                   
+                           <italic>US News and World Report</italic> ranks the University of Virginia as the nation's best public university.</p>
+               <p>
+                     <bold>2001</bold>
+                   On September 11, terrorists fly passenger planes into the World Trade Center in New York City and the Pentagon in Northern Virginia, killing nearly three thousand people. President George W. Bush declares a "<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89550663"
+                                   xlink:type="simple">war on terrorism</related-article>."</p>
+               <p>
+                     <bold>2007</bold>
+                   Seung-Hui Cho kills thirty-two people and himself during a gun rampage on the campus of Virginia Polytechnic Institute and State University, better known as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89403714"
+                                   xlink:type="simple">Virginia Tech</related-article>. Cho's long history of antisocial behavior leads many to question whether anything could have been done to prevent the massacre. The event reignites the debate surrounding gun-control laws in the United States after it is discovered that Cho lawfully purchased the two handguns used in the shootings. On the day of the shootings, Cho mails a rambling manifesto composed of writings, pictures, and videotapes to <italic>NBC News</italic> in New York City.</p>
+               <p>
+                     <bold>2011</bold>
+                   A 5.8-magnitude earthquake shakes Virginia and Washington, DC, causing approximately $250 million in damages. The epicenter of the earthquake is later determined to be in Louisa County, Virginia.</p>
+               <p>
+                     <bold>2014</bold>
+                   A US district court and, later, a federal appellate court overturn Virginia's 2006 constitutional amendment banning same-sex marriage and recognition of same-sex marriages performed in other states.</p>
+               <p>
+                     <bold>2017</bold>
+                   In June, gunman James Hodgkinson opened fire on the Republican congressional baseball team at practice at Nationals Park in Alexandria, wounding at least six.</p>
+               <p>In August, Far Right protesters march on the University of Virginia, Charlottesville, campus. The following day, white nationalists rally to protest Charlottesville’s planned removal of a monument of Confederate general Robert E. Lee. Police end the event after fights between protesters and counterprotesters break out. Protester James Alex Fields Jr. drives a vehicle into a group of counterprotesters, killing Heather Heyer and injuring nineteen others. Governor Terry McAuliffe declares a state of emergency.</p>
+               <p>
+                     <bold>2020</bold>
+                   In April, Virginia's governor signs a batch of gun control bills that expands background checks for firearm sales and reinstates the cap on handgun sales to one a month.</p>
+               <p>In June, protests in relation to the<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="109056972"
+                                   xlink:type="simple"> Black Lives Matter</related-article> movement lead to the removal of Confederate statues on Monument Avenue in Richmond.</p>
+            </sec>
+            <sec sec-type="bodytext | people" indexed="true">
+               <title>FAMOUS NATIVES</title>
+               <p>
+                  <bold>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="88827359"
+                                      xlink:type="simple">Arthur Ashe</related-article>,</bold> 1943–93 (Richmond) , Tennis player.</p>
+               <p>
+                  <bold>Ella Baker, </bold>1903–86 (Norfolk) , Cofounder of the Southern Christian Leadership Conference and the Student Non-Violent Coordinating Committee.</p>
+               <p>
+                  <bold>Pearl Bailey, </bold>1918–88 (Newport News) , Singer.</p>
+               <p>
+                  <bold>Richard E. Byrd,</bold> 1888–1957 (Winchester) , Naval aviator, polar explorer.</p>
+               <p>
+                  <bold>William Byrd II,</bold> 1674–1744 (Westover) , Chronicler, diarist, statesman.</p>
+               <p>
+                  <bold>William Clark,</bold> 1770–1838 (Caroline County) , Explorer, part of the Lewis and Clark expedition.</p>
+               <p>
+                  <bold>Henry Clay,</bold> 1777–1852 (Hanover County) , statesman, US senator for Kentucky.</p>
+               <p>
+                  <bold>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="88827694"
+                                      xlink:type="simple">Patsy Cline</related-article>,</bold> 1932–1963 (Winchester) , Country music singer.</p>
+               <p>
+                  <bold>Gabrielle "Gabby" Douglas,</bold> 1995– (Newport News) , Olympic gold medalist in gymnastics.</p>
+               <p>
+                  <bold>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="89405126"
+                                      xlink:type="simple">Missy Elliot</related-article>,</bold> 1971– (Portsmouth) , Rapper and record producer.</p>
+               <p>
+                  <bold>Ella Fitzgerald,</bold> 1917–96 (Newport News) , Jazz singer.</p>
+               <p>
+                  <bold>Douglas Southall Freeman,</bold> 1886–1953 (Lynchburg) , Historian, newspaper editor.</p>
+               <p>
+                  <bold>Earl Hamner Jr.,</bold> 1923–2016 (Schuyler) , Novelist, creator of <italic>The Waltons</italic> television series.</p>
+               <p>
+                  <bold>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="86193836"
+                                      xlink:type="simple">William Henry Harrison</related-article>,</bold> 1773–1841 (Charles City County) , General, ninth president of the United States.</p>
+               <p>
+                  <bold>Sally Hemings,</bold> ca. 1773–1835 (Charles City County) , Enslaved child caregiver and seamster in Thomas Jefferson's household and mother of Jefferson's mixed-race children.</p>
+               <p>
+                  <bold>Patrick Henry,</bold> 1736–99 (Hanover County) , Orator, Revolutionary War statesman.</p>
+               <p>
+                  <bold>Allen Iverson,</bold> 1975– (Hampton) , Basketball player.</p>
+               <p>
+                  <bold>Thomas Jefferson,</bold> 1743–1826 (Shadwell) , Author of the Declaration of Independence, third president of the United States, founder of the University of Virginia.</p>
+               <p>
+                  <bold>Richard Henry Lee,</bold> 1732–94 (Westmoreland County) , Legislator, Revolutionary War statesman.</p>
+               <p>
+                  <bold>Robert E. Lee,</bold> 1807–70 (Westmoreland County) , Confederate general.</p>
+               <p>
+                  <bold>Meriweather Lewis,</bold> 1774–1809 (Albemarle County) , Explorer, part of the Lewis and Clark expedition.</p>
+               <p>
+                  <bold>James Madison,</bold> 1751–1836 (Port Conway) , Fourth president of the United States.</p>
+               <p>
+                  <bold>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="88807227"
+                                      xlink:type="simple">John Marshall</related-article>,</bold> 1755–1835 (Germantown) , Chief Justice of the US Supreme Court.</p>
+               <p>
+                  <bold>James Monroe,</bold> 1758–1831 (Westmoreland County) , Fifth president of the United States.</p>
+               <p>
+                  <bold>Alonzo Mourning,</bold> 1970– (Chesapeake) , Basketball player.</p>
+               <p>
+                  <bold>Bill "Bojangles" Robinson,</bold> 1878–1949 (Richmond) , Tap dancer.</p>
+               <p>
+                  <bold>Robert Satcher,</bold> 1965– (Hampton) , Physician, chemical engineer, and NASA astronaut.</p>
+               <p>
+                  <bold>George C. Scott,</bold> 1927–99 (Wise) , Actor.</p>
+               <p>
+                  <bold>Wanda Sykes,</bold> 1963– (Portsmouth) , Actor, comedian, and writer.</p>
+               <p>
+                  <bold>Zachary Taylor,</bold> 1784–1850 (Orange County) , General, twelfth president of the United States.</p>
+               <p>
+                  <bold>Fran Tarkenton,</bold> 1940– (Richmond) , Football player.</p>
+               <p>
+                  <bold>Timbaland,</bold> 1972– (Norfolk) , Rapper, songwriter, and record producer.</p>
+               <p>
+                  <bold>John Tyler,</bold> 1790–1862 (Charles City County) , Tenth president of the United States.</p>
+               <p>
+                  <bold>Maggie L. Walker,</bold> 1864–1934 (Richmond) , Banker, first woman president of a US bank.</p>
+               <p>
+                  <bold>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="88806912"
+                                      xlink:type="simple">Booker T. Washington</related-article>,</bold> 1856–1915 (Franklin County) , Educator, founder of the Tuskegee Institute.</p>
+               <p>
+                  <bold>George Washington,</bold> 1732–99 (Westmoreland County) , Commander in chief of the Continental Army, first president of the United States.</p>
+               <p>
+                  <bold>Lawrence Douglas Wilder,</bold> 1931– (Richmond) , Governor of Virginia from 1989 to 1994, first elected African American governor in US history; state senator.</p>
+               <p>
+                  <bold>Woodrow Wilson,</bold> 1856–1924 (Staunton) , President of Princeton University, twenty-eighth president of the United States.</p>
+               <p>
+                  <bold>Tom Wolfe,</bold> 1931–2018 (Richmond) , Novelist.</p>
+            </sec>
+            <sec sec-type="bodytext | trivia" indexed="true">
+               <title>TRIVIA</title>
+               <list list-type="bullet" list-content="trivia">
+                  <title/>
+                  <list-item>
+                     <p>Thomas Jefferson, the third US president and founder of the University of Virginia, died on July 4, 1826, the 50th anniversary of the nation's founding. Ironically, his longtime friend (and rival) John Adams, the second US president, died the same day.</p>
+                  </list-item>
+                  <list-item>
+                     <p>Author Edgar Allan Poe attended the University of Virginia in 1826–27.</p>
+                  </list-item>
+                  <list-item>
+                     <p>Phi Beta Kappa, the United States' top academic honor society, was founded in 1776 by students at the College of William and Mary.</p>
+                  </list-item>
+                  <list-item>
+                     <p>The College of William and Mary was founded in 1693, making it the United States' second oldest educational institution (after Harvard University, in Massachusetts).</p>
+                  </list-item>
+                  <list-item>
+                     <p>Virginia is sometimes known as the "Mother of States" because so many other states were formed out of her territory. These include Ohio, Kentucky, Tennessee, and West Virginia.</p>
+                  </list-item>
+                  <list-item>
+                     <p>Arlington, the mansion of Confederate general Robert E. Lee overlooking Washington, DC, was turned into a hospital by Union forces. It later became a US National Cemetery.</p>
+                  </list-item>
+                  <list-item>
+                     <p>Confederate general Robert E. Lee was related to George Washington through Lee's mother's family, the Custises.</p>
+                  </list-item>
+                  <list-item>
+                     <p>The Pentagon, headquarters of the US Department of Defense, was built during World War II. This construction consolidated personnel from numerous buildings throughout Washington, DC.</p>
+                  </list-item>
+                  <list-item>
+                     <p>At thirty-five miles long, Virginia Beach holds the world record for longest pleasure beach.</p>
+                  </list-item>
+                  <list-item>
+                     <p>In 2017, when it elected Danica Roem to the House of Delegates, Virginia became the first state to elect a transgender person to a state legislature.</p>
+                  </list-item>
+                  <list-item>
+                     <p>In 2020, Governor Ralph Northam signed a bill to officially end the state's observance of Lee-Jackson Day, a state holiday celebrating the two Confederate generals. The bill designated Election Day as a state holiday instead. </p>
+                  </list-item>
+               </list>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Economic Profile for Virginia." <italic>Bureau of Economic Analysis</italic>, US Dept. of Commerce, 1 Oct. 2021, apps.bea.gov/regional/bearfacts/action.cfm. Accessed 14 Oct. 2021.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Goodwin, Bill. <italic>Frommer’s Virginia</italic>. 11th ed., Wiley, 2012. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Rice, James D. "Early Modern Virginia." <italic>Journal of Southern History</italic>, vol. 79, no. 1, 3013, pp. 149–51. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Tarter, Brent. "Bacon’s Rebellion, the Grievances of the People, and the Political Culture of Seventeenth-Century Virginia." <italic>Virginia Magazine of History and Biography</italic>, vol. 119, no. 1, 2011, p. 41. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Virginia." <italic>Quick Facts</italic>, US Census Bureau, 1 July 2019, www.census.gov/quickfacts/fact/table/VA/PST045216. Accessed 6 Aug. 2020.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Virginia: 2020 Census." <italic>US Census Bureau</italic>, 25 Aug. 2021, www.census.gov/library/stories/state-by-state/virginia-population-change-between-census-decade.html. Accessed 13 Oct. 2021.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Unemployment Rates for States, 2020 Annual Averages." <italic>Bureau of Labor Statistics</italic>, US Dept. of Labor, 3 Mar. 2021,www.bls.gov/lau/lastrk20.htm. Accessed 14 Oct. 2021. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Woolridge, William C., and John T. Casteen III. <italic>Mapping Virginia: From the Age of Exploration to the Civil War</italic>. U of Virginia P, 2012. </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec indexed="true">
+               <title/>
+               <p>Eric Badertscher</p>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

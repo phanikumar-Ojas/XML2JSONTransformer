@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">gl17_rs</book-id>
+    <book-id pub-id-type="eis-mid">FYGC</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">FYGC</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>1</day>
+      <month>April</month>
+      <year>2013</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="GL17_RS.10.3331.10071"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">gl17_rs_10071</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>Western Civilization/European History</subject>
+            <subj-group>
+              <subject>17th Century European History</subject>
+              <subject>British History</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Arts</subject>
+            <subj-group>
+              <subject>Artists, Artisans, the Arts</subject>
+              <subject>Drama, Theater, Plays, Playwrights</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Literature, Publishing</subject>
+            <subj-group>
+              <subject>Authors, Writers</subject>
+              <subject>Literature, Publishing</subject>
+              <subject>Drama, Theater, Plays, Playwrights</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>Europe</subject>
+            <subj-group>
+              <subject>Europe</subject>
+              <subject>United Kingdom</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geo-keyword">
+            <subject>England</subject>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>John Webster</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Carol</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Blessing</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN0823500"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>English playwright. John Webster’s parents were John Webster, senior, and Elizabeth Coates Webster, who had married in 1577. His father was registered in the Merchant Taylors’ Company, one of the main trade guilds in London. However, the elder John Webster was actually a coach maker, a trade that had no separate guild. His son John the younger most likely attended the Merchant Taylors’ School, known for its good academic program and its famous graduates, including dramatists Thomas Lodge and Thomas Kyd.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Webster, in his two major tragedies, captured what many consider to be the quintessence of Jacobean drama. His work is characterized by depictions of evil, torture, murder, and the struggles of complex individuals against corruption, portrayed through lyric, poetic language.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>0823500-John Webster</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/GL17_1334</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>English playwright</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="36694628" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>c. 1577-1580</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>London, England</p>
+            </list-item>
+            <list-item>
+              <label>Died: </label>
+              <p>Before 1634</p>
+            </list-item>
+            <list-item>
+              <label>Place of death: </label>
+              <p>London, England</p>
+            </list-item>
+          </list>
+          <p>
+            <italic>Webster, in his two major tragedies, captured what many consider to be the quintessence of Jacobean drama. His work is characterized by depictions of evil, torture, murder, and the struggles of complex individuals against corruption, portrayed through lyric, poetic language</italic>.</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>John Webster’s parents were John Webster, senior, and Elizabeth Coates Webster, who had married in 1577. His father was registered in the Merchant Taylors’ Company, one of the main trade guilds in London. However, the elder John Webster was actually a coach maker, a trade that had no separate guild. His son John the younger most likely attended the Merchant Taylors’ School, known for its good academic program and its famous graduates, including dramatists <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89313505"
+                             xlink:type="simple">Thomas Lodge</related-article> and Thomas Kyd.
+                  
+                  
+                  
+                  
+               </p>
+          <p>There is a 1598 record of a John Webster being admitted to the Middle Temple, one of the London <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87995615"
+                             xlink:type="simple">Inns of Court</related-article>, places of both training and practice for lawyers. While it is not certain if this John Webster was in fact the future playwright, most researchers believe that he was; the many references to the law in Webster’s plays support the possibility of his legal studies. It is supposed that Webster began his studies at New Inn before moving on to more advanced training at the Middle Temple. Webster probably did not complete a law degree; he may have attended the inns in order to help with his father’s business. In addition to his studies, Webster would have viewed the dramatic works of his contemporaries, as students often wrote and performed plays at the Inns of Court. His classmates would have included fellow playwrights <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89313034"
+                             xlink:type="simple">John Marston</related-article>
+                   and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88824623"
+                             xlink:type="simple">John Ford</related-article>
+                  .</p>
+          <p>Webster left the inns to begin writing for professional theater, both in collaboration with other playwrights and on his own. He married Sara Peniall, then seven months pregnant, in 1606; the couple had at least five children.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Life’s Work</title>
+          <p>Webster’s works chiefly fall within the Jacobean era, that is, during the reign of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88070215"
+                             xlink:type="simple">James I</related-article> (r. 1603-1625). This period is known for city comedies and gruesome tragedies, the latter often associated with a prevailing pessimism that marked much public sentiment during James’s rule. Webster’s tragedies in particular feature almost unbearable cruelty. Critics often cite political overtones in Webster’s plays, which may be meant to critique problems of the Jacobean court. Webster’s plays were staged at a variety of theaters, particularly more intimate, enclosed ones. His style was strongly influenced by the Roman playwright <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88258897"
+                             xlink:type="simple">Seneca the Younger</related-article> (c. 4 <sc>b.c.e.</sc>-65 <sc>c.e.</sc>), as well as by his contemporary playwrights.</p>
+          <p>Theater owner Philip Henslowe paid Webster for collaborative script work on <italic>Caesar’s Fall</italic> (pr. 1602), <italic>Lady Jane</italic>
+                   (pr. 1602, pb. 1607), and <italic>Christmas Comes but Once a Year</italic> (pr. c. 1602-1603?) in 1602. Only <italic>Lady Jane</italic> survives, as part of <italic>Sir <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                               related-article-type="rs"
+                               xlink:href="89313519"
+                               xlink:type="simple">Thomas Wyatt</related-article>
+            </italic>, a tragedy published in 1607. Webster’s important collaboration with playwright <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88070389"
+                             xlink:type="simple">Thomas Dekker</related-article>
+                   produced two early city comedies, <italic>Westward Ho!</italic>
+                   (pr. 1604, pb. 1607) and <italic>Northward Ho!</italic>
+                   (pr. 1605, pb. 1607), both performed by the Children of Paul’s troupe. He was also hired in 1604 to write the Induction to John Marston’s important tragedy <italic>The Malcontent</italic> (pr., pb. 1604) for the King’s Men, the prestigious acting company, named for King James, for which <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88367662"
+                             xlink:type="simple">William Shakespeare</related-article> wrote.</p>
+          <p>Webster’s independent writing period probably began with his work on <italic>The White Devil</italic>
+                   (pr. c. 1609-1612, pb. 1612), which was performed by the Red Bull Company. The first of his important tragedies, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89103157"
+                             xlink:type="simple">the play</related-article> is loosely based upon actual events of 1580 in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="88391103"
+                             xlink:type="simple">Italy</related-article> and portrays Vittoria Corombona, a woman involved in an adulterous affair with a duke through the assistance of her social-climbing brother Flamineo. Both Vittoria’s and Duke Brachiano’s spouses die; Vittoria is placed on trial for the murder, and sentenced; she escapes and marries Brachiano. Her brother and Duke Francisco de Medici, the brother of Brachiano’s dead wife, kill Brachiano under the direction of Count Lodovico, an enemy of Brachiano. Lodovico and his friend Gasparo then kill Flamineo, Vittoria, and her servant Zanche. At the play’s conclusion, the English ambassador passes sentence on Lodovico, and Giavonni, Brachiano’s son by his first wife, Isabella, is left to rule.</p>
+          <p>Webster next wrote <italic>The Duchess of Malfi</italic>
+                   (pr. 1614, pb. 1623), featuring a young widow who remarries despite her two brothers’ prohibitions. This play is also based upon actual events in sixteenth century Italian history. Duke Ferdinand and the cardinal, the brothers, are corrupt representatives of state and church, respectively, in clear contrast to the virtuous duchess and her household treasurer and secret new husband, Antonio. Ferdinand hires the opportunistic ex-soldier Bosola to spy on and then murder his sister; after her death, Bosola retaliates by taking revenge upon the brothers, but he accidentally kills Antonio and is in turn killed by Ferdinand. Order is restored when Antonio and the duchess’s eldest son is brought to power. The play, performed by the King’s Men at Blackfriars and the Globe, was published in 1623 with <italic>The Devil’s Law-Case</italic>
+                   (pr. c. 1619-1622, pb. 1623).</p>
+          <p>
+            <italic>The Devil’s Law-Case</italic> was Webster’s solo tragicomedy. It centers on an unusual trial in which a widow tries to declare her son illegitimate, in order to remove him as an impediment to her remarriage and to deed his estate to her daughter. The work has two important elements that reverberate throughout Webster’s dramas: an unconventional, independent female lead and a courtroom setting, replete with legal banter. The <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88365056"
+                             xlink:type="simple">Queen Anne</related-article>’s Men first performed the play sometime between 1619 and 1622.</p>
+          <p>After <italic>The Devil’s Law-Case</italic>, Webster again worked on plays in collaboration with other playwrights. He wrote <italic>Anything for a Quiet Life</italic>
+                   (pr. c. 1621, pb. 1662) with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88070394"
+                             xlink:type="simple">Thomas Middleton</related-article>, the now-lost <italic>The Late Murder of the Son upon the Mother: Or, Keep the Widow Waking</italic> (pr. 1624) with Thomas Dekker, John Ford, and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89313596"
+                             xlink:type="simple">William Rowley</related-article>, and <italic>A Cure for a Cuckold</italic>
+                   (pr. c. 1624-1625, pb. 1661) with Rowley. He began <italic>The Fair Maid of the Inn</italic> (pr. 1626, pb. 1647) in 1625 with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88070243"
+                             xlink:type="simple">John Fletcher</related-article>
+                  , who died of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="87575405"
+                             xlink:type="simple">the plague</related-article> in the course of writing, and he finished the play with Ford and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89313321"
+                             xlink:type="simple">Philip Massinger</related-article>. His last work is believed to be <italic>Appius and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                               related-article-type="no"
+                               xlink:href="88112664"
+                               xlink:type="simple">Virginia</related-article>
+            </italic>
+                   (pr. 1634?, pb. 1654), a Roman play about a virgin trying to protect her chastity from a corrupt official; it is generally thought to have been written jointly with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88070391"
+                             xlink:type="simple">Thomas Heywood</related-article>.
+               </p>
+          <p>Webster also wrote several nondramatic works, including his elegy “The Monumental Column” (1612), on the death of James I’s son Henry, prince of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="88391220"
+                             xlink:type="simple">Wales</related-article>. He composed prose descriptions of character types as a part of Sir Thomas Overbury’s <italic>Characters</italic> (1615). Two of Webster’s contributions to this collection were “The Virtuous Widow” and “The Common Widow,” the former remaining true to her husband’s memory by not remarrying, the latter a loose woman marrying as soon as she could after her first husband’s death. These portrayals paralleled the brothers’ views toward their sister in <italic>The Duchess of Malfi</italic>. In 1624, Webster was hired by the Merchant Taylors’ Company to write a pageant celebrating the election of the lord mayor’s of London.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Significance</title>
+          <p>Webster is most remembered for his remarkable tragedies, <italic>The White Devil</italic> and <italic>The Duchess of Malfi</italic>, and less so for the entire body of his work. He developed his female characters into multidimensional people, who arguably supercede William Shakespeare’s tragic heroines in their complexity and depth. His dark worldview and special attention to brilliant dialogue has continued to intrigue and provoke audiences and readers, resonating with such early modernist playwrights as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88831436"
+                             xlink:type="simple">Bertolt Brecht</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89312504"
+                             xlink:type="simple">Antonin Artaud</related-article>, and with modernist poets, especially <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88825270"
+                             xlink:type="simple">T. S. Eliot</related-article>. Contemporary critics, readers, and audiences are drawn to these two principle plays, still often performed, which feature power struggles, court intrigue, family conflicts, and independent women.</p>
+        </sec>
+        <sec sec-type="timeline" indexed="true">
+          <title>Webster’s  Major Works</title>
+          <list list-content="timeline">
+            <title>1604</title>
+            <list-item>
+              <label/>
+              <p>Westward Ho! (with Thomas Dekker)</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>1605</title>
+            <list-item>
+              <label/>
+              <p>Northward Ho! (with Dekker)</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>c. 1609-1612</title>
+            <list-item>
+              <label/>
+              <p>The White Devil</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>1614</title>
+            <list-item>
+              <label/>
+              <p>The Duchess of Malfi</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>c. 1619-1622</title>
+            <list-item>
+              <label/>
+              <p>The Devil’s  Law-Case</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>1624</title>
+            <list-item>
+              <label/>
+              <p>Monuments of Honour</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>c. 1624-1625</title>
+            <list-item>
+              <label/>
+              <p>A Cure for a Cuckold (with William Rowley)</p>
+            </list-item>
+          </list>
+          <list list-content="timeline">
+            <title>1634?</title>
+            <list-item>
+              <label/>
+              <p>Appius and Virginia (with Thomas Heywood)</p>
+            </list-item>
+          </list>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Aughterson, Kate. <italic>Webster: The Tragedies</italic>. New York: Palgrave, 2001. This introduction to Webster provides a biography of Webster and a look at the Jacobean background to his writing integrated with studies of <italic>The White Devil</italic> and <italic>The Duchess of Malfi</italic>.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bradbrook, M. C. <italic>John Webster: Citizen and Dramatist</italic>. New York: Columbia University Press, 1980. Bradbrook attempts a reconstruction of Webster’s life, including a family tree and discussion of his works.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Edmond, Mary. “In Search of John Webster.” <italic>Times Literary Supplement</italic>, December 24, 1976, pp. 1621-1622. Edmond’s research sheds some light on Webster’s life, especially his father’s trade, and Webster’s connection to the Merchant Taylors’ Guild.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Forker, Charles R. <italic>Skull Beneath the Skin: The Achievement of John Webster</italic>. Carbondale: Southern Illinois University Press, 1986. Exhaustively researched, this is the most comprehensive study of Webster and his works available; an invaluable resource. Forker particularly explores the paired themes of love and death in the plays.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Gunby, David, David Carnegie, and Antony Hammond, eds. <italic>The Works of John Webster</italic>. 1 volume to date. New York: Cambridge University Press, 1995-    . A projected multivolume work that aims at replacing the older standard edition by F. L. Lucas. Contains a good biography of Webster, as well as carefully edited texts of <italic>The White Devil</italic> and <italic>The Duchess of Malfi</italic>, including excellent introductions to the plays, commentary, and reproductions of important primary sources.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Lucas, F. L., ed. <italic>The Complete Works of John Webster</italic>. 4 vols. Reprint. New York: Gordian, 1966. Since its original publication in 1927, this has been the standard edition. Beside inclusion of all plays, prose characters, and occasional verse of Webster, it includes extensive textual, source, and critical information, although limited by its lack of current information. Still the only edition of Webster’s lesser-known works.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ranald, Margaret Loftus. <italic>John Webster</italic>. Boston: Twayne, 1989. A good starting place for a study of Webster, this non-specialist-friendly volume includes an overview of Webster’s life and works.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Wymer, Rowland. <italic>Webster and Ford</italic>. New York: St. Martin’s Press, 1995. In this helpful contemporary reassessment of Webster, Wymer discusses <italic>The White Devil</italic>, <italic>The Duchess of Malfi</italic>, and <italic>The Devil’s Law-Case</italic>, overviews the works’ critical reception, and covers Webster’s Jacobean background and influences.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>John Webster</article-title>
+                <source>Great Lives from History: The Seventeenth Century</source>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Larissa Juliet</given-names>
+                    <x xml:space="preserve">
+</x>
+                    <surname>Taylor</surname>
+                  </name>
+                </person-group>
+                <year>2006</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

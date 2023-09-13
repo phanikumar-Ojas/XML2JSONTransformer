@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rsspencyclopedia</book-id>
+      <book-id pub-id-type="eis-mid">GY4S</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4S</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="revised">
+         <day>30</day>
+         <month>April</month>
+         <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="reviewed">
+         <day>30</day>
+         <month>April</month>
+         <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>29</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="rsspencyclopedia.10.3331.210318"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">rsspencyclopedia_210318</book-part-id>
+            <title-group>
+               <title>Campbell Soup Company</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names/>
+                     <surname/>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The Campbell Soup Company is a U.S. food company headquartered in Camden, New Jersey. The company manufactures and markets a diverse line of food products. The company’s operations are organized around five segments, including U.S. Simple Meals, Global Baking and Snacking, International Simple Meals and Beverages, U.S. Beverages, and Bolthouse and Foodservice.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>210318</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>733</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <bold>Date Founded: </bold>1869</p>
+               <p>
+                     <bold>Industry: </bold>Food</p>
+               <p>
+                     <bold>Corporate Headquarters: </bold>Camden, New Jersey</p>
+               <p>
+                     <bold>Type:</bold> Public</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The Campbell Soup Company is a U.S. food company headquartered in Camden, New Jersey. The company manufactures and markets a diverse line of food products. The company’s operations are organized around five segments, including U.S. Simple Meals, Global Baking and Snacking, International Simple Meals and Beverages, U.S. Beverages, and Bolthouse and Foodservice.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Campbells</title>
+                     <p>Campbell`s Soup cans.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="87994576-110936.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Public Domain via wikiemedia commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <title>Soup (1)</title>
+                     <p>A bowl of Campbell's vegetable soup with the respective can.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="87994576-110937.jpg"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Renee Comet (Photographer) [Public domain or Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>Campbell’s brands include Campbell’s Sauces, Campbell’s Soups, Goldfish, Plum Organics, SpaghettiOs, Prego, Swanson, V8, Pepperidge Farm, Royal Dansk, Pace, Garden Fresh Gourmet, and Bolthouse Farms.</p>
+               <p>The U.S. Simple Meals segment includes U.S. soups and U.S. sauces. The U.S. aoup retail business offerings include Campbell’s condensed and ready-to-serve soups and Swanson broth and stocks. The U.S. sauces retail business product line includes Prego pasta sauce; Pace Mexican sauce; Campbell’s canned gravies, pasta, and beans; and Swanson canned poultry. Campell’s Global Baking and Snacking segment markets Pepperidge Farm cookies and crackers as well as bakery and frozen products in Australia and Asia Pacific. The International Simple Meals and Beverages segment represents overseas operations, including simple meals and beverages in Europe and Latin America and also in the Asia Pacific region. This segment of the business also oversees the retail business in Canada. The Bolthouse and Foodservice segment markets soup, specialty entrées, beverage products, other prepared foods, and Pepperidge Farm products through a number of food service channels in the United States and Canada.</p>
+               <p>With 2016 sales revenues of $7.9 billion, Campbell ranked twenty-second among the largest food processing companies in the <italic>Forbes</italic> 2017 Global 2000 list of the world’s largest public companies, the business magazine’s annual ranking of public companies worldwide. In 2014, the company had a global workforce of 19,400 employees.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>History</title>
+               <p>Campbell was born in 1869 when Joseph Campbell, a fruit merchant, and Abraham Anderson, an icebox manufacturer, jointly set up the business. They called the concern the Joseph A. Campbell Preserve Company, which later came to be known as the Campbell Soup Company. Initially, it sold canned tomatoes, vegetables, jellies, soups, condiments, and mincemeat; the first ready-to-eat tomato soup was introduced in 1897, long after Joseph Campbell had retired.</p>
+               <p>Condensed soup was the brainchild of John T. Dorrance, a chemist at the company. Dorrance created five varieties of ready-to-eat soups, including tomato, which has gained something of an iconic status and continues to be one of the top-ten shelf-stable foods sold in U.S. grocery stores. By 1911, Campbell’s soups, which had become immensely popularity, were being sold all over the United States.</p>
+               <p>Growth at Campbell came about both due to the growth in sales of its product lines and also through acquisitions. In 1915, Campbell acquired the Franco-American Food Company, its first acquisition.</p>
+               <p>In 1961, Campbell acquired Pepperidge Farm, maker of dinner rolls, stuffing, oatmeal breads, and European-style cookies—as well as whole-wheat bread, which contained only natural ingredients.</p>
+               <p>The 1990s were a period of major acquisitions, notably the purchases of Arnott’s Limited of Australia, a large biscuit manufacturer; Pace Foods, a leading producer of Mexican sauces; Erasco Group, Germany’s leading canned soup company; Liebig, the leading wet soup brand in France; and Fortun Foods, makers of Stock Pot soup, a market leader in premium refrigerated soups.</p>
+               <p>In 2009, Campbell bought Ecce Panis, a premium-quality artisan breadmaker. Then in 2012, in a $1.55 billion deal for fresh foods and a line of juices, protein shakes, smoothies, and café beverages, it acquired Bolthouse Farms, a market leader in growing and distributing.</p>
+               <p>In 2013, Campbell acquired Plum Organics, a Taplow, UK-based maker of premium organic foods for children, toddlers, and babies. In the same year, Campbell also acquired the Kelsen Group, a maker of quality-baked snacks, including the Kjeldsens and Royal Dansk brands that are sold in eighty-five countries.</p>
+               <p>Campbell acquired the pretzel and chip company Snyder's-Lance, whose brands inlcude Kettle Chips, Snyder's of Hanover, Cape Cod, and Pop Secret, for $4.9 billion in 2017. This was part of Campbell's plan to expand further into the fast-growing market for savory snacks while placing less focus on canned soup, as soup sales had declined. That year they also acquired Pacific Foods of Oregon, a manufacturer of organic canned soups and other prepared meals.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89142271"
+                                   xlink:type="simple">Advertising</related-article> has played a key role in the success of Campbell since the company’s beginnings. The Campbell Soup Kids were first featured in Campbell advertisements in 1905, and they became wildly popular with the public over the decades that followed. The Campbell Kids were drawn by Grace Drayton, a staff artist for the <italic>Philadelphia Press and Evening Journal</italic>. She drew as many as sixteen of the kids for the company.</p>
+               <p>Campbell was among the first companies to use people in advertising. Even as the advertisements evolved over time, the Campbell Kids continued to connect consumers with Campbell. Campbell Kids dolls and collectibles are very much in demand, and some are even valuable.</p>
+               <p>In 2008, faced with declining sales of its signature product—soups—Campbell turned to <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="90558404"
+                                   xlink:type="simple">neuromarketing</related-article>, which draws heavily on <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="97176622"
+                                   xlink:type="simple">neuroscience</related-article> to study consumer experience. Campbell was hoping that using neuroscience would boost flagging sales. Acting on the results of the company’s study, Campbell in 2010 rolled out a new label and packaging, expecting a 2 percent increase in sales in 2012. However, experts have raised questions about the efficacy of neuromarketing and the ethics of such marketing techniques.</p>
+               <p>In 1962, artist <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88826874"
+                                   xlink:type="simple">Andy Warhol</related-article> featured the image of a Campbell’s soup can in a series of pop art silkscreens that consisted of thirty-two canvases. The silkscreens have become iconic pieces of pop art; one in particular, <italic>Small Torn Campbell Soup Can (Pepper Pot)</italic> (1962), commanded a price of $11.8 million at an auction in 2006.</p>
+               <p>On January 7, 2016, Campbell Soup announced that it would "support mandatory national labeling of products that may contain genetically modified organisms (GMOs)." With this move, Campbell became the first major food company to back mandatory labeling for foods containing <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89158200"
+                                   xlink:type="simple">GMO ingredients</related-article>. Like the most of the food industry, Campbell had for years prior to the announcement opposed mandatory labeling of foods for GMOs.</p>
+               <p>In March 2012, Campbell announced that it would phase out the use of the chemical bisphenol A (BPA) in its can linings. Groups that opposed the use of BPA in food packaging cited lab studies that seemed to show that exposure to BPA in the linings of metal food cans had been linked to a number of health conditions, including type-2 diabetes, infertility, and early puberty in girls. However, the U.S. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89312413"
+                                   xlink:type="simple">Food and Drug Administration (FDA)</related-article> has said that the "available information continued to support the safety of BPA for the currently approved uses in food containers and packaging."</p>
+               <p>Campbell faced criticism in some quarters for siding with the motivated groups that opposed the use of BPA and for doing so despite the weight of the scientific evidence that demonstrated its safety. In addition, at the time of Campbell's announcement, no replacement for BPA had been discovered that could be used in cans holding acidic foods, like Campbell's signature tomato soup. Thus, while Campbell, like many other companies, has been phasing out the use of BPA in low-acid canned foods, critics argued that its statement misleadingly implied that the company would be doing so for all of its foods, which was not yet possible.</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Abrams, Rachel. "Facing Consumer Pressure, Companies Start to Seek Safe Alternatives to BPA." <italic>New York Times. </italic>The New York Times Company, 15 Jun. 2015. Web. 1 Feb. 2016. &lt;http://www.nytimes.com/2015/06/16/business/facing-consumer-pressure-companies-start-to-seek-safe-alternatives-to-bpa.html?ref=topics&amp;_r=0&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Babu, S. Samuel, and Thalluri Prasanth Vidyasagar."Neuromarketing: Is Campbell in Soup?" <italic>IUP Journal of Marketing Management</italic> 11.2 (2012): 76+. Questia, n.d. Web. 3 Feb. 2016. &lt;https://www.questia.com/read/1P3-2736868051/neuromarketing-is-campbell-in-soup&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Bisphenol A (BPA): Use in Food Contact Application." <italic>FDA.</italic> U.S. Food and Drug Administration, Nov. 2014. Web. 1. Feb. 2016.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">&lt;http://www.fda.gov/NewsEvents/PublicHealthFocus/ucm064437.htm&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Entine, Jon. "Campbell’s Big Fat Green BPA Lie—and the Sustainability Activists who Enabled It." <italic>Forbes</italic>, 18 Sept. 2012. Web. 2 Feb 2016. &lt;http://www.forbes.com/sites/jonentine/2012/09/18/campbells-big-fat-green-bpa-lie-and-the-sustainability-activists-that-enabled-it/&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Geller, Martine. "Campbell Soup to Buy Bolthouse Farms for $1.55 Billion." <italic>Reuters</italic>, 9 July 2012. Web. 1 Feb. 2016. &lt;http://www.reuters.com/article/us-campbell-bolthouse-idUSBRE8680HD20120709&gt;</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Murray, Charles Shaar. "Skin Deep: From Soup Cans to Film Stars, Andy Warhol Found a New Kind of Beauty in the Trashy and Transient. Charles Shaar Murray on the Inventor of Our Celebrity Culture." <italic>New Statesman, </italic>30 Jan. 2006. Questia<italic>, </italic>n.d. Web. 3 Feb. 2016. &lt;https://www.questia.com/read/1G1-142387024/skin-deep-from-soup-cans-to-film-stars-andy-warhol&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Our History." <italic>Campbell’s</italic>. The Campbell Soup Company, n.d. Web. 1 Feb. 2016. &lt;https://www.campbells.com/about-us/campbell-history/&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="journal"
+                               xlink:type="simple">Walsh, Jim. "Campbell Becomes Snack Empire, As Soup Sales Cool." <italic>USA Today</italic>, 25 Mar. 2018, www.usatoday.com/story/money/2018/03/25/campbell-becomes-snack-empire-soup-sales-cool/456859002/. Accessed 26 Apr. 2018.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"When Were the Campbell Soup Kids Created?" <italic>Culinary Lore.com. </italic>Eric Troy and Culinary Lore, 22 Dec. 2013. 2 Feb. 2016. &lt;http://www.culinarylore.com/food-history:when-were-the-campbell-soup-kids-created&gt;.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">"Why We Support Mandatory National GMO Labeling." <italic>Campbell’s</italic>. Campbell Soup Company, 7 Jan. 2016. Web. 1 Feb. 2016. &lt;http://www.campbellsoupcompany.com/newsroom/news/2016/01/07/labeling/?print=1&gt;.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

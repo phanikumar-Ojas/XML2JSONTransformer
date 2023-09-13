@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">math_rs</book-id>
+    <book-id pub-id-type="eis-mid">H50C</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Science</book-title>
+      <alt-title alt-title-type="mid">H50C</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>14</day>
+      <month>May</month>
+      <year>2013</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>31</day>
+      <month>March</month>
+      <year>2014</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="Math_RS.10.3331.92449"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">math_rs_92449</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>History/Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="articletype">
+            <subject>History/Event</subject>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Popular Culture, Trends, Fads</subject>
+            <subj-group>
+              <subject>Popular Culture, Trends, Fads</subject>
+              <subject>Recreation, Games</subject>
+              <subject>Mathematics, Mathematicians</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subjectscience">
+            <subject>Mathematics, Measurement, Mapping, Logic</subject>
+            <subj-group>
+              <subject>Popular Culture, Media, Publishing</subject>
+              <subject>Mathematics, Measurement, Mapping, Logic</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Sudoku</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Holly</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Hirst</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Sudoku Sudoku Games and puzzles Puzzles and games is a number puzzle based upon the mathematical concept of a “Latin square.” Latin squares are arrays of numbers in which each number is listed only once in any row or column. Leonhard Euler originated the term, calling them “Latin squares” because he used Latin letters rather than numbers in his investigations. Completed Sudoku grids are Latin squares that are further subdivided into subgrids in which the numbers also appear only once in the subgrid. The graphic below shows a completed 9-by-9 Sudoku puzzle.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>The game of Sudoku is explained by and informs graph theory and randomness.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/Math_141436901414</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <bold>
+              <sc>Summary:</sc>
+            </bold> The game of Sudoku is explained by and informs graph theory and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94982023"
+                             xlink:type="simple">randomness</related-article>.</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>Sudoku <index-term role="sciencegeneral">
+              <primary>Sudoku</primary>
+            </index-term>
+            <index-term role="sciencegeneral">
+              <primary>Games and puzzles</primary>
+            </index-term>
+            <index-term role="sciencegeneral">
+              <primary>Puzzles and games</primary>
+            </index-term> is a number puzzle based upon the mathematical concept of a “Latin square.” Latin squares are arrays of numbers in which each number is listed only once in any row or column. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88364994"
+                             xlink:type="simple">Leonhard Euler</related-article> originated the term, calling them “Latin squares” because he used Latin letters rather than numbers in his investigations. Completed Sudoku grids are Latin squares that are further subdivided into subgrids in which the numbers also appear only once in the subgrid. The graphic below shows a completed 9-by-9 Sudoku puzzle.</p>
+          <fig position="margin" fig-type="elec_use">
+            <caption>
+              <title>200px-Sudoku06u</title>
+              <p>Step 1</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="94982061-91601.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>DrBorka from nl [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], from Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Originally published in the 1970s in Europe and the United States, Sudoku surged to popularity in Japan in the late 1980s and reappeared in Europe and America in the mid-1990s, becoming popular among puzzlers. The popularity of the puzzle has continued to grow in the twenty-first century, leading the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94982017"
+                             xlink:type="simple">puzzle to become the subject of mathematical scrutiny</related-article>.</p>
+          <p>Sudoku is usually based on a Latin square with nine rows and columns; puzzles of other sizes are possible such as 4-by-4, 16-by-16, and 25-by-25. Some of the numbers are filled in to start. The goal is to quickly and accurately complete the puzzle, with the digits 1–9 placed once in each row, column, and subgrid. Below is an unsolved Sudoku puzzle:</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Graph Theory</title>
+          <p>There are a number of interesting mathematical questions associated with Sudoku puzzles, in particular the conditions under which they have one solution. In 2007, Agnes Herzberg and M. Ram Murty showed that Sudoku puzzles can be recast as graph coloring problems allowing the broad, well-developed theory of graphs to be applied to the solution question. In particular, they showed that a standard Sudoku puzzle can be thought of as a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87322351"
+                             xlink:type="simple">graph</related-article> where each cell in the puzzle is represented by a vertex with 20 edges, each edge connecting the cell to another cell in the row, column, or sub-grid. Graphs for which all vertices have the same number of edges are called “regular,” so Sudoku graphs made in this way are “20 regular” graphs.</p>
+          <p>Since each digit can appear only once in any row, column, or subgrid, putting the nine digits into the cells is equivalent to coloring the vertices of the graph with nine colors such that no vertices connected by an edge are the same color—or in graph theory terminology, finding a “proper 9-coloring” of the graph. The number of ways to color a regular graph with <italic>n</italic> colors is a well-known formula that is a function of the number of colors and the number of vertices. Using this and other ideas about coloring graphs, Herzberg and Murty proved that 9–by-9 puzzles must have at least eight different digits shown in the starting configuration to have a unique solution.</p>
+          <p>There are still many unanswered questions about when Sudoku puzzles have one solution. Assuming that eight different digits are used in the starting configuration, how many numbers total must be shown in the starting configuration to ensure a unique solution? The answer is not known; a small number of distinct puzzles with 17 entries in the starting configuration are known to have a unique solution. There are no known puzzles with 16 or fewer entries that have unique solutions. Does one exist? Would the answer be different if all nine digits are used in the starting configuration? Mathematicians and puzzlers are investigating these and other interesting questions.</p>
+          <p>For example, in 2010, mathematicians Paul Newton and Stephen DeSalvo demonstrated that the arrangement of numbers in Sudoku puzzles is more random (by some definitions of randomness) than 9-by-9 matrices produced by random generators, since Sudoku rules excludes some of the possible arrangements that have innate <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94982066"
+                             xlink:type="simple">symmetry</related-article>.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Chevron Corporation. “Sudoku Daily: History of Sudoku.” http://www.sudokudaily.net/history.php.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Herzberg, Agnes, and Ram M. Murty. “Sudoku Squares and Chromatic Polynomials.” Notices of the American Mathematical Society 54, no. 6 (2007).</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Sudoku</article-title>
+                <italic>Encyclopedia of Mathematics &amp; Society</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Sarah J.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Greenwald</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Jill E.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Thomley</surname>
+                  </name>
+                </person-group>
+                <year>2011</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

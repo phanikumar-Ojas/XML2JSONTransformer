@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">ell_2341_rs</book-id>
+      <book-id pub-id-type="eis-mid">HDMJ</book-id>
+      <book-title-group>
+         <book-title>Salem Press Primary Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">HDMJ</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>22</day>
+         <month>September</month>
+         <year>2014</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="ell_2341_RS.10.3331.156204"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">ell_2341_rs_156204</book-part-id>
+            <title-group>
+               <title>Three Branches of the U.S. Federal Government</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <string-name>Leeming, Susan Jones</string-name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The federal government makes laws, or rules, and decisions for the whole country. The U.S. federal government has three branches, or groups The three branches of government are the executive, legislative, and judicial. These three branches balance, or share, the power in the federal government. One branch is not stronger than the others.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>34175589</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/ell_2341_132540</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value>99251695</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>497</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front/>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>The federal government makes laws, or rules, and decisions for the whole country. The U.S. federal government has three branches, or groups The three branches of government are the executive, legislative, and judicial. These three branches balance, or share, the power in the federal government. One branch is not stronger than the others.</p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title/>
+                     <p>U.S. President Barack Obama delivers the 2011 State of the Union Address to a joint session of the United States Congress, Executive Cabinet members, and Supreme Court justices.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="99251695-93645.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Chuck Kennedy (Executive Office of the President of the United States) (http://www.whitehouse.gov/state-of-the-union-2011) [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title/>
+                     <p>Separation of Powers , U.S. federal governement</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="99251695-93644.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>By Viva La France! Support Our Revolution! [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The U.S. Constitution</title>
+               <p>A short time after the United States became a free country, the leaders wrote an important document (paper) called the Constitution. The Constitution told the rules of the United States and how to organize the country. The United States has this same Constitution today.</p>
+               <p>The Constitution explains the three branches of the federal government and the powers and responsibilities of each branch.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The Executive Branch</title>
+               <p>The executive branch of the federal government includes the President (the main leader of the country) and the people who work with the President.</p>
+               <p>The executive branch has several jobs. Its main job is to make sure that the laws of the country and the Constitution work for the people of the United States.</p>
+               <p>
+
+    
+                     
+
+  
+                  </p>
+               <p>The President has power over the U.S. military. The military is the part of the government that fights for and protects the country.</p>
+               <p>The President can also make declarations — for example, declaring (saying) that there is an emergency after an earthquake or hurricane.</p>
+               <p>In general, the President is the leader of the country. The President makes decisions, but some of these decisions have to be reviewed and agreed to by the other two branches of government.</p>
+               <p>
+
+    
+                     
+
+  
+                  </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Legislative Branch</title>
+               <p>The legislative branch of the U.S. government is called Congress. There are two houses, or groups, in the legislative branch of the government.</p>
+               <p>The two houses of Congress are called the Senate and the House of Representatives. People in each state vote for (elect) their Senators and Representatives. The Senate includes two Senators from each state. The House of Representatives has Representatives from each state based on the population of each state. In other words, states with more people have more Representatives in the House.</p>
+               <p>The legislative branch has several jobs. Its main job is to make laws, or rules, for the country. The legislature also controls taxes -how much money each person in the country has to pay and what the money gets used for.</p>
+               <p>Congress sets the final budget (how much the government will spend). Congress also decides when the country should go to war. Congress agrees to treaties (written promises) when wars are over.</p>
+               <p>Congress can investigate, or carefully look at, the executive branch if it thinks the President is doing something wrong. If Congress thinks there is a problem, it can impeach the President, or remove the President from the job.</p>
+               <p>Congress can also choose and approve people for the judicial branch of government (judges).</p>
+               <p>
+
+    
+                     
+
+  
+                  </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Judicial Branch</title>
+               <p>The federal judicial branch is all of the Supreme Court judges. The Supreme Court judges make decisions about whether a person, group of people, or business, is following the laws of the United States. There are currently nine judges, also called justices, on the U.S. Supreme Court.</p>
+               <p>The President usually decides who should be on the Supreme Court. Congress agrees to (or confirms) the Supreme Court justices the President chooses. Supreme Court justices are on the Court for life, unless something happens and they cannot continue the job.</p>
+               <p>The main job of the judicial branch is to decide when laws are constitutional. A law is constitutional when it follows everything that the Constitution states. Supreme Court judges usually hear trials (cases about legal, or law-related, situations that need a decision by a judge) that come from other courts, or judges, in the country.</p>
+               <p>
+
+    
+                     
+
+  
+                  </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <title>Reference Books</title>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">Flash Focus: U.S. Supreme Court. Boulder: Lakeside Publishing Group, 2005.
+            Online. EBSCO. 28 August 2008. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple">
+            http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=n8h&amp;amp;AN=18115160&amp;amp;site=src-live.
+            </ext-link> 
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">"Government By the People." <italic>West Virginia</italic>. Mankato: Compass
+            Point Books, 2003. Online. EBSCO. 28 August 2008. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple">
+            http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=ndh&amp;amp;AN=10908026&amp;amp;site=ehost-live.
+            </ext-link> 
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">McGill, Sara Ann. <italic>Constitutional Convention</italic>. Greensboro: Great
+            Neck Publishing, 2005. Online. EBSCO. 6 September 2008. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                                  ext-link-type="uri"
+                                  xlink:type="simple">
+            http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=n8h&amp;amp;AN=17907587&amp;amp;site=src-live.
+            </ext-link> 
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="au_note" indexed="true">
+               <title/>
+               <p>By Susan Jones Leeming</p>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Three Branches of the U.S. Federal Government</article-title>
+                           <source>ELL History, Geography &amp; Civics Series</source>
+                           <year>2009</year>
+                           <publisher-name>Great Neck Publishing</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

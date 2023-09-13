@@ -1,0 +1,51 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Health",
+		"tags": [
+			"Prevention & Lifestyle",
+			"masochism",
+			"fetishism",
+			"choking game",
+			"cognitive behavior therapy",
+			"selective serotonin reuptake inhibitors",
+			"antiandrogens"
+		],
+		"category": [
+			"Prevention & Lifestyle"
+		],
+		"definitions": {
+			"children": [
+				{
+					"text": "Autoerotic asphyxiation , also known as hypoxyphilia, is an act of reducing the flow of oxygen to the brain to heighten sexual arousal and orgasm. The blood flow to the brain is reduced by self-hanging, intentional strangling, or suffocation. Autoerotic asphyxiation is most commonly practiced by males and is usually a solitary act. Autoerotic asphyxiators use cords, belts, ropes, neckties, scarves, or plastic bags to strangle or suffocate themselves while masturbating. Autoerotic asphyxiation is also practiced with a partner as a form of sexual "
+				},
+				{
+					"children": [
+						{
+							"text": "masochism"
+						}
+					],
+					"type": "a",
+					"uid": "48759fd1-843a-47d5-a835-c524cef4f927",
+					"attrs": {
+						"url": "93872213"
+					}
+				},
+				{
+					"text": "."
+				}
+			],
+			"type": "doc",
+			"uid": "5ad1e5b4-284e-4396-a398-2b94da1008fe"
+		},
+		"anatomy_or_systems_affected": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Hypoxphilia"
+				}
+			],
+			"type": "doc",
+			"uid": "1f831c3f-d3a6-4b32-bd73-c20520155419"
+		}
+	}
+}

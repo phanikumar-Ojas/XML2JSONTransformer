@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="doi">10.3331/sp_ency_bio</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="doi">10.3331/rsbioencyc</book-id>
+      <book-title-group>
+         <book-title>Salem Press Biographical Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4Q</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="original">
+         <year>2011</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="RSBIOENCYC.10.3331.91697"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="doi">10.3331/rsbioencyc_91697</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Biography</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>US History 1901-1950</subject>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Women’s History</subject>
+                  <subj-group>
+                     <subject>US History 1901-1950</subject>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Literature, Publishing</subject>
+                  <subj-group>
+                     <subject>Literature, Publishing</subject>
+                     <subject>Authors, Writers</subject>
+                     <subject>Novelists, Short Story Writers</subject>
+                     <subject>Poetry, Poets</subject>
+                     <subject>Education, Educators</subject>
+                     <subject>Judaism, Jews, Synagogues, Temples</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Maxine Kumin</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Marcia B.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Dinneen</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <related-object object-id="AN0443700"
+                            object-id-type="dbpub-entity-id"
+                            source-id="10.3331/biographical.db"
+                            source-id-type="doi"
+                            source-type="dbpub"/>
+            <abstract abstract-type="short">
+               <p>Kumin, a Pulitzer Prize-winning poet, has written about nature, her past, and the degrading treatment of animals raised for food. She and her family settled in a rural farmhouse, an area that gives her endless inspiration for her poems.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Bio Ref</meta-name>
+                  <meta-value>0443700-Maxine Kumin</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Root AN</meta-name>
+                  <meta-value>51933501</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="a_head" indexed="true">
+               <title/>
+               <p>
+                     
+                        Poet and educator
+                     
+                  </p>
+            </sec>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <list id="36735888" list-content="bio_meta">
+                  <list-item>
+                     <label>Born: </label>
+                     <p>June 6, 1925</p>
+                  </list-item>
+                  <list-item>
+                     <label>Birthplace: </label>
+                     <p>Philadelphia, Pennsylvania</p>
+                  </list-item>
+                  <list-item>
+                     <label>Died: </label>
+                     <p>February 6, 2014</p>
+                  </list-item>
+                  <list-item>
+                     <label>Place of death: </label>
+                     <p>Warner, New Hampshire</p>
+                  </list-item>
+               </list>
+               <p>
+                     <italic>Kumin, a Pulitzer Prize–winning poet, wrote about nature, her past, and the degrading treatment of animals raised for food. In the early 1960s, she and her family settled in a rural farmhouse, an area that gave her endless inspiration for her poems.</italic>
+                  </p>
+               <p>
+                     <bold>
+                        <sc>Areas of achievement:</sc>
+                     </bold> Education; literature</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Early Life</title>
+               <p>Born Maxine Winokur, Kumin was the youngest child and the only daughter of Peter Winokur, the owner of a large pawnshop in South Philadelphia, and Belle “Doll” Simon, a homemaker. Kumin’s grandparents, on both sides, were Jewish immigrants from Eastern Europe. Although the family embraced Jewish traditions and attended a Reform temple in Philadelphia, they lived in a mostly Catholic neighborhood in the Germantown section of Philadelphia and celebrated Christmas like their Christian friends. Because the public school was a mile away and there was no bus, Kumin attended the school next to her house from kindergarten through second grade. It was a Catholic school, affiliated with the Convent of the Sisters of Saint Joseph. When Kumin was eight, Adolf Hitler came to power in Germany. Hearing stories about the Holocaust, Kumin felt guilty about living a safe, privileged life. These feelings are reflected in several poems in <italic>The Nightmare Factory</italic> (1970), her third book of poetry.
+                  
+                  
+                  
+                  
+                  
+                  
+               </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Maxine Kumin in 1974</title>
+                     <p>Maxine Kumin, Brussels, 1974.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="89406629-101159.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Thierry Bingen at English Wikipedia, via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>After her parents found a rosary in her pocket, Kumin was sent to public schools and graduated from high school in Elkins Park, Pennsylvania. She wrote some poetry at a young age, but Kumin, who characterized herself as a “jock,” was focused on becoming a swimmer. She worked out at the Broadmore Pool in Philadelphia, racing freestyle for the Women’s Athletic Association, and thought she was in line to compete in the Olympic Games. She was offered a chance to tour with Billy Rose’s Aquacade when she was eighteen, but her father would not allow it. Her poem, “Life’s Work,” blends the story of her mother’s training to be a concert pianist with her training to be a competitive distance swimmer. Both were not allowed to do what they wished because, according to their fathers, a woman’s place was neither in a concert hall nor competing in a sport.</p>
+               <p>In 1942, Kumin entered Radcliffe College, majoring in history and literature. As a freshman, she was placed in an advanced writing class and submitted some poems to poet <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88830344"
+                                   xlink:type="simple">Wallace Stegner</related-article>, then an instructor, for his comments. He wrote that she should “Say it with flowers,” but not try to write poetry. That ended her attempts at poetry for some years. Kumin became an activist, joining a group working with the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87994269"
+                                   xlink:type="simple">Congress of Industrial Organizations</related-article> (CIO), a labor group trying to establish a union at the Fore River Shipyard in Quincy, near Boston. When the Federal Bureau of Investigation (FBI) notified her father that she was consorting with communists, he threatened to take her out of Radcliffe. Kumin said she was staying and would pay her own way with scholarships and work study. She graduated in 1946, and on June 29, 1946, she married Victor Montwid Kumin, a chemical engineer. Kumin received a master’s degree from Radcliffe in 1948 and that year had her first child.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Life’s Work</title>
+               <p>Between October 1948 and June 1953, Kumin had three children and was occupied with their care. The family moved to Newton, a suburb of Boston, and Kumin played the part of a suburban stay-at-home mom. To “save her sanity,” she began ghostwriting articles for medical journals and composing light verses for magazines. When pregnant with her third child, Kumin vowed that if she did not sell one of these verses before her son was born, she would give up poetry. In her eighth month of pregnancy, her verses started selling to magazines, such as <italic>Cosmopolitan</italic>, and to newspapers. She published a couple hundred light verse poems, but her commitment to her family always came first; her writing was “fit in.”
+               </p>
+               <p>In 1957, Kumin joined a writing workshop at the Boston Center for Adult Education, taught by poet and Tufts University English professor John Holmes. Holmes became her mentor. It was Holmes who obtained a part-time teaching position for her at Tufts. At the workshop Kumin met the poet <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88801342"
+                                   xlink:type="simple">Anne Sexton</related-article>; they became friends, motivating and supporting each other’s writing. Sexton also had young children and lived nearby. They worked together on their writing every day, often through long telephone conversations. Kumin published her first book of poetry, <italic>Halfway</italic>, in 1961, in an edition of one thousand copies. Only three hundred copies sold, but the book was critically acclaimed. Kumin continued to write, and in 1961 she and Sexton were selected for the Radcliffe Institute of Independent Study, an experiment to provide married women an opportunity to study and possibly to publish.</p>
+               <p>In 1963, the Kumins bought a neglected two-hundred-acre dairy farm in Warner, New Hampshire. The farm was to be the Kumins’ summer retreat, but, inspired by Rachel Carson’s <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89474434 "
+                                   xlink:type="simple">
+                     <italic>Silent Spring</italic>
+                  </related-article> (1962), Kumin was committed to doing something positive for the environment. She called the farm Pobiz, short for poetry business, but the farm became more than a getaway. It was a place to write poetry. The family moved to the farm permanently in 1976. There, gardening became Kumin’s passion, along with rescuing and raising horses and preserving the land.</p>
+               <p>Kumin continued writing, both poetry and prose. She and Sexton wrote four children’s books together. Sexton’s suicide in 1974 was devastating to Kumin, but she continued to write. Unlike many of her contemporaries, Kumin used traditional metrics and rhyme in her poetry. Form is critical to her poetry as a device to keep emotions under control. Her poems are often about her family, including “The Pawnbroker,” about her father and her past. Kumin’s writing embraces a range of interests. Poems about the natural world, such as “Woodchucks,” which is heavily anthologized, are typical of Kumin. Some of them are startling in their cruelty as Kumin portrays the reality of the treatment of animals raised for food, as in “Taking the Lambs to Market.” In 1973, she won the Pulitzer Prize for poetry for her collection <italic>Up Country: Poems of New England</italic> (1972), her fourth volume of poetry.</p>
+               <p>Over the years Kumin taught poetry classes at various colleges and universities, including the Massachusetts Institute of Technology, Brandeis, Princeton, and New England College. She also directed a number of writing workshops. Her writing has won many awards, including the 1980 American Academy and Institute of Arts and Letters Award for excellence in literature, the 1994 Poets Prize for <italic>Looking for Luck</italic> (1993), the 1995 Aiken Taylor Award for modern American poetry, and the 1999 Ruth Lilly Poetry Prize. She was appointed as the Library of Congress consultant in poetry in 1981; the position was later renamed US poet laureate. From 1989 until 1994 she served as the poet laureate of New Hampshire. In 1998, she was involved in a life-threatening horse-carriage accident and almost died. Then seventy-three, Kumin recovered and continued to write, publish, teach, and tend to her family, animals, and land.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Significance</title>
+               <p>Kumin published nearly twenty collections of poetry, five novels, several children’s books, and numerous essays and short stories in her lifetime. Her body of work shows her commitment to nature; she was once called “Roberta Frost,” due to her similarity to poet <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88833059"
+                                   xlink:type="simple">Robert Frost</related-article>. However, Kumin's poetry goes beyond Frost's in detailing both the beauty and the ugliness of nature by describing how people have defiled the planet. She also wrote about faith and belief, family and parenthood, and bearing witness to contemporary events. The final collection of poetry by Kumin published during her lifetime was <italic>Where I Live: New and Selected Poems, 1990–2010</italic> (2010).</p>
+               <p>Kumin died at the age of eighty-eight on February 6, 2014, at her home in Warner, New Hampshire. She had lived with chronic pain since the 1998 accident and had suffered from declining health in the final year of her life. In her obituary for the <italic>New York Times</italic> (7 Feb. 2014), Margalit Fox wrote that Kumin's "spare, deceptively simple lines explored some of the most complex aspect of human existence—birth and death, evanescence and renewal, and the events large and small conjoining them all." Two books by Kumin, a poetry collection, titled <italic>And Short the Season</italic>, and a semiautobiographical young-adult novel about a girl suffering from spinal cord injury, called <italic>Lizzie!</italic>, are due to be published posthumously.  </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Brown, Deborah Lambert. “Maxine Kumin.” <italic>Jewish American Women Writers</italic>. Ed. Anne R. Shapiro. Westport: Greenwood, 1994. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Grosholz, Emily, ed. <italic>Telling the Barn Swallow</italic>. Hanover: UP of New England, 1997. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Fox, Margalit. "Maxine Kumin, Pulitzer-Winning Poet with a Naturalist's Precision, Dies at 88." <italic>New York Times</italic>. New York Times, 7 Feb. 2014. Web. 27 Feb. 2014.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Kumin, Maxine. <italic>Inside the Halo and Beyond: The Anatomy of a Recovery</italic>. New York: Norton, 2000. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Kumin, Maxine. Interview by Chard DeNiord. <italic>American Poetry Review</italic> 39.1 (2010): 39–45. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                        <article-title>Maxine Kumin</article-title>
+                        <italic>Great Lives from History: Jewish Americans</italic>
+                        <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Rafael</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Medoff</surname>
+                           </name>
+                        </person-group>
+                        <year>2011</year>
+                        <publisher-name>Salem Press</publisher-name>
+                     </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

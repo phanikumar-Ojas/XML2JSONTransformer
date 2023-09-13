@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rsdiseases</book-id>
+    <book-id pub-id-type="eis-mid">FV1S</book-id>
+    <book-title-group>
+      <book-title>Salem Press Encyclopedia of Science</book-title>
+      <alt-title alt-title-type="mid">FV1S</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="revised">
+      <day>1</day>
+      <month>December</month>
+      <year>2015</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>15</day>
+      <month>May</month>
+      <year>2013</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               id="RSDISEASES.10.3331.19785"
+               indexed="true"
+               book-part-type="chapter"
+               xlink:type="simple"
+               xml:lang="EN">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rsdiseases_19785</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="subject">
+            <subject>Anatomy &amp; Physiology</subject>
+            <subj-group>
+              <subject>Nervous System</subject>
+              <subject>Senses</subject>
+              <subject>Skin, Hair, &amp; Nails</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Diseases, Disorders, &amp; Symptoms</subject>
+            <subj-group>
+              <subject>Cancers</subject>
+              <subject>Injuries &amp; Wounds</subject>
+              <subject>Skin Disorders</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Specialties &amp; Health Care Providers</subject>
+            <subj-group>
+              <subject>Dermatology</subject>
+              <subject>Neurology</subject>
+              <subject>Oncology</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="subject">
+            <subject>Treatment &amp; Therapy</subject>
+            <subj-group>
+              <subject>Plastic Surgery</subject>
+            </subj-group>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Skin</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Grace D.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Matzen</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>The anatomy of the skin consists of two major parts: the outer epidermis and the underlying dermis. The epidermis is composed of a particular kind of tissue called stratified squamous epithelium. Epithelium consists of cells that are packed together very tightly, a feature that is very important to an organ that must cover and protect the rest of the body. It is called squamous, which comes from the Latin word for "scale," because its cells are flat and fit together like scales or tiles. The word “stratified” describes the dozens of layers of cells that are piled up to create the epidermis. These cells form four or sometimes five strata, each with their own characteristics and roles to perform.</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>The largest organ of the body, which is vital to the survival of an organism for its protection against dehydration and abrasion, regulation of body temperature, and sensory reception.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/MMG06_19941351854</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Article</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <p>
+            <sc>
+              <bold>Anatomy or system affected:</bold>
+            </sc> Nerves, nervous system</p>
+          <p>
+            <sc>
+              <bold>Definition:</bold>
+            </sc> The largest organ of the body, which is vital to the survival of an organism for its protection against dehydration and abrasion, regulation of body temperature, and sensory reception.</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Structure and Functions</title>
+          <p>The <xref ref-type="glossary" id="mmg06.gloss.1102">anatomy</xref> of the skin consists of two major parts: the outer <xref ref-type="glossary" id="mmg06.gloss.1717">epidermis</xref> and the underlying dermis. The epidermis is composed of a particular kind of tissue called stratified squamous epithelium. Epithelium consists of cells that are packed together very tightly, a feature that is very important to an organ that must cover and protect the rest of the body. It is called squamous, which comes from the Latin word for "scale," because its cells are flat and fit together like scales or tiles. The word “stratified” describes the dozens of layers of cells that are piled up to create the epidermis. These cells form four or sometimes five strata, each with their own characteristics and roles to perform.
+               </p>
+          <fig position="float" fig-type="elec_use">
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      xlink:href="87690397-35636.jpg"
+                      ext-link-type="db-image"
+                      xlink:type="simple"/>
+          </fig>
+          <p>The stratum basale, or basal layer, lies on a thin piece of tissue called the basement membrane, which is next to the dermis. The basal layer cells divide continuously throughout life, supplying new cells called keratinocytes for all the layers above the basal layer. About one-fourth of the stratum basale cells are called melanocytes, because they produce the pigment melanin. As the <xref ref-type="glossary" id="mmg06.gloss.2171">keratinocytes</xref> are pushed up, they acquire a spiny shape; for this reason, the layer above the basal layer is called the stratum spinosum. While in the spiny layer, the upward-moving cells begin to produce the protein fibers that will eventually become waterproof keratin. As the spiny cells are moved further upward, they begin to flatten out. The layer that they form at this point is called the stratum granulosum, because the <xref ref-type="glossary" id="mmg06.gloss.2170">keratin</xref> being formed is visible here, under the microscope, as large clumps or granules. Langerhans cells, which are very important in immunity and protection from disease, are also found in the granular layer. Only in thick skin, such as that found on the palms of the hands and the soles of the feet, do some of the migrating cells form a transparent layer of dead cells full of a shiny substance called eleidin. The shininess of this fourth layer earned it the name stratum lucidum.</p>
+          <p>The outermost part of the epidermis, the stratum corneum, is what most people think of as “the skin”—dead, dry cells that are completely waterproof because they are packed with keratin. The twenty-five layers of corneum cells form an efficient barrier to water loss and to the entrance of microorganisms. The epidermis has no blood vessels. The living, reproducing basal-layer cells must be nourished by <xref ref-type="glossary" id="mmg06.gloss.2477">nutrients</xref> passed from blood vessels in the dermis. Nerve endings that pick up the sensations of <xref ref-type="glossary" id="mmg06.gloss.3170">touch</xref> and pain extend upward into the epidermis, while those that sense pressure, heat, and cold extend only into the dermis.</p>
+          <p>Directly beneath the epidermis’s basement <xref ref-type="glossary" id="mmg06.gloss.2313">membrane</xref> is the dermis. The <xref ref-type="glossary" id="mmg06.gloss.1558">dermis</xref> extends in a wavy or vertical tonguelike fashion into the epidermis to anchor it. The top of the dermis, which is called the papillary layer, thus forms ridges that account for one’s fingerprints and toe prints. There are small blood vessels and fibers scattered throughout the papillary layer. The larger, lower part of the dermis is called the reticular layer. This thicker dermal layer has many more elastic and <xref ref-type="glossary" id="mmg06.gloss.1435">collagen</xref> fibers than does the papillary layer, and it is the location of oil glands, sweat glands, fat cells, <xref ref-type="glossary" id="mmg06.gloss.1928">hair</xref> follicles, and large blood vessels.</p>
+          <p>Directly under the skin, which is often called the cutis, is the jellylike, fat-filled <xref ref-type="glossary" id="mmg06.gloss.3067">subcutaneous</xref> layer. This packaging material provides heat insulation and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89474653"
+                             xlink:type="simple">energy storage</related-article>, and it serves to attach the skin to the muscles and organs below.</p>
+          <p>The anatomy of the skin makes it able to perform a variety of functions. All these roles have one major purpose: to enable the skin to maintain homeostasis—that is, to keep the body relatively stable inside, in spite of constantly changing conditions outside.</p>
+          <p>The intact skin acts as a barrier to invasion by the multitude of microorganisms that come into contact with its surface. The waterproof keratin in the epidermis prevents all substances that are able to dissolve in water from entering the body through the skin. The presence of the pigment melanin enables the skin to absorb harmful <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89475342"
+                             xlink:type="simple">radiation</related-article> from the sun safely, up to a point. Too much exposure to the sun causes sunburn, drying of the skin, a loss of elasticity, and wrinkling. More important, every sunburn increases the risk of skin cancer. Inheritance determines the amount of <xref ref-type="glossary" id="mmg06.gloss.2310">melanin</xref> possessed; although all races have the same number of melanocytes, people of different races differ greatly in the amount of melanin that their cells produce. The more melanin present, the darker the skin. The absence of a certain gene prevents melanin synthesis, a condition called <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89093342"
+                             xlink:type="simple">albinism</related-article>; people (or animals) with this condition, called albinos, have very pale skin and hair. Skin color also varies because of the yellow pigment called carotene, which is found in the upper layers of the epidermis, and because of the red blood that is visible through the dermis of light-skinned people.</p>
+          <p>A very important function of skin is its role in temperature regulation. The body rids itself of excess heat by sweating. Excess heat passes from blood vessels into sweat glands, which conduct heat and perspiration to the surface. A large amount of heat can be lost as the sweat evaporates, thus maintaining normal body temperature. At other times, skin conserves heat by tightening blood vessels and reducing sweat secretion. Simultaneously, shivering, which is the involuntary contraction of skeletal muscles, releases internal heat to counteract excessive heat loss from the body. Only certain sweat glands—namely, those in the armpit and groin—produce the type of sweat that gives rise to an odor.</p>
+          <p>The waterproof quality of the skin prevents most substances from being absorbed through it into the body. Among the materials that can be absorbed are oxygen; <xref ref-type="glossary" id="mmg06.gloss.3299">vitamins</xref> A, D, E, and K; <xref ref-type="glossary" id="mmg06.gloss.3044">steroids</xref> such as cortisone cream; and poisons such as insecticides.</p>
+          <p>The skin is able to produce a form of vitamin D that becomes active and useful to the body after passing through the kidneys. This synthesis requires a small amount of sunshine—far less than that necessary to cause a sunburn. If the skin does not produce enough vitamin D to enable the body to use calcium correctly, then vitamin D is needed in the diet.</p>
+          <p>Two very specialized accessory structures of the skin have their own particular functions. One of these skin derivatives is the pili, or hair. Except for the palms, soles, lips, and eyelids, the entire body contains hair. Each hair consists of a hair shaft that grows beyond the skin surface and a hair root lying inside a hair follicle. The <xref ref-type="glossary" id="mmg06.gloss.1814">follicle</xref> itself consists of epidermis that has grown downward into the dermis. Each hair follicle has an associated <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89145264"
+                             xlink:type="simple">sebaceous gland</related-article> that produces sebum, an oily substance, to lubricate the hair. Scalp hair protects the scalp from overexposure to the sun and from cold weather; eyelashes and tiny hairs inside the nose and ear canals help keep foreign material from entering.</p>
+          <p>The other important skin accessory is the nails. Each nail consists of a nail plate attached to a nail bed. Nails contain modified, highly keratinized cells from the stratum corneum. The <xref ref-type="glossary" id="mmg06.gloss.1224">basal cells</xref> that reproduce to make the nails grow lie under the <xref ref-type="glossary" id="mmg06.gloss.1521">cuticle</xref> at the base of the nail. Nails help to protect fingers and toes and enable humans to pick up tiny objects more efficiently.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Disorders and Diseases</title>
+          <p>The complex anatomy of the skin allows for the development of many possible defects and diseases. Three disorders that modern medical science attempts to understand and alleviate are psoriasis, cancer, and the many varieties of contact dermatitis.</p>
+          <p>Psoriasis, one of the most common of all skin conditions, is said to afflict about 3 percent of the American population. It commonly runs in families and affects both sexes equally. It may develop in childhood or old age but typically appears in the second or third decade of life. It most frequently occurs as scaly patches, or plaques, on the elbows, knees, and scalp but may appear on the back, belly, buttocks, and legs. Many people with <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86194514"
+                             xlink:type="simple">psoriasis</related-article> experience itching; some do not.</p>
+          <p>Human epidermis cells usually take about twenty-eight days to move from the stratum basale, where they are produced, to the top of the stratum corneum, where bathing removes them. This means that the cycle of normal epidermal cells in transit through the skin is accomplished in a month or more, allowing the cells time to mature. In psoriasis patients, this transit period is as short as four days. The reproducing basal cells divide five to ten times too rapidly, and the epidermis thickens enormously, but in patches. The skin cells of psoriasis patients are so abnormal that the patients’ immune systems form antibodies that attack and destroy them, further damaging the ruptured, scaly surface. There is a notable tendency for psoriatic lesions or sores to form at sites of childhood injuries such as sunburns, scratches, scrapes, and areas where <xref ref-type="glossary" id="mmg06.gloss.1385">chickenpox</xref> was particularly widespread. These lesions often become pus-filled abscesses that contain enormous numbers of white blood cells. The epidermal cells no longer die at the stratum granulosum, and even the granules themselves are lost. The outermost corneum layer, which is usually
+dead, dry, and protective, is full of living but abnormally functioning cells. In the dermis below, large, dilated, thin-walled blood vessels appear, and the epidermis directly above them is disproportionately thin. Scratching or picking at the plaques causes bleeding.</p>
+          <p>The exact cause of psoriasis is not yet known. Genetic factors play a role in its development, since one-third of all patients have a family member who is also afflicted. In addition to the physical discomfort and damage to self-esteem caused by this very obvious skin condition, it can lead to heat loss, fever, severe arthritis, heart failure, and even death.</p>
+          <p>The many forms of skin cancer can also cause great disfigurement and even death. Two frequently observed types are basal cell carcinoma and malignant melanoma . Basal cell cancers, which may begin in the hair follicle epithelium, are the most common skin cancers, accounting for almost 70 percent of all cases. Fortunately, they are also the most easily treated. They are most often found where sunlight strikes the hardest, on the neck, scalp, face, and shoulders. Basal cell cancers often start as small bumps but grow wider and more elevated, usually with a cavity in the center. Although their surface is shiny and filled with tiny blood vessels, their color may still be like that of normal skin. If left untreated, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="94461836"
+                             xlink:type="simple">basal cell carcinomas</related-article> may develop a crust or an ulcer that cannot heal. Although they seldom metastasize, shifting or spreading through the bloodstream to another part of the body, they often do great damage to the tissues and structures directly under them. Those that grow near ears and eyes can cause loss of function of those organs.</p>
+          <p>In almost all cases, the appearance of basal cell carcinomas is directly related to sun exposure. A few seem to be related to previous scars, burns, tattoos, or exposure to arsenic. It is important to be aware of the warning signs of basal cell carcinomas. Some can be felt as well as seen as reddish or dotted lumps; others look like open sores caused by scratches or insect bites that do not heal. Because these cancers, which often grow for two years before detection, have such varied appearances, they can be diagnosed accurately only by biopsy.</p>
+          <p>The most dangerous skin cancers are the malignant melanomas. They begin in the pigmented cells called melanocytes but usually and quite rapidly invade deeper tissue. Severe sunburns early in life seem to be their usual cause. Many start as small dark brown growths similar to moles, although they may become white, blue, or reddish and irregular in shape as they grow. Often they will bleed if rubbed. People who have acquired one hundred or more moles by young adulthood are considered genetically predisposed toward these dangerous melanomas; such people should use sunscreens every day all year long. It should be noted that half of all melanomas arise from apparently normal skin that has no moles. The malignant melanomas are much more dangerous than the basal cell carcinomas because they tend to release cancerous cells into the bloodstream that latch onto and grow into numerous internal organs.</p>
+          <p>Seldom life-threatening, contact dermatitis can still be very uncomfortable for a patient. Dermatitis is an <xref ref-type="glossary" id="mmg06.gloss.2111">inflammation</xref> of the skin that usually is a result of an allergic reaction and may include redness, swelling, blistering, crusting, and scaling among its symptoms. In all its many varieties, it probably forms the bulk of a dermatologist’s practice. Contact <xref ref-type="glossary" id="mmg06.gloss.1554">dermatitis</xref> results from coming into contact with a causing substance, such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89408029"
+                             xlink:type="simple">poison ivy</related-article>, poison oak, or poison sumac. The sap from these plants contains urushiol, a substance to which 70 percent of all people are allergic.</p>
+          <p>Large numbers of people are allergic
+                   to the metal nickel and can develop inflammations from wearing nickel rings, watches, earrings, or other jewelry. Nickel zippers and clothing snaps, eyeglass frames and sewing needles, and even coins can cause a reaction.</p>
+          <p>The chemicals in permanent hair dyes cause terrible swelling and <xref ref-type="glossary" id="mmg06.gloss.2161">itching</xref> of the face and neck in some people. Oddly, the scalp under the dyed hair is often unaffected. When dermatitis seems to result from hair dyes, it is often because the affected person has simultaneously been using certain sunscreens, the pain reliever benzocaine, or one of many other common medicines.</p>
+          <p>The chemical potassium dichromate is found in many <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89250417"
+                             xlink:type="simple">detergents</related-article>. People who experience dermatitis caused by detergent use should avoid other chromate-containing products as well. These include inks, paints, bleaches, and spackling, to name only a few.</p>
+          <p>Other people contract dermatitis caused by a formaldehyde allergy. Permanent-press clothing and sheets are made wrinkle-proof by the use of a formaldehyde-based substance. Individuals with a formaldehyde allergy must also avoid many paper products, cosmetics, and disinfectants that contain formaldehyde derivatives.</p>
+          <p>Susceptibility to <xref ref-type="glossary" id="mmg06.gloss.1469">contact dermatitis</xref> from <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89551827"
+                             xlink:type="simple">rubber</related-article> products is widespread. Surprisingly, it often appears long after the exposure and is most common in manufacturing workers.</p>
+          <p>In modern society, with its heavy reliance on over-the-counter drugs, cleaning products of all kinds, deodorants and cosmetics, insecticides and weed-killers, and innumerable other chemical products, the potential causes of contact dermatitis will probably continue to multiply.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Perspective and Prospects</title>
+          <p>Research in dermatology both borrows from and sheds light upon many other branches of medical science: immunology, endocrinology, biochemistry, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89250598"
+                             xlink:type="simple">surgery</related-article>, and <xref ref-type="glossary" id="mmg06.gloss.2498">oncology</xref> are just a few.</p>
+          <p>Diseases of the skin can reveal the presence of many otherwise unseen internal disease conditions. Shiny, thin, reddish-yellow patches on the shins may be a sign of diabetes. Prediabetics are also susceptible to repeated yeast and <xref ref-type="glossary" id="mmg06.gloss.1837">fungal infections</xref> of the skin and have poor wound-healing ability.</p>
+          <p>Too little thyroid hormone causes coarse hair; thickened, dry, cool skin; and rough plaques on the shins. Too much thyroid hormone causes thin hair, excessive sweating, and, surprisingly, identical rough plaques on the shins.</p>
+          <p>Abnormally dark skin can be a sign of drug <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89093551"
+                             xlink:type="simple">side effects</related-article>, the presence of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89474230"
+                             xlink:type="simple">heavy metals</related-article>, poor adrenal gland output, or pituitary tumors. Skin may also darken from excess iron intake or, very noticeably, from a widespread malignant melanoma.</p>
+          <p>Various bowel diseases may also cause skin conditions. The <xref ref-type="glossary" id="mmg06.gloss.2991">small intestine</xref> defect involving a flattened, malfunctioning lining can produce severely itchy blisters on the limbs and the back. Ulcers in the large intestine often produce deep, dirty-looking skin ulcers.</p>
+          <p>The presence of cancer in the breast, bowel, or <xref ref-type="glossary" id="mmg06.gloss.2251">lungs</xref> may precipitate thousands of external wartlike growths or flat, waxy-surfaced growths. Similarly, the gradual appearance, usually on the legs of the elderly, of fishlike skin may reveal the early presence of cancer of the lymph glands.</p>
+          <p>Alcoholism reveals itself in spider telangiectasia, webs of dilated <xref ref-type="glossary" id="mmg06.gloss.1323">capillaries</xref> on the skin surface. The presence of hepatitis, a serious viral infection of the liver, is indicated by the yellowing of the skin known as jaundice.</p>
+          <p>Two other links among dermatology, immunology, and oncology are the search for a <xref ref-type="glossary" id="mmg06.gloss.3254">vaccine</xref> against skin cancer and a new treatment called photopheresis. Since the late 1960s, there has been an ongoing attempt to develop a vaccine to prevent a <xref ref-type="glossary" id="mmg06.gloss.2832">recurrence</xref> of malignant melanoma. This is a particularly important pursuit because those who have survived one case of <xref ref-type="glossary" id="mmg06.gloss.2311">melanoma</xref> have a high risk of developing future ones.</p>
+          <p>Photopheresis involves having patients take a drug called psoralen. Two hours later, their blood is drawn and exposed to ultraviolet light. The interaction between the psoralen and the light destroys abnormal white blood cells, after which the blood is returned to the body. Since 1987, photopheresis has been used to treat a cancer of the <xref ref-type="glossary" id="mmg06.gloss.2077">immune system</xref> that begins in the skin. Researchers hope eventually to use psoralen to treat <xref ref-type="glossary" id="mmg06.gloss.1161">arthritis</xref> and lupus, and to prevent the <xref ref-type="glossary" id="mmg06.gloss.2845">rejection</xref> of organ transplants.</p>
+          <p>For many years, drugs for internal conditions could be administered only orally or by injection. In both methods, the circulating amount may be too high to be safe immediately after it is given and too low to be effective as the hours go by. Dermatologists have greatly advanced medical science by developing transdermal patches. These patches enable a steady <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="no"
+                             xlink:href="89163995"
+                             xlink:type="simple">supply</related-article> of a drug to enter the bloodstream by absorption through the skin. By the end of the twentieth century, patches had been developed to treat angina, high blood pressure, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89093480"
+                             xlink:type="simple">motion sickness</related-article>, menopausal symptoms, and <xref ref-type="glossary" id="mmg06.gloss.2452">nicotine</xref> addiction. Their applications continued to expand in the early twenty-first century, with treatments from opioids and hormones to antidepressants and medications for attention deficit hyperactivity disorder being delivered transdermally.</p>
+          <p>One of the greatest traumas skin can suffer is a widespread burn. Although surgeons have had great success in transplanting many internal organs, they are unable to permanently transplant skin from another person. In 1981, they developed a marvelous technique to produce artificial skin. It uses animal skin protein seeded with a few skin cells taken from the patient. From this small patch, a large enough piece of skin can be grown to cover the <xref ref-type="glossary" id="mmg06.gloss.3323">wounds</xref> until the patient's own healing skin gradually replaces it.</p>
+          <p>From the earliest simple salves for skin rashes to the great discoveries of transdermal patches and artificial skin, dermatologists have done and continue to do their share in advancing medical science.
+               </p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Goodman, Thomas, and Stephanie Young. <italic>Smart Face</italic>. Englewood Cliffs, N.J.: Prentice Hall, 1988.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Jacknin, Jeanette. <italic>Smart Medicine for Your Skin</italic>. New York: Putnam, 2001.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Lamberg, Lynne. <italic>Skin Disorders</italic>. Philadelphia: Chelsea, 2001.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Lees, Mark. <italic>Skin Care: Beyond the Basics</italic>. 4th ed. Clifton Park: Delmar, 2012.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Mackie, Rona M. <italic>Clinical Dermatology</italic>. 5th ed. New York: Oxford UP, 2003.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Siegel, Mary-Ellen. <italic>Safe in the Sun</italic>. New York: Walker, 1995.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">"Skin Conditions." <italic>Skinsight</italic>, 2013.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="website"
+                        xlink:type="simple">"Skin Disorders Center." <italic>Health Library</italic>, 2013.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Turkington, Carol, and Jeffrey S. Dover. <italic>The Encyclopedia of Skin and Skin Disorders</italic>. 3d ed. New York: Facts On File, 2007.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Weedon, David. <italic>Weedon's Skin Pathology</italic>. 3d ed. New York: Churchill Livingstone/Elsevier, 2010.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Skin</article-title>
+                <italic>Magill’s Medical Guide, Sixth Edition</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Tracy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Irons-Georges</surname>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Brandon P.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Brown</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>H. Bradford</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Hawley</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Margaret Trexler</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Hessen</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Nancy A.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Piotrowski</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Clair</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Kaplan</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Claire L.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Standon</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Judy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Mouchawar</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <person-group person-group-type="consultant">
+                  <name name-style="western">
+                    <given-names>Paul</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Moglia</surname>
+                    <x xml:space="preserve">, </x>
+                  </name>
+                </person-group>
+                <year>2010</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

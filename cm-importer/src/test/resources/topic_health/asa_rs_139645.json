@@ -1,0 +1,69 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Health",
+		"tags": [
+			"Diseases, Disorders, & Symptoms",
+			"Cannabis",
+			"controlled substance",
+			"hemp",
+			"medicinal purposes",
+			"Vedas",
+			"opium",
+			"cocaine",
+			"Eighteenth Amendment",
+			"Marijuana Tax Act",
+			"War on Drugs",
+			"legalizing cannabis",
+			"decriminalize marijuana possession",
+			"Joe Biden",
+			"stimulant",
+			"gateway drug",
+			"carcinogens"
+		],
+		"category": [
+			"Diseases, Disorders, & Symptoms"
+		],
+		"definitions": {
+			"children": [
+				{
+					"text": "Marijuana consists of the dried, shredded leaves and flowers of hemp plants in the genus "
+				},
+				{
+					"children": [
+						{
+							"text": "Cannabis",
+							"italic": true
+						}
+					],
+					"type": "a",
+					"uid": "336f4687-5dd6-4f3e-8a32-2c0bfeb5444a",
+					"attrs": {
+						"url": "93787413"
+					}
+				},
+				{
+					"text": ", especially "
+				},
+				{
+					"text": "Cannabis sativa",
+					"italic": true
+				},
+				{
+					"text": ". Its psychoactive effects derive from a substance in the resin of the plant, called delta-9-tetraydrocannabinol (also known as THC)."
+				}
+			],
+			"type": "doc",
+			"uid": "79c6ff26-6a50-490a-87c0-45d9a51c110d"
+		},
+		"anatomy_or_systems_affected": null,
+		"also_known_as": {
+			"children": [
+				{
+					"text": "Cannabis; dope; ganja; grass; hashish; hemp; mary jane; pot; smoke; weed"
+				}
+			],
+			"type": "doc",
+			"uid": "24ef9030-f32f-4983-9ce5-6d638261dc37"
+		}
+	}
+}

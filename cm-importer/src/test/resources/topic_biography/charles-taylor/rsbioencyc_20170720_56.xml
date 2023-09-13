@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">rsbioencyc</book-id>
+    <book-id pub-id-type="eis-mid">GY4Q</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">GY4Q</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>31</day>
+      <month>December</month>
+      <year>2017</year>
+    </pub-date>
+    <copyright-statement>© 2018 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="sp_ency_bio.310065"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">rsbioencyc_20170720_56</book-part-id>
+        <title-group>
+          <title>Charles Taylor</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Elizabeth</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Mohn</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>Philosopher. Charles Taylor was born in Montreal, Canada, in 1931. His mother was a dress designer, and his father helped run a steel factory. He was the youngest of three siblings. Taylor and his family spoke both English and French, and his parents were interested in politics. When he was a boy, Taylor was greatly impacted by his family's political and social discussions. His family, along with most of the world, paid close attention to Hitler and the Nazis in the 1930s. Many Canadians were against their country's involvement in the war in Europe, but Taylor's grandfather, who spoke French, supported Canadian involvement. His family was Catholic, and his Catholic faith would also be an important influence on his writings throughout his life. As a boy, Taylor attended private schools, where he became interested in music and literature.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>310065</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>1366</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>Philosopher</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="AN0771200" list-content="bio_meta">
+            <title/>
+            <list-item>
+              <label>Born: </label>
+              <p>November 5, 1931</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Montreal, Canada</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Education:</bold> McGill University; Oxford University</p>
+          <p>
+            <bold>Significance:</bold> Charles Taylor is a Canadian philosopher who is best known for his work describing how people in Western cultures form a sense of self. He is also well known for his theories about how religion and secularism have changed during modern times. Taylor has won a number of prestigious awards for his writings, including the Templeton Prize.</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Background</title>
+          <p>Charles Taylor was born in Montreal, Canada, in 1931. His mother was a dress designer, and his father helped run a steel factory. He was the youngest of three siblings. Taylor and his family spoke both English and French, and his parents were interested in politics. When he was a boy, Taylor was greatly impacted by his family's political and social discussions. His family, along with most of the world, paid close attention to Hitler and the Nazis in the 1930s. Many Canadians were against their country's involvement in the war in Europe, but Taylor's grandfather, who spoke French, supported Canadian involvement. His family was Catholic, and his Catholic faith would also be an important influence on his writings throughout his life. As a boy, Taylor attended private schools, where he became interested in music and literature.</p>
+          <p>Taylor attended McGill University in Montreal and earned a bachelor's degree in history there in 1952. Taylor was a gifted student and received a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="89164407">Rhodes scholarship</related-article> to attend Oxford University starting in the mid-1950s. At Oxford, he began studying philosophy, which would shape the rest of his professional career. In England, Taylor studied with some of the leading philosophers of their time including <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="89312924">Isaiah Berlin</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="89873590">G.E.M. Anscombe</related-article>. These mentors' ideas about politics and religion helped Taylor form his own philosophical opinions.</p>
+          <p>Taylor earned a bachelor's degree in philosophy in 1955, a master's degree in 1960, and a doctorate degree in 1961.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Life's Work</title>
+          <p>Although Taylor was interested in the philosophy of politics and religion, he remained in academia and accepted a position teaching <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="113928162">political science</related-article> and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="89407990">philosophy</related-article> at McGill University in 1961. The following year, Taylor attempted to join the government when he became involved in the first of four parliamentary elections in the 1960s. However, Taylor lost in four elections and gave up on becoming actively involved in politics.</p>
+          <p>Taylor left McGill to teach political and social theory at Oxford University in the 1970s. While at Oxford, he published his first book <italic>Hegel</italic> (1975), which discusses the works of the famous philosopher and makes his ideas more accessible. Taylor returned to McGill in the 1980s. At the same time, he worked as a guest professor and a visiting professor at various institutions in North America and Europe.</p>
+          <p>In 1989, he published one of his most important books, <italic>Sources of Self: The Making of the Modern Identity—</italic>a huge volume that examines the history and philosophy of self-identity in Western cultures. This work was one of Taylor's most important, in part because it is the first book in which he expresses his own philosophical points of view as opposed to just discussing the points of view of other philosophers. In <italic>Sources of Self</italic>, Taylor traces the history of modern identity and discusses how religion, nature, and other forces have influenced modern human <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="90558354">identity</related-article>. He also explains how changing ideas about identity have shaped the larger society.</p>
+          <p>Another of Taylor's very important works is <italic>A Secular Age</italic> (2007). This book examines the role of religion and secularism in modern life. Taylor argues in the book that secularism is not just the lack of a religion or God, but its own unique system of beliefs that helps shape people's points of view. Furthermore, he discusses how secularism came to be. In the past, he explains, people did not have a choice to either believe in God or believe in secularism; they did not know that not believing was an option. Taylor explains that this discovery had enormous social and political implications. He also argues that the option to choose a secular point of view today also has major implications for society. <italic>A Secular Age</italic> has themes such as religion and modernity that relate back to <italic>Sources of Self</italic> in many ways. Taylor's Catholic ideas, though not explicitly expressed, influence his work.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Impact</title>
+          <p>Taylor had a major impact on philosophy in the twentieth and twenty-first centuries. His ideas about the self and identity influenced a number of other philosophers. Some have classified Taylor's work as communitarianism, which is a theory that believes that individuals should belong to and serve their communities. He is seen as one of the developers of this <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             xlink:type="simple"
+                             related-article-type="rs"
+                             xlink:href="90558463">social theory</related-article>. Taylor's work is also important because it recognizes the tension between the modern, liberal ideas of individuality and autonomy and the idea of adhering to a religion and finding meaning in a power higher than oneself. Taylor's philosophies about the self, religion, and society have earned him many awards, including the Templeton Prize and the Berggruen Prize. The prize, which includes a $1-million gift, is awarded by the Berggruen Institute, which aims to improve understanding among different cultures. Taylor's books <italic>Source of Self</italic> and <italic>A Secular Age</italic> are seen as important philosophical works that have greatly influenced the field.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Personal Life</title>
+          <p>In 1956, Taylor married Alba Romer, who was a social worker and an artist. The couple had five children: Karen (1958), Miriam (1959), Wanda (1960), Gabriela (1962), and Gretta (1965). Alba Taylor died in 1990.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Principal Works</title>
+          <p>
+            <italic>Hegel and Modern Society</italic>, 1979</p>
+          <p>
+            <italic>Human Agency and Language</italic>, 1985</p>
+          <p>
+            <italic>Philosophy and the Human Sciences</italic>, 1985</p>
+          <p>
+            <italic>Source of the Self: The Making of the Modern Identity</italic>, 1989</p>
+          <p>
+            <italic>Multiculturalism and the Politics of Recognition</italic>, 1992</p>
+          <p>
+            <italic>Philosophical Arguments</italic>, 1995</p>
+          <p>
+            <italic>A Secular Age</italic>, 2007</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bell, Daniel. "Communitarianism." Stanford Encyclopedia of Philosophy, 2016, plato.stanford.edu/entries/communitarianism/. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Bloor, Chris. "Charles Taylor." Philosophy Now, philosophynow.org/issues/74/Charles_Taylor. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Calhoun, Craig. "This Philosopher Has Reimagined Identity and Morality for a Secular Age." Huffington Post, 13 Oct. 2016, www.huffingtonpost.com/entry/charles-taylor-philosopher_us_57fd00dde4b068ecb5e1c971. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">"Charles Taylor." The Canadian Encyclopedia, thecanadianencyclopedia.com/en/article/charles-taylor/. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Lehr, Donald. "Fact Sheet - Charles Taylor." Templeton Prize, 2007, www.templetonprize.org/ct_factsheet.html. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Rogers, Ben. "Charles Taylor Interviewed." Prospect, 29 Feb. 2008, www.prospectmagazine.co.uk/magazine/charles-taylor-philosopher-interview. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Rothman, Joshua. "How to Restore Your Faith in Democracy." The New Yorker, 11 Nov. 2016, www.newyorker.com/culture/persons-of-interest/how-to-restore-your-faith-in-democracy. Accessed 19 Sept. 2017.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Schuessler, Jennifer. "Canadian Philosopher Wins $1 Million Prize." New York Times, 4 Oct. 2016, www.nytimes.com/2016/10/05/books/canadian-philosopher-wins-1-million-prize.html. Accessed 19 Sept. 2017.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

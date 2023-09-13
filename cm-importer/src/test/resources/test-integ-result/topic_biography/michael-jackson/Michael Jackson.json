@@ -1,0 +1,88 @@
+{
+	"entry": {
+		"title": "Michael Jackson",
+		"tags": [
+			"Biography",
+			"American History",
+			"Popular Culture, Trends, Fads",
+			"Arts",
+			"North America",
+			"African Americans",
+			"Jehovah’s Witnesses",
+			"Motown Records",
+			"California",
+			"Diana Ross",
+			"Berry Gordy Jr",
+			"Quincy Jones",
+			"Grammy Award",
+			"Thriller",
+			"Francis Ford Coppola",
+			"Lionel Richie",
+			"Elvis Presley",
+			"pronounced dead",
+			"sexual abuse",
+			"Cirque du Soliel"
+		],
+		"category": [
+			"Popular Culture, Trends, Fads",
+			"Arts"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Music, Musicians, Singers",
+			"Dance, Dancers, Dancing",
+			"Acting, Actors, Performers",
+			"Television, Radio, Broadcasting",
+			"Films, Movies, Motion Pictures",
+			"African Americans, Blacks",
+			"Artists, Artisans, the Arts",
+			"Composers, Songwriters"
+		],
+		"curriculum_american_history": [
+			"African American History",
+			"US History 1951-present"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"North America"
+		],
+		"sub_geographical_category": [
+			"United States"
+		],
+		"geo_keyword": null,
+		"birth_day": 29,
+		"birth_month": "August",
+		"birth_year": 1958,
+		"non_numeric_birth_date": "August 29, 1958",
+		"place_of_birth": "Gary, Indiana",
+		"death_day": 25,
+		"death_month": "June",
+		"death_year": 2009,
+		"non_numeric_death_date": "June 25, 2009",
+		"place_of_death": "Los Angeles, California",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"0390900-Michael Jackson"
+		]
+	}
+}

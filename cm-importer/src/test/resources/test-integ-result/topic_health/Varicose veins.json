@@ -1,0 +1,27 @@
+{
+	"entry": {
+		"title": "Varicose veins",
+		"tags": [
+			"veins",
+			"thrombosis",
+			"Deep vein thrombosis",
+			"embolism",
+			"varicose vein removal",
+			"obese",
+			"weight loss",
+			"Strength-training"
+		],
+		"category": null,
+		"definitions": {
+			"children": [
+				{
+					"text": "The distension of superficial veins, usually affecting the legs and causing the appearance of twisted, swollen, blue veins, especially on the backs of the calves."
+				}
+			],
+			"type": "doc",
+			"uid": "66e325ce-f427-436f-a984-9839a89dba9b"
+		},
+		"anatomy_or_systems_affected": "Blood vessels, circulatory system",
+		"also_known_as": null
+	}
+}

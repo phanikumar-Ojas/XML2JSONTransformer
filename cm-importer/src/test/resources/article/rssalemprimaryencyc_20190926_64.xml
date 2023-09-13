@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rssalemprimaryencyc</book-id>
+         <book-id pub-id-type="eis-mid">HDMJ</book-id>
+         <book-title-group>
+            <book-title>Salem Press Primary Encyclopedia</book-title>
+            <alt-title alt-title-type="mid">HDMJ</alt-title>
+            <alt-title alt-title-type="derived_from_id">586604</alt-title>
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+            <day>1</day>
+            <month>January</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="revised">
+            <day>1</day>
+            <month>January</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="reviewed">
+            <day>1</day>
+            <month>January</month>
+            <year>2020</year>
+         </pub-date>
+         <copyright-statement>© 2020 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink" book-part-type="chapter" id="sp_ency_pri.586604" indexed="true" xml:lang="EN" xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">rssalemprimaryencyc_20190926_64</book-part-id>
+               <title-group>
+                  <title>The Beatles</title>
+               </title-group>
+               <contrib-group>
+					             <contrib contrib-type="author" xlink:type="simple">
+						               <name name-style="western">
+							                 <given-names>Kriselle de</given-names>
+							                 <x xml:space="preserve"> </x>
+							                 <surname>Leon</surname>
+						               </name>
+					             </contrib>
+				           </contrib-group>
+               <custom-meta-wrap>
+			               <custom-meta>
+				                 <meta-name>Lexile</meta-name>
+				                 <meta-value>700</meta-value>
+			               </custom-meta>
+		                <custom-meta>
+                     <meta-name>Derived from</meta-name>
+                     <meta-value>586604</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>doctype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>arttype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>project id</meta-name>
+                     <meta-value>1970</meta-value>
+                  </custom-meta>
+               </custom-meta-wrap>
+            </book-part-meta>
+            <body>
+				           <sec sec-type="bodytext" indexed="true">
+               <title/>
+					             <p>The Beatles were a British musical group. Its members were John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They were known as the Fab Four. Some of their top hit songs include <italic>Hey Jude, Let It Be</italic>, <italic>Come Together</italic>, and <italic>I Want to Hold Your Hand</italic>.</p>
+				           <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>The Beatles during the Magical Mystery Tour: Ringo Starr, George Harrison, John Lennon, and Paul McCartney (L-R).</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="rssalemprimaryencyc-20190926-64-176688.jpg"/>
+                  <permissions>
+                     <copyright-statement>Parlophone Music Sweden [CC BY (https://creativecommons.org/licenses/by/3.0)]</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Early Career</title>
+					             <p>Lennon started as a member of the Quarrymen in Liverpool, England. He met and recruited McCartney at a church festival. Harrison got in by auditioning in 1958.</p>
+					             <p>They started with the name the Silver Beetles. The name changed to the Beatles in August 1960. It was also the year the group left Liverpool for Hamburg, Germany. By this time, the members were Lennon, McCartney, Harrison, Stuart Sutcliffe, and Pete Best.</p>
+					             <p>The Beatles performed at a club, Indra. Their popularity grew through word of mouth. The Beatles were moved to the larger Kaiserkeller club when Indra closed.</p>
+					             <p>In November 1960, the Beatles wanted to play at another club, Top Ten. This breached their contract. The manager of the Kaiserkeller got back at the group. Soon after, the Beatles were back in Liverpool.</p>
+					             <p>In 1961 Sutcliffe left the group. He returned to Hamburg, where he died the next year. Also in 1961, the Beatles met Brian Epstein. He became their manager. Under Epstein, they changed their image. They wore their now iconic suits and boots.</p>
+				           </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Beatlemania</title>
+					             <p>On June 6, 1962, The Beatles went to Abbey Road studios to record. They were to be signed to the EMI group’s Parlophone. They were offered a two-single contract. One of the conditions was that they must find a better drummer. Starr replaced Best.</p>
+					             <p>On October 5, The Beatles’ first record was released. Its A-side was “Love Me Do.” From 1962 to 1963, The Beatles’ rise to fame continued. They recorded more original songs and appeared on TV. Their immense popularity birthed the term “Beatlemania.”</p>
+					             <p>They entered the United States in 1964, starting the British Invasion. They debuted with <italic>Meet the Beatles!</italic> It topped the Billboard charts. In the same year, they filmed <italic>A Hard Day’s Night.</italic> They won the Grammys for Best Performance by a Vocal Group and Best New Artist.</p>
+					             <p>The Beatles stopped doing public performances in 1966. They decided to focus on recording. In 1967, they released the influential <italic>Sgt. Pepper’s Lonely Hearts Club Band.</italic> It won the Grammy for Album of the Year.</p>
+					             <p>In 1968, they founded Apple Records. As the decade came to an end, the members found themselves at odds. They held their last performance on January 30, 1969. In 1970, the Beatles disbanded. Its members had strong solo careers. Lennon died on December 8, 1980 after being shot. Harrison passed away on November 29, 2001 from cancer.</p>
+				           </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Impact</title>
+					             <p>In 1965, they were named Members of the Order of the British Empire. In 1988, the group was voted into the Rock and Roll Hall of Fame. The Recording Academy honored them with a Lifetime Achievement Award in 2014.</p>
+					             <p>The Beatles are the best-selling musicians of all time. During their active years, the Beatles influenced youth and culture. Their impact can still be felt in terms of music and pop culture.</p>
+				           </sec>
+				           <sec sec-type="hangindent" indexed="true">
+					             <title>Bibliography</title>
+					             <ref-list>
+						               <title>Books </title>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Everett, Walter and Tim Riley. <italic>What Goes On: The Beatles, Their Music, and Their Time</italic>. Oxford UP, 2019.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Ingham, Chris. <italic>The Rough Guide to The Beatles.</italic> 3rd ed. Penguin, 2009.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Roberts, Jeremy. <italic>The Beatles: Music Revolutionaries</italic>. Twenty-First Century, 2011.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Spitz, Bob. <italic>The Beatles: The Biography</italic>. Hachette UK, 2012.</citation>
+						               </ref>
+					             </ref-list>
+					             <ref-list>
+						               <title>Websites </title>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“The Beatles: Chart History.” Billboard, n.d., billboard.com/music/the-beatles.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“The Beatles.” <italic>Recording Academy,</italic> 2019, grammy.com/grammys/artists/beatles.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“The Beatles.” <italic>Rock &amp; Roll Hall of Fame,</italic> n.d., rockhall.com/inductees/beatles.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Miller, James. “The Beatles.” <italic>Encyclopaedia Britannica</italic>, 13 Nov. 2019, britannica.com/topic/the-Beatles.</citation>
+						               </ref>
+					             </ref-list>
+				           </sec>
+			         </body>
+         </book-part>
+      </body>
+   </book>

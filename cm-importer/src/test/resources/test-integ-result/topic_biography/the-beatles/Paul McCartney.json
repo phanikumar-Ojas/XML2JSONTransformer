@@ -1,0 +1,83 @@
+{
+	"entry": {
+		"title": "Paul McCartney",
+		"tags": [
+			"Biography",
+			"Western Civilization/European History",
+			"Arts",
+			"Popular Culture, Trends, Fads",
+			"Europe",
+			"England",
+			"Music",
+			"Liverpool, England",
+			"the Beatles",
+			"George Harrison",
+			"People for the Ethical Treatment of Animals (PETA)",
+			"the Beatles launched their first US tour in 1964",
+			"A Hard Day’s Night",
+			"Sgt. Pepper’s Lonely Hearts Club Band",
+			"George Martin",
+			"Queen Elizabeth II",
+			"Elvis Costello"
+		],
+		"category": [
+			"Arts",
+			"Popular Culture, Trends, Fads"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": "McCartney",
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Artists, Artisans, the Arts",
+			"Music, Musicians, Singers"
+		],
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": [
+			"20th & 21st Century European History",
+			"British History"
+		],
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"Europe"
+		],
+		"sub_geographical_category": [
+			"United Kingdom"
+		],
+		"geo_keyword": [
+			"England"
+		],
+		"birth_day": 18,
+		"birth_month": "June",
+		"birth_year": 1942,
+		"non_numeric_birth_date": "June 18, 1942",
+		"place_of_birth": "Liverpool, England",
+		"death_day": null,
+		"death_month": null,
+		"death_year": null,
+		"non_numeric_death_date": null,
+		"place_of_death": null,
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": [
+			"Music"
+		],
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3173240-Paul McCartney"
+		]
+	}
+}

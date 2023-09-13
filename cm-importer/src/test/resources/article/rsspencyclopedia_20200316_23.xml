@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<!DOCTYPE book
+  PUBLIC "-//Atypon//DTD Atypon Systems NCBI Book DTD Suite v2.3.0 20090807//EN" "atypon-book.dtd">
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">sp_ency</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rsspencyclopedia</book-id>
+         <book-id pub-id-type="eis-mid">GY4S</book-id>
+         <book-title-group>
+            <book-title>Salem Press Encyclopedia</book-title>
+            <alt-title alt-title-type="mid">GY4S</alt-title>
+            <alt-title alt-title-type="derived_from_id">589584</alt-title>
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+            <day>30</day>
+            <month>April</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="revised">
+            <day>30</day>
+            <month>April</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="reviewed">
+            <day>30</day>
+            <month>April</month>
+            <year>2020</year>
+         </pub-date>
+         <copyright-statement>© 2020 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink" book-part-type="chapter" id="sp_ency.589584" indexed="true" xml:lang="EN" xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">rsspencyclopedia_20200316_23</book-part-id>
+               <title-group>
+                  <title>Philadelphia Flyers</title>
+               </title-group>
+               <contrib-group>
+					             <contrib contrib-type="author" xlink:type="simple">
+						               <name name-style="western">
+							                 <given-names>Jack</given-names>
+							                 <x xml:space="preserve"> </x>
+							                 <surname>Lasky</surname>
+						               </name>
+					             </contrib>
+				           </contrib-group>
+               <custom-meta-wrap>
+                  <custom-meta>
+                     <meta-name>Derived from</meta-name>
+                     <meta-value>589584</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>doctype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>arttype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>project id</meta-name>
+                     <meta-value>2034</meta-value>
+                  </custom-meta>
+               </custom-meta-wrap>
+            </book-part-meta>
+            
+				           
+				          <book-front>  
+            <sec sec-type="quickreference" indexed="true">
+					             <title>Team information</title>
+					             <list list-type="bullet">
+						               <list-item>
+							                 <p>
+								                   <bold>Inaugural season:</bold> 1967</p>
+						               </list-item>
+						               <list-item>
+							                 <p>
+								                   <bold>Home arena:</bold> Wells Fargo Center, Philadelphia, Pennsylvania</p>
+						               </list-item>
+						               <list-item>
+							                 <p>
+								                   <bold>Owner:</bold> Comcast Spectacor</p>
+						               </list-item>
+						               <list-item>
+							                 <p>
+								                   <bold>Team colors:</bold> Orange, black, and white</p>
+						               </list-item>
+					             </list>				           
+               
+            </sec>
+         </book-front>
+         <body>				           
+            <sec sec-type="bodytext" indexed="true">
+					             <title>Overview</title>
+					             <p>The Philadelphia Flyers are a National Hockey League (NHL) franchise that plays in the Metropolitan Division of the Eastern Conference. One of the six new teams added to the NHL during the league’s first major expansion, the Flyers took the ice for the first time in 1967. In the decades since they began play, the Flyers won a pair of Stanley Cup championships in the 1973–1974 and 1974–1975 season and have been a perennial playoff contender, appearing in the Stanley Cup Finals series on several occasions. By the 2019–20 season, the team’s all-time record stood at 2,054 wins, 1,429 losses, 475 ties, and 175 overtime losses, while their playoff record included 221 wins and 212 losses.</p>
+					             <p>Often known for their physical style of play and passionate fan base, the so-called Broad Street Bullies are typically viewed as one of the NHL’s most tough and intimidating teams. The Flyers are also one of the NHL’s most financially successful teams, worth an estimated $825 million in 2019.</p>
+					             <p>In addition to their on-ice play, the Philadelphia Flyers are also strongly committed to philanthropic endeavors, primarily through Flyers Charities and the Ed Snider Youth Hockey Foundation. Through special events like the Flyers Wives Carnival and the Gritty 5K, Flyers Charities has raised more than $29 million to help support various nonprofit organizations that provide underserved youth with important educational and recreational resources, carry out vital medical and health care research, and promote community development initiatives across the Greater Philadelphia area. Named for founder and original team owner Ed Snider, the Ed Snider Youth Hockey Foundation uses hockey to educate and empower underserved youth.</p>
+				           <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>NHL All-Star Claude Giroux, captain of the Flyers.</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="rsspencyclopedia-20200316-23-178732.jpg"/>
+                  <permissions>
+                     <copyright-statement>Beanhugger / CC BY (https://creativecommons.org/licenses/by/3.0)</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Wells Fargo Center in Philadelphia, home to the Flyers.</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="rsspencyclopedia-20200316-23-178733.jpg"/>
+                  <permissions>
+                     <copyright-statement>Public domain, via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>History</title>
+					             <p>The history of the Philadelphia Flyers began with the NHL’s decision to undergo a major expansion in the mid-1960s. Up to that point, the NHL was a six-team league. Driven by mounting pressure from other emergent professional hockey leagues and the need for a new television contract, the NHL opted to launch an expansion project in 1965 that would ultimately result in the addition of another six teams by the start of the 1967-68 season. Among those applying for a new NHL franchise was a group from Philadelphia led by then-Philadelphia Eagles vice president Ed Snider. With Snider at the helm, the Philadelphia group successfully secured one of the new franchises for its city. They eventually settled on the name Flyers after a city-wide naming-contest. With that, the Philadelphia Flyers officially joined the NHL alongside the newly formed Los Angeles Kings, Minnesota North Stars, Oakland Seals, Pittsburgh Penguins, and St. Louis Blues in 1967.</p>
+					             <p>The Flyers played their first game on the road, losing 5-1 to the Oakland Seals on October 11, 1967. The team eventually made its home ice debut at the newly constructed Spectrum arena with a 1-0 shutout victory over the Pittsburgh Penguins on October 19. By the end of their first season, the Flyers finished atop the all-expansion team Western Division and secured the first playoff berth in franchise history. Despite being quickly eliminated by the St. Louis Blues, the Flyers were off to an auspicious start.</p>
+					             <p>After struggling through their first few seasons, the Flyers began to emerge as a legitimate contender in the early 1970s. Two of the key reasons for this turnaround were the hiring new head coach Fred Shero in 1971 and the earlier arrival of charismatic captain Bobby Clarke. With Shero’s guidance from the bench and Clarke’s on-ice leadership, the team gradually found success, notably finishing in second place and winning a playoff series for the first time in the 1972–1973 season. Around the same time, the Flyers also began to adopt a particularly hard-hitting, brawling style of play that transformed them into one of the NHL’s most intimidating teams and led them to become known as the Broad Street Bullies. Coming off a strong 50–16–12 regular season performance, the Flyers entered the 1973–1974 postseason and fought their way to a berth in the Stanley Cup Finals against the Boston Bruins. After a back-and-forth series, the Flyers ultimately defeated the Bruins 1-0 in Game 6 to win their first Stanley Cup championship in front of their hometown fans at the Spectrum. The following year, they repeated this remarkable feat to win a second straight Stanley Cup championship by thwarting the Buffalo Sabres with another Game 6 victory.</p>
+					             <p>The Flyers continued to be one of the NHL’s best teams for the next few years, notably defeating the Soviet Red Army team in a January 1976 exhibition game and once again returning to the Stanley Cup Finals in what would turn out to be a losing effort against the Montreal Canadiens. After struggling for a time in the late 1970s, the Flyers closed out the decade with a historic 35-game winning streak and another Stanley Cup Finals appearance against the New York Islanders in the 1979–1980 season.</p>
+					             <p>With a younger, refreshed lineup, the Flyers returned to form in the mid-1980s, earning the best regular season record in the NHL (53–20–7) for the 1984–1985 season and rolling through the playoffs to ultimately face the dominant, Wayne Gretzky-led Edmonton Oilers in the Stanley Cup Finals. The team would face off against the Oilers in the Stanley Cup Finals again during the 1987 playoffs, but once more fell just short of victory.</p>
+					             <p>After several years of mediocre play, the Flyers emerged as contenders again in the mid-1990s with arrival of star center Eric Lindros. The culmination of the team’s success during that era came with a 1997 appearance in the Stanley Cup Finals against the Detroit Red Wings. Despite a strong performance up to that point, the Flyers were ultimately swept by the overpowering Red Wings. As injuries and off-ice issues took a toll on Lindros’s relationship with the front office in the years that followed, the Flyers again began to struggle in the late 1990s and early 2000s. The team eventually returned to the Stanley Cup Finals in 2010 only to lose to the Chicago Blackhawks. Despite some continuing struggles since that time, the Flyers remain a regular contender and a fan-favorite team that is always among the most popular and successful franchises in the NHL.</p>
+				           </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Notable players</title>
+					             <p>Several Philadelphia Flyers have been inducted into the Hockey Hall of Fame in Toronto, Ontario. Perhaps most notable among these players is Bobby Clarke, a renowned on-ice leader who overcame diabetes to become one of the greats of his generation. Initially a breakout star with the Flin Flon Bombers, Clarke was drafted by the Flyers in 1969 and quickly became one of the team’s top players. Before leading the Flyers to two Stanley Cup victories in 1974 and 1975, Clarke also played a critical role in Team Canada’s come-from-behind win against the Soviets in the famous 1972 Summit Series. He continued as the Flyers’ captain through the 1983–1984 season, after which he joined the front office and served as the team’s general manager for many years.</p>
+					             <p>Clarke’s longtime teammate Bill Barber was also inducted into the Hockey Hall of Fame. Playing left wing alongside Clarke, Barber became a major scoring threat and a key part of the Flyers’s championship teams. Another Hall of Fame member of those teams was goaltender Bernie Parent, who backstopped the Flyers during their two Stanley Cup runs and himself won both the Vezina Trophy for best goaltender and Conn Smythe Trophy as playoff MVP in each of those years. Other key Flyers Hall of Famers include Mark Howe, Eric Lindros, Mark Recchi, Peter Forsberg, and Chris Pronger.</p>
+					             <p>The team has had many other notable players as well. One of the team’s early greats was right winger Gary Dornhoefer, whose 1973 overtime goal against the Minnesota North Stars, which helped secure the Flyers’s first playoff series victory, was originally immortalized in statue form outside the Spectrum. Equally important to the Flyers’s 1970s success was left winger Dave “the Hammer” Schultz, whose rough and tumble style was at the center of the team’s notoriously violent reputation. Another of the Flyers’s most intense personalities was Ron Hextall, a fiery goaltender who led the team through its 1987 playoff run and would ultimately earn recognition as one of the franchise’s all-time great netminders. Also key to the team’s 1980s success was longtime captain Dave Poulin, who played eight seasons with the Flyers and recorded 161 goals and 233 assists during his time in Philadelphia. One of Hextall and Poulin’s most prolific teammates was right winger Brian Propp, who recorded a total of 369 goals and 480 assists during his eleven seasons with the Flyers. In the 1990s, left winger John LeClair joined Eric Lindros and right winger Mikael Renberg to form the dominant Legion of Doom line. Other notable Flyers include defensemen brothers Joe and Jimmy Watson, defenseman Ed Van Impe, right winger Reggie Leach, defenseman Barry Ashbee, goaltender Pelle Lindbergh, center and right winger Tim Kerr, defenseman Eric Desjardins, center Rod Brind’Amour, left winger Simon Gagne, center Daniel Briere, center and right winger Claude Giroux, right winger Jakub Voracek, and goaltender Carter Hart.</p>
+				           </sec>
+				           <sec sec-type="hangindent" indexed="true">
+					             <title>Bibliography</title>
+					             <ref-list>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Flyers Charities.” <italic>Philadelphia Flyers</italic>, 2020, www.nhl.com/flyers/community/flyers-charities. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Flyers History: How the Team Was Named.” <italic>Philadelphia Flyers</italic>, 2020, www.nhl.com/flyers/news/flyers-history-how-the-team-was-named/c-672935. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“# 7 Philadelphia Flyers.” <italic>Forbes</italic>, 2020, www.forbes.com/teams/philadelphia-flyers/#f02a4b5312a2. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Philadelphia Flyers.” <italic>Hockey Hall of Fame</italic>, 2020, www.hhof.com/LegendsOfHockey/jsp/LegendsPlayersByTeam.jsp?team=Philadelphia+Flyersl. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Philadelphia Flyers.” <italic>Hockey Reference</italic>, 2020, www.hockey-reference.com/teams/PHI/history.html. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Philadelphia Flyers.” <italic>Internet Hockey Database</italic>, 2020, www.hockeydb.com/stte/philadelphia-flyers-7439.html. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Philadelphia Flyers.” <italic>Sports E-Cyclopedia</italic>, 2020, sportsecyclopedia.com/nhl/philly/flyers.html. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Philadelphia Flyers Team History.” <italic>Sports Team History</italic>, 2020, sportsteamhistory.com/philadelphia-flyers. Accessed 24 Mar. 2020.</citation>
+						               </ref>
+					             </ref-list>
+				           </sec>
+			         </body>
+         </book-part>
+      </body>
+   </book>

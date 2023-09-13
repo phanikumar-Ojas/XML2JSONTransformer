@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">1990_sp_ency</book-id>
+      <book-id pub-id-type="eis-mid">GY4S</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">GY4S</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>30</day>
+         <month>May</month>
+         <year>2017</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="ninty_sp_ency.10.3331.269038"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">1990_sp_ency_269038</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Women’s History</subject>
+                  <subj-group>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="category">
+                  <subject>Sports, Athletics, Athletes</subject>
+                  <subj-group>
+                     <subject>Sports, Athletics, Athletes</subject>
+                     <subject>Recreation, Games</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Women's National Basketball Association (WNBA)</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Amy</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Sisson</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>In April 1996, the National Basketball Association announced the formation of a new Women’s National Basketball Association, which would initially consist of eight teams in two conferences, playing in cities with existing NBA “partner” teams. The new league hoped to capitalize on the U.S. women’s basketball team’s undefeated gold medal run during the 1996 Summer Olympics in Atlanta, Georgia. Several of the star Olympians, including Swoopes, Sheryl Sheryl Swoopes and Lobo, Rebecca Rebecca Lobo, signed on to the WNBA immediately, and the league’s first president, Ackerman, Val Val Ackerman, was named. The regular season ran from June to August, and in September 1997, the Houston Comets Houston Comets won the first of what would become four consecutive WNBA championships. Shortly thereafter, WNBA officials announced that four new teams would be added for the 1998 season, bringing the league total to twelve teams. Women’s National Basketball Association[Womens National Basketball Association] Basketball;women’s[womens] Avery Warley is a profesional basketball player for the Atlanta Dream of the Women's National Basketball Association. By Danny Karwoski, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons Bri Kulas dribbles past a Texas A&amp;M player at Mizzou Arena. By Mark Schierbecker, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>
+                     <italic>Although it was not the first professional women’s basketball league in the United States, the WNBA was the first such league to be formally backed by the men’s National Basketball Association (NBA) and the first to receive significant, ongoing television and news coverage.</italic>
+                  </p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/1990_1613</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1096</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <bold>
+                        <sc>Identification</sc>
+                     </bold> Professional U.S. women’s basketball league</p>
+               <p>
+                     <bold>
+                        <sc>Date</sc>
+                     </bold> Established in 1996; league play began in 1997</p>
+               <p>
+                     <italic>Although it was not the first professional women’s basketball league in the United States, the WNBA was the first such league to be formally backed by the men’s National Basketball Association (NBA) and the first to receive significant, ongoing television and news coverage.</italic>
+                  </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>In April 1996, the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="93787811"
+                                   xlink:type="simple">National Basketball Association</related-article> announced the formation of a new Women’s National Basketball Association, which would initially consist of eight teams in two conferences, playing in cities with existing NBA “partner” teams. The new league hoped to capitalize on the U.S. women’s basketball team’s undefeated gold medal run during the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87994236"
+                                   xlink:type="simple">1996 Summer Olympics in Atlanta, Georgia</related-article>. Several of the star Olympians, including <index-term role="personages">
+                     <primary>Swoopes, Sheryl</primary>
+                  </index-term>Sheryl Swoopes and <index-term role="personages">
+                     <primary>Lobo, Rebecca</primary>
+                  </index-term>Rebecca Lobo, signed on to the WNBA immediately, and the league’s first president, <index-term role="personages">
+                     <primary>Ackerman, Val</primary>
+                  </index-term>Val Ackerman, was named. The regular season ran from June to August, and in September 1997, the <index-term>
+                     <primary>Houston Comets</primary>
+                  </index-term>Houston Comets won the first of what would become four consecutive WNBA championships. Shortly thereafter, WNBA officials announced that four new teams would be added for the 1998 season, bringing the league total to twelve teams.<index-term>
+                     <primary>Women’s National Basketball Association[Womens National Basketball Association]</primary>
+                  </index-term>
+                  <index-term>
+                     <primary>Basketball;women’s[womens]</primary>
+                  </index-term>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Avery Warley is a profesional basketball player for the Atlanta Dream of the Women's National Basketball Association.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="1990-sp-ency-269038-152943.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Danny Karwoski, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Bri Kulas dribbles past a Texas A&amp;M player at Mizzou Arena.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="1990-sp-ency-269038-152966.jpg"
+                               xlink:type="simple"/>
+                     <permissions>
+                        <copyright-statement>By Mark Schierbecker, CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+               <p>The WNBA was not the only women’s professional basketball league in the late 1990s. The rival <index-term>
+                     <primary>American Basketball League</primary>
+                  </index-term>American Basketball League (ABL) was also formed in 1996 and had attracted several of the sport’s most talented women players in part because of its higher salaries. Ultimately, however, the ABL could not compete with the WNBA in the limited market for professional women’s sports, and it folded in 1998, at which time many of its players moved over to the WNBA.</p>
+               <p>By the end of the 1990s, the WNBA had doubled in size, adding two teams in 1998 and another two in 1999. Another milestone was the institution of a <index-term>
+                     <primary>Unions;professional sports</primary>
+                  </index-term>
+                  <index-term>
+                     <primary>Collective bargaining</primary>
+                  </index-term>
+                  <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89163584"
+                                   xlink:type="simple">collective-bargaining</related-article> agreement, or players’ union, at the start of the 1999 season; this was the first such agreement for any American professional women’s sport. </p>
+               <p>As of 2017, the league has twelve teams: the Atlanta Dream, Chicago Sky, Connecticut Sun, Dallas Wings, Indiana Fever, Los Angeles Sparks, Minnesota Lynx, New York Liberty, Phoenix Mercury, San Antonio Stars, Seattle Storm, and Washington Mystics.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Impact</title>
+               <p>As a relatively young league, the WNBA has struggled financially and its players do not receive salaries or lucrative product endorsements equivalent to those of professional male athletes, prompting some leading players to skip WNBA seasons in order to play for teams in other countries, which offer much higher salaries. Despite these challenges, the WNBA has persisted and has significantly increased the visibility of professional women’s sports. Its players have become role models for many American girls, and the league has helped to increase the popularity of basketball as a high school and college sport for female athletes. The league, which is the longest-running women’s professional basketball league in the United States, celebrated its twentieth season in 2016. <index-term>
+                     <primary>Women’s National Basketball Association[Womens National Basketball Association]</primary>
+                  </index-term>
+               </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Further Reading</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Araton, Harvey. “As W.N.B.A. Opens Its 20th Season, Key Figures Recall the First Game.” <italic>The New York Times</italic>, 13 May 2016, www.nytimes.com/2016/05/14/sports/basketball/wnba-opens-its-20th-season-recall-los-angeles-sparks.html. Accessed 25 Jan. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Berri, David. “Think the WNBA Is in Trouble? Let’s Talk Some NBA History.” <italic>The Huffington Post</italic>, 3 June 2016, www.huffingtonpost.com/david-berri/think-the-wnba-is-in-trouble-lets-talk-nba-history_b_10279354.html. Accessed 25 Jan. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Payne, Marissa. “NBA Commissioner Adam Silver on the WNBA: ‘It’s Not Where We Hoped It Would Be.’” <italic>The Washington Post</italic>, 17 Sept. 2015, www.washingtonpost.com/news/early-lead/wp/2015/09/17/nba-commissioner-adam-silver-on-the-wnba-its-not-where-we-hoped-it-would-be/. Accessed 25 Jan. 2017. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Ponti, James. <italic>WNBA: Stars of Women’s Basketball</italic>. New York: Pocket Books, 1999.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Sandomir, Richard. “After Two Decades,  W.N.B.A. Still Struggling for Relevance.” <italic>The New York Times</italic>, 28 May 2016, www.nytimes.com/2016/05/28/sports/basketball/after-two-decades-wnba-still-struggling-for-relevance.html. Accessed 25 Jan. 2017. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Terzieff, Juliette. <italic>Women of the Court: Inside the WNBA</italic>. New York: Alyson, 2008.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Women's National Basketball Association (WNBA)</article-title>
+                           <source>The Nineties in America</source>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Milton</given-names>
+                              <x xml:space="preserve">
+</x>
+                              <surname>Berman</surname>
+                              <x xml:space="preserve">, </x>
+                           </name>
+                        </person-group>
+                           <year>2009</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

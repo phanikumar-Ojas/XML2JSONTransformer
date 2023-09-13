@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">race_rs</book-id>
+      <book-id pub-id-type="eis-mid">H7V6</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia</book-title>
+         <alt-title alt-title-type="mid">H7V6</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>3</day>
+         <month>April</month>
+         <year>2014</year>
+      </pub-date>
+      <pub-date pub-type="revised">
+         <day>3</day>
+         <month>April</month>
+         <year>2015</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 id="RACE_RS.10.3331.113055"
+                 indexed="true"
+                 book-part-type="chapter"
+                 xlink:type="simple"
+                 xml:lang="EN">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">race_rs_113055</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>History/Event</subject>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Ancient History</subject>
+                  <subj-group>
+                     <subject>Middle Eastern History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>World History</subject>
+                  <subj-group>
+                     <subject>Middle Eastern History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>Western Civilization/European History</subject>
+                  <subj-group>
+                     <subject>Medieval History/Middle Ages</subject>
+                     <subject>Renaissance History</subject>
+                     <subject>17th Century European History</subject>
+                     <subject>18th Century European History</subject>
+                     <subject>19th Century European History</subject>
+                     <subject>20th &amp; 21st Century European History</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="curriculum">
+                  <subject>American History</subject>
+                  <subj-group>
+                     <subject>American Pre-Colonial History (to 1606)</subject>
+                     <subject>Canadian History</subject>
+                     <subject>American Colonial History (1607-1775)</subject>
+                     <subject>US Revolutionary History (1776-1788)</subject>
+                     <subject>US Early National History (1789-1815)</subject>
+                     <subject>US History 1816-1855</subject>
+                     <subject>US Civil War &amp; Reconstruction Era (1856-1877)</subject>
+                     <subject>US History 1878-1900</subject>
+                     <subject>US History 1901-1950</subject>
+                     <subject>US History 1951-present</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="geographical">
+                  <subject>North America</subject>
+                  <subj-group>
+                     <subject>North America</subject>
+                     <subject>United States</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Judaism (ethnic relations)</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>John W.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Fiero</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Judaism has a complex history of development that has been traced as far back as the twentieth century b.c.e. Most scholars agree, however, that modern Judaism is rooted either in the Haskala (the Enlightenment) of the Ashkenazic Jews of eastern and central Europe in the eighteenth century c.e. or, somewhat earlier, in the acculturation of the Sephardic Jews Sephardic Jewish Americans in Italy and western Europe. These two branches of diaspora Jews, with some minor doctrinal differences, held firmly to the traditional beliefs of Judaism and the basic authority of the Talmud, the collection of rabbinical writings making up the religious and civil codes of Jewry. Religion-based ethnicities Judaism</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Judaism is one of the world’s major religions, with origins deeply rooted in antiquity. Its chief features are monotheism, historical ethnocentrism, and a strong moral foundation.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Root AN</meta-name>
+                  <meta-value>40247122</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/RACE_147240247122</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <bold>
+                        <sc>Significance:</sc>
+                     </bold> Judaism is one of the world’s major religions, with origins deeply rooted in antiquity. Its chief features are monotheism, historical ethnocentrism, and a strong moral foundation.</p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title/>
+               <p>Judaism has a complex history of development that has been traced as far back as the twentieth century <sc>b.c.e.</sc> Most scholars agree, however, that modern Judaism is rooted either in the Haskala (the Enlightenment) of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89403413"
+                                   xlink:type="simple">Ashkenazic Jews</related-article> of eastern and central Europe in the eighteenth century <sc>c.e.</sc> or, somewhat earlier, in the acculturation of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89145280"
+                                   xlink:type="simple">Sephardic Jews</related-article>
+                  <index-term>
+                     <primary>Sephardic Jewish Americans</primary>
+                  </index-term> in Italy and western Europe. These two branches of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="96411397"
+                                   xlink:type="simple">diaspora Jews</related-article>, with some minor doctrinal differences, held firmly to the traditional beliefs of Judaism and the basic authority of the Talmud, the collection of rabbinical writings making up the religious and civil codes of Jewry.<index-term>
+                     <primary>Religion-based ethnicities</primary>
+                  </index-term>
+                  <index-term>
+                     <primary>Judaism</primary>
+                  </index-term>
+               </p>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <title>Declaration of State of Israel 1948 1</title>
+                     <p>David Ben-Gurion (First Prime Minister of Israel) publicly pronouncing the Declaration of the State of Israel, May 14 1948, Tel Aviv, Israel, beneath a large portrait of Theodor Herzl, founder of modern political Zionism</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="96397457-96466.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>Rudi Weissenstein [Public domain], via Wikimedia Commons</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig position="margin" fig-type="elec_use">
+                  <caption>
+                     <p>Map of Israel. (Courtesy of the CIA World Fact Book)</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            xlink:href="96397457-97009.jpg"
+                            ext-link-type="db-image"
+                            xlink:type="simple"/>
+                  <permissions>
+                     <copyright-statement>© CIA World Fact Book</copyright-statement>
+                  </permissions>
+               </fig>
+               <p>While monotheism, messianism, and other fundamental tenets of their faith remained intact, adherents of Judaism gradually broke with the passivity that had marked Jewry throughout the Middle Ages, rejecting its self-perception as a people patiently awaiting redemption from their suffering in exile among the Gentiles, who persecuted them for their beliefs or, worse, expelled or destroyed them in pogroms (anti-Jewish massacres).</p>
+               <p>While the insularity that marked Jewish communities in the diaspora<index-term>
+                     <primary>Diaspora</primary>
+                  </index-term> never completely vanished, from the end of the eighteenth century on there was a greater trend toward cultural assimilation, especially in North America and industrialized Europe. By the nineteenth century, in most European nations emancipated Jews could study at universities and enter such professions as medicine and law, long prohibited to them. It was a considerable step forward: Through much of their history, in their dealings with Christians, European Jews had been limited to such activities as itinerant trading and usury (money lending). </p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Discrimination</title>
+               <p>Discrimination against Jews in the diaspora has continued despite the fact that in most industrialized nations its legal sanctions have been removed for almost two centuries. This discrimination partly results from the fact that residual discrimination against ethnic minorities tends to outlive legalized or institutionalized discrimination, even when there are statutory safeguards against it. Anti-Jewish discrimination is compounded by the fact that it has evolved from both anti-Judaism and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89551178"
+                                   xlink:type="simple">anti-Semitism</related-article>,<index-term>
+                     <primary>Anti-Semitism[AntiSemitism]</primary>
+                  </index-term> which are not precisely the same thing, though the distinction between them is largely moot.</p>
+               <p>Anti-Judaism first arose in antiquity, in both polytheistic paganism and Pauline Christology. According to many scholars, the earliest Christians, themselves Semites, had to compete with Jews in efforts to win new converts to their separatist faith. At the time, the Hebrews were militant and zealous proselytizers who dared to defy even the Romans, as their unyielding mass suicide at Masada in 73 <sc>c.e.</sc> testifies.</p>
+               <p>In the diaspora, at least in the medieval Christian<index-term>
+                     <primary>Christianity</primary>
+                  </index-term> world, the Jews carried the stigma of being “Christ killers” and a reputation for theological intractability for not accepting Jesus as the true messiah. Their ethnocentrism led to terrible suspicions—that, for example, they desecrated the host, sacrificed Christian children (the notorious “<related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323875"
+                                   xlink:type="simple">blood libel</related-article>”), and brought on the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89453787"
+                                   xlink:type="simple">Black Death</related-article> (1348–50) by poisoning wells—but the persecutions largely remained religiously based. Some Jews, notably moneylenders, were despised for other reasons, but the official sanctions against them were usually imposed on more theological than ethnic grounds. In some Islamic areas, notably in Spain, the Sephardic Jews, considered “people of the book,” were often treated much better, and some even rose to great political prominence. It was there, under the Arab sponsorship of arts and letters, that they produced the Golden Age of Hebrew Literature (c. 1000–1150 <sc>c.e.</sc>).</p>
+               <p>The persecution of Jews until the time of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="90558238"
+                                   xlink:type="simple">Enlightenment</related-article> was partly prompted by their insularity. For their distinct self-identity, they were forced to pay a terrible price. By the end of the sixteenth century, in most European cities, they were required to live in their own quarter, or ghetto, under all sorts of legal restrictions and prohibitions. They were at times expelled from some countries, including England.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Judaism in the Twentieth Century</title>
+               <p>Even in the United States, with its fundamental doctrine of religious freedom, Jews did not escape a more insidious sort of persecution based on ethnic prejudices rather than strong religious convictions. Jews were often accused of being clannish, secretive, miserly, aggressive, and, at times, un-American. Among other important Americans, industrialist <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88831595"
+                                   xlink:type="simple">Henry Ford</related-article>
+                  <index-term>
+                     <primary>Ford, Henry</primary>
+                  </index-term> was rabidly anti-Semitic. He used the newspaper he controlled, <italic>The Dearborn Independent</italic>,<index-term>
+                     <primary>
+                        <italic>Dearborn Independent, The</italic>[Dearborn Independent, The]</primary>
+                  </index-term> to spread the idea that there was an international Jewish conspiracy dedicated to overthrowing legitimate governments by fostering atheism and anarchy. It was to counter such libels that the ecumenical National Conference of Christians and Jews was founded in 1928.</p>
+               <p>In Europe, particularly in post-World War I Germany, the Jews were subjected to an increasingly virulent persecution that would reach its full horror under the regime of Adolf Hitler.<index-term>
+                     <primary>Hitler, Adolf</primary>
+                  </index-term> Many disillusioned Jews had already turned to Zionism, believing that their only hope lay in the creation of a nation of their own in Palestine, their ancestral home. Some Jews did place their hopes on radical sociopolitical change, including socialism and communism, but most rejected the atheism at the core of Marxism. Modern Zionism was actually a rekindling of beliefs that had been suppressed in the Enlightenment and Emancipation, centering on the idea that someday, under the providential guidance of Jehovah, the Jews would return from exile, restored to their rightful nation-home. It would take its vigorous secular and militant “back to Jerusalem” form after the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="96397381"
+                                   xlink:type="simple">Holocaust</related-article>,<index-term>
+                     <primary>Holocaust</primary>
+                  </index-term> resulting in the creation of the state of Israel, but it was advocated decades earlier, even in the United States, where the new Zionism was espoused by the Reconstructionist followers of Mordecai Menahem Kaplan (1881–1983) as early as the 1920s.</p>
+               <p>Zionism<index-term>
+                     <primary>Zionism</primary>
+                  </index-term> in Europe was even more trenchant. By the end of the nineteenth century, liberal Jews who had sought an end to Jewish-Christian conflict had their hopes dashed in eastern Europe, especially Russia, where the Orthodox Church aided and abetted the pogroms and disseminated the spurious <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="89145005"
+                                      xlink:type="simple">Protocols of the Elders of Zion</related-article>
+                  </italic>, one source of the Jewish conspiracy theory that poisoned the minds of many non-Jews. Despairing of ever reconciling their Jewish culture to the non-Jewish religions and cultures of their host nations, Jews in eastern Europe either hunkered down in their segregated tradition, emigrated, or sought solutions in Zionism. Zionism also attracted radical antireligious Jews and socialistic Jews whose Zionism was purely secular in vision.</p>
+               <p>The plight of nonemigrating European Jews was gravely intensified with the rise of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89098790"
+                                   xlink:type="simple">Adolf Hitler</related-article> in Germany and his racist theories of Aryan supremacy. While most European Christians stood by silently and watched without protest, Hitler vilified the Jews. They were an easy scapegoat, especially in the romantic anti-intellectualism that characterized the Nazi vision of the world. When he came to power, Hitler began a systematic campaign of persecution that, during World War II, culminated in the “final solution”—the genocidal extermination of Jews. Jews were rounded up throughout the conquered nations of Europe and North Africa and sent to extermination camps, where more than six million were put to death.</p>
+               <p>The Holocaust severely reduced the number of Jews in Europe, which, until the war, had been the center of Jewish culture and tradition in the diaspora. In effect, it severed the ties of many emigrant Jews to their past, obliterating such important Jewish cultural enclaves as the Warsaw ghetto. It also resulted in a major demographic shift, moving the centers of contemporary Judaism away from Europe to the United States and Israel.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Aftermath of the Holocaust</title>
+               <p>In the Holocaust the Jews experienced the greatest single calamity in their history, surpassing even their loss of sovereignty over Palestine with the Roman destruction of Jerusalem in 70 <sc>c.e.</sc> The Nazi efforts to exterminate the Jews resulted in three major changes: the destruction of whole communities of diaspora Jews in Europe and North Africa, the disappearance of millennial Jewish settlements in Islamic countries in the Middle East, and the “ingathering” of exiled Jews in the nation-state of Israel.</p>
+               <p>Although Israel was created in 1948 as a secular democracy, it fostered pride in Jews throughout the world, particularly in its succession of victories over the Islamic nations that had vowed to drive the Jews out of the Holy Land. Many liberal Jews who had neglected or even rejected their heritage before the Holocaust made a new commitment to it in the post-World War II years. They also won the sympathy of many Christians, who were shocked by the horror and dehumanizing impact of the Nazi policy. As Stephen Sharot notes in <italic>Judaism: A Sociology</italic> (1976), in the postwar “Western Diaspora there was a sharp decline of overt anti-Semitism and all forms of discrimination.” Cultural and religious insularity, where it persists in the West, reflects choice rather than compulsion. The vestiges of anti-Semitism in the West are largely found in such settings as private clubs, where membership may exclude religious, ethnic, or racial minorities.<index-term>
+                     <primary>Judaism</primary>
+                  </index-term>
+                  </p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Lederhendler, Eli, ed. <italic>Ethnicity and Beyond: Theories and Dilemmas of Jewish Group Demarcation</italic>. New York: Oxford UP, 2011. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Rabinovitch, Simon. <italic>Jews &amp; Diaspora Nationalism: Writings on Jewish Peoplehood in Europe and the United States</italic>. Lebanon: Brandeis UP, 2012. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Reinharz, Shulamit, and Sergio DellaPergola, eds. <italic>Jewish Intermarriage Around the World</italic>. New Brunswick: Transaction, 2009. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Sharot, Stephen. <italic>Comparative Perspectives on Judaisms and Jewish Identities</italic>. Detroit: Wayne State UP. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Silver, M. M. <italic>Louis Marshall and the Rise of Jewish Ethnicity in America</italic>. Syracuse: Syracuse UP, 2013. Print.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Zeitlin, Irving M. <italic>Jews: The Making of a Diaspora People</italic>. Malden: Polity, 2012. Print.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Judaism</article-title>
+                           <source>Racial &amp; Ethnic Relations in America</source>
+                           <person-group person-group-type="editor">
+                           <name name-style="western">
+                              <given-names>Carl L.</given-names>
+                              <x xml:space="preserve"> </x>
+                              <surname>Bankston</surname>
+                           </name>
+                        </person-group>
+                           <year>1999</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

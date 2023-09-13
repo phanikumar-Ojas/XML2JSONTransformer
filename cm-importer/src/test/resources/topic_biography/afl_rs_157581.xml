@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">afl_rs</book-id>
+    <book-id pub-id-type="eis-mid">GC6D</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">GY4Q</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>September</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>15</day>
+      <month>June</month>
+      <year>2015</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="AFL_RS.10.3331.157581"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">afl_rs_157581</book-part-id>
+        <title-group>
+          <title>Julia Grant</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Carole Elizabeth</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Adams</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <abstract abstract-type="placard">
+          <p>First Lady. As the wife of the Union’s most accomplished Civil War general, Julia Grant was already in the public eye before Ulysses S. Grant assumed the presidency. An energetic and optimistic woman, Julia played a crucial role in her husband’s success, providing a loving family circle and offering support to her husband in all circumstances. During his presidency, she deftly made the Executive Mansion a family home, while bringing her warmth and enthusiasm to public occasions. After her husband’s death, she worked to promote his memory, supported charities and the cause of women’s suffrage, and enjoyed her family.</p>
+        </abstract>
+        <abstract>
+          <p>As the wife of the Union’s most accomplished Civil War general, Julia Grant was already in the public eye before Ulysses S. Grant assumed the presidency. An energetic and optimistic woman, Julia played a crucial role in her husband’s success, providing a loving family circle and offering support to her husband in all circumstances. During his presidency, she deftly made the Executive Mansion a family home, while bringing her warmth and enthusiasm to public occasions. After her husband’s death, she worked to promote his memory, supported charities and the cause of women’s suffrage, and enjoyed her family.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/AFL_0019</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>539</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta>
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="a_head" indexed="true">
+          <title/>
+          <p>First Lady</p>
+        </sec>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="AN3153200" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>January 26, 1826</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>White Haven, St. Louis County, Missouri</p>
+            </list-item>
+            <list-item>
+              <label>Died: </label>
+              <p>December 14, 1902</p>
+            </list-item>
+            <list-item>
+              <label>Place of death: </label>
+              <p>Washington, D.C</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>President:</bold>Ulysses S. Grant, 1869-1877</p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Overview</title>
+          <p>As the wife of the Union’s most accomplished Civil War general, Julia Grant was already in the public eye before <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86193834"
+                             xlink:type="simple">Ulysses S. Grant</related-article> assumed the presidency. An energetic and optimistic woman, Julia played a crucial role in her husband’s success, providing a loving family circle and offering support to her husband in all circumstances. During his presidency, she deftly made the Executive Mansion a family home, while bringing her warmth and enthusiasm to public occasions. After her husband’s death, she worked to promote his memory, supported charities and the cause of women’s suffrage, and enjoyed her family.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Early Life</title>
+          <p>Julia Boggs Dent was born on the Western frontier at her family’s farm near St. Louis, Missouri. Although she had four older brothers, she was the first daughter born to Frederick Dent and Ellen Wrenshall Dent, and throughout her life she remained her father’s favorite. Three sisters followed after her birth, although one died in infancy.</p>
+          <p>Colonel Dent came from a prominent Maryland family but had left home as a teenager and made his fortune in the fur trade. He married Ellen Bray Wrenshall of Pittsburgh, Pennsylvania. The couple soon moved to St. Louis, an increasingly important fur-trading center. Dent established a firm there and began to acquire property, placing the family within the social elite of St. Louis. After a few years, however, the appeal of country life grew on him, and the family settled at White Haven, a farm he had purchased near St. Louis, where the colonel lived the life of a slave-holding gentleman farmer.</p>
+          <p>Julia grew up the beloved daughter of her parents and the indulged sister of her brothers, and like them, Julia attended the local one-room schoolhouse. At age ten she was enrolled at the Mauro Academy for Young Ladies in St. Louis, where she enjoyed singing and reading—including poetry, mythology, and the works of William Shakespeare. Graduating in 1843, Julia visited White Haven, then returned to St. Louis to enjoy the winter season’s balls and entertainments, although she later wrote, “I was the shyest of little girls, and if I had any admirers, I am sure I did not know it.”</p>
+          <p>Julia wore a braid until she was sixteen, when she put her thick, dark hair into a chignon, a sign of adulthood. She was a petite woman, barely five feet tall, with beautiful, delicate hands. Her face was rather plain, and she suffered from <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="86196360"
+                             xlink:type="simple">strabismus</related-article>, an eye problem now easily corrected, but then afflicting many. One eye at times lost focus and turned in, giving her a cross-eyed appearance and making reading difficult. Late in her life, Julia confided to a friend that her eyes had always made her feel ugly. When she sought an operation to correct the problem, however, Ulysses Grant insisted that he loved her as she was and declared surgery unnecessary.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Marriage and Family</title>
+          <p>While Julia visited St. Louis, her parents were welcoming Lieutenant Ulysses Grant to White Haven; he was a West Point friend of their son Fred, stationed near the farm. Once Julia returned home, Ulysses’ visits became more frequent. Both Julia and Ulysses were accomplished on horseback, and the pair enjoyed long rides through the countryside. In later life, Julia referred with fondness to that period of her life and to her “handsome lieutenant,” who had clearly come to love her. Nevertheless, she refused his offer of his West Point ring and mused that although it might be fun to be engaged, she did not know about marriage. Julia’s hesitation was allayed by her mother’s vision of fame in Ulysses’ future, for the family believed that Ellen Dent had second sight. Further, Julia believed that she had inherited the gift, and when a dream involving the lieutenant came true immediately, she seems to have felt destined to become his partner.</p>
+          <p>The couple became secretly engaged in the spring of 1844, when Ulysses was posted to Louisiana. When he approached Julia’s father a year later, the colonel voiced skepticism about his daughter becoming an Army wife. Though he doubted the young man’s future prospects, he permitted the couple to correspond. In 1845 the outbreak of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="93787787"
+                             xlink:type="simple">war with Mexico</related-article> further postponed their marriage until August 22, 1848, when the war had ended and Ulysses returned from Mexico. Rejecting her father’s suggestion that she remain at White Haven while her husband returned to the Army, Julia and Ulysses Grant traveled to Army posts at Sackets Harbor, New York, and at Detroit.</p>
+          <p>Julia was determined to build a life for herself and her husband, and participated actively in the social life of Detroit and Sackets Harbor. Their first child, <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88830529"
+                             xlink:type="simple">Frederick Dent Grant</related-article>, was born in 1850. While she was pregnant with their second child, Ulysses received orders for California, and the couple agreed that the difficult journey would not be possible for Julia. Several weeks after his father set sail for the Isthmus of Panama in 1852, Ulysses S. Grant Jr., or Buck, was born. The child was more than a year old before Ulysses learned of his birth.</p>
+          <p>The posting to California marked a turning point in the young couple’s fortunes. Julia and her sons went to White Haven to live with her parents, while her husband faced enormous trials en route to California. Crossing the Isthmus of Panama, Lieutenant Grant was responsible for troops and dependents. Corruption, disorganization, lack of transport and supplies, and disease dogged their trip, which took much longer than expected. Ulysses was heartily glad that Julia and the children had not accompanied him. Nor was California much better. Gold Rush inflation and failed business attempts meant that the lieutenant could not afford to send for his family, and orders arriving in 1853 directed him to Fort Humboldt, a small, isolated fort, commanded by an unsympathetic officer. Having been promoted in 1854, Captain Grant resigned his commission. Military officers afterward circulated the rumor that he resigned to avoid a court-martial for drunkenness on duty, a charge that, although never substantiated, haunted him throughout his life.</p>
+          <p>In 1854 Ulysses returned to Missouri to farm sixty acres of wooded land that Colonel Dent had given Julia as a wedding present. He built a log homestead, dryly dubbed “Hardscrabble,” and, with Julia, immersed himself in farming. Their two youngest children were born: Ellen (Nellie) in 1855 and Jesse in 1858. A fall in agricultural prices and lack of cash for investment meant that the only sure “crop” in these years was the wood being cleared for planting. Ulysses sought help from his prosperous father in Illinois, but the old man always set terms designed to separate him from Julia, as the two did not get along. Jesse Grant disapproved of the Dents’ slave-holding and also regarded Julia as a spendthrift and an overindulgent mother.</p>
+          <p>An attempt at real-estate management with a Dent relative in St. Louis went awry. The failing health of Ulysses’ brother Simpson, however, finally led their father to relent toward his eldest son and invite him to work in the family leather business in Galena, Illinois. In 1860 the Grants moved to the flourishing river town, where Ulysses clerked and traveled through the North, purchasing skins, and expecting that he would eventually become a partner in the firm. The couple lived quietly in their family circle, spending evenings listening to Ulysses read or to Julia sing. It was a family filled with love and very tolerant of childish mischief in an age when parents were advised not to “spare the rod.”</p>
+          <p>Within the year, however, sectional turmoil brought on the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89160968"
+                             xlink:type="simple">Civil War</related-article> and ended the Grants’ new life. Captain Grant became involved in efforts to raise troops, became a colonel of volunteers, and then almost immediately a brigadier general. Over the summer of 1861, Julia remained in Galena and shared women’s support efforts, sewing and knitting items for the troops. When her husband wrote, asking her to join him in Cairo, Illinois, she too began new private and public duties as the wife of an increasingly important Union general. Although other officers’ wives visited their husbands during the Civil War, Julia was unusual in the amount of time she spent in the field and was almost captured by Confederate raiders on at least one occasion. Ulysses told Julia that she gave him a quiet domestic sphere, a respite from the pressures and responsibilities of military leadership. While at the front, Julia took up the duties of a commanding officer’s wife, visiting troops and Army hospitals. She also continued her maternal duties, for her younger children Nellie and Jesse usually accompanied her, and she took responsibility for their education. At the same time, she encouraged the children’s independence and sent eleven-year-old Frederick to the field with his father, whose worries about the boy’s safety she rejected.</p>
+          <p>By the time of the Civil War, both newspapers and photographs had become powerful sources of popular information. Ulysses’ victory at Fort Donelson in early 1862 catapulted him into the public eye. Julia and her children, as well as General Grant, became a focus of attention which made them celebrities. Modest for herself, Julia was proud of her husband’s popular recognition. Looking back after his death, Julia commented that she “rested and was warmed in the sunlight of his loyal love and great fame.” After the war ended in 1865, the attention continued, for President Abraham Lincoln’s assassination made Grant important as commander in chief of the U.S. Army and adviser to President Andrew Johnson. Julia enjoyed life in the capital and entertaining at their home on I Street.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Presidency and First Ladyship</title>
+          <p>Ulysses Grant was sworn in as president in March, 1869, with high expectations placed upon him as the man to reconcile the United States—North and South, freedman and white citizen, Republican and Democrat. Julia continued her role as the president’s confidante and supporter, creating in the White House a sphere that mixed the private, domestic life that her husband cherished with the public dimensions of office. The new ambiance created by Mrs. Grant was homey and welcoming, yet lively, sociable, and moderately elegant as well. Observers who expected a return to formal etiquette and high fashion found the First Lady’s approach disappointing. For most, however, the Grant White House symbolized postwar democracy, represented in particular by the First Lady’s weekly receptions, at which all were welcomed, including working women, immigrants, and African Americans.</p>
+          <p>In planning her social duties, Julia wisely drew upon the services of Julia Fish, an experienced political spouse and the wife of Secretary of State Hamilton Fish. At the same time, Julia invited the wives of dignitaries to receive along with her at public receptions. This made the First Lady appear less regal and haughty, allied important Washington wives to her and her husband, and spread the burden of formal and extensive entertaining. Such deft maneuvering was, however, not always the case when the First Lady moved from social to more directly political activities. Insiders recognized that Julia was an important informal adviser to the president and often tried to win her support for people and <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89872183"
+                             xlink:type="simple">policies</related-article>. Many indeed felt that her husband listened too closely to her views, for emotional ties and loyalty were important criteria for Julia. When clear evidence linked the wife of Secretary of War W. W. Belknap to a kickback scheme, for instance, Julia nevertheless pleaded the secretary’s case. Her support of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87325521"
+                             xlink:type="simple">women’s suffrage</related-article> was more measured, centering upon discussion among guests at the Executive Mansion and private contributions.</p>
+          <p>The White House was very much a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89872181"
+                             xlink:type="simple">family home</related-article> during the Grants’ tenancy. Nellie and Jesse played in the rooms and appeared during levees and meetings. The children’s friends and cousins had the run of the house. Old Colonel Dent, now a household member, regularly sat in the main hall and conversed with visitors. Julia’s brother Fred served as a secretary to the president, receiving guests and attending to their wants. When official events were not scheduled, the family ate together in their private dining room early in the evening and then spent time together. Relatives and friends were frequent White House visitors, overflowing the inadequate guest rooms and remaining for weeks and months at a time.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Legacy</title>
+          <p>Ulysses left the presidency determined to return to private life and to travel, which he had always enjoyed. Julia was less happy to leave, for the White House had been the family home longer than any other place during their marriage. The general had expected to undertake his travels as a private citizen, but this was not to be. Sailing for England, the couple found at their first port of call that neither privacy nor anonymity awaited, for they were received as visiting dignitaries. Thus began a year and a half of cheering crowds, interviews, and entertainment by officialdom and royalty in Europe and Asia as well as renewed celebrity back home in the United States. Julia took it all with aplomb, enjoying both the time with her family and the opportunity to meet new people. Her warmth and personal engagement rarely flagged; one of her granddaughters was later told by an Ottoman vizier that during the Grants’ visit, “your Grand Mother was more interested in us little boys than in the men of importance, and one day she put her hand on my head and said, ‘For you I see a great future.’”</p>
+          <p>The Grants completed their travels in 1879 by visiting the American West. Although Julia hoped that her husband would be nominated again for the White House, Ulysses refused to stand after the Republican convention appeared to deadlock. The couple finally entered private life, living in New York City, only to make headlines once again in 1884 when the financial firm of Grant and Ward, which their son Buck had convinced his father to join, went spectacularly bankrupt. Deeply humiliated and anxious about the welfare of his family, Ulysses sold off as much personal property as possible, including such prized possessions as swords given to him in honor of Civil War victories. To earn some income, he accepted magazine offers to write about the war, embarking on yet another career.</p>
+          <p>More bad fortune was to come: In the midst of financial ruin, Ulysses was diagnosed with throat cancer, clearly caused by his heavy cigar smoking. Under sentence of death but desperately seeking an income, he decided to write his memoirs. His friend author Samuel Clemens, better known as Mark Twain, who had recently established a publishing firm, offered the general a substantial advance and royalties for his work, freeing him from his financial burden. <italic>Personal Memoirs</italic>, the two volumes which have since become a classic, brought $450,000 to Julia and provided her with a substantial widow’s income.</p>
+          <p>Devastated by her husband’s death in 1885, Julia remained for a time in her New York home, shared by her son Fred and his family. She began to write her own memoirs, which helped her to recover from Ulysses’ death. She also spearheaded efforts to select a site for Grant’s tomb and to raise funds for its construction. Julia continued her work for women’s suffrage as well, helping to raise money for the National Woman Suffrage Association. She became friendly with Varina Davis, widow of the Confederate president Jefferson Davis, a sign of the shift in personal and popular understanding of the Civil War. In 1894 Julia moved back to Washington, D.C., where she lived quietly until 1902, when she died after an illness.</p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Grant, Julia Dent. <italic>The Personal Memoirs of Julia Dent Grant (Mrs. Ulysses S. Grant)</italic>. Edited by John Y. Simon. Carbondale: Southern Illinois University Press, 1975.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Grant, Ulysses S. <italic>Personal Memoirs of U. S. Grant</italic>. Introduction by James M. McPherson. New York: Penguin Books, 1999.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ross, Ishbel. <italic>The General’s Wife: The Life of Mrs. Ulysses S. Grant</italic>. New York: Dodd, Mead, 1959.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Simon, John Y., ed. <italic>The Papers of Ulysses S. Grant</italic>. 24 vols. Carbondale: Southern Illinois University Press, 1969.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>
+                     
+                     
+                  </p>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Julia Grant</article-title>
+                <italic>American First Ladies</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Robert P.</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Watson</surname>
+                  </name>
+                </person-group>
+                <year>2006</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

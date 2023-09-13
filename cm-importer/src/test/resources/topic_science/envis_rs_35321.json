@@ -1,0 +1,20 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Science",
+		"tags": [
+			"Social/Economic",
+			"Ethics, Advocacy, Policy, Protest",
+			"mock brstCategory",
+			"Ellen Churchill Semple"
+		],
+		"category": [
+			"Ethics, Advocacy, Policy, Protest"
+		],
+		"secondary_category": [
+			"Ethics, Advocacy, Policy, Protest",
+			"Ecology, Environment, Environmentalism",
+			"Philosophy and History of Science",
+			"Biology, Life Sciences, Ecosystems"
+		]
+	}
+}

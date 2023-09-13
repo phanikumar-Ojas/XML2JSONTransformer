@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+  <book-series-meta>
+    <book-id pub-id-type="publisher-id">sp_ency_bio</book-id>
+  </book-series-meta>
+  <book-meta>
+    <book-id pub-id-type="publisher-id">1930_sp_ency_bio</book-id>
+    <book-id pub-id-type="eis-mid">GY4Q</book-id>
+    <book-title-group>
+      <book-title>Salem Press Biographical Encyclopedia</book-title>
+      <alt-title alt-title-type="mid">GY4Q</alt-title>
+    </book-title-group>
+    <publisher>
+      <publisher-name>Salem Press</publisher-name>
+    </publisher>
+    <pub-date pub-type="reviewed">
+      <day>1</day>
+      <month>May</month>
+      <year>2022</year>
+    </pub-date>
+    <pub-date pub-type="original">
+      <day>30</day>
+      <month>April</month>
+      <year>2016</year>
+    </pub-date>
+  </book-meta>
+  <body>
+    <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+               xmlns:mml="http://www.w3.org/1998/Math/MathML"
+               book-part-type="chapter"
+               id="sp_ency_bio.10.3331.263263"
+               indexed="true"
+               xml:lang="EN"
+               xlink:type="simple">
+      <book-part-meta>
+        <book-part-id pub-id-type="publisher-id">1930_sp_ency_bio_263263</book-part-id>
+        <book-part-categories>
+          <subj-group subj-group-type="articletype">
+            <subject>Biography</subject>
+          </subj-group>
+          <subj-group subj-group-type="curriculum">
+            <subject>American History</subject>
+            <subj-group>
+              <subject>US History 1901-1950</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Crime, Criminals</subject>
+            <subj-group>
+              <subject>Crime, Criminals</subject>
+              <subject>Kidnapping, Hostages, Prisoners</subject>
+              <subject>Murder, Homicide, Execution, Assassination</subject>
+              <subject>Organizations, Agencies, Institutions</subject>
+              <subject>Robbery, Theft, Thieves</subject>
+              <subject>Scandals</subject>
+              <subject>Violence</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Government, Politics</subject>
+            <subj-group>
+              <subject>Government, Politics</subject>
+              <subject>Corruption, Fraud</subject>
+              <subject>Organizations, Agencies, Institutions</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="category">
+            <subject>Law, Legal History, Courts</subject>
+            <subj-group>
+              <subject>Law, Legal History, Courts</subject>
+              <subject>Organizations, Agencies, Institutions</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geographical">
+            <subject>North America</subject>
+            <subj-group>
+              <subject>North America</subject>
+              <subject>United States</subject>
+            </subj-group>
+          </subj-group>
+          <subj-group subj-group-type="geo-keyword">
+            <subject>Illinois</subject>
+            <subject>Chicago</subject>
+          </subj-group>
+        </book-part-categories>
+        <title-group>
+          <title>Eliot Ness</title>
+        </title-group>
+        <contrib-group>
+          <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                   contrib-type="author"
+                   xlink:type="simple">
+            <name name-style="western">
+              <given-names>Keith J.</given-names>
+              <x xml:space="preserve"> </x>
+              <surname>Bell</surname>
+            </name>
+          </contrib>
+        </contrib-group>
+        <related-object object-id="AN3564682"
+                        object-id-type="dbpub-entity-id"
+                        source-id="10.3331/biographical.db"
+                        source-id-type="doi"
+                        source-type="dbpub"/>
+        <abstract abstract-type="placard">
+          <p>Born in Chicago in 1903, Eliot Ness was the youngest of five children of Norwegian immigrants. He graduated from the University of Chicago in 1925 with a degree in business and law and took a job with the Retail Credit Company in Atlanta, Georgia. Ness’s brother-in-law, a federal government agent, encouraged Ness to get involved with law enforcement. He felt that the young man’s skills could be put to use in a Prohibition unit being formed under the U.S. Treasury Department. Ness enrolled in criminology courses in early 1926 and eventually earned a master’s degree in the field. Ness, Eliot Chicago Prohibition and Eliot Ness[Ness]</p>
+        </abstract>
+        <abstract abstract-type="short">
+          <p>Ness was a Prohibition agent who was famous for battling organized crime and bringing down the infamous Al Capone. He led a group of law-enforcement officers who were known as “The Untouchables” because of their refusal to take bribes.</p>
+        </abstract>
+        <custom-meta-wrap>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Bio Ref</meta-name>
+            <meta-value>3564682-Eliot Ness</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Root AN</meta-name>
+            <meta-value>40801448</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>Derived from</meta-name>
+            <meta-value>10.3331/1930_144840801448</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>mfs AN</meta-name>
+            <meta-value/>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>project id</meta-name>
+            <meta-value>814</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>doctype</meta-name>
+            <meta-value>ENCYC</meta-value>
+          </custom-meta>
+          <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+            <meta-name>arttype</meta-name>
+            <meta-value>Biography</meta-value>
+          </custom-meta>
+        </custom-meta-wrap>
+      </book-part-meta>
+      <book-front>
+        <sec sec-type="quickreference" indexed="true">
+          <title/>
+          <list id="AN3564682" list-content="bio_meta">
+            <list-item>
+              <label>Born: </label>
+              <p>April 19, 1903</p>
+            </list-item>
+            <list-item>
+              <label>Birthplace: </label>
+              <p>Chicago, Illinois</p>
+            </list-item>
+            <list-item>
+              <label>Died: </label>
+              <p>May 16, 1957</p>
+            </list-item>
+            <list-item>
+              <label>Place of death: </label>
+              <p>Coudersport, Pennsylvania</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>
+              <sc>Identification</sc>
+            </bold> Federal Treasury Department agent</p>
+          <p>
+            <italic>Ness was a Prohibition agent who was famous for battling organized crime and bringing down the infamous Al Capone. He led a group of law-enforcement officers who were known as “The Untouchables” because of their refusal to take bribes.</italic>
+          </p>
+        </sec>
+      </book-front>
+      <body>
+        <sec sec-type="bodytext" indexed="true">
+          <title/>
+          <p>Born in Chicago in 1903, Eliot Ness was the youngest of five children of Norwegian immigrants. He graduated from the University of Chicago in 1925 with a degree in business and law and took a job with the Retail Credit Company in Atlanta, Georgia. Ness’s brother-in-law, a federal government agent, encouraged Ness to get involved with law enforcement. He felt that the young man’s skills could be put to use in a <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89315845"
+                             xlink:type="simple">Prohibition</related-article> unit being formed under the U.S. Treasury Department. Ness enrolled in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89185670"
+                             xlink:type="simple">criminology</related-article> courses in early 1926 and eventually earned a master’s degree in the field.<index-term role="personages">
+              <primary>Ness, Eliot</primary>
+            </index-term>
+            <index-term>
+              <primary>Chicago</primary>
+            </index-term>
+            <index-term>
+              <primary sortas="Metro Goldwyn Mayer">Prohibition</primary>
+              <secondary>and Eliot Ness[Ness]</secondary>
+            </index-term>
+          </p>
+          <fig fig-type="elec_use" position="margin">
+            <caption>
+              <p>Eliot Ness</p>
+            </caption>
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                      ext-link-type="db-image"
+                      xlink:href="1930-sp-ency-bio-263263-143825.jpg"
+                      xlink:type="simple"/>
+            <permissions>
+              <copyright-statement>Public domain via Wikimedia Commons</copyright-statement>
+            </permissions>
+          </fig>
+          <p>Ness was hired by the Treasury Department in 1927 and went to work in his hometown, Chicago. His familiarity with the city and its people was viewed as a benefit by his superiors. Ness worked for two years with the Prohibition unit in Chicago and in 1929 was assigned the task of bringing down <index-term>
+              <primary>[p]Capone, Al</primary>
+              <secondary>and Eliot Ness[Eliot Ness]</secondary>
+            </index-term>
+            <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="88801282"
+                             xlink:type="simple">Al Capone</related-article>. Capone was the most powerful criminal in the Chicago underworld, known for ruthless retaliation against anyone who crossed him. Capone built his criminal enterprise by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="87325674"
+                             xlink:type="simple">bootlegging</related-article>
+            <index-term>
+              <primary>Alcohol</primary>
+              <secondary>bootleg</secondary>
+            </index-term>alcohol from Canada and other sources during Prohibition; by the late 1920’s, he had become the sole supplier of alcohol to the greater Chicago area.</p>
+          <p>Ness, at age twenty-six, was tasked with bringing to justice the most powerful, ruthless, and heavily armed man in Chicago. Capone also had bribed police officers and other law-enforcement officials throughout Chicago; Ness’s original unit, comprising nearly sixty men, was no different. Ness weeded out those he suspected of taking bribes and eventually settled on a tight-knit group of nine to eleven men. Because Ness’s men considered themselves immune to criminal influence, they were dubbed “The Untouchables.”</p>
+          <p>Ness spent several years raiding Capone’s breweries and safe houses. While he never was able to try Capone for murder or any other violent crime, Ness disrupted his business and documented many Prohibition violations. In 1931, Capone went on trial for multiple counts of tax evasion. That October, he was sentenced to eleven years in prison.</p>
+          <p>Ness continued to work within the federal government until 1935, when he was hired as the safety director for the city of Cleveland, Ohio. He oversaw all emergency response personnel, and vowed to reduce crime and restore order to the streets. He was successful in many ways, but his popularity waned as he developed a reputation for arrogance—perhaps fueled by his success in Chicago—and was accused of overstepping his authority. He was divorced twice and was suspected of drunken driving.</p>
+          <p>Most damaging, however, was Ness’s failure to solve a series of gruesome killings that were dubbed the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                             related-article-type="rs"
+                             xlink:href="89129374"
+                             xlink:type="simple">Cleveland Torso Murders</related-article>. Although Ness claimed to know the killer’s identity, he had no physical evidence to prove it. Fearing a lawsuit from the suspect’s wealthy family, Ness never identified the person he believed to be the killer.</p>
+          <p>In 1942, Ness returned to Washington, D.C., and a position with the federal government. He spent the next few years investigating low-level prostitution and drug offenses. In the mid-1940’s, he took a position with the security firm Diebold. After an unsuccessful campaign for mayor of Cleveland in 1947, Ness fell into obscurity. He died of a heart attack in 1957.</p>
+        </sec>
+        <sec sec-type="bodytext" indexed="true">
+          <title>Impact</title>
+          <p>The Prohibition-era underworld became a subject of fascination for subsequent generations, and Ness and Capone became cultural icons. The Untouchables were lionized as symbols of honesty and bravery amid a corrupt and crime-ridden city. Ness’s autobiography, <italic>The Untouchables</italic> (1957), was published just one month after his death. Several years later, Ness’s crime-fighting career was dramatized in a popular television series of the same title, in which actor Robert Stack played Ness. The success of the series made Ness a household name during the 1960’s and led to a feature film, also titled <italic>The Untouchables</italic> (1987), in which Kevin Costner played Ness.<index-term role="personages">
+              <primary>Ness, Eliot</primary>
+            </index-term>
+            <index-term>
+              <primary>Chicago</primary>
+            </index-term>
+            <index-term>
+              <primary sortas="Metro Goldwyn Mayer">Prohibition</primary>
+              <secondary>and Eliot Ness[Ness]</secondary>
+            </index-term>
+          </p>
+        </sec>
+        <sec sec-type="hangindent" indexed="true">
+          <title>Bibliography</title>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Heimel, Paul. <italic>Eliot Ness: The Real Story</italic>. Nashville, Tenn.: Cumberland House, 2001.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Ness, Eliot, and Oscar Fraley. <italic>The Untouchables</italic>. 1957. Reprint. New York: Barnes &amp; Noble Books, 1996.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Nickel, Steven. <italic>Torso: The Story of Eliot Ness and the Search for a Psychopathic Killer</italic>. Winston-Salem, N.C.: J. F. Blair, 2001.</citation>
+            </ref>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="booksimple"
+                        xlink:type="simple">Tucker, Kenneth. <italic>Eliot Ness and the Untouchables: The Historical Reality and the Film and Television Depictions</italic>. Jefferson, N.C.: McFarland, 2000.</citation>
+            </ref>
+          </ref-list>
+        </sec>
+        <sec sec-type="rs_citation" indexed="true">
+          <title/>
+          <ref-list>
+            <ref>
+              <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                        citation-type="original"
+                        xlink:type="simple">
+                <article-title>Ness, Eliot</article-title>
+                <italic>The Thirties in America</italic>
+                <person-group person-group-type="editor">
+                  <name name-style="western">
+                    <given-names>Thomas Tandy</given-names>
+                    <x xml:space="preserve"> </x>
+                    <surname>Lewis</surname>
+                  </name>
+                </person-group>
+                <year>2011</year>
+                <publisher-name>Salem Press</publisher-name>
+              </citation>
+            </ref>
+          </ref-list>
+        </sec>
+      </body>
+    </book-part>
+  </body>
+</book>

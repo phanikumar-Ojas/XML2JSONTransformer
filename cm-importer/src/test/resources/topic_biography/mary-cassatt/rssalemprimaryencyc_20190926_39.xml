@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book dtd-version="2.3" xml:lang="EN">
+      <book-series-meta>
+         <book-id pub-id-type="publisher-id">sp_ency_pri</book-id>
+      </book-series-meta>
+      <book-meta>
+         <book-id pub-id-type="publisher-id">rssalemprimaryencyc</book-id>
+         <book-id pub-id-type="eis-mid">HDMJ</book-id>
+         <book-title-group>
+            <book-title>Salem Press Primary Encyclopedia</book-title>
+            <alt-title alt-title-type="mid">HDMJ</alt-title>
+            <alt-title alt-title-type="derived_from_id">586579</alt-title>
+         </book-title-group>
+         <publisher>
+            <publisher-name>Salem Press</publisher-name>
+         </publisher>
+         <pub-date pub-type="original">
+            <day>1</day>
+            <month>January</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="revised">
+            <day>1</day>
+            <month>January</month>
+            <year>2020</year>
+         </pub-date>
+         <pub-date pub-type="reviewed">
+            <day>1</day>
+            <month>January</month>
+            <year>2020</year>
+         </pub-date>
+         <copyright-statement>© 2020 by Salem Press, Inc., A Division of EBSCO Information Services, Inc.</copyright-statement>
+      </book-meta>
+      <body>
+         <book-part xmlns:xlink="http://www.w3.org/1999/xlink" book-part-type="chapter" id="sp_ency_pri.586579" indexed="true" xml:lang="EN" xlink:type="simple">
+            <book-part-meta>
+               <book-part-id pub-id-type="publisher-id">rssalemprimaryencyc_20190926_39</book-part-id>
+               <title-group>
+                  <title>Mary Cassatt</title>
+               </title-group>
+               <contrib-group>
+					             <contrib contrib-type="author" xlink:type="simple">
+						               <name name-style="western">
+							                 <given-names>Joeanna Rebello</given-names>
+							                 <x xml:space="preserve"> </x>
+							                 <surname>Fernandes</surname>
+						               </name>
+					             </contrib>
+				           </contrib-group>
+               <custom-meta-wrap>
+			               <custom-meta>
+				                 <meta-name>Lexile</meta-name>
+				                 <meta-value>800</meta-value>
+			               </custom-meta>
+		                <custom-meta>
+                     <meta-name>Derived from</meta-name>
+                     <meta-value>586579</meta-value>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>doctype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>arttype</meta-name>
+                     <meta-value/>
+                  </custom-meta>
+                  <custom-meta>
+                     <meta-name>project id</meta-name>
+                     <meta-value>1970</meta-value>
+                  </custom-meta>
+               </custom-meta-wrap>
+            </book-part-meta>
+            <book-front>
+				           <sec sec-type="quickreference" indexed="true">
+					             <title/>
+					             
+					             
+				           </sec>
+			         </book-front>
+            <body>
+				           <sec sec-type="bodytext" indexed="true">
+               <title/>
+					             <p>Mary Stevenson Cassatt was a famous American artist of the nineteenth century. She was best known for her paintings of women and children.</p>
+					             <p>As a young woman, Cassatt became good friends with the celebrated painter Edgar Degas. He introduced her to Impressionism, a new style of art at the time. Cassatt started to paint like the Impressionists. She exhibited with them and went on to become an important member of their group.</p>
+					             <p>Cassatt later took up printing. Her prints, like her paintings, often depicted women and children going about their daily lives.</p>
+				           <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Miss Cassatt, holding the cards (by Edgar Degas).</p>
+                  </caption>
+                  <ext-link ext-link-type="db-image" xlink:href="rssalemprimaryencyc-20190926-39-176663.jpg"/>
+                  <permissions>
+                     <copyright-statement>Edgar Degas [Public domain]</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Early Life</title>
+					             <p>Cassatt was born into a wealthy family in the state of Pennsylvania. She learnt embroidery, music, sketching, and painting as a child. When she was about sixteen, Cassatt enrolled at Pennsylvania Academy of the Fine Arts.</p>
+					             <p>She left two years later because she felt female and male students were not treated equally. She decided to take private art lessons in Paris, the art capital of the world. Cassatt’s father was unhappy with her decision. He felt women should not paint professionally.</p>
+					             <p>But Cassatt carried on. She spent hours at Louvre Museum, practicing by copying the great masters. In 1868 her painting “The Mandolin Player” was selected for Paris’s top art exhibition, the Salon. It was here that Degas first saw her work.</p>
+				           </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Impressionism</title>
+					             <p>Degas introduced Mary to Impressionism. The Impressionists painted scenes showing daily life. They painted ordinary people, not just the rich. Their brushstrokes were quick and thick. Most importantly, they did not make exact copies of their subjects. They painted their idea, or impression, of them. This is why their art was called impressionism.</p>
+					             <p>Cassatt started to paint in this style. “Little Girl in a Blue Armchair” is thought to be her first important Impressionist work. Some of her other famous paintings are “The Boating Party,” “The Child’s Bath,” and “Young Mother Sewing.” Cassatt’s relatives, friends, and their children often modeled for her.</p>
+					             <p>Cassatt was the only American in the Impressionists’ circle and was one of its four female artists. Berthe Morisot, Eva Gonzalés, and Marie Braquemond were the others. Even when she lived in Paris, Cassatt sent her art back home to exhibit. Her works were among the first Impressionist paintings to be seen in the United States. She also encouraged her wealthy American friends to buy Impressionist paintings. In doing so, she helped create an important collection of this art in her home country.</p>
+				           </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Printing</title>
+					             <p>It was also Degas who introduced Cassatt to printing. In printing, many copies of the same image can be made through special techniques. In 1890, Cassatt saw an exhibition of Japanese prints at the École des Beaux-Arts. She was wanted to try it herself. During her lifetime, she made more than 220 prints.</p>
+				           </sec>
+				           <sec sec-type="bodytext" indexed="true">
+					             <title>Later Life</title>
+					             <p>After 1900, Cassatt’s eyesight grew weak and she had to gradually give up making art. By the time she died, she was almost totally blind.</p>
+					             <p>Cassatt never married and lived life the way she wanted. In many ways, she was ahead of her time. She believed in the idea of the modern woman and supported women’s right to vote.</p>
+				           </sec>
+				           <sec sec-type="hangindent" indexed="true">
+					             <title>Bibliography</title>
+					             <ref-list>
+						               <title>Books </title>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Herkert, Barbara. <italic>Mary Cassatt: Extraordinary Impressionist Painter.</italic> Henry Holt, 2015.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Roes, Sue, and Judith A. Barter. <italic>Cassatt: Mothers and Children.</italic> Chronicle, 2019.</citation>
+						               </ref>
+					             </ref-list>
+					             <ref-list>
+						               <title>Websites </title>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">The Editors of Encyclopaedia Britannica. “Mary Cassatt.” <italic>Encyclopaedia Britannica,</italic> 10 June 2019, https://www.britannica.com/biography/Mary-Cassatt.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Explore Impressionism.” <italic>Tate Kids.</italic> Board of Trustees of the Tate Gallery, n.d., tate.org.uk/kids/explore/what-is/impressionism.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Mary Cassatt: Artist Profiles<italic>.</italic>” <italic>National Museum of Women in the Arts</italic>, 2019, nmwa.org/explore/artist-profiles/mary-cassatt.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">“Mary Cassatt: Selected Color Prints.” <italic>National Gallery of Art</italic>, 2019, nga.gov/features/slideshows/mary-cassatt-selected-color-prints.html.</citation>
+						               </ref>
+						               <ref>
+							                 <citation citation-type="booksimple" xlink:type="simple">Pound, Cath. “The Women Impressionists Forgotten by History.” <italic>BBC Culture. </italic>BBC, 7 Aug. 2018, http://www.bbc.com/culture/story/20180807-the-women-impressionists-forgotten-by-history</citation>
+						               </ref>
+					             </ref-list>
+				           </sec>
+			         </body>
+         </book-part>
+      </body>
+   </book>

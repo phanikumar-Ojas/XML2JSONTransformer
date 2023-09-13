@@ -1,0 +1,60 @@
+{
+	"entry": {
+		"title": "Mock Title Topic Biography",
+		"tags": [
+			"Biography",
+			"mock brstCategory"
+		],
+		"category": null,
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": null,
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": null,
+		"curriculum_american_history": null,
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": null,
+		"sub_geographical_category": null,
+		"geo_keyword": null,
+		"birth_day": 18,
+		"birth_month": "October",
+		"birth_year": 1870,
+		"non_numeric_birth_date": "October 18, 1870",
+		"place_of_birth": "Kanazawa, Japan",
+		"death_day": 12,
+		"death_month": "July",
+		"death_year": 1966,
+		"non_numeric_death_date": "July 12, 1966",
+		"place_of_death": "Kamakura, Japan",
+		"main_occupation_or_related_field": [
+			"Author"
+		],
+		"other_occupation_related_fields": [
+			"Philosopher"
+		],
+		"associated_figures": [
+			"Aristotle",
+			"Plato",
+			"Henry David Thoreau",
+			"Ralph Waldo Emerson"
+		],
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"0764000-D. T. Suzuki"
+		]
+	}
+}

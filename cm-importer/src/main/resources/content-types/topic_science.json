@@ -1,0 +1,436 @@
+{
+	"created_at": "2022-11-23T20:08:23.182Z",
+	"updated_at": "2023-04-27T17:43:09.474Z",
+	"title": "Topic Science",
+	"uid": "topic_science",
+	"_version": 10,
+	"inbuilt_class": false,
+	"schema": [
+		{
+			"data_type": "text",
+			"display_name": "Title",
+			"field_metadata": {
+				"_default": true,
+				"version": 3
+			},
+			"mandatory": true,
+			"uid": "title",
+			"unique": true,
+			"multiple": false,
+			"non_localizable": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Animal Science"
+					},
+					{
+						"value": "Applied Sciences"
+					},
+					{
+						"value": "Astronomy"
+					},
+					{
+						"value": "Astrophysics"
+					},
+					{
+						"value": "Biology, Life Sciences, Ecosystems"
+					},
+					{
+						"value": "Chemistry"
+					},
+					{
+						"value": "Computer Science"
+					},
+					{
+						"value": "Disasters"
+					},
+					{
+						"value": "Earth and Atmospheric Sciences"
+					},
+					{
+						"value": "Economics, Business, Production, Commerce"
+					},
+					{
+						"value": "Environmental Sciences"
+					},
+					{
+						"value": "Ethics, Advocacy, Policy, Protest"
+					},
+					{
+						"value": "Geology, Geosciences"
+					},
+					{
+						"value": "Government, Politics, International Relations"
+					},
+					{
+						"value": "Life Sciences"
+					},
+					{
+						"value": "Logic"
+					},
+					{
+						"value": "Mathematics, Measurement, Mapping, Logic"
+					},
+					{
+						"value": "Meteorology, Atmospheric Sciences, Climatology"
+					},
+					{
+						"value": "Physics"
+					},
+					{
+						"value": "Places, Peoples, Societies"
+					},
+					{
+						"value": "Plant Science"
+					},
+					{
+						"value": "Popular Culture, Media, Publishing"
+					},
+					{
+						"value": "Pseudoscience"
+					},
+					{
+						"value": "Technology and Applied Science"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		},
+		{
+			"data_type": "text",
+			"display_name": "Secondary Category",
+			"display_type": "dropdown",
+			"enum": {
+				"advanced": false,
+				"choices": [
+					{
+						"value": "Agriculture, Farming, Animal Husbandry"
+					},
+					{
+						"value": "Animals, Zoology, Marine Biology"
+					},
+					{
+						"value": "Archaeology"
+					},
+					{
+						"value": "Architecture, Construction"
+					},
+					{
+						"value": "Asteroids, Dwarf Planets"
+					},
+					{
+						"value": "Astronomy"
+					},
+					{
+						"value": "Atmospheric Structure and Dynamics"
+					},
+					{
+						"value": "Authors, Writers"
+					},
+					{
+						"value": "Biology, Life Sciences, Ecosystems"
+					},
+					{
+						"value": "Business, Labor"
+					},
+					{
+						"value": "Chemistry"
+					},
+					{
+						"value": "Cities, Urbanization, Urban Planning"
+					},
+					{
+						"value": "Climate and Climate Change"
+					},
+					{
+						"value": "Comets, Meteors, Interplanetary Bodies"
+					},
+					{
+						"value": "Communications"
+					},
+					{
+						"value": "Computers, Computer Science"
+					},
+					{
+						"value": "Conferences, Meetings, Summits"
+					},
+					{
+						"value": "Continents, Regions, Areas, Islands"
+					},
+					{
+						"value": "Cosmology, Astronomic History"
+					},
+					{
+						"value": "Cryology, Glaciology"
+					},
+					{
+						"value": "Disasters"
+					},
+					{
+						"value": "Ecology, Environment, Environmentalism"
+					},
+					{
+						"value": "Economics, Business, Production, Commerce"
+					},
+					{
+						"value": "Education"
+					},
+					{
+						"value": "Elements, Substances, Chemicals, Compounds"
+					},
+					{
+						"value": "Energy and Energy Resources"
+					},
+					{
+						"value": "Engineering, Materials Science"
+					},
+					{
+						"value": "Ethics, Advocacy, Policy, Protest"
+					},
+					{
+						"value": "Fine Arts and Humanities"
+					},
+					{
+						"value": "Food, Hunger"
+					},
+					{
+						"value": "Forests, Forestry"
+					},
+					{
+						"value": "Galaxies, Nebulas, Interstellar Space"
+					},
+					{
+						"value": "Geography, Cartography"
+					},
+					{
+						"value": "Geology, Geosciences"
+					},
+					{
+						"value": "Health, Medicine, Disease, Illness"
+					},
+					{
+						"value": "History, Historiography"
+					},
+					{
+						"value": "Humanitarianism, Philanthropy"
+					},
+					{
+						"value": "Industries, Commercial Products"
+					},
+					{
+						"value": "International Relations, Agreements, Treaties"
+					},
+					{
+						"value": "Inventions"
+					},
+					{
+						"value": "Journalism, Publishing, Literature"
+					},
+					{
+						"value": "Laws, Acts, Resolutions"
+					},
+					{
+						"value": "Mathematics, Measurement, Mapping, Logic"
+					},
+					{
+						"value": "Media, Film, Television"
+					},
+					{
+						"value": "Meteorology, Atmospheric Sciences, Climatology"
+					},
+					{
+						"value": "Mineral Resources"
+					},
+					{
+						"value": "Moon, Satellites"
+					},
+					{
+						"value": "Nations, States, Governments"
+					},
+					{
+						"value": "Nuclear Power, Nuclear Weapons, Radioactive Waste"
+					},
+					{
+						"value": "Oceans, Seas, Lakes, Bodies of Water"
+					},
+					{
+						"value": "Optics, Light, Electromagnetic Radiation"
+					},
+					{
+						"value": "Organizations, Agencies, Commissions, Centers"
+					},
+					{
+						"value": "Paleontology"
+					},
+					{
+						"value": "Parks, Monuments, Reserves"
+					},
+					{
+						"value": "Philosophy and History of Science"
+					},
+					{
+						"value": "Photography, Imaging"
+					},
+					{
+						"value": "Physics"
+					},
+					{
+						"value": "Planets"
+					},
+					{
+						"value": "Plants, Vegetation, Botany, Horticulture"
+					},
+					{
+						"value": "Politicians, Diplomats"
+					},
+					{
+						"value": "Pollution, Emissions, Toxic Waste, Hazardous Materials"
+					},
+					{
+						"value": "Popular Culture, Media, Publishing"
+					},
+					{
+						"value": "Public Policy, Debates, Controversies"
+					},
+					{
+						"value": "Regulation, Standards and Practices"
+					},
+					{
+						"value": "Renewable Resources"
+					},
+					{
+						"value": "Scientific Equipment, Tools, Techniques, and Methods"
+					},
+					{
+						"value": "Scientists, Engineers"
+					},
+					{
+						"value": "Social and Environmental Justice, Human Rights"
+					},
+					{
+						"value": "Social Sciences"
+					},
+					{
+						"value": "Spacecraft, Satellites, Space Exploration"
+					},
+					{
+						"value": "Statistics, Modeling, Projection"
+					},
+					{
+						"value": "Sun, Stars, Stellar Phenomena"
+					},
+					{
+						"value": "Technology and Applied Science"
+					},
+					{
+						"value": "Topography, Topology"
+					},
+					{
+						"value": "Transportation"
+					},
+					{
+						"value": "Trials, Court Decisions, Mediations, Adjudications"
+					},
+					{
+						"value": "Violence and Warfare"
+					},
+					{
+						"value": "Water Resources"
+					},
+					{
+						"value": "Weather"
+					}
+				]
+			},
+			"multiple": true,
+			"uid": "secondary_category",
+			"field_metadata": {
+				"description": "",
+				"default_value": "",
+				"version": 3
+			},
+			"mandatory": false,
+			"non_localizable": false,
+			"unique": false
+		}
+	],
+	"last_activity": {
+		
+	},
+	"maintain_revisions": true,
+	"description": "",
+	"DEFAULT_ACL": [
+		{
+			"k": "others",
+			"v": {
+				"read": false,
+				"create": false
+			}
+		},
+		{
+			"k": "users.bltb50c9702c7ce5696",
+			"v": {
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		}
+	],
+	"SYS_ACL": {
+		"roles": [
+			{
+				"uid": "blt1f560b7efb3e76d3",
+				"read": true,
+				"sub_acl": {
+					"update": true,
+					"read": true,
+					"publish": true
+				}
+			},
+			{
+				"uid": "bltadd5565ea52d70f1",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			},
+			{
+				"uid": "blta6c352758ea7e7f2",
+				"read": true,
+				"sub_acl": {
+					"read": true
+				}
+			}
+		]
+	},
+	"options": {
+		"is_page": false,
+		"singleton": false,
+		"sub_title": [],
+		"title": "title"
+	},
+	"abilities": {
+		"get_one_object": true,
+		"get_all_objects": true,
+		"create_object": true,
+		"update_object": true,
+		"delete_object": true,
+		"delete_all_objects": true
+	}
+}

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_hlt</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">pbh_sp_ency_hlt</book-id>
+      <book-id pub-id-type="eis-mid">GYF8</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Health</book-title>
+         <alt-title alt-title-type="mid">GYF8</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>16</day>
+         <month>December</month>
+         <year>2015</year>
+      </pub-date>
+      
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="pbh_sp_ency_hlt.10.3331.223020"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">pbh_rs_223020</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject/>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Bad-Boy appeal</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>Bruce E.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Johansen</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>Students of Darwinist evolution point out that bad-boy appeal may have roots in Paleolithic male competition for female sexual partners. Why are bad boys seen as a good choice (at least in the short term) by so many women? Nando Pelusi writes in Psychology Today (2009) that “evolutionary psychologists define ‘good genes’ for men as high-testosterone-fueled masculinity, symmetry, height, and, believe it or not, parasite resistance. Men who are blessed with these qualities tend to be confident and dominant, and able to get away with roguish behavior.” In an earlier time, the fighting skills, risk-taking, and drive of the “bad boy” may have provided a survival advantage, although such men may also have been more prone to injury or death in fights and accidents.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Students of Darwinist evolution point out that bad-boy appeal may have roots in Paleolithic male competition for female sexual partners. Why are bad boys seen as a good choice (at least in the short term) by so many women? Nando Pelusi writes in <italic>Psychology Today</italic> (2009) that “evolutionary psychologists define ‘good genes’ for men as high-testosterone-fueled masculinity, symmetry, height, and, believe it or not, parasite resistance. Men who are blessed with these qualities tend to be confident and dominant, and able to get away with roguish behavior.” In an earlier time, the fighting skills, risk-taking, and drive of the “bad boy” may have provided a survival advantage, although such men may also have been more prone to injury or death in fights and accidents.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value>10.3331/PBH_0073</meta-value>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>807</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <sc>Type of psychology</sc>: Clinical; Community; Psychopathology; Social</p>
+               <disp-quote>
+                  <p>
+                        <italic>A collision between lust and enduring love, “bad-boy appeal” has been exploited by countless movies, advertising campaigns, and romance novels. The motion-picture industry (James Dean and Marlon Brando) and rock musicians (Elvis Presley’s pelvic thrusts) have long capitalized on the appeal of rebellion. Research indicates, however, that in real life, fidelity often wins the battle with lust over the long term. Usually such behavior is private and not a matter for psychological therapy. No official diagnosis exists for bad-boy appeal, and no credible estimate exists for the number of people subject to it.</italic>
+                     </p>
+               </disp-quote>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Introduction</title>
+               <p>Students of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="114325110"
+                                   xlink:type="simple">Darwinist evolution</related-article> point out that bad-boy appeal may have roots in <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87324195"
+                                   xlink:type="simple">Paleolithic</related-article> male competition for female sexual partners. Why are bad boys seen as a good choice (at least in the short term) by so many women? Nando Pelusi writes in <italic>Psychology Today</italic> (2009) that “evolutionary psychologists define ‘good genes’ for men as high-testosterone-fueled masculinity, symmetry, height, and, believe it or not, parasite resistance. Men who are blessed with these qualities tend to be confident and dominant, and able to get away with roguish behavior.” In an earlier time, the fighting skills, risk-taking, and drive of the “bad boy” may have provided a survival advantage, although such men may also have been more prone to injury or death in fights and accidents.</p>
+               <p>Pelusi also writes that according to Daniel Kruger, principal author of a study on “dads and cads,” “Women intuitively get attracted to brave acts of altruism more than to altruism per se. . . . A distinction between long-term and short-term relationships is important for understanding women’s partner choices.” According to this theory, love of boldness helps women find strong males as mates. Secretly they harbor the fantasy of turning their genetically gifted cads into loving dads who stick around long term, long enough to help raise the kids. Think <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89404224"
+                                   xlink:type="simple">Warren Beatty</related-article> and Keith Richards; fairy tales sometimes come true.</p>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>James Dean in 1955.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="pbh-rs-223020-179890.jpg"/>
+                  <permissions>
+                     <copyright-statement>pixabay</copyright-statement>
+                  </permissions>
+               </fig>
+               <fig fig-type="elec_use" position="margin">
+                  <caption>
+                     <p>Angelina Jolie regularly makes the top of the list of bad-girls.</p>
+                  </caption>
+                  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="db-image"
+                            xlink:href="pbh-rs-223020-179983.jpg"/>
+                  <permissions>
+                     <copyright-statement>Foreign and Commonwealth Office / CC BY (https://creativecommons.org/licenses/by/2.0)</copyright-statement>
+                  </permissions>
+               </fig>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Love, lust, and murder</title>
+               <p>In the same article, Pelusi states, “Rock stars, the dudes with the smoldering eyes at the bar, the strong, silent types. The template can morph, but the assessment is the same—the guy’s got genes that make women weak in the knees, and the power and confidence that signal them. So the answer may be that the scoundrel gets the girl—but not for long. His roguish behavior wins out: either he moves on, hawking his testosterone-rich genetic wares on the romantic market, or she gets exasperated with his impulsiveness and pulls away…Bad boys will always be with us because they have good genes to spare.” The bad boy becomes truly <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="95343048"
+                                   xlink:type="simple">psychopathic</related-article> when he abuses a sense of lust and trust to turn the people he engages – women, usually – into victims. This goes beyond the play rebellion of the movie theater and rock concert into <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="115297566"
+                                   xlink:type="simple">sexual abuse</related-article> and even murder. Witness the Green River Killer, or <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88828774"
+                                   xlink:type="simple">Ted Bundy</related-article>, for example, the “boy next door,” once an assistant to some of Washington state’s best-known politicians during the 1970s, who lured his many targets into murder. Between these two poles, a spectrum of men uses lustiness and a roguish nature to play with women’s emotions to dominate and eventually erode relationships.</p>
+               <p>The bad boy sets up a conflict between love and lust. Enduring love seeks a long-term relationship, while short-term lust wants to take a chance on the fantasy of Mr. Tall, Dark, and Handsome. Lusty best-selling books—Harlequin romances, for example—sell in the millions. “The male protagonists are invariably studs on steeds who morph into devoted dads by novel’s end. That is, the women get the best of both worlds,” writes Pelusi (2009). The fantasy world of the novel stokes the hope that the rough edge of the bad boy exists side-by side with tempting, redeeming innocence. A good girl more often than not gets into such a relationship after hearing of a bad boy’s heartrending childhood laced with drugs and sexual abuse at the hands of relatives. A Christian sense of redemption often runs through such narratives. The bad boy has a way of telling his story to many potential bed partners, in quick succession, and then casting himself as a victim when relationships crumble.</p>
+               <p>A yearning for lust early in life creates an opening for the bad boy who, in the real world, may or may not develop into a loving, long-term family man who possesses a steady job and willingness to father children and create a life-long relationship. Many women, however, must survive a rocky breakup with a bad boy (perhaps more than one) before finding that one true love with whom to steer through life.</p>
+               <p>One observer (O’Malley, 2012) comments that some “Nice Guys” (also known as “White Knights”) complain that some women do not appreciate “nice” men,” at least not at first. They seem to prefer a taste of risk, as “the ‘bad boy’ seems to win women’s hearts and loins.” This is not new, argues O’Malley. <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88807290"
+                                   xlink:type="simple">Lord Byron</related-article>, for example, was widely known as a “rake” who was famously “mad, bad and dangerous to know.” Even at the risk of narcissistic, drug-abusing, and often self-destructive behavior, even if they cannot handle money, hold their liquor, or keep their dating to one woman at a time, bad boys seem more “alpha,” and therefore more seductive than more steady, reliable men, at least in youth, when <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="93872226"
+                                   xlink:type="simple">hormones</related-article> rule emotions.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>The role of narcissism</title>
+               <p>Dominant bad boys (and bad girls) manipulate others by means of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="93788109"
+                                   xlink:type="simple">narcissism</related-article>, an ongoing narrative in which everyone in such a person’s ambit is assigned a bit part in his or her script. With dominance comes a sense of manipulation that allows the individual to direct others’ lives as well as “reckless thrill-seeking, selfishness, lack of remorse and affect and a certain level of superficial charm.” (O’Malley, 2012).</p>
+               <p>Nicholas Holtzman and Michael Strube, both working at Washington University in St. Louis, examined 111 college students (64% of whom were female) who were dressed in as close to an identical manner as possible (in grey, monotonic sweatshirts, without makeup, with differences in hairstyles subdued). They were then photographed as control subjects and asked to rate themselves on a personality scale regarding narcissism, manipulation, and so forth. Acquaintances of the subjects also were asked to rate them on so-called “dark triad personality types.” Subjects who did not know the 111 students were asked to view photographs of the control group (in their usual garb and then in the neutral uniform) and asked to rate them for physical attractiveness. To a significant degree, those who were shown “dressed up” scored higher on attractiveness. Pictured in the drab “uniform,” their advantage largely disappeared. Or, to quote an old (and entirely unscientific) <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87994461"
+                                   xlink:type="simple">aphorism</related-article>: “The clothes make the man” (or woman).</p>
+               <p>“In other words,” writes Daisy Grewal in <italic>Scientific American</italic> (2012), “People with dark personality traits are not seen as more physically attractive than others when you take away their freedom to wear their own clothes and makeup. People with dark personalities seem to be better at making themselves physically appealing, a take on the old aphorism that ‘you can’t tell a book by its cover.’” The findings reinforce previous research showing that narcissists are more appealing to than others “literally at first sight.” Other studies, conducted in 2012 by Stefan Schmukle of Westfalische Wilhelms-University as well as Mitja Back and Boris Egloff of Johannes Gutenberg-University (Mainz and Muenster universities) came to similar conclusions.</p>
+               <p>A set of reactions and assumptions known as the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="100259346"
+                                   xlink:type="simple">halo effect</related-article> indicates that many give people whom they perceive as physically attractive credit for being smarter and kinder as well, though the traits may or may not reflect this perception. However the effect tends to wear off over time. “Since the hallmark of these personality traits is interpersonal exploitation, it is only a matter of time before those closest to them get wise to their ways and start to avoid them,” writes Grewal (2012). Many people are also wary of forming long-term relationships with “dark personality traits” after an initial flash of attraction.</p>
+               <p>In a 2012 article, Harris O’Malley summed up the phenomenon best: “The dark triad personality types are pre-disposed to short-term goals;…they focus on immediate goals (How do I get her in bed?) and less on long-term ones (How do I get her to go out with me again?)…They’re prone to stealing partners from others and are more likely to have substance-abuse issues and [have] a correlation with excessive aggression towards others, bullying behavior and racist attitudes. Thus, a person who may have seemed attractive in the short term ends up being dismissed as repulsive as experience renders its judgment. According to O’Malley, “What can seem charmingly rakish at 20 quickly becomes boorish at 30 and just embarrassing at 40.”</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Bad-girl appeal</title>
+               <p>In today’s world, might we also have ‘bad-girl appeal,” a la <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89112736"
+                                   xlink:type="simple">Thelma and Louise</related-article>, tempting innocent young men? Could we also have same-sex couples tempted by the same appeal? Screenwriters, novelists, and advertising agencies seem not to have yet caught this drift. Do we not now live in a world in which female “players” are not only possible, but likely? As if to welcome the new era of equal-opportunity badness, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                            ext-link-type="uri"
+                            xlink:href="http://Amazon.com"
+                            xlink:type="simple">Amazon.com</ext-link> marketed a silver-studded, black leather “Bad Girl Purse” in time for Christmas in 2014.</p>
+               <p>In fact, in a Google search (November, 2014) “bad-girl appeal” outhit “bad-boy appeal” 155,000 to 104,000, with major contributions from the likes of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89405125"
+                                   xlink:type="simple">Miley Cyrus</related-article>. <italic>Daily Mail</italic> even posted a list of “Top 10 Celebrity Bad Girls” (Modern Men, 2011). <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89406262"
+                                   xlink:type="simple">Angelina Jolie</related-article> tops this list:</p>
+               <list list-type="order">
+                  <list-item>
+                     <p>Angelina Jolie</p>
+                  </list-item>
+                  <list-item>
+                     <p>Megan Fox</p>
+                  </list-item>
+                  <list-item>
+                     <p>Charlotte Church</p>
+                  </list-item>
+                  <list-item>
+                     <p>Sienna Miller</p>
+                  </list-item>
+                  <list-item>
+                     <p>Lily Allen</p>
+                  </list-item>
+                  <list-item>
+                     <p>Christina Aguilera</p>
+                  </list-item>
+                  <list-item>
+                     <p>Lindsey Lohan</p>
+                  </list-item>
+                  <list-item>
+                     <p>Britney Spears</p>
+                  </list-item>
+                  <list-item>
+                     <p>Paris Hilton</p>
+                  </list-item>
+                  <list-item>
+                     <p>Nicole Richie</p>
+                  </list-item>
+               </list>
+               <p>As evidence of bad girl appeal, some mention the “Queen Bee at the top of the high-school pecking order, the most popular girl in school, enforcing her will through manipulation and cruelty” (O’Malley, 2012). Emma Meade writes (2009) that <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87998339"
+                                   xlink:type="simple">horror fiction</related-article>, long “a masculine genre, saturated with submissive, weak females” depicting women dying violent deaths at the hands of a stronger male has recently cultivated “female characters repossess[ing] their power and authority, equaling the strength and cunning of their male counterparts,” citing the example of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87322925"
+                                   xlink:type="simple">
+                     <italic>Buffy the Vampire Slayer</italic>
+                  </related-article> “with the central heroine having greater physical prowess than anyone else, male or female, in the world.”</p>
+            </sec>
+            <sec sec-type="hangindent" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="other"
+                               xlink:type="simple">Horzepa, H. R. (2013, April 27). “The Appeal of the Bad Boy and How Women Get Sucked In.” <italic>Huffington Post.</italic>
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="other"
+                               xlink:type="simple">Grewal, D. (2012). “Psychology Uncovers Sex Appeal of Dark Personalities: Why Are Narcissists More Physically Attractive?”. <italic>Scientific American.</italic> 
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="other"
+                               xlink:type="simple">Meade, E.(2009). <italic>The Bad Boy Appeal: Female Sexuality and Development in The Young Adult Horror Fiction of L.J. Smith</italic>. Saarbrucken, Germany: VDM Verlag. </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="other"
+                               xlink:type="simple">Author. (2011, March 25). “Modern Men Prefer Powerful Women (But Also ‘Bad Girls’ Like Angelina Jolie)”. <italic>Daily Mail.</italic>
+                     </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="web"
+                               xlink:type="simple">O’Malley, H. (2012, December 3). “The Appeal of ‘Bad Boys’”. <italic>Paging Dr. Nerdlove</italic>. Paging Dr. Nerdlove, 3 Dec. 2012. Web. 28 June 2016.
+                        </citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="other"
+                               xlink:type="simple">Pelusi, N. (2009). “Neanderthink: The Appeal of The Bad Boy.” <italic>Psychology Today</italic>.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Bad-Boy appeal</article-title>
+                           <source>Psychology &amp; Behavioral Health</source>
+                           <year>2015</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

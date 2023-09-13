@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file:////edc-filer1/busdev/PropPubProjects/Research Starters/Common Documents/CSS/CSS_Salem.css"?>
+<book xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      dtd-version="2.3"
+      xml:lang="EN">
+   <book-series-meta>
+      <book-id pub-id-type="publisher-id">sp_ency_sci</book-id>
+   </book-series-meta>
+   <book-meta>
+      <book-id pub-id-type="publisher-id">rssalemscience</book-id>
+      <book-id pub-id-type="eis-mid">GY4R</book-id>
+      <book-title-group>
+         <book-title>Salem Press Encyclopedia of Science</book-title>
+         <alt-title alt-title-type="mid">GY4R</alt-title>
+      </book-title-group>
+      <publisher>
+         <publisher-name>Salem Press</publisher-name>
+      </publisher>
+      <pub-date pub-type="reviewed">
+         <day>1</day>
+         <month>January</month>
+         <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="original">
+         <day>31</day>
+         <month>December</month>
+         <year>2017</year>
+      </pub-date>
+   </book-meta>
+   <body>
+      <book-part xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                 book-part-type="chapter"
+                 id="rssalemscience.10.3331.285359"
+                 indexed="true"
+                 xml:lang="EN"
+                 xlink:type="simple">
+         <book-part-meta>
+            <book-part-id pub-id-type="publisher-id">solar_sp_ency_sci_285359</book-part-id>
+            <book-part-categories>
+               <subj-group subj-group-type="articletype">
+                  <subject>Science</subject>
+               </subj-group>
+               <subj-group subj-group-type="subjectscience">
+                  <subject>Astronomy</subject>
+                  <subj-group>
+                     <subject>Astronomy</subject>
+                     <subject>Planets</subject>
+                  </subj-group>
+               </subj-group>
+               <subj-group subj-group-type="subjectscience">
+                  <subject>Biology, Life Sciences, Ecosystems</subject>
+                  <subj-group>
+                     <subject>Biology, Life Sciences, Ecosystems</subject>
+                     <subject>Planets</subject>
+                  </subj-group>
+               </subj-group>
+            </book-part-categories>
+            <title-group>
+               <title>Habitable Zones</title>
+            </title-group>
+            <contrib-group>
+               <contrib xmlns:xlink="http://www.w3.org/1999/xlink"
+                        contrib-type="author"
+                        xlink:type="simple">
+                  <name name-style="western">
+                     <given-names>John A.</given-names>
+                     <x xml:space="preserve"> </x>
+                     <surname>Cramer</surname>
+                  </name>
+               </contrib>
+            </contrib-group>
+            <abstract abstract-type="placard">
+               <p>The habitable zone is a popular concept describing the range within a star's orbit in which a planet can support liquid water on its surface, and therefore have a chance of supporting Earth-like life. It is also known as the circumstellar habitable zone (CHZ) or the Goldilocks zone (after the fairy tale in which a girl chooses things that are "just right" rather than those on either extreme). Since the concept emerged in the mid-twentieth century, it has proved useful in shaping astronomical observation and astrobiological speculation, and many planets within habitable zones have been identified.</p>
+            </abstract>
+            <abstract abstract-type="short">
+               <p>Habitable zones are the places beyond Earth where there is the best chance of finding life. As such, they are a major focus of scientific consideration and investigation that inspire exploratory efforts.</p>
+            </abstract>
+            <custom-meta-wrap>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>Derived from</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>mfs AN</meta-name>
+                  <meta-value/>
+               </custom-meta>
+               <custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+                  <meta-name>project id</meta-name>
+                  <meta-value>1184</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>doctype</meta-name>
+                  <meta-value>ENCYC</meta-value>
+               </custom-meta>
+               <custom-meta>
+                  <meta-name>arttype</meta-name>
+                  <meta-value>Article</meta-value>
+               </custom-meta>
+            </custom-meta-wrap>
+         </book-part-meta>
+         <book-front>
+            
+            <sec sec-type="quickreference" indexed="true">
+               <title/>
+               <p>
+                     <italic>Habitable zones are the areas around stars in which planets have the potential for liquid surface water, and so may support <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="88314226"
+                                      xlink:type="simple">extraterrestrial life</related-article>. As such, they are a major focus of scientific consideration and investigation that inspire exploratory efforts. However, developments in planetary science and biology have expanded scientists' notions of where life could exist beyond the standard definition of the habitable zone.</italic>
+                  </p>
+            </sec>
+         </book-front>
+         <body>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Overview</title>
+               <p>The habitable zone is a popular concept describing the range within a star's orbit in which a planet can support liquid water on its surface, and therefore have a chance of supporting Earth-like life. It is also known as the circumstellar habitable zone (CHZ) or the Goldilocks zone (after the fairy tale in which a girl chooses things that are "just right" rather than those on either extreme). Since the concept emerged in the mid-twentieth century, it has proved useful in shaping astronomical observation and astrobiological speculation, and many planets within habitable zones have been identified.</p>
+               <p>However, in the twenty-first century scientists confirmed that liquid water can be present on planets and moons well outside the habitable zone, thanks to alternate energy sources such as radiation or tidal heating. Together with increasing knowledge of the capabilities of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87323104"
+                                   xlink:type="simple">extremophile</related-article> life on Earth and speculation of wholly different extraterrestrial biochemistries not dependent on water, these findings have caused many researchers to move away from viewing traditional habitable zones as the most likely places to find life. Still, even the most conservative definition of a habitable zone remains relevant in the search for specifically Earth-like planets. The concept has also been extended to different scales, such as the galactic habitable zone, or region of the galaxy most favorable to life.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Conditions for Liquid Surface Water</title>
+               <p>At root, the idea of a habitable zone around a star is simple. A planet must not be too close to a star to be too hot for life. On the other hand, it must not be too far from the star to be too cold for life. The spherical region around a star where a planet will be "just right" for life is the habitable zone of that star. The prime conditions for life have traditionally been based on conditions on <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94895800"
+                                   xlink:type="simple">Earth</related-article>, with the most important being the presence of liquid water at the planetary surface.<fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Planetary habitable zones of the solar system and the Kepler 22 system compared.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="solar-sp-ency-sci-285359-163976.jpg"/>
+                     <permissions>
+                        <copyright-statement>By NASA/Ames/JPL-Caltech, Public domain, via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+                  <fig fig-type="elec_use" position="margin">
+                     <caption>
+                        <p>Planetary habitable zones of the solar system and the Gliese 581 system compared.</p>
+                     </caption>
+                     <ext-link xmlns:xlink="http://www.w3.org/1999/xlink"
+                               ext-link-type="db-image"
+                               xlink:href="solar-sp-ency-sci-285359-163977.jpg"/>
+                     <permissions>
+                        <copyright-statement>By Henrykus, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0), via Wikimedia Commons</copyright-statement>
+                     </permissions>
+                  </fig>
+               </p>
+               <p>It is not a simple matter to calculate the range around a given star in which liquid water can exist. However, using Earth and the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="94895806"
+                                   xlink:type="simple">Sun</related-article> as the basic measure and noting that energy concentration of light from a star decreases as the square of the distance, scientists can predict the rough average radius of the habitable zone around a star. The result is simply the square root of the ratio of the stellar brightness to that of the Sun. The radius will then be expressed in astronomic units (AU), where 1 AU is the average distance of Earth from the Sun. The brightness of the star must be rated at a standard distance, known as its bolometric luminosity.</p>
+               <p>To complicate matters, a planet might not stay in the habitable zone. According to conservative measures of the possibility of extraterrestrial life, a habitable planet should have an orbit that remains in the habitable zone for billions of years, allowing life to evolve. Only planets with relatively circular orbits can do that. Also, the habitable zone moves away from a star as that <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88314324"
+                                   xlink:type="simple">star ages</related-article> and grows hotter. Stars are not all the same. Some burn their fuel quickly and do not last for billions of years. The habitable zone of a bright, hot star will not be the same as that of a dim, cool one. Thus, the habitable zone is determined by the star, the planet, and the life-form under consideration.</p>
+               <p>The type of life involved is, of course, a critical consideration. Habitable zones cannot be discussed without first establishing expectations of life around a star. Three very basic requirements for life can be identified. First, living things have bodies. Second, a life-form uses a flow of nutrients and energy to sustain its body and bodily processes. Third, life reproduces itself. Reproduction requires bodies (and, most likely, molecules) able to retain the complex and detailed information required for constructing more living forms. Life may be more than this, but by most definitions can never be less.</p>
+               <p>With these criteria in place, it has traditionally been assumed that life in a habitable zone will be water- and carbon-chemistry-based. The habitable zone, then, can be calculated based on the requirement that a planet in the zone will be able to hold water in liquid form long-term. The actual calculation is complicated by many factors; chief among them is the fact that water vapor is a major greenhouse gas. Hence, one cannot simply find the incident energy from the star at various distances because the presence of water retains the heat supplied by the star and thereby expands the habitable zone. An early and commonly cited estimate by Michael Hart had the habitable zone of our Sun between 99 and 105 percent of the Earth’s current distance. This was likely too conservative; later estimates range from 38 percent on the inner edge to 200 percent or more on the outer edge, with most falling somewhere near a 90 to 150 percent span.</p>
+               <p>The habitable zone is unique to the star and is determined by the stellar mass and, to a lesser extent, the age of the star. In terms of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89145456"
+                                   xlink:type="simple">spectral classes</related-article>, stars such as Earth’s Sun (in class G) and some K- and F-class stars can have habitable zones. The range also corresponds to the stellar surface temperature range of a bit less than 4,500 kelvins (K) to a bit above 7,000 kelvins. Our Sun, at 5,777 kelvins, is in the middle of this range. According to some theories, stars with a mass 20 percent or more greater than that of the Sun (that is, 1.2 M<sup>S</sup>) will not have habitable zones, because they emit deadly amounts of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475885"
+                                   xlink:type="simple">ultraviolet radiation (UV)</related-article> along with their visible and infrared radiation (IR). UV destroys water molecules and, at high intensity, will eventually strip a planet of the water critical for life. About 1 percent of stars are so large that they consume their fuel and die long before life can form. Indeed, all stars larger than 1.5 M<sup>S</sup> would turn into red giant stars and swallow up any life-bearing planets around them before intelligent life could appear. Stars with more than ten times the mass of our Sun are so intensely bright that planets cannot form around them, because light creates pressure on anything it strikes. This radiation pressure is usually too small to matter, but for these very large stars it is great enough that all the material around the star that might eventually form planets is pushed away from the star and is disbursed too quickly for planets to form.</p>
+               <p>On the other hand, it has been proposed that stars with less than about 0.80 M<sup>S</sup> do not produce enough high-energy UV light to support life on any planet; their UV output is insufficient for important atmospheric effects such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89475794"
+                                   xlink:type="simple">ozone</related-article> creation. (However, the Sun itself is believed to have been significantly less intense during the early part of the Earth's existence; this "faint young Sun" paradox has been the subject of considerable debate). Any planet close enough to a star of less than about 0.65 M<sup>S</sup> to receive sufficient heat will be so gripped by the stellar gravity that it will show the star one face, as the Moon does our Earth. If this is not the case, an effect called spin-orbit coupling will almost certainly force the rotation rate of the planet to be almost as slow as the planetary year, thus frying the planet on one slowly changing side while freezing it on the other. Mercury is such a case. It revolves around the Sun in 88 days but rotates once every 58.7 days, exactly two-thirds of the orbital period. Both these effects are due to the fact that no planet is perfectly spherical. In either case, the planetary face toward the star will be too hot for water, the side away from the star too cold.</p>
+               <p>Another factor in habitability is variability of stellar output. The Sun has an eleven-year <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89317235"
+                                   xlink:type="simple">sunspot</related-article> intensity cycle that causes a variation in solar luminosity of about 0.1 percent. However, 18 Scorpii, an almost identical star in the constellation Scorpius with a mass of 1.03 M<sup>S</sup> and a temperature of 5,789 K, has a much greater variability over a 9 to perhaps 13 year cycle. If great enough, this would make its habitable zone move in and out rapidly thereby negating its benefits for any planet in a basically fixed orbit.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Knowledge Gained</title>
+               <p>The idea of a circumstellar habitable zone has stimulated wide-ranging research resulting in a significant extension of our knowledge of planetary systems generally, as well as of our own <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="98402406"
+                                   xlink:type="simple">solar system</related-article> in particular. A circumstellar habitable zone imposes quite severe limitations on where best to look for life in the universe. One either accepts the limitations, at least tentatively, and looks for suitable planets around only suitable stars, or one must in some way challenge the limitations.</p>
+               <p>Tentative acceptance of the limitations pushed astronomy in the direction of what has become a successful search for <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87998849"
+                                   xlink:type="simple">exoplanets</related-article>, planets orbiting stars other than the Sun. The list is large and growing. The primary technique used in this search detects stellar motion due to the stellar reaction to the orbital motion of the planet. Since large planets create more stellar reaction that is more easily detected, this technique is biased toward discovering large planets. It is no surprise then that many of the earliest discovered exoplanets are large gas giants. It was considered surprising that they tended to be relatively close to their stars and, hence, are sometimes called "hot Jupiters." However, improved detecting capabilities and modeling techniques throughout the first decades of the twenty-first century led to the detection of rockier, more Earth-like exoplanets, some of which were estimated to be in habitable zones. For example, data from the <italic>
+                     <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                      related-article-type="rs"
+                                      xlink:href="89402462"
+                                      xlink:type="simple">Kepler</related-article>
+                  </italic> spacecraft reported in 2013 suggested there could be 40 billion planets similar in size to Earth located in habitable zones throughout the Milky Way galaxy. The first such example was confirmed in 2014 with the discovery of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="113931295"
+                                   xlink:type="simple">Kepler-186f</related-article>, and the first Earth-like planet orbiting a Sun-like star was Kepler-452b, announced in 2015.</p>
+               <p>Challenges to the idea of the circumstellar habitable zone have either been attempts to show there are niches of habitability outside the habitable zone or efforts to extend the habitable zone in size or to more types of stars, especially to red dwarfs. The latter direction has shown promise with the discovery of planets around the red dwarf Gliese 581. One of them, Gliese 581 c, was said to be the smallest planet in the habitable zone of another star upon its discovery. That, of course, assumes that a red dwarf has a habitable zone.</p>
+               <p>The possibility of life being supported outside of the habitable zone grew in popularity thanks to scientific advancements in the early twenty-first century. Most importantly, it was established that liquid water can exist on planets and moons outside of the habitable zone of stars, a discovery that radically expanded the potential for the development of life throughout the galaxy. Additionally, the study of extremophiles—life-forms that live in extreme conditions on Earth, including those that do not rely on solar energy—expanded scientists' conceptions of what forms extraterrestrial life could take. For example, the fact that anaerobic organisms deep below the Earth's surface opened up the possibility that celestial bodies such as <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88314224"
+                                   xlink:type="simple">Europa</related-article>, a moon of Jupiter that has oceans of liquid water beneath its surface, could host similar life.</p>
+               <p>Looking for niches of habitability in our solar system offers the possibility of confirmation by direct examination in the not too distant future and is accordingly popular. But tidal heating, radioactive decay, and other sources have been identified as potential sources of liquifying water outside of the solar system as well. Furthermore, scientists increasingly acknowledge that life may be possible in forms wholly different from any known on Earth, based on radically different biochemistries that may not even be carbon-based. In such a situation liquid water may not be necessary for life, thereby negating the importance of the habitable zone and habitable niches altogether.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Context</title>
+               <p>The dream of extraterrestrial life on other worlds has been the currency of cosmological speculation at least since the ancient Greek atomists. Men on the Moon were described by the ancient Pythagoreans and in the seventeenth century by <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="88070233"
+                                   xlink:type="simple">Johannes Kepler</related-article>, and even the eighteenth century philosopher Immanuel Kant gave opinions on the inhabitants of Mars, Venus, and Jupiter. Modern science has tried to inform and thereby reduce this speculation. The concept of a habitable zone is a product of this effort, imposing strict limitations based on knowledge of life on Earth in order to narrow the search field. While the concept has been seriously challenged, it remains relevant; habitable zones may still offer the best chance of discovering life that is recognizable, and perhaps even intelligent, according to human standards. They also could eventually prove valuable to human <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="119214380"
+                                   xlink:type="simple">space colonization</related-article>.</p>
+               <p>Enthusiasm for finding life elsewhere in the universe is by no means dead. The high profile of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="89103120"
+                                   xlink:type="simple">Search for Extraterrestrial Intelligence (SETI)</related-article> and the advent of the academic discipline of <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87322047"
+                                   xlink:type="simple">astrobiology</related-article> are proof of that. Both of these developments are inextricably connected with the concept of habitable zones and are all but inconceivable without it. The prospect of habitable zones has also stimulated thinking and research in other areas. One such development is the idea of a galactic habitable zone.</p>
+               <p>The concept of habitable zones also connects to larger cosmological issues, such as questions of the "fine tuning" of the universe that makes life possible somewhere in the universe and the related issue of the <related-article xmlns:xlink="http://www.w3.org/1999/xlink"
+                                   related-article-type="rs"
+                                   xlink:href="87998782"
+                                   xlink:type="simple">anthropic principle</related-article>, the notion that the universe must contain conditions that allow for the existence of an observing intelligent life-form.</p>
+            </sec>
+            <sec sec-type="bodytext" indexed="true">
+               <title>Bibliography</title>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Aczel, Amir D. <italic>Probability 1</italic>. New York: Harcourt Brace &amp; Company, 1998. Aczel argues that the large number of stars outweighs the limitations of habitable zones to the point where intelligent life must occur throughout the universe.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Cohen, Jack, and Ian Stewart. <italic>Evolving the Alien: The Science of Extraterrestrial Life</italic>. London: Ebury Press, 2002. Cohen and Stewart dispute that alien life will be similar enough to terrestrial forms to frame a meaningful idea of a habitable zone. They also argue the case for various niches of habitability.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Cramer, John A. <italic>How Alien Would Aliens Be?</italic> Lincoln, Nebr.: Writers Club Press, 2001. The first half of the book shows how physical constraints limit where intelligent life might be found in the universe. Hence, it surveys many of the limitations that lead to the idea of a habitable zone and the possibility of habitable niches.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Dole, Stephen H. <italic>Habitable Planets for Man</italic>. 2d ed. New York: Elsevier, 1970. Something of a classic on habitable planets, this is one of the earliest discussions of habitable places for human colonization. It gives a good if somewhat dated account of what makes a place habitable for intelligent life, a more restrictive notion than a habitable zone for any life.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Gonzalez, Guillermo, and Jay W. Richards. <italic>The Privileged Planet: How Our Place in the Cosmos Is Designed for Discovery</italic>. Washington, D.C.: Regnery, 2004. Gonzalez and Richards consider the idea that planetary habitability may be connected with the planet’s suitability as a platform for observing the universe.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Greicius, Tony, editor. "In the Zone: How Scientists Search for Habitable Planets." <italic>NASA</italic>, 4 Aug. 2017, www.nasa.gov/mission_pages/kepler/news/kepler20130717.html. Accessed 24 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Grinspoon, David. <italic>Lonely Planets: The Natural Philosophy of Alien Life</italic>. New York: HarperCollins, 2004. This is a wide-ranging and readable book covering habitable zones and many related topics.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="website"
+                               xlink:type="simple">Smith, K. N. "Rethinking the Habitable Zone." <italic>Astronomy Magazine</italic>, 28 Mar. 2017, www.astronomy.com/news/2017/03/rethinking-the-habitable-zone. Accessed 24 Oct. 2017.</citation>
+                  </ref>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="booksimple"
+                               xlink:type="simple">Ward, Peter, and Donald Brownlee. <italic>Rare Earth: Why Complex Life Is Uncommon in the Universe</italic>. New York: Springer, 2000. Ward and Brownlee make the case that the limitations on habitable zones are severe to the point of making planets like Earth quite rare.</citation>
+                  </ref>
+               </ref-list>
+            </sec>
+            
+            <sec sec-type="rs_citation" indexed="true">
+               <title/>
+               <ref-list>
+                  <ref>
+                     <citation xmlns:xlink="http://www.w3.org/1999/xlink"
+                               citation-type="original"
+                               xlink:type="simple">
+                           <article-title>Habitable Zones</article-title>
+                           <italic>The Solar System</italic>
+                           <year>2009</year>
+                           <publisher-name>Salem Press</publisher-name>
+                        </citation>
+                  </ref>
+               </ref-list>
+            </sec>
+         </body>
+      </book-part>
+   </body>
+</book>

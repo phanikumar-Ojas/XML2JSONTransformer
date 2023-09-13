@@ -1,0 +1,28 @@
+{
+	"entry": {
+		"title": "Aminoglycosides (drug interactions)",
+		"tags": [
+			"Prevention & Lifestyle",
+			"Specialties & Health Care Providers",
+			"Treatment & Therapy",
+			"aminoglycoside drugs",
+			"vitamin B",
+			"kidneys"
+		],
+		"category": [
+			"Prevention & Lifestyle",
+			"Specialties & Health Care Providers"
+		],
+		"definitions": {
+			"children": [
+				{
+					"text": "Antibiotics given intravenously to treat certain infections."
+				}
+			],
+			"type": "doc",
+			"uid": "a12b7be0-4c3c-48fc-a597-245ed0f28d8d"
+		},
+		"anatomy_or_systems_affected": null,
+		"also_known_as": null
+	}
+}

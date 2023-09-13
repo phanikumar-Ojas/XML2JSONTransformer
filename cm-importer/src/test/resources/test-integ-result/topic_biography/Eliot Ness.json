@@ -1,0 +1,86 @@
+{
+	"entry": {
+		"title": "Eliot Ness",
+		"tags": [
+			"Biography",
+			"American History",
+			"Crime, Criminals",
+			"Government, Politics",
+			"Law, Legal History, Courts",
+			"North America",
+			"Illinois",
+			"Chicago",
+			"Prohibition",
+			"criminology",
+			"Al Capone",
+			"bootlegging",
+			"Cleveland Torso Murders",
+			"[p]Capone, Al",
+			"Ness, Eliot",
+			"Alcohol"
+		],
+		"category": [
+			"Crime, Criminals",
+			"Government, Politics",
+			"Law, Legal History, Courts"
+		],
+		"gender": null,
+		"race": null,
+		"nationality": null,
+		"movement": null,
+		"biography_type": "Article is on a Single Person",
+		"multiple_biography_topics": null,
+		"first_name": "Ness",
+		"middle_name": null,
+		"last_name": null,
+		"secondary_category": [
+			"Kidnapping, Hostages, Prisoners",
+			"Murder, Homicide, Execution, Assassination",
+			"Organizations, Agencies, Institutions",
+			"Robbery, Theft, Thieves",
+			"Scandals",
+			"Violence",
+			"Corruption, Fraud"
+		],
+		"curriculum_american_history": [
+			"US History 1901-1950"
+		],
+		"curriculum_ancient_history": null,
+		"curriculum_western_civilization_european_history": null,
+		"curriculum_women_s_history": null,
+		"curriculum_world_history": null,
+		"also_known_as": null,
+		"geographical_category": [
+			"North America"
+		],
+		"sub_geographical_category": [
+			"United States"
+		],
+		"geo_keyword": [
+			"Illinois",
+			"Chicago"
+		],
+		"birth_day": 19,
+		"birth_month": "April",
+		"birth_year": 1903,
+		"non_numeric_birth_date": "April 19, 1903",
+		"place_of_birth": "Chicago, Illinois",
+		"death_day": 16,
+		"death_month": "May",
+		"death_year": 1957,
+		"non_numeric_death_date": "May 16, 1957",
+		"place_of_death": "Coudersport, Pennsylvania",
+		"main_occupation_or_related_field": null,
+		"other_occupation_related_fields": null,
+		"associated_figures": null,
+		"referenced_associated_figures": null,
+		"key_events": null,
+		"referenced_key_events": null,
+		"principal_works": null,
+		"referenced_works": null,
+		"awards": null,
+		"bio_reference_id": [
+			"3564682-Eliot Ness"
+		]
+	}
+}
